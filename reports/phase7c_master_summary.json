@@ -1,0 +1,110 @@
+{
+    "phase": "7C",
+    "project_name": "QYRO Acne v1",
+    "hardware_profile": {
+        "device": "ASUS TUF F16 Laptop",
+        "gpu_model": "NVIDIA GeForce RTX 5050 Laptop GPU",
+        "vram_allocated_gb": 7.96,
+        "cuda_version": "13.0"
+    },
+    "models": {
+        "model_1_detection": {
+            "backbone": "YOLOv8n",
+            "best_epoch": 50,
+            "effective_epochs_run": 75,
+            "training_duration_seconds": 544.56,
+            "metrics": {
+                "mAP50": 0.63537,
+                "mAP50_95": 0.28806,
+                "precision": 0.63880,
+                "recall": 0.62247,
+                "val_box_loss": 1.79697,
+                "val_cls_loss": 1.38345
+            },
+            "targets": {
+                "mAP50_target": 0.68000,
+                "precision_target": 0.70000,
+                "recall_target": 0.65000
+            },
+            "target_status": {
+                "mAP50_target_reached": false,
+                "precision_target_reached": false,
+                "recall_target_reached": false
+            },
+            "status": "converged",
+            "recommendation": "Scale backbone to YOLOv8s (small) in Phase 7D optimization to increase capacity for small clustered lesions."
+        },
+        "model_2_subtype_classification": {
+            "backbone": "EfficientNet-B0",
+            "best_epoch": 37,
+            "epochs_run": 45,
+            "training_duration_seconds": 1032.0,
+            "metrics_9_class": {
+                "accuracy": 0.88838,
+                "macro_f1": 0.70959,
+                "precision": 0.71370,
+                "recall": 0.70720
+            },
+            "metrics_7_class_active": {
+                "accuracy": 0.88838,
+                "macro_f1": 0.91229,
+                "precision": 0.91710,
+                "recall": 0.90930
+            },
+            "targets": {
+                "macro_f1_target": 0.70000,
+                "accuracy_target": 0.75000
+            },
+            "target_status": {
+                "macro_f1_reached": true,
+                "accuracy_reached": true
+            },
+            "status": "early_stopped",
+            "recommendation": "Accept baseline. In Phase 7D, tune augmentations (dropout, color jitter) and re-balance splits to resolve representation gaps for mixed and mechanica."
+        },
+        "model_3_severity_grading": {
+            "backbone": "EfficientNet-B0 Ordinal Regression",
+            "best_epoch": 23,
+            "epochs_run": 31,
+            "training_duration_seconds": 285.0,
+            "metrics_best_loss": {
+                "accuracy": 0.64912,
+                "macro_f1": 0.59310,
+                "qwk": 0.71600,
+                "mae": 0.35965
+            },
+            "metrics_peak": {
+                "accuracy": 0.65789,
+                "macro_f1": 0.63730,
+                "qwk": 0.73520,
+                "mae": 0.34211
+            },
+            "targets": {
+                "macro_f1_target": 0.72000,
+                "qwk_target": 0.75000,
+                "mae_target": 0.35000
+            },
+            "target_status": {
+                "macro_f1_reached": false,
+                "qwk_reached": false,
+                "mae_reached": false
+            },
+            "clinical_error_breakdown": {
+                "total_errors": 40,
+                "adjacent_stage_errors_exactly_1_off": 39,
+                "severe_stage_errors_ge_2_off": 1,
+                "severe_error_percentage": 0.88
+            },
+            "status": "early_stopped",
+            "recommendation": "Accept baseline based on strong clinical adjacent error safety (97.5% adjacent). In Phase 7D, tune hyper-parameters and test EfficientNet-B1/B2 backbones."
+        }
+    },
+    "readiness_assessment": {
+        "strongest_model": "model_2_subtype_classification",
+        "bottleneck_model": "model_1_detection",
+        "dataset_improvement_estimated_gains": {
+            "validation_rebalancing_macro_f1_pct": "5-10%",
+            "lesion_density_annotation_mAP50_pct": "3-5%"
+        }
+    }
+}

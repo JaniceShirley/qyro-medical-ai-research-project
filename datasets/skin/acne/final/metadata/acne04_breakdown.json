@@ -1,0 +1,30 @@
+{
+    "dataset_name": "acne04",
+    "image_count": 752,
+    "split_distribution": {
+        "train": 524,
+        "valid": 114,
+        "test": 114
+    },
+    "clinical_quality_distribution": {
+        "sharp": 496,
+        "usable": 123,
+        "borderline": 120,
+        "poor": 13
+    },
+    "subtype_distribution": {
+        "mixed": 752
+    },
+    "severity_distribution": {
+        "stage_2": 340,
+        "stage_1": 271,
+        "stage_3": 89,
+        "stage_4": 52
+    },
+    "missing_metadata": {
+        "unknown_subtype": 0,
+        "unknown_severity": 0,
+        "unknown_skin_tone": 752,
+        "unknown_body_region": 752
+    }
+}

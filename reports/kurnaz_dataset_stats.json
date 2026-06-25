@@ -1,0 +1,53 @@
+{
+    "dataset_structure": {
+        "data_yaml_exists": true,
+        "missing_folders": [],
+        "total_images": 927,
+        "total_labels": 927,
+        "split_distribution": {
+            "train": 823,
+            "valid": 56,
+            "test": 48
+        },
+        "corrupted_images_count": 0,
+        "missing_labels_count": 0,
+        "orphan_labels_count": 0
+    },
+    "image_statistics": {
+        "resolutions": {
+            "640x640": 927
+        },
+        "formats": {
+            "JPEG": 927
+        },
+        "aspect_ratios": {
+            "1.0": 927
+        },
+        "blurry_images_count": 401,
+        "sharp_images_count": 526
+    },
+    "class_audit": {
+        "total_classes": 1,
+        "class_counts": {
+            "0": 11807
+        },
+        "total_bboxes": 11807,
+        "invalid_bboxes_count": 0,
+        "tiny_bboxes_count": 1,
+        "oversized_bboxes_count": 0
+    },
+    "duplicates": {
+        "exact_duplicate_count": 10,
+        "perceptual_duplicate_count": 176,
+        "near_duplicate_count": 294,
+        "estimated_unique_images": 633
+    },
+    "split_leakage": {
+        "total_leakage_pairs": 56,
+        "leakage_by_splits": {
+            "test_to_train": 35,
+            "train_to_valid": 19,
+            "test_to_valid": 2
+        }
+    }
+}

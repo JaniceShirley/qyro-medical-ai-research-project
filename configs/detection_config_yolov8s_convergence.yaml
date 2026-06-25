@@ -1,0 +1,46 @@
+# QYRO YOLOv8s Detection Configuration (Phase 7D.3 Convergence Recovery)
+model_params:
+  model_type: "yolov8s.pt"
+  data_yaml: "datasets/skin/acne/final/detection/data.yaml"
+  epochs: 100               # Scaled up for convergence recovery
+  patience: 30              # Increased patience to prevent premature stopping
+  batch: 16                 # Verified RTX 5050 8GB batch profile
+  imgsz: 640
+  save: true
+  cache: "disk"             # SSD disk caching strategy
+  device: 0
+  workers: 0                # Windows compatibility
+  seed: 42
+  deterministic: true
+
+optimizer_params:
+  optimizer: "AdamW"
+  lr0: 0.002                # Calibrated lower learning rate for stable gradient steps
+  lrf: 0.01                 # Final learning rate fraction (lr0 * lrf)
+  cos_lr: true              # Cosine scheduler enabled
+  momentum: 0.937
+  weight_decay: 0.0005
+  warmup_epochs: 3.0
+  warmup_momentum: 0.8
+  warmup_bias_lr: 0.1
+
+augmentation_params:
+  hsv_h: 0.015              # Unchanged augmentations
+  hsv_s: 0.7
+  hsv_v: 0.4
+  degrees: 0.0
+  translate: 0.1
+  scale: 0.5
+  shear: 0.0
+  perspective: 0.0
+  flipud: 0.0
+  fliplr: 0.5
+  mosaic: 1.0
+  mixup: 0.0
+  copy_paste: 0.0
+
+logging_params:
+  project: "experiments/detection"
+  name: "yolov8s_qyro_acne_v1_convergence"
+  save_period: -1
+  plots: true

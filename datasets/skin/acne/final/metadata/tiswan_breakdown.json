@@ -1,0 +1,31 @@
+{
+    "dataset_name": "tiswan",
+    "image_count": 2632,
+    "split_distribution": {
+        "train": 1840,
+        "test": 397,
+        "valid": 395
+    },
+    "clinical_quality_distribution": {
+        "usable": 1832,
+        "borderline": 656,
+        "sharp": 135,
+        "poor": 9
+    },
+    "subtype_distribution": {
+        "open_comedo": 685,
+        "cystic": 639,
+        "papular": 610,
+        "pustular": 564,
+        "closed_comedo": 134
+    },
+    "severity_distribution": {
+        "unknown": 2632
+    },
+    "missing_metadata": {
+        "unknown_subtype": 0,
+        "unknown_severity": 2632,
+        "unknown_skin_tone": 2632,
+        "unknown_body_region": 2632
+    }
+}

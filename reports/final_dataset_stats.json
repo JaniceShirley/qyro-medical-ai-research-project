@@ -1,0 +1,15 @@
+{
+    "final_dataset_total_images": 4428,
+    "detection_images": 520,
+    "subtype_classification_images": 2951,
+    "severity_images": 752,
+    "robustness_holdout_images": 205,
+    "copy_method_counts": {
+        "link": 4428,
+        "copy": 0
+    },
+    "split_contamination_leakage_pairs": 0,
+    "missing_files_count": 0,
+    "duplicate_image_ids_count": 0,
+    "hashed_files_count": 4959
+}

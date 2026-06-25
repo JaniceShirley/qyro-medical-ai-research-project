@@ -1,0 +1,42 @@
+{
+    "folder_counts": {
+        "acne0_1024": 483,
+        "acne1_1024": 623,
+        "acne2_1024": 175,
+        "acne3_1024": 96,
+        "acne3_512_selection": 16,
+        "all_1024": 1406,
+        "small_1024": 200,
+        "small_1024_renamed": 200
+    },
+    "master_all_1024": {
+        "total_images": 1406,
+        "severity_distribution": {
+            "Level 0": 491,
+            "Level 1": 623,
+            "Level 2": 177,
+            "Level 3": 115
+        },
+        "resolutions": {
+            "1024x1024": 1406
+        },
+        "formats": {
+            "JPEG": 1406
+        },
+        "aspect_ratios": {
+            "1.0": 1406
+        },
+        "quality_categories": {
+            "high_quality": 900,
+            "usable": 202,
+            "borderline": 152,
+            "reject_worthy": 152
+        },
+        "duplicates": {
+            "exact_duplicates": 36,
+            "perceptual_duplicates": 37,
+            "near_duplicates": 342,
+            "estimated_unique": 1064
+        }
+    }
+}

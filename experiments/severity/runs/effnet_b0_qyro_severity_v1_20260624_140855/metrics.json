@@ -1,0 +1,5 @@
+{
+    "status": "success",
+    "epochs_run": 50,
+    "best_val_loss": 0.36437825048178957
+}

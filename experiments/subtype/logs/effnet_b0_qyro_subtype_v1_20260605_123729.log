@@ -1,0 +1,13 @@
+[2026-06-05 12:37:29] Experiment Run Started: effnet_b0_qyro_subtype_v1_20260605_123729
+[2026-06-05 12:37:29] Git Hash: ab60fb0e5dd8d6292762c63dd9b4d7a80a7ad9aa | Dataset Hash: b98ee7d934ee9bd80beffea8c448e92165e3f48763ab4ac22ce6169b2f8c6559
+[2026-06-05 12:37:29] Training GPU: None (CPU Only) | VRAM: 0.0 GB
+[2026-06-05 12:37:29] Config Snapshot saved to experiments\subtype\runs\effnet_b0_qyro_subtype_v1_20260605_123729\config_snapshot.yaml
+[2026-06-05 12:37:29] Routing training execution to device: cpu
+[2026-06-05 12:37:29] Loaded manifest with 2951 entries.
+[2026-06-05 12:37:30] Computed class weights: [np.float64(0.4361904761904762), np.float64(1.9741379310344827), np.float64(0.5169300225733634), np.float64(0.5228310502283106), np.float64(0.441233140655106), np.float64(229.0), np.float64(32.714285714285715), np.float64(20.818181818181817), np.float64(229.0)]
+[2026-06-05 12:37:30] Attempting dataloader allocation with batch size: 32
+[2026-06-05 12:37:30] Downloading/Initializing timm model backbone: efficientnet_b0
+[2026-06-05 12:37:43] Phase 1: Training classification head only...
+[2026-06-05 12:38:51] Epoch 0 Metrics: train_loss: 3.0330, val_loss: 2.6113, val_accuracy: 0.2346, val_macro_f1: 0.1263
+[2026-06-05 12:38:51] Subtype Classification training pipeline runs successfully completed!
+[2026-06-05 12:38:51] Experiment completed. Final Metrics saved to experiments\subtype\runs\effnet_b0_qyro_subtype_v1_20260605_123729\metrics.json

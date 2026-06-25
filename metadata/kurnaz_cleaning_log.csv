@@ -1,0 +1,928 @@
+original_filename,status,reason,duplicate_cluster,blur_score,final_split
+acne-101_jpeg.rf.dd5c14cef0a2ba13b110f05a520f00c0.jpg,REMOVED,Perceptual duplicate of acne-101_jpeg.rf.af45ba09bf2981ed7cc4af94b54aae48.jpg,2,145.66,N/A
+acne-104_jpeg.rf.5b7dbce5a05426ce03d20ea30f8614ad.jpg,REMOVED,Perceptual duplicate of acne-104_jpeg.rf.049f40b91f49dd3554b929ab004aa10e.jpg,4,19.84,N/A
+acne-104_jpeg.rf.049f40b91f49dd3554b929ab004aa10e.jpg,REJECTED,Extremely blurry (variance 19.96 < 20),4,19.96,N/A
+acne-106_jpeg.rf.078f5194805c1882a8e63cea008410a7.jpg,REMOVED,Perceptual duplicate of acne-106_jpeg.rf.8ed823543e5ad3b616c3286f7bec0fb5.jpg,8,17.50,N/A
+acne-106_jpeg.rf.fe8d695cc950d5cfd33cd1d0aee4730e.jpg,REMOVED,Perceptual duplicate of acne-106_jpeg.rf.8ed823543e5ad3b616c3286f7bec0fb5.jpg,8,17.37,N/A
+acne-106_jpeg.rf.8ed823543e5ad3b616c3286f7bec0fb5.jpg,REJECTED,Extremely blurry (variance 17.51 < 20),8,17.51,N/A
+acne-107_jpeg.rf.fe9873a17fa31389536ca33faca813c4.jpg,REJECTED,Extremely blurry (variance 14.52 < 20),11,14.52,N/A
+acne-109_jpeg.rf.71c01ec227c54f3d2134264c523a5c38.jpg,REMOVED,Perceptual duplicate of acne-278_jpeg.rf.3e21ea9cfde6b63b9819b6ba5f5ff54f.jpg,329,76.80,N/A
+acne-278_jpeg.rf.5cd572723b9c01814a9f32f79bb16fde.jpg,REMOVED,Perceptual duplicate of acne-278_jpeg.rf.3e21ea9cfde6b63b9819b6ba5f5ff54f.jpg,329,76.76,N/A
+acne-109_jpeg.rf.09c25c7027db07e930a3501960cafbc4.jpg,REMOVED,Perceptual duplicate of acne-278_jpeg.rf.3e21ea9cfde6b63b9819b6ba5f5ff54f.jpg,329,74.24,N/A
+acne-278_jpeg.rf.4204e0cf965d42b30ed06382b7499776.jpg,REMOVED,Perceptual duplicate of acne-109_jpeg.rf.f1dfe70192f63b0f7f3c60c34f989502.jpg,328,328.02,N/A
+acne-10_jpeg.rf.a47703e8c466062380bdd7cda41fae2b.jpg,REMOVED,Perceptual duplicate of acne-10_jpeg.rf.f27748da2520545eba9ebcd7e0dc6482.jpg,17,33.73,N/A
+acne-110_jpeg.rf.ac46f2b20c3b01cd908ca6e33f7c8b0a.jpg,REMOVED,Perceptual duplicate of acne-110_jpeg.rf.b2e331d513bdc74cab2a514eb157444c.jpg,20,52.19,N/A
+acne-111_jpeg.rf.5898ddc66916835400974fe91faa2127.jpg,REMOVED,Perceptual duplicate of acne-111_jpeg.rf.d2f96fc4bb37d79f182ff62b6c21203f.jpg,23,25.17,N/A
+acne-114_jpeg.rf.faab857cd0fe501cd0ee008b2d5e5d8d.jpg,REMOVED,Perceptual duplicate of acne-114_jpeg.rf.05500969621c6ec1a2720c8113a7f730.jpg,26,20.26,N/A
+acne-117_jpeg.rf.5fca45225c32ea524aa8635eeaca17da.jpg,REMOVED,Perceptual duplicate of acne-307_jpeg.rf.94c2dc3718bb5ad2581945c0fffcaa57.jpg,407,6.91,N/A
+acne-117_jpeg.rf.86e15ada642e029c7a3adf6e3abd3165.jpg,REMOVED,Perceptual duplicate of acne-307_jpeg.rf.94c2dc3718bb5ad2581945c0fffcaa57.jpg,407,6.85,N/A
+acne-307_jpeg.rf.ff4ac1e7b5ce5f6e0352711dfa73d20e.jpg,REMOVED,Perceptual duplicate of acne-307_jpeg.rf.94c2dc3718bb5ad2581945c0fffcaa57.jpg,407,6.85,N/A
+acne-307_jpeg.rf.94c2dc3718bb5ad2581945c0fffcaa57.jpg,REJECTED,Extremely blurry (variance 6.94 < 20),407,6.94,N/A
+acne-117_jpeg.rf.fdd8632240a042f20703a454d7ca8c49.jpg,REMOVED,Perceptual duplicate of acne-307_jpeg.rf.5297a008770db29598632a05048eba2b.jpg,405,45.54,N/A
+acne-118_jpg.rf.a950e2e85bfac5233bc29a1409733d67.jpg,REMOVED,Perceptual duplicate of acne-118_jpg.rf.5ac494ffe6003d136d78802a2e018b93.jpg,32,400.11,N/A
+acne-122_jpg.rf.a860a2e44e12167136417be251d78f13.jpg,REMOVED,Perceptual duplicate of acne-122_jpg.rf.457449f3ea61b059c8755a833cba36e4.jpg,38,304.76,N/A
+acne-129_jpg.rf.d6c0893bc17939313d41a77c07d116dd.jpg,REMOVED,Perceptual duplicate of acne-225_jpg.rf.33624bbd3381958397789ce04775a4e7.jpg,843,588.07,N/A
+acne-129_jpg.rf.85ebf681f94e9d884aa5fffd377c2546.jpg,REMOVED,Perceptual duplicate of acne-225_jpg.rf.33624bbd3381958397789ce04775a4e7.jpg,843,586.80,N/A
+acne-167_jpg.rf.ca7f225b1a40cb053f3f590585061393.jpg,REMOVED,Perceptual duplicate of acne-225_jpg.rf.33624bbd3381958397789ce04775a4e7.jpg,843,552.57,N/A
+acne-229_jpg.rf.63c186939cc5628efd5febb1b7441b87.jpg,REMOVED,Perceptual duplicate of acne-225_jpg.rf.33624bbd3381958397789ce04775a4e7.jpg,843,534.61,N/A
+acne-127_jpg.rf.6626a950f608a09a2ffcb87fd5922402.jpg,REMOVED,Perceptual duplicate of acne-225_jpg.rf.33624bbd3381958397789ce04775a4e7.jpg,843,526.00,N/A
+acne-127_jpg.rf.d3d5ce301ca715b9f7d0987c5493a249.jpg,REMOVED,Perceptual duplicate of acne-225_jpg.rf.33624bbd3381958397789ce04775a4e7.jpg,843,525.59,N/A
+acne-124_jpg.rf.bbcd091cc245577f49f472276987041e.jpg,REMOVED,Perceptual duplicate of acne-225_jpg.rf.33624bbd3381958397789ce04775a4e7.jpg,843,453.01,N/A
+acne-124_jpg.rf.73ff92c9fdf0de6950c164b655222df2.jpg,REMOVED,Perceptual duplicate of acne-225_jpg.rf.33624bbd3381958397789ce04775a4e7.jpg,843,452.76,N/A
+acne-124_jpg.rf.a52e9bb1cd7855d1372d7dd0813be8e1.jpg,REMOVED,Perceptual duplicate of acne-225_jpg.rf.33624bbd3381958397789ce04775a4e7.jpg,843,452.70,N/A
+acne-144_jpg.rf.e7404e17167235e55bc46e5c3914e22f.jpg,REMOVED,Perceptual duplicate of acne-225_jpg.rf.33624bbd3381958397789ce04775a4e7.jpg,843,430.84,N/A
+acne-126_jpg.rf.fbdc0b939629752826f95b54f75a9eb0.jpg,REMOVED,Perceptual duplicate of acne-225_jpg.rf.33624bbd3381958397789ce04775a4e7.jpg,843,316.79,N/A
+acne-184_jpg.rf.68a55036b87dab28bd5152fa3b0be4df.jpg,REMOVED,Perceptual duplicate of acne-225_jpg.rf.33624bbd3381958397789ce04775a4e7.jpg,843,279.41,N/A
+acne-184_jpg.rf.318f8f393e5e2ddd0b1f78531673ebd0.jpg,REMOVED,Perceptual duplicate of acne-225_jpg.rf.33624bbd3381958397789ce04775a4e7.jpg,843,279.20,N/A
+acne-198_jpg.rf.f46e69016e534491f9bd6a17cc24c414.jpg,REMOVED,Perceptual duplicate of acne-225_jpg.rf.33624bbd3381958397789ce04775a4e7.jpg,843,276.57,N/A
+acne-198_jpg.rf.0b2c649818aaa8e3b87b57cb86df5eef.jpg,REMOVED,Perceptual duplicate of acne-225_jpg.rf.33624bbd3381958397789ce04775a4e7.jpg,843,276.15,N/A
+acne-226_jpg.rf.1e31fc7ac858cc36c9bf58575d0c5ca1.jpg,REMOVED,Perceptual duplicate of acne-225_jpg.rf.33624bbd3381958397789ce04775a4e7.jpg,843,270.30,N/A
+acne-226_jpg.rf.266f732d5c4135545428b64a2e308ae5.jpg,REMOVED,Perceptual duplicate of acne-225_jpg.rf.33624bbd3381958397789ce04775a4e7.jpg,843,269.59,N/A
+acne-128_jpg.rf.e3826584d02398d0f1d915cf3365a959.jpg,REMOVED,Perceptual duplicate of acne-225_jpg.rf.33624bbd3381958397789ce04775a4e7.jpg,843,253.82,N/A
+acne-132_jpg.rf.fd88a44d5548b168dd391f49079d5c81.jpg,REMOVED,Perceptual duplicate of acne-225_jpg.rf.33624bbd3381958397789ce04775a4e7.jpg,843,239.08,N/A
+acne-132_jpg.rf.c9f114843c7af28e5632ae8fe25baf67.jpg,REMOVED,Perceptual duplicate of acne-225_jpg.rf.33624bbd3381958397789ce04775a4e7.jpg,843,238.92,N/A
+acne-215_jpg.rf.a49ced323a6e167f764e2e2766026041.jpg,REMOVED,Perceptual duplicate of acne-225_jpg.rf.33624bbd3381958397789ce04775a4e7.jpg,843,231.36,N/A
+acne-217_jpg.rf.50e3f9c13b5969348eeef19d2c81e0ba.jpg,REMOVED,Perceptual duplicate of acne-225_jpg.rf.33624bbd3381958397789ce04775a4e7.jpg,843,204.79,N/A
+acne-231_jpg.rf.f9b0b42590fb64c5665447317c06c997.jpg,REMOVED,Perceptual duplicate of acne-225_jpg.rf.33624bbd3381958397789ce04775a4e7.jpg,843,201.15,N/A
+acne-231_jpg.rf.1cd2a3859515dc13d6a63b170955bb1a.jpg,REMOVED,Perceptual duplicate of acne-225_jpg.rf.33624bbd3381958397789ce04775a4e7.jpg,843,201.10,N/A
+acne-231_jpg.rf.4ac75e257d40f76ffb01f2c7a8b414f3.jpg,REMOVED,Perceptual duplicate of acne-225_jpg.rf.33624bbd3381958397789ce04775a4e7.jpg,843,200.49,N/A
+acne-220_jpg.rf.71b2cf21050700b1329f90be30ef4a66.jpg,REMOVED,Perceptual duplicate of acne-225_jpg.rf.33624bbd3381958397789ce04775a4e7.jpg,843,194.67,N/A
+acne-199_jpg.rf.049f974ec6c0aab39706ea83ecd2a70a.jpg,REMOVED,Perceptual duplicate of acne-225_jpg.rf.33624bbd3381958397789ce04775a4e7.jpg,843,193.00,N/A
+acne-313_jpeg.rf.ef7b83bf079670f7ffec2ba3b2dfd430.jpg,REMOVED,Perceptual duplicate of acne-225_jpg.rf.33624bbd3381958397789ce04775a4e7.jpg,843,180.99,N/A
+acne-313_jpeg.rf.da7c72144244084311cce5cdee2d51ae.jpg,REMOVED,Perceptual duplicate of acne-225_jpg.rf.33624bbd3381958397789ce04775a4e7.jpg,843,179.80,N/A
+acne-165_jpg.rf.5638c1e3c95295ddca0f268ec7287553.jpg,REMOVED,Perceptual duplicate of acne-225_jpg.rf.33624bbd3381958397789ce04775a4e7.jpg,843,167.94,N/A
+acne-165_jpg.rf.f89853f8ff0431d5d4f3e64be0275aa5.jpg,REMOVED,Perceptual duplicate of acne-225_jpg.rf.33624bbd3381958397789ce04775a4e7.jpg,843,167.87,N/A
+acne-187_jpg.rf.a4bc43c7fb75ea9ddc00fa14bf06eda5.jpg,REMOVED,Perceptual duplicate of acne-225_jpg.rf.33624bbd3381958397789ce04775a4e7.jpg,843,157.03,N/A
+acne-179_jpg.rf.301829a1a85597f07c7a67eb38ee1970.jpg,REMOVED,Perceptual duplicate of acne-225_jpg.rf.33624bbd3381958397789ce04775a4e7.jpg,843,125.12,N/A
+acne-179_jpg.rf.dd6e0d30ba2d751438a0a2a9cf34b6cf.jpg,REMOVED,Perceptual duplicate of acne-225_jpg.rf.33624bbd3381958397789ce04775a4e7.jpg,843,124.70,N/A
+acne-230_jpg.rf.92c53cee80df6a2454765f7636b67d1a.jpg,REMOVED,Perceptual duplicate of acne-225_jpg.rf.33624bbd3381958397789ce04775a4e7.jpg,843,104.31,N/A
+acne-313_jpeg.rf.e1078f4c5f586767c81afb7d1eef16e6.jpg,REMOVED,Perceptual duplicate of acne-225_jpg.rf.33624bbd3381958397789ce04775a4e7.jpg,843,58.76,N/A
+acne-361_jpeg.rf.aaa6535bc46e0c26197cfe4c51677388.jpg,REMOVED,Perceptual duplicate of acne-225_jpg.rf.33624bbd3381958397789ce04775a4e7.jpg,843,52.42,N/A
+acne-356_jpeg.rf.5e4c20d1a3d6be4e876cc7e815fe2602.jpg,REMOVED,Perceptual duplicate of acne-225_jpg.rf.33624bbd3381958397789ce04775a4e7.jpg,843,45.92,N/A
+acne-432_jpeg.rf.ce392bcdec15d58d1616de4db76bdbd4.jpg,REMOVED,Perceptual duplicate of acne-225_jpg.rf.33624bbd3381958397789ce04775a4e7.jpg,843,31.13,N/A
+acne-381_jpeg.rf.f0bca72fdfd13c94a3940faf9e406fbf.jpg,REMOVED,Perceptual duplicate of acne-225_jpg.rf.33624bbd3381958397789ce04775a4e7.jpg,843,27.56,N/A
+acne-452_jpeg.rf.ac2086e4a2f90cb2cfb6c37f8cb51216.jpg,REMOVED,Perceptual duplicate of acne-225_jpg.rf.33624bbd3381958397789ce04775a4e7.jpg,843,26.75,N/A
+acne-405_jpeg.rf.7a67cd6a34f7a9012adfa87d4727f3a1.jpg,REMOVED,Perceptual duplicate of acne-225_jpg.rf.33624bbd3381958397789ce04775a4e7.jpg,843,25.56,N/A
+acne-405_jpeg.rf.3c0894066212ba42330649c242e0508b.jpg,REMOVED,Perceptual duplicate of acne-225_jpg.rf.33624bbd3381958397789ce04775a4e7.jpg,843,25.48,N/A
+acne-425_jpeg.rf.2e6f60571679aa98c5e34bfde3524c08.jpg,REMOVED,Perceptual duplicate of acne-225_jpg.rf.33624bbd3381958397789ce04775a4e7.jpg,843,17.39,N/A
+acne-425_jpeg.rf.aa082445f392b37d4cf968080fc451a3.jpg,REMOVED,Perceptual duplicate of acne-225_jpg.rf.33624bbd3381958397789ce04775a4e7.jpg,843,17.31,N/A
+acne-406_jpeg.rf.8614cb6779208ea080fb9369c56b6a16.jpg,REMOVED,Perceptual duplicate of acne-225_jpg.rf.33624bbd3381958397789ce04775a4e7.jpg,843,16.58,N/A
+acne-406_jpeg.rf.0d510f52400fbe7e5d13472db0f051f5.jpg,REMOVED,Perceptual duplicate of acne-225_jpg.rf.33624bbd3381958397789ce04775a4e7.jpg,843,16.21,N/A
+acne-355_jpeg.rf.a407ad30612ee0eea150efed8772694d.jpg,REMOVED,Perceptual duplicate of acne-225_jpg.rf.33624bbd3381958397789ce04775a4e7.jpg,843,14.21,N/A
+acne-12_jpeg.rf.105ac91692b51b2e48ac949a5f0ef9a0.jpg,REMOVED,Perceptual duplicate of acne-12_jpeg.rf.28444ad5ce2ac27bc0ce6ed17f8e6ec0.jpg,58,28.63,N/A
+acne-133_jpg.rf.a36b84143c4c700d8160a3283f498c03.jpg,REMOVED,Perceptual duplicate of acne-133_jpg.rf.6db7d5e9aba6f4de4253e2100ab6ffbc.jpg,64,437.35,N/A
+acne-136_jpg.rf.b329d76c1d4f9f0d1d68526134fe04c6.jpg,REMOVED,Perceptual duplicate of acne-136_jpg.rf.bcf7437fb066a95c7f159436df6c7c27.jpg,68,297.06,N/A
+acne-13_jpeg.rf.430d2e3c8e293872afb2dbaa8ff80c66.jpg,REMOVED,Perceptual duplicate of acne-13_jpeg.rf.6bccdd195b2e284d78717dccf8333266.jpg,70,29.10,N/A
+acne-141_jpg.rf.cbd1d13c72ff4f3e3b8f23419526f5df.jpg,REMOVED,Perceptual duplicate of acne-141_jpg.rf.056aa3399307f077aa37f49ff94c27f4.jpg,73,274.89,N/A
+acne-146_jpg.rf.3e4e3a8e1eb143a51e83f89d27a89523.jpg,REMOVED,Perceptual duplicate of acne-146_jpg.rf.ad8dd4f3dbbff83b7a2081bfbf2fee4e.jpg,77,230.08,N/A
+acne-146_jpg.rf.d16e73f57f12a54ebed2f820032498a9.jpg,REMOVED,Perceptual duplicate of acne-146_jpg.rf.ad8dd4f3dbbff83b7a2081bfbf2fee4e.jpg,77,229.88,N/A
+acne-147_jpg.rf.df99460615cf952c2e4a9a73f970be69.jpg,REMOVED,Perceptual duplicate of acne-147_jpg.rf.b9bc95a6617b86d57c6fa510d8be42ce.jpg,80,224.25,N/A
+acne-14_jpeg.rf.5bf6350d3c711ff63cde1f6b9a203518.jpg,REMOVED,Perceptual duplicate of acne-14_jpeg.rf.ce37e344b5f0d2c1aeed3f330eaf47f7.jpg,83,112.40,N/A
+acne-153_jpg.rf.8210a6358070fc5da9611aac95957b0f.jpg,REMOVED,Perceptual duplicate of acne-153_jpg.rf.e8973f33679d67ebfc2384a4d92d41b2.jpg,886,380.39,N/A
+acne-155_jpg.rf.96681853cd48ff20eb8c2f0e3f32bdbf.jpg,REMOVED,Perceptual duplicate of acne-153_jpg.rf.e8973f33679d67ebfc2384a4d92d41b2.jpg,886,256.68,N/A
+acne-159_jpg.rf.b2c4300722f40c860f40d0f710ce9fd5.jpg,REMOVED,Perceptual duplicate of acne-159_jpg.rf.0c98a05944768d0fcb2e6ac369394f30.jpg,95,40.64,N/A
+acne-169_jpg.rf.8dbf52d31c7234fa6616be58e4c10cce.jpg,REMOVED,Perceptual duplicate of acne-169_jpg.rf.62e380e19804577ee193ff7a379afca0.jpg,100,202.64,N/A
+acne-16_jpeg.rf.bfdbd387028d27478766a3819de88a1b.jpg,REMOVED,Perceptual duplicate of acne-49_jpeg.rf.3c951af43df31b304067823e836ec20b.jpg,916,41.87,N/A
+acne-16_jpeg.rf.6c53ab16807806bbb5941b31f9a46f57.jpg,REMOVED,Perceptual duplicate of acne-49_jpeg.rf.3c951af43df31b304067823e836ec20b.jpg,916,41.30,N/A
+acne-174_jpg.rf.e4db3022680a7d83a8564032513c394f.jpg,REMOVED,Perceptual duplicate of acne-174_jpg.rf.2d2e25b5d60f61c775266df80d4d4cca.jpg,107,84.51,N/A
+acne-175_jpg.rf.92d6c6bc280f868472612c909d7401b5.jpg,REMOVED,Perceptual duplicate of acne-175_jpg.rf.612b817fa477d486d22e0f2fb61e01b3.jpg,109,1288.20,N/A
+acne-178_jpg.rf.70e5d5ef09dd6bcae4b1580c229c9f46.jpg,REMOVED,Perceptual duplicate of acne-178_jpg.rf.ac87bffd9abfaa365be22b9bfef13f2c.jpg,113,481.90,N/A
+acne-17_jpeg.rf.d8a8858216295393c1acc6282c217654.jpg,REMOVED,Perceptual duplicate of acne-17_jpeg.rf.51057c9fd58430da022fe8b8e54cbfce.jpg,119,133.49,N/A
+acne-182_jpg.rf.a5a32d648c2879bb9c344f40f540aa59.jpg,REMOVED,Perceptual duplicate of acne-182_jpg.rf.7c2e3699a804e6c8aa7910f55b5ca1d5.jpg,122,350.44,N/A
+acne-185_jpg.rf.10da71ba0aff1f523fe1c434307b4a58.jpg,REMOVED,Perceptual duplicate of acne-185_jpg.rf.3bd7bc00f8d8f6e04e041a9a664f80e2.jpg,127,550.31,N/A
+acne-18_jpeg.rf.43644ffe9efa47e9892fa953e7384360.jpg,REMOVED,Perceptual duplicate of acne-18_jpeg.rf.e1d7462fae95a22cf821ff2dce74fe48.jpg,249,24.03,N/A
+acne-249_jpeg.rf.0fab9e777d354aa5e63acdaef998679e.jpg,REMOVED,Perceptual duplicate of acne-18_jpeg.rf.e1d7462fae95a22cf821ff2dce74fe48.jpg,249,18.53,N/A
+acne-191_jpg.rf.a5434e10e4190dc91e8be25ba95e0057.jpg,REMOVED,Perceptual duplicate of acne-191_jpg.rf.a0c9751faf17b372142f143e58795b87.jpg,134,804.73,N/A
+acne-193_jpg.rf.d56c00bf920d72a203d15f241d2a6155.jpg,REMOVED,Perceptual duplicate of acne-193_jpg.rf.4cdb0fbc270b04b91fb4cf23478d5b75.jpg,137,538.53,N/A
+acne-195_jpg.rf.9ed1415752e5ab9b75789c48e2d79cfb.jpg,REMOVED,Perceptual duplicate of acne-195_jpg.rf.bcfc34920b8aec75484cddfc069c343c.jpg,870,79.71,N/A
+acne-454_jpeg.rf.18a13bf93c2bd2276ccc6d4e8d5889c3.jpg,REMOVED,Perceptual duplicate of acne-195_jpg.rf.bcfc34920b8aec75484cddfc069c343c.jpg,870,9.54,N/A
+acne-196_jpg.rf.9929863b00290abde1695ce445e5ab8d.jpg,REMOVED,Perceptual duplicate of acne-196_jpg.rf.1bbd0b777a3e6a95749dfae39c5d0db1.jpg,142,64.53,N/A
+acne-197_jpg.rf.29fb0fcd25dc272564d20ea7e0c37357.jpg,REMOVED,Perceptual duplicate of acne-197_jpg.rf.3e08f172ad3783593d3d6f09b5914df4.jpg,145,183.94,N/A
+acne-199_jpg.rf.bf429fe2c2ffc1d64092b101898b576e.jpg,REMOVED,Perceptual duplicate of acne-199_jpg.rf.471efe501dd703c4c868b80f346eafb1.jpg,152,233.10,N/A
+acne-19_jpeg.rf.c477f8a3fb32ce9d2d0c804f3124d662.jpg,REMOVED,Perceptual duplicate of acne-19_jpeg.rf.08f442979a625bee5a09e346ab0f8185.jpg,155,91.30,N/A
+acne-19_jpeg.rf.fcd27e7983259ab41304042d0246e0ae.jpg,REMOVED,Perceptual duplicate of acne-19_jpeg.rf.08f442979a625bee5a09e346ab0f8185.jpg,155,91.19,N/A
+acne-1_jpeg.rf.71d499580b387527ed6a3240b2b5773d.jpg,REMOVED,Perceptual duplicate of acne-260_jpeg.rf.5c8e935a9fab3530d525cd1d89cd22ab.jpg,283,54.83,N/A
+acne-1_jpeg.rf.15f804a683ea47331a17edcd7f8e1a4d.jpg,REMOVED,Perceptual duplicate of acne-260_jpeg.rf.5c8e935a9fab3530d525cd1d89cd22ab.jpg,283,54.83,N/A
+acne-260_jpeg.rf.56e7a9f22a7851f1b53be292fdb929c9.jpg,REMOVED,Perceptual duplicate of acne-260_jpeg.rf.5c8e935a9fab3530d525cd1d89cd22ab.jpg,283,54.83,N/A
+acne-201_jpg.rf.33bf5a4589c45581c1f46b672db62414.jpg,REMOVED,Perceptual duplicate of acne-201_jpg.rf.385b133794127449eb734db717cfeeaa.jpg,161,326.45,N/A
+acne-207_jpg.rf.0adf2a68315ac19b5f0d8e9f3c00532d.jpg,REMOVED,Perceptual duplicate of acne-207_jpg.rf.8a60c3b59e4a9e0f1cad7e370dd77ea5.jpg,167,35.74,N/A
+acne-208_jpg.rf.48edf57f079bcfbd20b3d9229f482459.jpg,REMOVED,Perceptual duplicate of acne-208_jpg.rf.6a0543944c7ec0abf4d3420ef5a48789.jpg,170,244.73,N/A
+acne-210_jpg.rf.d8d38da83700ffe8f4204c9b98bfc48f.jpg,REMOVED,Perceptual duplicate of acne-210_jpg.rf.27376e50ec325caa3ee3a040244aeaa2.jpg,173,223.82,N/A
+acne-212_jpg.rf.48a1f98252e19ab9c0a2fa21cc2cf3dd.jpg,REMOVED,Perceptual duplicate of acne-212_jpg.rf.7c6366f80f280c7946181a492194f128.jpg,175,247.11,N/A
+acne-213_jpg.rf.e477f2ab61f8007e35213f2d19630dfe.jpg,REMOVED,Perceptual duplicate of acne-213_jpg.rf.a5c1514f9c68cfe06f0f8e16b908c7bd.jpg,179,182.74,N/A
+acne-213_jpg.rf.34850e9489d91a3b8c38f872710a2753.jpg,REMOVED,Perceptual duplicate of acne-213_jpg.rf.a5c1514f9c68cfe06f0f8e16b908c7bd.jpg,179,182.64,N/A
+acne-218_jpg.rf.4034c378c8c2766197d5800adfa2a8f4.jpg,REMOVED,Perceptual duplicate of acne-218_jpg.rf.ce804a2e4ef6d119d4e442112589453d.jpg,185,292.77,N/A
+acne-222_jpg.rf.44895d625b19f3e5bf910dc52c985c50.jpg,REMOVED,Perceptual duplicate of acne-222_jpg.rf.19ebefd17c9d7278b70237d51272f4d7.jpg,188,1500.16,N/A
+acne-222_jpg.rf.8fd19a2a303616c30747abc22a7b7e85.jpg,REMOVED,Perceptual duplicate of acne-222_jpg.rf.19ebefd17c9d7278b70237d51272f4d7.jpg,188,1494.08,N/A
+acne-227_jpg.rf.2471062ff72eff1fb050abd9673ce511.jpg,REMOVED,Perceptual duplicate of acne-227_jpg.rf.e7232e54671958546fa8bd8e76de323e.jpg,197,824.19,N/A
+acne-228_jpg.rf.129211e759bb8520e5d79be2e7135a91.jpg,REMOVED,Perceptual duplicate of acne-228_jpg.rf.b7310fea7306adb3ad6a912cd30c35c6.jpg,199,391.10,N/A
+acne-229_jpg.rf.15932dd8294747fbf846a03e0f82b5ac.jpg,REMOVED,Perceptual duplicate of acne-229_jpg.rf.8591496c5be08eade2f51c29fc778b16.jpg,203,628.87,N/A
+acne-232_jpg.rf.dfc421bc3c14ce68a07ee757c071a0ab.jpg,REMOVED,Perceptual duplicate of acne-232_jpg.rf.c675be6b07a6bf37519db31b5167e4c7.jpg,209,328.51,N/A
+acne-232_jpg.rf.a0d2522aa8b5f9a61f692c488394fc7b.jpg,REMOVED,Perceptual duplicate of acne-232_jpg.rf.c675be6b07a6bf37519db31b5167e4c7.jpg,209,328.12,N/A
+acne-233_jpg.rf.bc960d277ff83a8d84cfb37a6323455a.jpg,REMOVED,Perceptual duplicate of acne-233_jpg.rf.def5958145685575eb337e5c599b5cf5.jpg,212,634.72,N/A
+acne-234_jpg.rf.40a36612561ebdd4f815d2868b3a19da.jpg,REMOVED,Perceptual duplicate of acne-234_jpg.rf.d6f9f966d1bf5799aa4d8b260cf1a07f.jpg,215,699.91,N/A
+acne-235_jpg.rf.75e061e02231a1cce3fde16fb36b707c.jpg,REMOVED,Perceptual duplicate of acne-235_jpg.rf.2ef71aabbc8d65a4ec7a38e95b2c355a.jpg,217,415.47,N/A
+acne-23_jpeg.rf.9b1966c79bed572c432113b6b3de912d.jpg,REMOVED,Perceptual duplicate of acne-23_jpeg.rf.49017ec32bbf42c7a6e18af4da3b267d.jpg,224,8.27,N/A
+acne-23_jpeg.rf.49017ec32bbf42c7a6e18af4da3b267d.jpg,REJECTED,Extremely blurry (variance 8.36 < 20),224,8.36,N/A
+acne-240_jpg.rf.f4e59c1cc25d5988f634396e23fa0745.jpg,REMOVED,Perceptual duplicate of acne-240_jpg.rf.e843d0318dbc2602b10d182fed2aac33.jpg,227,194.05,N/A
+acne-241_jpg.rf.6315111a0caf2cc662e131b3dd0b294a.jpg,REMOVED,Perceptual duplicate of acne-241_jpg.rf.de2bfe112d02fe95a39e2a5ff3fb4f06.jpg,230,234.34,N/A
+acne-242_jpg.rf.8901e40c234ee9f5c2e28d27b0de354e.jpg,REMOVED,Perceptual duplicate of acne-242_jpg.rf.163bea139c1038429a67cdefdb3da7ed.jpg,232,261.78,N/A
+acne-305_jpeg.rf.2d1d279ddfea1b69eeefab989770cdd5.jpg,REMOVED,Perceptual duplicate of acne-243_jpeg.rf.224276464dae0015106b49305689a71f.jpg,399,173.45,N/A
+acne-305_jpeg.rf.503758a0be691560a2e3d73ef1cc7695.jpg,REMOVED,Perceptual duplicate of acne-243_jpeg.rf.f3d5b38abbb217c911e3780085133be5.jpg,401,25.70,N/A
+acne-305_jpeg.rf.447a131eee08348db9b4f2aaf24b89eb.jpg,REMOVED,Perceptual duplicate of acne-243_jpeg.rf.ff8b7eddd7999e473316b3c51c5d98fa.jpg,400,117.84,N/A
+acne-245_jpeg.rf.4396c4ac2d28d1b4f6de0bcc62d4f30c.jpg,REMOVED,Perceptual duplicate of acne-272_jpeg.rf.8e771c50868bbb1091207a059ca3dca0.jpg,312,55.10,N/A
+acne-245_jpeg.rf.716c1d56a9ef9e65968495aff2cb1915.jpg,REMOVED,Perceptual duplicate of acne-272_jpeg.rf.f2a52a5091e827195d89bb2e1adc68f2.jpg,313,260.65,N/A
+acne-245_jpeg.rf.fc6a867547b19a5ffacd58e95139d1cb.jpg,REMOVED,Perceptual duplicate of acne-272_jpeg.rf.f2a52a5091e827195d89bb2e1adc68f2.jpg,313,257.33,N/A
+acne-247_jpeg.rf.36e1a9fa30b36d245cfb72509a68db71.jpg,REMOVED,Perceptual duplicate of acne-247_jpeg.rf.609bebea165a5d6ed959aaef11f3e708.jpg,244,146.76,N/A
+acne-248_jpeg.rf.ba3f7c48a04cf4cc9b0a9ac8a6ec58d0.jpg,REMOVED,Perceptual duplicate of acne-248_jpeg.rf.2a7a9fa6acf6a2ec559666cc56987bfa.jpg,248,23.34,N/A
+acne-249_jpeg.rf.4060e71acec2c63b9a52b027c8efa9ac.jpg,REMOVED,Perceptual duplicate of acne-249_jpeg.rf.74586fb9ccb9b2b9cd14569cf17e5866.jpg,251,259.56,N/A
+acne-24_jpeg.rf.e9277e4ceaa85466f5ef66341947b8e8.jpg,REMOVED,Perceptual duplicate of acne-24_jpeg.rf.baa0f5a4aeba2132b48dd958e6911b1a.jpg,254,73.34,N/A
+acne-250_jpeg.rf.6692d9b364eaea9ba7f70cf45ec4a68b.jpg,REMOVED,Perceptual duplicate of acne-250_jpeg.rf.1685917ec76c978971bd9c1b32a19678.jpg,257,361.55,N/A
+acne-251_jpeg.rf.36071d927cffe148bde795307ecf352d.jpg,REMOVED,Perceptual duplicate of acne-251_jpeg.rf.3ffc5e75a252fe9ed7ee8e2ff38bb378.jpg,260,27.22,N/A
+acne-251_jpeg.rf.2a9f2c9b3c607680d42bfdaefb369f85.jpg,REMOVED,Perceptual duplicate of acne-251_jpeg.rf.3ffc5e75a252fe9ed7ee8e2ff38bb378.jpg,260,27.02,N/A
+acne-252_jpeg.rf.02d3e4f593f97ac628edb768652d09bc.jpg,REMOVED,Perceptual duplicate of acne-252_jpeg.rf.44d57ce03a6816d5db621664c52c4fce.jpg,262,9.72,N/A
+acne-252_jpeg.rf.44d57ce03a6816d5db621664c52c4fce.jpg,REJECTED,Extremely blurry (variance 9.80 < 20),262,9.80,N/A
+acne-253_jpeg.rf.7ac45e1686120921503191edd292aaf5.jpg,REMOVED,Perceptual duplicate of acne-253_jpeg.rf.0d8326d149e20928c2b1c1138e716a3d.jpg,770,52.05,N/A
+acne-64_jpeg.rf.860c354c1fe371bc92037186e7531cd0.jpg,REMOVED,Perceptual duplicate of acne-253_jpeg.rf.0d8326d149e20928c2b1c1138e716a3d.jpg,770,52.05,N/A
+acne-295_jpeg.rf.e1794d40fb18dc5a76f22a2f93f57ed3.jpg,REMOVED,Perceptual duplicate of acne-254_jpeg.rf.3804dd6f10c511c2ec0763aaf55594a4.jpg,368,166.64,N/A
+acne-295_jpeg.rf.308ad47a267ea8383e5c26334a6d343b.jpg,REMOVED,Perceptual duplicate of acne-254_jpeg.rf.3804dd6f10c511c2ec0763aaf55594a4.jpg,368,165.72,N/A
+acne-295_jpeg.rf.fbce78c91767f2528943f8a808c989d5.jpg,REMOVED,Perceptual duplicate of acne-254_jpeg.rf.3804dd6f10c511c2ec0763aaf55594a4.jpg,368,165.39,N/A
+acne-255_jpeg.rf.d08fb6f41c766b708aca5e0df7021654.jpg,REMOVED,Perceptual duplicate of acne-255_jpeg.rf.9291c5262240f4fbda98110fa6ab6b1e.jpg,272,162.19,N/A
+acne-81_jpeg.rf.40b99f71bb9313696f8e5910e3a845b8.jpg,REMOVED,Perceptual duplicate of acne-282_jpeg.rf.a47b3c0ba41952cdbcf2e571490a4a7f.jpg,791,17.01,N/A
+acne-256_jpeg.rf.264048eed0beacf9b87715f34f5279a4.jpg,REMOVED,Perceptual duplicate of acne-282_jpeg.rf.a47b3c0ba41952cdbcf2e571490a4a7f.jpg,791,15.63,N/A
+acne-81_jpeg.rf.e47065c54dfdd4d5b60a6ae86c82b7eb.jpg,REMOVED,Perceptual duplicate of acne-282_jpeg.rf.a7f5d7ac92b15c00f45b5d8d90e8e81c.jpg,792,307.83,N/A
+acne-256_jpeg.rf.9b889ac65bb1c85b33a2c314284ad6be.jpg,REMOVED,Perceptual duplicate of acne-282_jpeg.rf.a7f5d7ac92b15c00f45b5d8d90e8e81c.jpg,792,304.31,N/A
+acne-81_jpeg.rf.2dcb28c8853605958defd883944aa4cb.jpg,REMOVED,Perceptual duplicate of acne-282_jpeg.rf.a7f5d7ac92b15c00f45b5d8d90e8e81c.jpg,792,304.21,N/A
+acne-256_jpeg.rf.c22c1638acc0a779fe97ebbb758cdd2d.jpg,REMOVED,Perceptual duplicate of acne-282_jpeg.rf.2b0cc8d72fc1111adda59750e815492e.jpg,339,260.85,N/A
+acne-258_jpeg.rf.c8c4a7a7a56b356380046d016e3c11f0.jpg,REMOVED,Perceptual duplicate of acne-258_jpeg.rf.1d696f16032fca31a79513c9331d5ed0.jpg,278,33.15,N/A
+acne-259_jpeg.rf.77da9681a14010b5ac66fb38eef85c07.jpg,REMOVED,Perceptual duplicate of acne-259_jpeg.rf.08339d4984a98c11ac6656873b322c50.jpg,280,69.20,N/A
+acne-285_jpeg.rf.2303ee48a34ad787cb483d5014cce61c.jpg,REMOVED,Perceptual duplicate of acne-285_jpeg.rf.d5899ab24f731625c88f2309bdf693d2.jpg,347,93.76,N/A
+acne-261_jpeg.rf.28f94e254d0dd7756dbce49f63ce2d97.jpg,REMOVED,Perceptual duplicate of acne-285_jpeg.rf.d5899ab24f731625c88f2309bdf693d2.jpg,347,77.71,N/A
+acne-261_jpeg.rf.3df1d961af27dde5e7b5f68a8fa72494.jpg,REMOVED,Perceptual duplicate of acne-285_jpeg.rf.9e03cf2f6e78640d15671d542de12cac.jpg,346,91.89,N/A
+acne-263_jpeg.rf.fd0b33ee0dbe2fe0fc08d144d704d1ff.jpg,REMOVED,Perceptual duplicate of acne-33_jpeg.rf.5f883b1bb6eacef56d03175d54955561.jpg,909,26.93,N/A
+acne-74_jpeg.rf.74c00cc08cb76e29f6036261a2dd7596.jpg,REMOVED,Perceptual duplicate of acne-33_jpeg.rf.5f883b1bb6eacef56d03175d54955561.jpg,909,26.93,N/A
+acne-74_jpeg.rf.6315f5e2b1dc637f7a0a8cf42381279f.jpg,REMOVED,Perceptual duplicate of acne-33_jpeg.rf.5f883b1bb6eacef56d03175d54955561.jpg,909,26.54,N/A
+acne-263_jpeg.rf.45f08e159b5752a86f7ed01459f7b4ed.jpg,REMOVED,Perceptual duplicate of acne-33_jpeg.rf.5f883b1bb6eacef56d03175d54955561.jpg,909,26.24,N/A
+acne-264_jpeg.rf.c9ef70d5db9441f96fbda14d7ee9fe92.jpg,REJECTED,Extremely blurry (variance 12.79 < 20),296,12.79,N/A
+acne-265_jpeg.rf.6d35e98ec4f69eb5a8012b50c7c2f608.jpg,REMOVED,Perceptual duplicate of acne-265_jpeg.rf.221c9b831e6923d24de3460c49072b99.jpg,299,24.29,N/A
+acne-266_jpeg.rf.8544320c91133e2f95af7c7512e06f19.jpg,REMOVED,Perceptual duplicate of acne-266_jpeg.rf.f24013f661ebe46b8fcc302349ae81e2.jpg,302,119.47,N/A
+acne-269_jpeg.rf.bbfda39f824b3e05daaa3f17cc28b2a8.jpg,REMOVED,Perceptual duplicate of acne-269_jpeg.rf.3fdd24755d11661703669be0ca18a612.jpg,307,78.11,N/A
+acne-270_jpeg.rf.b76440e3612c6a660c7e1932e81da7e4.jpg,REJECTED,Extremely blurry (variance 15.86 < 20),311,15.86,N/A
+acne-275_jpeg.rf.962d3c2a351449de8f7a218c4a5f6cb0.jpg,REMOVED,Perceptual duplicate of acne-275_jpeg.rf.f2994243e64d1c183465fb7d9141e955.jpg,564,62.73,N/A
+acne-383_jpeg.rf.2fc9945d27a400e8b16b39f3a3abbb4f.jpg,REMOVED,Perceptual duplicate of acne-275_jpeg.rf.f2994243e64d1c183465fb7d9141e955.jpg,564,18.59,N/A
+acne-383_jpeg.rf.5b5a6967d91a126d7adb9a60119c7588.jpg,REMOVED,Perceptual duplicate of acne-275_jpeg.rf.f2994243e64d1c183465fb7d9141e955.jpg,564,18.57,N/A
+acne-383_jpeg.rf.315b9bc6b3197a159656043ddfbee731.jpg,REMOVED,Perceptual duplicate of acne-275_jpeg.rf.bf7708c917e32843d1256126e9901939.jpg,563,53.61,N/A
+acne-277_jpeg.rf.9240ff1d70d0b4c8334f56855261ff92.jpg,REMOVED,Perceptual duplicate of acne-277_jpeg.rf.22d440c4bcd4d50ed40790f3ee2d2fd4.jpg,696,81.27,N/A
+acne-441_jpeg.rf.7a3d88de2f38742e4e8d74e7dd913db4.jpg,REMOVED,Perceptual duplicate of acne-277_jpeg.rf.22d440c4bcd4d50ed40790f3ee2d2fd4.jpg,696,24.78,N/A
+acne-441_jpeg.rf.c3cbb13cbe7d7d28976c0bf7ad8a4c9b.jpg,REMOVED,Perceptual duplicate of acne-277_jpeg.rf.22d440c4bcd4d50ed40790f3ee2d2fd4.jpg,696,24.71,N/A
+acne-36_jpeg.rf.4efdf2eaba4f4948913d0c7fc3884020.jpg,REMOVED,Perceptual duplicate of acne-115_jpeg.rf.1c4b3100bd61c3be8b101094633f80e0.jpg,825,55.48,N/A
+acne-36_jpeg.rf.e6b1128ff2ada48b5247b7b83ce997e0.jpg,REMOVED,Perceptual duplicate of acne-115_jpeg.rf.1c4b3100bd61c3be8b101094633f80e0.jpg,825,55.23,N/A
+acne-279_jpeg.rf.58a6424ac5746b92c772d2bc9a62b183.jpg,REMOVED,Perceptual duplicate of acne-115_jpeg.rf.1c4b3100bd61c3be8b101094633f80e0.jpg,825,50.85,N/A
+acne-279_jpeg.rf.574135e32a8f9a735a8c0156b34fc33c.jpg,REMOVED,Perceptual duplicate of acne-115_jpeg.rf.1c4b3100bd61c3be8b101094633f80e0.jpg,825,50.59,N/A
+acne-283_jpeg.rf.f605ae91ce57e0d4138bdf279cc17397.jpg,REMOVED,Perceptual duplicate of acne-283_jpeg.rf.f08f5a8e3cdceeaba0bb98f188a7a3e0.jpg,344,48.99,N/A
+acne-288_jpeg.rf.0ef9f5fbfd0cb74a936672dcc9c9ea7c.jpg,REMOVED,Perceptual duplicate of acne-288_jpeg.rf.6bc0d3fb53c759d5318cf7f1658d817f.jpg,352,15.98,N/A
+acne-288_jpeg.rf.6bc0d3fb53c759d5318cf7f1658d817f.jpg,REJECTED,Extremely blurry (variance 16.24 < 20),352,16.24,N/A
+acne-289_jpeg.rf.d3defa0dc791248893efb70114f0744a.jpg,REMOVED,Perceptual duplicate of acne-289_jpeg.rf.84b2a2a9e363095c3f506fe4b2cd98ad.jpg,356,19.30,N/A
+acne-289_jpeg.rf.667cb427eee802286bce9c6867829f9b.jpg,REMOVED,Perceptual duplicate of acne-289_jpeg.rf.84b2a2a9e363095c3f506fe4b2cd98ad.jpg,356,19.27,N/A
+acne-289_jpeg.rf.84b2a2a9e363095c3f506fe4b2cd98ad.jpg,REJECTED,Extremely blurry (variance 19.45 < 20),356,19.45,N/A
+acne-28_jpeg.rf.e49869b4920dbb3e623c1724bad853c6.jpg,REMOVED,Perceptual duplicate of acne-28_jpeg.rf.0779dcb29db01f05b5e55255fd894752.jpg,358,319.00,N/A
+acne-293_jpeg.rf.b5a85b35c691244b87786afaa916d226.jpg,REMOVED,Perceptual duplicate of acne-293_jpeg.rf.4c57ffc9138c5c8ceb3f16e8f57431e4.jpg,362,42.98,N/A
+acne-293_jpeg.rf.b29d595aa8eb4598f5518af9f64e8ed1.jpg,REMOVED,Perceptual duplicate of acne-293_jpeg.rf.4c57ffc9138c5c8ceb3f16e8f57431e4.jpg,362,42.97,N/A
+acne-294_jpeg.rf.2fc2cae80fb6ad75143c3db3f73b5712.jpg,REMOVED,Perceptual duplicate of acne-294_jpeg.rf.06965fed951caff14fdd95dcdb3fee1d.jpg,365,39.89,N/A
+acne-296_jpeg.rf.4b7a51eef9635e31d42f3cb2a86648c7.jpg,REMOVED,Perceptual duplicate of acne-296_jpeg.rf.1305224378083f2a2a7325a85e529cd2.jpg,371,11.12,N/A
+acne-296_jpeg.rf.0c793eaa8ff4040f8f4773c85cbf0229.jpg,REMOVED,Perceptual duplicate of acne-296_jpeg.rf.1305224378083f2a2a7325a85e529cd2.jpg,371,11.06,N/A
+acne-296_jpeg.rf.1305224378083f2a2a7325a85e529cd2.jpg,REJECTED,Extremely blurry (variance 11.18 < 20),371,11.18,N/A
+acne-298_jpeg.rf.80a33e3d695ddd6b1552a5bce6e98d4e.jpg,REMOVED,Perceptual duplicate of acne-298_jpeg.rf.8445c28ab2956fcd0168767b748c9b3f.jpg,377,70.07,N/A
+acne-299_jpeg.rf.193780200dffa83e6069b20d7eb65086.jpg,REMOVED,Perceptual duplicate of acne-299_jpeg.rf.ec7aa0661240eaab8fc8fcbe05ad558b.jpg,881,41.69,N/A
+acne-112_jpeg.rf.a03c796422719e964f46be1c118861bc.jpg,REMOVED,Perceptual duplicate of acne-299_jpeg.rf.ec7aa0661240eaab8fc8fcbe05ad558b.jpg,881,41.69,N/A
+acne-29_jpeg.rf.b4046180aab488bb66e4526381a0bae1.jpg,REJECTED,Extremely blurry (variance 10.06 < 20),383,10.06,N/A
+acne-300_jpeg.rf.1b253f89f597b1b2d4c6ca99bda30381.jpg,REMOVED,Perceptual duplicate of acne-300_jpeg.rf.37d6ebe89a9258816b60beac5c432deb.jpg,386,35.75,N/A
+acne-301_jpeg.rf.3b8d86ba191dee67dc51b7e88356e287.jpg,REJECTED,Extremely blurry (variance 12.41 < 20),387,12.41,N/A
+acne-306_jpeg.rf.28d407fc7715d99a7a6484ecec821353.jpg,REJECTED,Extremely blurry (variance 10.50 < 20),402,10.50,N/A
+acne-306_jpeg.rf.93fbee6720c5a9b354b3453300bb3992.jpg,REMOVED,Perceptual duplicate of acne-306_jpeg.rf.40691f2c7cb3cd1adc01b94d628f07c2.jpg,404,237.46,N/A
+acne-308_jpeg.rf.65b144d39627948716e4501a7076b315.jpg,REMOVED,Perceptual duplicate of acne-308_jpeg.rf.d62319b7946355fa41a8ade9b8473a68.jpg,410,54.16,N/A
+acne-309_jpeg.rf.7e3da349c7bf40ef728a16e75e0d86de.jpg,REMOVED,Perceptual duplicate of acne-309_jpeg.rf.c873de2e8d5769a1e9fbc1a8b7a507fd.jpg,412,40.54,N/A
+acne-30_jpeg.rf.323277384ff63e3204b6bdcdd1284356.jpg,REMOVED,Perceptual duplicate of acne-30_jpeg.rf.093be01147ffe73677435553b5ff88b3.jpg,415,337.89,N/A
+acne-311_jpeg.rf.ce8c9d5044c01272993412e48f44d625.jpg,REMOVED,Perceptual duplicate of acne-311_jpeg.rf.f60d123b327f9ccf4a2fe23864562086.jpg,419,142.46,N/A
+acne-312_jpeg.rf.ccaded28aeb5d25f057ed31075e6a2e2.jpg,REMOVED,Perceptual duplicate of acne-312_jpeg.rf.1af65ed498f64c5050d20705378da211.jpg,421,84.77,N/A
+acne-314_jpeg.rf.ed74ef46b15ca68c0888494ecc36802f.jpg,REMOVED,Perceptual duplicate of acne-314_jpeg.rf.e15998758f9ee99e20780a0ebbfc64f2.jpg,428,39.32,N/A
+acne-314_jpeg.rf.5c9e21128c365b6892211ab9be3e0626.jpg,REMOVED,Perceptual duplicate of acne-314_jpeg.rf.e15998758f9ee99e20780a0ebbfc64f2.jpg,428,39.31,N/A
+acne-316_jpeg.rf.d4e1b012f4a1d6b9e607a8ff4a5a0da9.jpg,REMOVED,Perceptual duplicate of acne-316_jpeg.rf.4d78682dca505e9a307dc9afee2c2a98.jpg,431,74.09,N/A
+acne-317_jpeg.rf.46ed7951f87afb2e53a0f78fa5f783a4.jpg,REMOVED,Perceptual duplicate of acne-317_jpeg.rf.7b7d3ede64a00397babad2c3fa9f8470.jpg,434,72.65,N/A
+acne-321_jpeg.rf.74d6fa49eae2e7b016116113c68ba39f.jpg,REMOVED,Perceptual duplicate of acne-321_jpeg.rf.e6bcc4a787ddac7730b017f3822ed082.jpg,440,208.91,N/A
+acne-323_jpeg.rf.c995a17e495945f640bc73d48b115fde.jpg,REMOVED,Perceptual duplicate of acne-323_jpeg.rf.d32d7666e02adc1e58a966e9e22f1659.jpg,443,11.76,N/A
+acne-323_jpeg.rf.6662d6674b7883fb77d247bb5fc7d2bf.jpg,REMOVED,Perceptual duplicate of acne-323_jpeg.rf.d32d7666e02adc1e58a966e9e22f1659.jpg,443,11.73,N/A
+acne-323_jpeg.rf.d32d7666e02adc1e58a966e9e22f1659.jpg,REJECTED,Extremely blurry (variance 11.91 < 20),443,11.91,N/A
+acne-6_jpeg.rf.80265b4fa3a385c07f2f9395e486faf9.jpg,REMOVED,Perceptual duplicate of acne-326_jpeg.rf.a38294ebe371460887bf7faa766c446f.jpg,873,103.76,N/A
+acne-44_jpeg.rf.a09a06ca7108949a3862881a898eb952.jpg,REMOVED,Perceptual duplicate of acne-327_jpeg.rf.1eab7e229c29431fef5a7a19b545a91a.jpg,719,59.87,N/A
+acne-44_jpeg.rf.ceace1986fb65ad6aea01b6f6f7359a1.jpg,REMOVED,Perceptual duplicate of acne-327_jpeg.rf.6a337ae979a131b4e8c2c22f086bf878.jpg,720,29.06,N/A
+acne-44_jpeg.rf.3a5b1e28ea39743db33f48b46ecb2e67.jpg,REMOVED,Perceptual duplicate of acne-327_jpeg.rf.6a337ae979a131b4e8c2c22f086bf878.jpg,720,28.84,N/A
+acne-330_jpeg.rf.9e41e6f1e75e668a32459fed05b62a84.jpg,REMOVED,Perceptual duplicate of acne-330_jpeg.rf.8b1c55b99af06bebdd71a096203d4b2c.jpg,452,308.20,N/A
+acne-331_jpeg.rf.83ec17dbb2505cc0b8a73dc469e6d85b.jpg,REMOVED,Perceptual duplicate of acne-331_jpeg.rf.4f4b52de1ea6ef286b238e4c072dab59.jpg,454,61.67,N/A
+acne-332_jpeg.rf.22c3007e8a110a4236fd307abb3b03ce.jpg,REMOVED,Perceptual duplicate of acne-332_jpeg.rf.8d6f2cb10ab18da14224de1817cf989a.jpg,457,50.44,N/A
+acne-333_jpeg.rf.807cb4d0e4a9d0aa7400da03dc66c401.jpg,REMOVED,Perceptual duplicate of acne-333_jpeg.rf.cf08829a4c2cafda406bea5993dfaf05.jpg,461,125.93,N/A
+acne-333_jpeg.rf.a6979bf8ff1a21dffd23ebe656977bf8.jpg,REJECTED,Extremely blurry (variance 9.79 < 20),460,9.79,N/A
+acne-336_jpeg.rf.d7614515f7b36a7257add178b373e812.jpg,REMOVED,Perceptual duplicate of acne-336_jpeg.rf.51e16db2ee65d5b1300fd9db14e2ff1c.jpg,650,30.52,N/A
+acne-416_jpeg.rf.58165474fa5b984361eb851426671d1c.jpg,REMOVED,Perceptual duplicate of acne-336_jpeg.rf.51e16db2ee65d5b1300fd9db14e2ff1c.jpg,650,21.35,N/A
+acne-416_jpeg.rf.b4487ce29c14c65f263e00dd7d01c99f.jpg,REMOVED,Perceptual duplicate of acne-336_jpeg.rf.51e16db2ee65d5b1300fd9db14e2ff1c.jpg,650,21.34,N/A
+acne-416_jpeg.rf.d5ba37365bb40265d4702b5d70c716d1.jpg,REMOVED,Perceptual duplicate of acne-336_jpeg.rf.cc2e7b94610e566c652bc75229846c70.jpg,651,120.43,N/A
+acne-339_jpeg.rf.9da291f1d86c509cbf8aa00a3a6a0ea0.jpg,REMOVED,Perceptual duplicate of acne-339_jpeg.rf.89ead30b27764c9ff8f8b9c8fbd6d0d7.jpg,469,141.69,N/A
+acne-339_jpeg.rf.f36c32fba882a107b011b2c46bf12eef.jpg,REJECTED,Extremely blurry (variance 11.58 < 20),470,11.58,N/A
+acne-340_jpeg.rf.d4372441a50c0e449cf86fa871611b33.jpg,REMOVED,Perceptual duplicate of acne-340_jpeg.rf.c2980243aa844e28b4cc19b02b723df9.jpg,473,45.73,N/A
+acne-341_jpeg.rf.1210ec15ceba29fde6938260be20388a.jpg,REMOVED,Perceptual duplicate of acne-341_jpeg.rf.4cb410fa46618338d9e935597ba6ad44.jpg,475,71.49,N/A
+acne-342_jpeg.rf.19517a7364089a0dc5d54bac00d9aba3.jpg,REMOVED,Perceptual duplicate of acne-342_jpeg.rf.43983d45ed089d5aa6259bd8a75c8843.jpg,478,124.48,N/A
+acne-344_jpeg.rf.b2452461f2e18c63e0f8ece22f7b3756.jpg,REJECTED,Extremely blurry (variance 13.03 < 20),484,13.03,N/A
+acne-345_jpeg.rf.22014dcf795bae3cc2c179a784d8d03f.jpg,REMOVED,Perceptual duplicate of acne-345_jpeg.rf.002b6d9c99b9d10198b110273259bb49.jpg,486,90.17,N/A
+acne-346_jpeg.rf.c0c737144ba0f304ed14761968343e9f.jpg,REMOVED,Perceptual duplicate of acne-346_jpeg.rf.7f6664cf705339001d9b41d67ba7c719.jpg,489,30.40,N/A
+acne-34_jpeg.rf.02b170dadf4cc50c7baf382e583e0a1c.jpg,REMOVED,Perceptual duplicate of acne-34_jpeg.rf.d085cdfb42ef1e9e0d0ca356ae1346da.jpg,492,301.15,N/A
+acne-353_jpeg.rf.943e3a0e966f544a1f134bf29987a8af.jpg,REMOVED,Perceptual duplicate of acne-353_jpeg.rf.edc35d597e58e570a2e3d663f4fab978.jpg,496,30.86,N/A
+acne-353_jpeg.rf.625e559765bb0d76851d3f9e43bfa1d4.jpg,REMOVED,Perceptual duplicate of acne-353_jpeg.rf.edc35d597e58e570a2e3d663f4fab978.jpg,496,30.65,N/A
+acne-354_jpeg.rf.731f027a45c6991d93d449116b814235.jpg,REMOVED,Perceptual duplicate of acne-354_jpeg.rf.291540ec681427f8fe6ba4297d2908cc.jpg,499,15.06,N/A
+acne-354_jpeg.rf.d19c094c725f0a1facba4f773d312cb2.jpg,REMOVED,Perceptual duplicate of acne-354_jpeg.rf.291540ec681427f8fe6ba4297d2908cc.jpg,499,15.02,N/A
+acne-354_jpeg.rf.291540ec681427f8fe6ba4297d2908cc.jpg,REJECTED,Extremely blurry (variance 15.08 < 20),499,15.08,N/A
+acne-356_jpeg.rf.c5a00c8f947192ac42359b2f4a3f9a77.jpg,REMOVED,Perceptual duplicate of acne-356_jpeg.rf.fa2076a41a23a162052ab9224e5a9ebd.jpg,502,102.58,N/A
+acne-357_jpeg.rf.2adf3a34d410d5882fbf70ca84b0e7d9.jpg,REMOVED,Perceptual duplicate of acne-357_jpeg.rf.d1d86e145a090a3f4d28ea3ac43b9c7d.jpg,505,116.23,N/A
+acne-357_jpeg.rf.b3f4ff3704e5b2094016b11414bc810c.jpg,REJECTED,Extremely blurry (variance 10.68 < 20),504,10.68,N/A
+acne-360_jpeg.rf.97c5aeaafafd3e572e30a626610d740e.jpg,REMOVED,Perceptual duplicate of acne-360_jpeg.rf.27ace4684843a0688aaecc8f6ca6a610.jpg,507,9.15,N/A
+acne-360_jpeg.rf.27ace4684843a0688aaecc8f6ca6a610.jpg,REJECTED,Extremely blurry (variance 9.15 < 20),507,9.15,N/A
+acne-364_jpeg.rf.a341450b7e3d3acd62aedb85a1848dab.jpg,REMOVED,Perceptual duplicate of acne-364_jpeg.rf.c2863356b7847488b64a67e07eaf3454.jpg,513,7.93,N/A
+acne-364_jpeg.rf.b7333e26e44e3ddcdd88e9ecc59978a0.jpg,REMOVED,Perceptual duplicate of acne-364_jpeg.rf.c2863356b7847488b64a67e07eaf3454.jpg,513,7.83,N/A
+acne-364_jpeg.rf.c2863356b7847488b64a67e07eaf3454.jpg,REJECTED,Extremely blurry (variance 7.97 < 20),513,7.97,N/A
+acne-365_jpeg.rf.2427915dd60077bf47867e7c15da8fd2.jpg,REJECTED,Extremely blurry (variance 14.83 < 20),516,14.83,N/A
+acne-366_jpeg.rf.21d4e73c4485e67d84fe19d9ea9a8470.jpg,REMOVED,Perceptual duplicate of acne-366_jpeg.rf.2ef4dd175cc9cfb53d83d11aa1a0c0f8.jpg,519,12.57,N/A
+acne-366_jpeg.rf.d1a229459b6517204bb697e05b485f0c.jpg,REMOVED,Perceptual duplicate of acne-366_jpeg.rf.2ef4dd175cc9cfb53d83d11aa1a0c0f8.jpg,519,12.44,N/A
+acne-366_jpeg.rf.2ef4dd175cc9cfb53d83d11aa1a0c0f8.jpg,REJECTED,Extremely blurry (variance 12.63 < 20),519,12.63,N/A
+acne-367_jpeg.rf.4f0b1a39330651e6d704ae0dbde2216a.jpg,REMOVED,Perceptual duplicate of acne-367_jpeg.rf.0256023f81edf9a88db31978ece3be48.jpg,521,21.09,N/A
+acne-368_jpeg.rf.9b2d89d85c9c49bbaf1a3e6bdca6ae32.jpg,REMOVED,Perceptual duplicate of acne-368_jpeg.rf.4da0925effde916e57f433c8ceb39301.jpg,525,61.10,N/A
+acne-369_jpeg.rf.9d16afa9ca997abc262d4fc53453d333.jpg,REJECTED,Extremely blurry (variance 7.74 < 20),527,7.74,N/A
+acne-371_jpeg.rf.aa86106fe5f4e3d64215502ad691ca30.jpg,REMOVED,Perceptual duplicate of acne-371_jpeg.rf.363bbc85d736aae294e6a79d7cd55ab4.jpg,533,7.20,N/A
+acne-371_jpeg.rf.363bbc85d736aae294e6a79d7cd55ab4.jpg,REJECTED,Extremely blurry (variance 7.21 < 20),533,7.21,N/A
+acne-372_jpeg.rf.8b720e3b82782272e18eab66f6dc2d32.jpg,REMOVED,Perceptual duplicate of acne-372_jpeg.rf.26906e49c0b19ece96085c3c8afc6bea.jpg,536,71.40,N/A
+acne-372_jpeg.rf.f214dd2d34d52a467b0b217061c7aba4.jpg,REJECTED,Extremely blurry (variance 4.83 < 20),537,4.83,N/A
+acne-374_jpeg.rf.56ed2601d7139e2d658aa201bde21116.jpg,REMOVED,Perceptual duplicate of acne-374_jpeg.rf.8546e29127212242b6e5e7650390bd1e.jpg,539,7.71,N/A
+acne-374_jpeg.rf.8546e29127212242b6e5e7650390bd1e.jpg,REJECTED,Extremely blurry (variance 7.77 < 20),539,7.77,N/A
+acne-375_jpeg.rf.9a09a23ae1d8e9426e9379e4d9ed1766.jpg,REMOVED,Perceptual duplicate of acne-375_jpeg.rf.c54ccc9b0eb4117e004983c0698b3b03.jpg,543,6.47,N/A
+acne-375_jpeg.rf.c54ccc9b0eb4117e004983c0698b3b03.jpg,REJECTED,Extremely blurry (variance 6.63 < 20),543,6.63,N/A
+acne-376_jpeg.rf.8f41eb02e99d94c7e498a1cd0bdbd44c.jpg,REMOVED,Perceptual duplicate of acne-376_jpeg.rf.7dbf19a32e30877ef3748eb9a80f6cfd.jpg,545,55.88,N/A
+acne-376_jpeg.rf.b9142ebd06a87987fde4b24845324332.jpg,REJECTED,Extremely blurry (variance 11.63 < 20),546,11.63,N/A
+acne-377_jpeg.rf.aa0d6fc1d052d267086e063af8d7440b.jpg,REMOVED,Perceptual duplicate of acne-377_jpeg.rf.e2fbe6bd44370d9c27efb5f0c4fe6d43.jpg,549,134.97,N/A
+acne-378_jpeg.rf.d98df002d2683a7c5cc5bb6a1fad32ec.jpg,REMOVED,Perceptual duplicate of acne-378_jpeg.rf.2ced61875bc16008549fa48ac957ba18.jpg,552,36.64,N/A
+acne-378_jpeg.rf.779acc985a7b82aef9e0d51d158bd4b9.jpg,REJECTED,Extremely blurry (variance 11.05 < 20),551,11.05,N/A
+acne-379_jpeg.rf.c2e327c9b280b90da81f13c757f6a8f5.jpg,REMOVED,Perceptual duplicate of acne-379_jpeg.rf.5eb351535b33612163f5c3adff327af8.jpg,555,7.88,N/A
+acne-379_jpeg.rf.5eb351535b33612163f5c3adff327af8.jpg,REJECTED,Extremely blurry (variance 7.99 < 20),555,7.99,N/A
+acne-382_jpeg.rf.aa3f9daabdc54d8e1aac724ac544591e.jpg,REMOVED,Perceptual duplicate of acne-382_jpeg.rf.985f679f84865a9fb015f6a23afc0184.jpg,560,23.11,N/A
+acne-384_jpeg.rf.9df376fbf19e3858685ee339291b6138.jpg,REMOVED,Perceptual duplicate of acne-384_jpeg.rf.ec3231c38efb89c5d97f2acbd9cbcbc5.jpg,567,15.97,N/A
+acne-384_jpeg.rf.99fb93bf0634aca34cad28d7c21398c1.jpg,REMOVED,Perceptual duplicate of acne-384_jpeg.rf.ec3231c38efb89c5d97f2acbd9cbcbc5.jpg,567,15.71,N/A
+acne-384_jpeg.rf.ec3231c38efb89c5d97f2acbd9cbcbc5.jpg,REJECTED,Extremely blurry (variance 16.13 < 20),567,16.13,N/A
+acne-385_jpeg.rf.e1a34318a73237f196396303f2a49d59.jpg,REMOVED,Perceptual duplicate of acne-385_jpeg.rf.194b8fc89123b19866804286f91caff9.jpg,570,27.65,N/A
+acne-386_jpeg.rf.91769001c38658738afb1f0867bfd4e6.jpg,REMOVED,Perceptual duplicate of acne-386_jpeg.rf.82c66c8594d3390a39652de3fa53d6ea.jpg,573,60.15,N/A
+acne-387_jpeg.rf.c0a3072b5a1f185562e803f4c5da9e1b.jpg,REMOVED,Perceptual duplicate of acne-387_jpeg.rf.6d4869774d927eefd56a755e0963e417.jpg,576,17.70,N/A
+acne-387_jpeg.rf.ef8e3aa81ad00bf7693e4f54276afe01.jpg,REMOVED,Perceptual duplicate of acne-387_jpeg.rf.6d4869774d927eefd56a755e0963e417.jpg,576,17.70,N/A
+acne-387_jpeg.rf.6d4869774d927eefd56a755e0963e417.jpg,REJECTED,Extremely blurry (variance 17.76 < 20),576,17.76,N/A
+acne-388_jpeg.rf.5ba4c31a95781b26c1a48dc7e5982ef5.jpg,REMOVED,Perceptual duplicate of acne-388_jpeg.rf.00a70fe529d06c6ea14df96abd46ed6d.jpg,578,11.83,N/A
+acne-388_jpeg.rf.00a70fe529d06c6ea14df96abd46ed6d.jpg,REJECTED,Extremely blurry (variance 11.83 < 20),578,11.83,N/A
+acne-390_jpeg.rf.f87f3bff712355e1c36e45f4eeec197a.jpg,REMOVED,Perceptual duplicate of acne-390_jpeg.rf.e10fc9bdc6c44c3fd81c97839dec6e6e.jpg,582,9.83,N/A
+acne-390_jpeg.rf.3ba3ce0a3b71be501538e232e95d11a1.jpg,REMOVED,Perceptual duplicate of acne-390_jpeg.rf.e10fc9bdc6c44c3fd81c97839dec6e6e.jpg,582,9.78,N/A
+acne-390_jpeg.rf.e10fc9bdc6c44c3fd81c97839dec6e6e.jpg,REJECTED,Extremely blurry (variance 9.89 < 20),582,9.89,N/A
+acne-391_jpeg.rf.73e446195045724a71326dbc90e5af2e.jpg,REMOVED,Perceptual duplicate of acne-391_jpeg.rf.ccb0dda0db38d2c500f431d03c026535.jpg,585,17.33,N/A
+acne-391_jpeg.rf.ccb0dda0db38d2c500f431d03c026535.jpg,REJECTED,Extremely blurry (variance 17.33 < 20),585,17.33,N/A
+acne-392_jpeg.rf.0f1a6008b1cd953c23c148dc76e301b9.jpg,REJECTED,Extremely blurry (variance 5.80 < 20),586,5.80,N/A
+acne-392_jpeg.rf.62dc248594532563b138685db37457e3.jpg,REMOVED,Perceptual duplicate of acne-392_jpeg.rf.8b104cd68b0713735fc8cc2920f3c171.jpg,588,87.10,N/A
+acne-393_jpeg.rf.aa0cd382b0657a0da99569093d75a81b.jpg,REJECTED,Extremely blurry (variance 13.79 < 20),590,13.79,N/A
+acne-394_jpeg.rf.7977adb991f0f71c6a70d27d84c70acd.jpg,REMOVED,Perceptual duplicate of acne-394_jpeg.rf.6f9376793548ea02948af09cbccd5bd9.jpg,593,15.61,N/A
+acne-394_jpeg.rf.6f9376793548ea02948af09cbccd5bd9.jpg,REJECTED,Extremely blurry (variance 15.69 < 20),593,15.69,N/A
+acne-395_jpeg.rf.c84eced7d0c4f1ef1da0ae42af49a29b.jpg,REMOVED,Perceptual duplicate of acne-395_jpeg.rf.a49c2366bd09e30b12904dfd64ba25a0.jpg,597,20.73,N/A
+acne-397_jpeg.rf.2cd37a7d64d4ed004840a13cf5dcd3ae.jpg,REMOVED,Perceptual duplicate of acne-397_jpeg.rf.d234e389ecadbff5554b4b8aa6ebe768.jpg,600,92.02,N/A
+acne-398_jpeg.rf.505688f4b1f661eb1abef3ff962bc016.jpg,REMOVED,Perceptual duplicate of acne-398_jpeg.rf.643fe2e633c0c27d4ef47df2d3e35167.jpg,602,60.20,N/A
+acne-398_jpeg.rf.808d1696055919e2d6214cbc66da18e3.jpg,REJECTED,Extremely blurry (variance 13.96 < 20),603,13.96,N/A
+acne-399_jpeg.rf.1986fbdd6d6494360d60421a47ca8536.jpg,REMOVED,Perceptual duplicate of acne-399_jpeg.rf.aa45a6ad4a79d4c3da26f62b83b77ea1.jpg,606,20.07,N/A
+acne-399_jpeg.rf.612e86dcb97d84f3808e22c1d73a8822.jpg,REJECTED,Extremely blurry (variance 4.32 < 20),605,4.32,N/A
+acne-400_jpeg.rf.17f5bed14cb1f3577987b13e9cc02d59.jpg,REMOVED,Perceptual duplicate of acne-400_jpeg.rf.6f6ceef01f7c3692c9aeaeb87166c0f9.jpg,608,8.66,N/A
+acne-400_jpeg.rf.6f6ceef01f7c3692c9aeaeb87166c0f9.jpg,REJECTED,Extremely blurry (variance 8.78 < 20),608,8.78,N/A
+acne-401_jpeg.rf.530742a0a7770a493dbcdf6c5ce16fe1.jpg,REJECTED,Extremely blurry (variance 16.94 < 20),610,16.94,N/A
+acne-401_jpeg.rf.82350b1230bd73cb7c58a25b02c71625.jpg,REJECTED,Extremely blurry (variance 6.93 < 20),611,6.93,N/A
+acne-403_jpeg.rf.43f7da9f9d69ae4ada3c909640b7ebf8.jpg,REJECTED,Extremely blurry (variance 15.88 < 20),617,15.88,N/A
+acne-408_jpeg.rf.83a16019cae0dad54bbadd1e63e863f5.jpg,REMOVED,Perceptual duplicate of acne-408_jpeg.rf.d272a99439c261a332732dcf882a40ee.jpg,627,15.00,N/A
+acne-408_jpeg.rf.d272a99439c261a332732dcf882a40ee.jpg,REJECTED,Extremely blurry (variance 15.15 < 20),627,15.15,N/A
+acne-409_jpeg.rf.60942100639bfe3294a969b6f1687e60.jpg,REMOVED,Perceptual duplicate of acne-409_jpeg.rf.6c849b9ab9d249335ef9982f47be98b6.jpg,629,50.12,N/A
+acne-410_jpeg.rf.166675b190d3d9d7e19084e675cd6a0b.jpg,REJECTED,Extremely blurry (variance 11.69 < 20),631,11.69,N/A
+acne-411_jpeg.rf.4aa1cacc5b7ed8a3130d134336d83080.jpg,REJECTED,Extremely blurry (variance 15.87 < 20),634,15.87,N/A
+acne-412_jpeg.rf.63c28862cc0cce70f243bd58d887b69b.jpg,REJECTED,Extremely blurry (variance 12.32 < 20),638,12.32,N/A
+acne-413_jpeg.rf.1daf1fe138da68a4f08a94d1cefb27b9.jpg,REJECTED,Extremely blurry (variance 9.26 < 20),640,9.26,N/A
+acne-413_jpeg.rf.ab61e2dbd0045c08b528d4bf76fb88ca.jpg,REMOVED,Perceptual duplicate of acne-413_jpeg.rf.6ef8475c0f6bce6817a636453b783f48.jpg,642,89.57,N/A
+acne-414_jpeg.rf.88b35b1d8242020ac040642e54a44127.jpg,REMOVED,Perceptual duplicate of acne-414_jpeg.rf.7a84ee4e9da558c2e0292a6c5398c211.jpg,645,6.45,N/A
+acne-414_jpeg.rf.7a84ee4e9da558c2e0292a6c5398c211.jpg,REJECTED,Extremely blurry (variance 6.50 < 20),645,6.50,N/A
+acne-415_jpeg.rf.863c0b4959a108b7e4c536518ffea261.jpg,REJECTED,Extremely blurry (variance 15.69 < 20),648,15.69,N/A
+acne-418_jpeg.rf.8c366e283cf5fe69ce8ec5416983f1ba.jpg,REMOVED,Perceptual duplicate of acne-418_jpeg.rf.9e0fb71ff475a35be628c485674844af.jpg,653,7.58,N/A
+acne-418_jpeg.rf.9e0fb71ff475a35be628c485674844af.jpg,REJECTED,Extremely blurry (variance 7.61 < 20),653,7.61,N/A
+acne-419_jpeg.rf.8c086224dd459289ac6d873326f94c81.jpg,REMOVED,Perceptual duplicate of acne-419_jpeg.rf.22e2e44393ce5049c1163fcb407ce2c0.jpg,657,115.52,N/A
+acne-419_jpeg.rf.6d16351fad44830bb43a170a6d11a152.jpg,REJECTED,Extremely blurry (variance 4.38 < 20),656,4.38,N/A
+acne-41_jpeg.rf.fecc9ecbd5f31afb770a6dd1f2d22756.jpg,REMOVED,Perceptual duplicate of acne-41_jpeg.rf.0a5af3c72cbda564daf5fa35de6f9c3d.jpg,660,28.83,N/A
+acne-421_jpeg.rf.fd897905e2eed90fa51a98955b6f1aef.jpg,REMOVED,Perceptual duplicate of acne-421_jpeg.rf.80cd99aebc7819b2fbd8da4997c305c8.jpg,663,9.54,N/A
+acne-421_jpeg.rf.80cd99aebc7819b2fbd8da4997c305c8.jpg,REJECTED,Extremely blurry (variance 9.66 < 20),663,9.66,N/A
+acne-423_jpeg.rf.3e941f6d0ee02a2ef7d2cce78ad7ad1d.jpg,REMOVED,Perceptual duplicate of acne-423_jpeg.rf.4eb7b5df4ad75115bf9f463d8a74a675.jpg,666,163.62,N/A
+acne-427_jpeg.rf.f1aec5024b10be1da7f19132dc2f333d.jpg,REMOVED,Perceptual duplicate of acne-427_jpeg.rf.2da783e959b0fa739da2747fcddad57b.jpg,675,203.81,N/A
+acne-427_jpeg.rf.33dfe8c24bba32680676375b9ab21758.jpg,REJECTED,Extremely blurry (variance 10.18 < 20),674,10.18,N/A
+acne-428_jpeg.rf.6bcda835356ebdd45db844bedf582937.jpg,REMOVED,Perceptual duplicate of acne-428_jpeg.rf.d5027004ee479bc1f0fa6f0ed953b254.jpg,678,12.21,N/A
+acne-428_jpeg.rf.1898c119b4a900ea95fc2e1f61f63633.jpg,REMOVED,Perceptual duplicate of acne-428_jpeg.rf.d5027004ee479bc1f0fa6f0ed953b254.jpg,678,12.12,N/A
+acne-428_jpeg.rf.d5027004ee479bc1f0fa6f0ed953b254.jpg,REJECTED,Extremely blurry (variance 12.30 < 20),678,12.30,N/A
+acne-429_jpeg.rf.07d3876e4906567c86e04d02a8fd5430.jpg,REMOVED,Perceptual duplicate of acne-429_jpeg.rf.de91db9b06b86077a563bc6bfcac3bd9.jpg,681,23.98,N/A
+acne-431_jpeg.rf.55d9d8dba088d4ed41257ebd578f1cbd.jpg,REMOVED,Perceptual duplicate of acne-431_jpeg.rf.730f40513562fc09b465662c3682c322.jpg,683,16.41,N/A
+acne-431_jpeg.rf.730f40513562fc09b465662c3682c322.jpg,REJECTED,Extremely blurry (variance 16.45 < 20),683,16.45,N/A
+acne-435_jpeg.rf.51be96ecdcc5a997a065b54e79992003.jpg,REMOVED,Perceptual duplicate of acne-435_jpeg.rf.25b6a8e1d564205acd5a72693c2ae356.jpg,687,7.95,N/A
+acne-435_jpeg.rf.6949c57f3f1009e7126f92202408ad33.jpg,REMOVED,Perceptual duplicate of acne-435_jpeg.rf.25b6a8e1d564205acd5a72693c2ae356.jpg,687,7.64,N/A
+acne-435_jpeg.rf.25b6a8e1d564205acd5a72693c2ae356.jpg,REJECTED,Extremely blurry (variance 7.99 < 20),687,7.99,N/A
+acne-436_jpeg.rf.5081a57d9c48e608347afff4b798183d.jpg,REMOVED,Perceptual duplicate of acne-436_jpeg.rf.ec3a421adc32e6d1ea2ebfecae40cad1.jpg,690,6.98,N/A
+acne-436_jpeg.rf.ec3a421adc32e6d1ea2ebfecae40cad1.jpg,REJECTED,Extremely blurry (variance 7.09 < 20),690,7.09,N/A
+acne-439_jpeg.rf.09e3f1d8ee5f2c8210105f6e0b1ee7ff.jpg,REJECTED,Extremely blurry (variance 14.24 < 20),691,14.24,N/A
+acne-442_jpeg.rf.4039828c5825e56a2d965eff337a1c49.jpg,REMOVED,Perceptual duplicate of acne-442_jpeg.rf.aac25ee86644e0903055548cc75b7f5b.jpg,699,21.56,N/A
+acne-444_jpeg.rf.8a759876b570b709bc7a0c4d360cfbc4.jpg,REMOVED,Perceptual duplicate of acne-444_jpeg.rf.17c710e4ae97046a1b75f237e00c4083.jpg,704,9.99,N/A
+acne-444_jpeg.rf.17c710e4ae97046a1b75f237e00c4083.jpg,REJECTED,Extremely blurry (variance 10.15 < 20),704,10.15,N/A
+acne-445_jpeg.rf.b348a4570ab35b40f38fdcd815110cbf.jpg,REMOVED,Perceptual duplicate of acne-445_jpeg.rf.c7521e2afbdc65191944790d4f54d698.jpg,707,7.95,N/A
+acne-445_jpeg.rf.c7521e2afbdc65191944790d4f54d698.jpg,REJECTED,Extremely blurry (variance 8.01 < 20),707,8.01,N/A
+acne-446_jpeg.rf.49502eeca55f583370ab57a6d2365e13.jpg,REMOVED,Perceptual duplicate of acne-446_jpeg.rf.8e74b2de9ae5b231b4555619d7774e6f.jpg,710,128.65,N/A
+acne-447_jpeg.rf.8d3240599fd26dadbdc57d31b9f2318c.jpg,REJECTED,Extremely blurry (variance 17.39 < 20),713,17.39,N/A
+acne-448_jpeg.rf.b021d1dcd56ff06db8c09d314cffc4f5.jpg,REMOVED,Perceptual duplicate of acne-448_jpeg.rf.906408064849796e0760c3a1cf3f70f3.jpg,717,16.16,N/A
+acne-448_jpeg.rf.0c01fb516e04b00e61075c48afceff22.jpg,REMOVED,Perceptual duplicate of acne-448_jpeg.rf.906408064849796e0760c3a1cf3f70f3.jpg,717,16.14,N/A
+acne-448_jpeg.rf.906408064849796e0760c3a1cf3f70f3.jpg,REJECTED,Extremely blurry (variance 16.26 < 20),717,16.26,N/A
+acne-450_jpeg.rf.fec6ed23117910c8617e32059de6dad4.jpg,REMOVED,Perceptual duplicate of acne-450_jpeg.rf.c4287e4b16e7dc4edd06e51bfe683938.jpg,723,112.55,N/A
+acne-451_jpeg.rf.4ba336e1fa676e528d21aa03d76537dc.jpg,REMOVED,Perceptual duplicate of acne-451_jpeg.rf.5d0cea48cdeab0d4da0e1bcc7be09971.jpg,725,27.84,N/A
+acne-452_jpeg.rf.90a41e051b49c5770d82a466f442d4df.jpg,REMOVED,Perceptual duplicate of acne-452_jpeg.rf.f6a32aff2fdc688217551d797a2afdf6.jpg,729,12.17,N/A
+acne-452_jpeg.rf.f6a32aff2fdc688217551d797a2afdf6.jpg,REJECTED,Extremely blurry (variance 12.19 < 20),729,12.19,N/A
+acne-453_jpeg.rf.ad700325bcaac6e54c001d0ed4afaa53.jpg,REJECTED,Extremely blurry (variance 4.43 < 20),732,4.43,N/A
+acne-455_jpeg.rf.6304d18d7053e41b42da83d22d54643f.jpg,REMOVED,Perceptual duplicate of acne-455_jpeg.rf.ed1d75be36cf2d6565bb23195140fe87.jpg,735,9.02,N/A
+acne-455_jpeg.rf.c700c1e657da094907796972c60b5d46.jpg,REMOVED,Perceptual duplicate of acne-455_jpeg.rf.ed1d75be36cf2d6565bb23195140fe87.jpg,735,8.81,N/A
+acne-455_jpeg.rf.ed1d75be36cf2d6565bb23195140fe87.jpg,REJECTED,Extremely blurry (variance 9.03 < 20),735,9.03,N/A
+acne-456_jpeg.rf.6cc4a816dfceacefee97f07b0317e977.jpg,REMOVED,Perceptual duplicate of acne-456_jpeg.rf.130dc43a9283d658f345f81c13d24430.jpg,737,42.02,N/A
+acne-458_jpeg.rf.4a519fee2deeac56b21862117fcd42e3.jpg,REMOVED,Perceptual duplicate of acne-458_jpeg.rf.1800044c39a5a7bf3ad6c8ee9e9621e9.jpg,740,24.56,N/A
+acne-48_jpeg.rf.a9ded7072548a490e04644cb2735776d.jpg,REMOVED,Perceptual duplicate of acne-48_jpeg.rf.4cc8afaf5b4f5e5328775578bf9ce06b.jpg,744,247.19,N/A
+acne-4_jpeg.rf.0b2ca4b5f24346064e0f11154950d2d0.jpg,REMOVED,Perceptual duplicate of acne-4_jpeg.rf.23d05b5c692fea21d34eaf769ffa107c.jpg,746,15.23,N/A
+acne-4_jpeg.rf.23d05b5c692fea21d34eaf769ffa107c.jpg,REJECTED,Extremely blurry (variance 15.36 < 20),746,15.36,N/A
+acne-52_jpeg.rf.9ff829362776e6e93a0380c5ae10dce0.jpg,REMOVED,Perceptual duplicate of acne-52_jpeg.rf.463ca01427ced8b75e8ad555f6562c85.jpg,750,137.03,N/A
+acne-53_jpeg.rf.f17c4fe2332f052e5a1d6d2a12edf11b.jpg,REMOVED,Perceptual duplicate of acne-53_jpeg.rf.5e313e36b6a2cdb16036ecfca7bd8ce4.jpg,753,13.36,N/A
+acne-53_jpeg.rf.309209351017f3c3f758c34a4f03066d.jpg,REMOVED,Perceptual duplicate of acne-53_jpeg.rf.5e313e36b6a2cdb16036ecfca7bd8ce4.jpg,753,13.26,N/A
+acne-53_jpeg.rf.5e313e36b6a2cdb16036ecfca7bd8ce4.jpg,REJECTED,Extremely blurry (variance 13.38 < 20),753,13.38,N/A
+acne-55_jpeg.rf.52d59d05e0557577fad9f5ad4a556b2b.jpg,REMOVED,Perceptual duplicate of acne-55_jpeg.rf.63cbfdb90a0985cf988c074a247c3a38.jpg,759,34.10,N/A
+acne-58_jpeg.rf.11b322ab2b7e405a9c44cfa85bb24791.jpg,REMOVED,Perceptual duplicate of acne-58_jpeg.rf.28bfba3d8e2101849e282cb1272be2cf.jpg,761,201.18,N/A
+acne-61_jpeg.rf.b2138da2b11d668db560197ed1cf225f.jpg,REMOVED,Perceptual duplicate of acne-61_jpeg.rf.44491ade9b975ab6df0431537edb6408.jpg,765,74.24,N/A
+acne-62_jpeg.rf.476a0dea19e8c7fd1055e2d591005890.jpg,REMOVED,Perceptual duplicate of acne-62_jpeg.rf.70605cf17da5ed58c8681dd07fdd767c.jpg,767,43.10,N/A
+acne-64_jpeg.rf.e3d8ffbbbbde870a7ea825cce556e735.jpg,REMOVED,Perceptual duplicate of acne-64_jpeg.rf.4186cc3c011874e31e65851c7adff713.jpg,771,181.70,N/A
+acne-71_jpeg.rf.40804f9e8cb069ec301b171bc702fdba.jpg,REMOVED,Perceptual duplicate of acne-71_jpeg.rf.2e67c7ebe6aab3f851e49dd0fc355414.jpg,773,18.74,N/A
+acne-71_jpeg.rf.2e67c7ebe6aab3f851e49dd0fc355414.jpg,REJECTED,Extremely blurry (variance 19.00 < 20),773,19.00,N/A
+acne-73_jpeg.rf.5e196b2c1898b81493da5ffa1cf84ce5.jpg,REMOVED,Perceptual duplicate of acne-73_jpeg.rf.2703f4793f2d5044e08486eff454f0d9.jpg,777,24.18,N/A
+acne-76_jpeg.rf.9aa5cc4527dc97bbba01df0d453cca88.jpg,REMOVED,Perceptual duplicate of acne-76_jpeg.rf.f3f5114dc7c2c85ae4a52a8faa9165e2.jpg,783,10.82,N/A
+acne-76_jpeg.rf.f3f5114dc7c2c85ae4a52a8faa9165e2.jpg,REJECTED,Extremely blurry (variance 10.98 < 20),783,10.98,N/A
+acne-79_jpeg.rf.3d89356c593f4a13796c84584f1ebae1.jpg,REMOVED,Perceptual duplicate of acne-79_jpeg.rf.f04fa53e2ca424f3df254c55036cd948.jpg,786,44.66,N/A
+acne-80_jpeg.rf.8aea20e2a9046ae3aa7056f9e36052c2.jpg,REMOVED,Perceptual duplicate of acne-80_jpeg.rf.9f84fde7496074c93b503a03de510157.jpg,789,175.91,N/A
+acne-80_jpeg.rf.9c64dd4983987dfc7070ff0f35c2eddd.jpg,REMOVED,Perceptual duplicate of acne-5_jpeg.rf.2d6671715f0149df7b494c4d3f12a98b.jpg,918,20.05,N/A
+acne-85_jpeg.rf.f0191760e52e64aeff4a6fa4c3902954.jpg,REMOVED,Perceptual duplicate of acne-85_jpeg.rf.ad62617f33028383d5f54a9e96e18f02.jpg,798,75.90,N/A
+acne-87_jpeg.rf.697e9bbaee187193b6500d76711aec34.jpg,REMOVED,Perceptual duplicate of acne-87_jpeg.rf.2e7547d12cc90cc178e5a5f54a4361bc.jpg,800,8.35,N/A
+acne-87_jpeg.rf.2e7547d12cc90cc178e5a5f54a4361bc.jpg,REJECTED,Extremely blurry (variance 8.43 < 20),800,8.43,N/A
+acne-88_jpeg.rf.a89b4136948caebee438f2859e2c84c1.jpg,REMOVED,Perceptual duplicate of acne-88_jpeg.rf.8c883d0064c9b8b4c12b51f800f35667.jpg,803,60.96,N/A
+acne-88_jpeg.rf.e5c76005b5292fefddca0e753aee38d1.jpg,REMOVED,Perceptual duplicate of acne-457_jpeg.rf.96817d48e7a4fe76651012d96df43141.jpg,915,24.19,N/A
+acne-89_jpeg.rf.6b8f0ac57a6528a269583fad16ddb741.jpg,REMOVED,Perceptual duplicate of acne-89_jpeg.rf.2d6e99b7acb34ac110655a0129c6f6ff.jpg,806,24.65,N/A
+acne-8_jpeg.rf.3e2cc57abd0219b8c5c54c70125d2ff2.jpg,REJECTED,Extremely blurry (variance 15.90 < 20),809,15.90,N/A
+acne-93_jpeg.rf.f003ed34f9cfc0452a68fd5bd66fa82a.jpg,REMOVED,Perceptual duplicate of acne-93_jpeg.rf.8ed4d65382cf14da62dad08e938e414e.jpg,813,21.24,N/A
+acne-94_jpeg.rf.026ec8c717a07c643717eece6f67175a.jpg,REMOVED,Perceptual duplicate of acne-94_jpeg.rf.c64f8962172091d296b522d43b8e2958.jpg,816,26.68,N/A
+acne-96_jpeg.rf.044346d9ee35ca61da01a4fb2f7ac9f9.jpg,REMOVED,Perceptual duplicate of acne-96_jpeg.rf.f41b28fa92fa839f053bce9a3ec1637e.jpg,818,37.72,N/A
+acne-9_jpeg.rf.af8b7f78342611641a751fbacd838415.jpg,REMOVED,Perceptual duplicate of acne-9_jpeg.rf.f4c2ca2d6212d212b29a6a9644d997db.jpg,822,27.23,N/A
+acne-103_jpeg.rf.055236d16a0ad3642b8e9f44250a8999.jpg,REJECTED,Extremely blurry (variance 14.97 < 20),823,14.97,N/A
+acne-11_jpeg.rf.7371382ec505972eb878bf9f4765b068.jpg,REJECTED,Extremely blurry (variance 19.49 < 20),826,19.49,N/A
+acne-219_jpg.rf.49ae2c76139959c042cfa3cf03848824.jpg,REMOVED,Perceptual duplicate of acne-205_jpg.rf.38aad590bdaf41afcf089fa97467ed1b.jpg,899,58.42,N/A
+acne-373_jpeg.rf.fd792665746bf19c7deebc4d5a166e27.jpg,REJECTED,Extremely blurry (variance 10.31 < 20),861,10.31,N/A
+acne-380_jpeg.rf.4e088c1e0484bfd28ea8f858e2d66a71.jpg,REJECTED,Extremely blurry (variance 10.18 < 20),862,10.18,N/A
+acne-389_jpeg.rf.ab217fe1f261ae90befc002ba47247b3.jpg,REJECTED,Extremely blurry (variance 9.75 < 20),863,9.75,N/A
+acne-407_jpeg.rf.5604336c78d700604ccee404912ed721.jpg,REJECTED,Extremely blurry (variance 17.65 < 20),864,17.65,N/A
+acne-434_jpeg.rf.4ec27684c5e305eba0542a73f4e7e9e1.jpg,REJECTED,Extremely blurry (variance 19.41 < 20),868,19.41,N/A
+acne-438_jpeg.rf.d6c4182d7db62c91edd02d5eb0e91e3f.jpg,REJECTED,Extremely blurry (variance 11.86 < 20),869,11.86,N/A
+acne-77_jpeg.rf.b5794c2f868e45624ee538ed0e36657b.jpg,REJECTED,Extremely blurry (variance 8.13 < 20),874,8.13,N/A
+acne-98_jpeg.rf.e3ee418c4157dffff8102998f94e7257.jpg,REJECTED,Extremely blurry (variance 19.24 < 20),878,19.24,N/A
+acne-105_jpeg.rf.e9b2ecfb4afb0217f046179f125242d2.jpg,REJECTED,Extremely blurry (variance 11.57 < 20),880,11.57,N/A
+acne-290_jpeg.rf.116ac413d37048340ce6c5b36e1b9d8a.jpg,REJECTED,Extremely blurry (variance 12.60 < 20),906,12.60,N/A
+acne-370_jpeg.rf.a774873f1db723d298598b08cfc47315.jpg,REJECTED,Extremely blurry (variance 7.04 < 20),911,7.04,N/A
+acne-404_jpeg.rf.120f5acce0b15ea040f6e1a6f8a16dd5.jpg,REJECTED,Extremely blurry (variance 10.46 < 20),912,10.46,N/A
+acne-422_jpeg.rf.c90a75e149931778d9c643273737df59.jpg,REJECTED,Extremely blurry (variance 9.20 < 20),913,9.20,N/A
+acne-440_jpeg.rf.74f7f4b7cabd5d5e65c05367b20cb921.jpg,REJECTED,Extremely blurry (variance 6.64 < 20),914,6.64,N/A
+acne-60_jpeg.rf.f2694c8e6226c725ff40b771560b5e06.jpg,REJECTED,Extremely blurry (variance 9.97 < 20),919,9.97,N/A
+acne-75_jpeg.rf.d648e68373adc0adfd965b63d4632a48.jpg,REJECTED,Extremely blurry (variance 8.55 < 20),921,8.55,N/A
+acne-92_jpeg.rf.ffaa4abd4c59b50edc52a68d96de7679.jpg,REJECTED,Extremely blurry (variance 13.38 < 20),924,13.38,N/A
+acne-297_jpeg.rf.ad7f6811d6c985982b88fdacd9c3cdd0.jpg,ACCEPTED (accepted),Unique representative. Repaired bboxes: 0,acne-297_jpeg.rf.ad7f6811d6c985982b88fdacd9c3cdd0.jpg,609.37,train
+acne-126_jpg.rf.efe7936850eb9c5f1327b1a589d5ed43.jpg,ACCEPTED (accepted),Unique representative. Repaired bboxes: 0,acne-126_jpg.rf.efe7936850eb9c5f1327b1a589d5ed43.jpg,366.39,train
+acne-263_jpeg.rf.05b2f4de9e3a20b040f1dfb8b74d2d1a.jpg,ACCEPTED (accepted),Unique representative. Repaired bboxes: 0,acne-263_jpeg.rf.05b2f4de9e3a20b040f1dfb8b74d2d1a.jpg,135.57,train
+acne-175_jpg.rf.dacb7ead4056283b79f7d7be33f4cec3.jpg,ACCEPTED (accepted),Unique representative. Repaired bboxes: 0,acne-175_jpg.rf.dacb7ead4056283b79f7d7be33f4cec3.jpg,1351.69,train
+acne-281_jpeg.rf.d8eabd19871f7dd2e7cffe7825a2fe01.jpg,ACCEPTED (accepted),Unique representative. Repaired bboxes: 0,acne-281_jpeg.rf.d8eabd19871f7dd2e7cffe7825a2fe01.jpg,179.61,train
+acne-82_jpeg.rf.74054dbecba236793043b917b0373df6.jpg,ACCEPTED (accepted),Unique representative. Repaired bboxes: 0,acne-82_jpeg.rf.74054dbecba236793043b917b0373df6.jpg,88.97,train
+acne-242_jpg.rf.e8a6235ffe20050705548f7cadf05737.jpg,ACCEPTED (accepted),Unique representative. Repaired bboxes: 0,acne-242_jpg.rf.e8a6235ffe20050705548f7cadf05737.jpg,298.66,train
+acne-443_jpeg.rf.8c394880dafd8027d992dec008402504.jpg,ACCEPTED (borderline),Unique representative. Repaired bboxes: 0,acne-443_jpeg.rf.8c394880dafd8027d992dec008402504.jpg,36.22,train
+acne-261_jpeg.rf.2c09c204860acdd00631efedb161eaee.jpg,ACCEPTED (accepted),Unique representative. Repaired bboxes: 0,acne-261_jpeg.rf.2c09c204860acdd00631efedb161eaee.jpg,173.75,train
+acne-141_jpg.rf.fb1199324075ca9348337d6357f172de.jpg,ACCEPTED (accepted),Unique representative. Repaired bboxes: 0,acne-141_jpg.rf.fb1199324075ca9348337d6357f172de.jpg,304.87,train
+acne-210_jpg.rf.27376e50ec325caa3ee3a040244aeaa2.jpg,ACCEPTED (accepted),Unique representative. Repaired bboxes: 0,acne-210_jpg.rf.27376e50ec325caa3ee3a040244aeaa2.jpg,224.94,train
+acne-421_jpeg.rf.44ea91770555c25240d95db7a5a4c054.jpg,ACCEPTED (accepted),Unique representative. Repaired bboxes: 0,acne-421_jpeg.rf.44ea91770555c25240d95db7a5a4c054.jpg,126.46,train
+acne-88_jpeg.rf.8c883d0064c9b8b4c12b51f800f35667.jpg,ACCEPTED (accepted),Unique representative. Repaired bboxes: 0,acne-88_jpeg.rf.8c883d0064c9b8b4c12b51f800f35667.jpg,61.82,train
+acne-96_jpeg.rf.f41b28fa92fa839f053bce9a3ec1637e.jpg,ACCEPTED (borderline),Unique representative. Repaired bboxes: 0,acne-96_jpeg.rf.f41b28fa92fa839f053bce9a3ec1637e.jpg,37.98,train
+acne-386_jpeg.rf.82c66c8594d3390a39652de3fa53d6ea.jpg,ACCEPTED (accepted),Unique representative. Repaired bboxes: 0,acne-386_jpeg.rf.82c66c8594d3390a39652de3fa53d6ea.jpg,60.74,train
+acne-287_jpeg.rf.2f8ab412b79cdc05c82405422d9da6fa.jpg,ACCEPTED (accepted),Unique representative. Repaired bboxes: 0,acne-287_jpeg.rf.2f8ab412b79cdc05c82405422d9da6fa.jpg,104.59,train
+acne-210_jpg.rf.ba41808779eefd711acb8449a1f57d80.jpg,ACCEPTED (accepted),Unique representative. Repaired bboxes: 0,acne-210_jpg.rf.ba41808779eefd711acb8449a1f57d80.jpg,324.17,train
+acne-182_jpg.rf.003ad78b62a47fe0c61d19fd1df199b5.jpg,ACCEPTED (accepted),Unique representative. Repaired bboxes: 0,acne-182_jpg.rf.003ad78b62a47fe0c61d19fd1df199b5.jpg,405.58,train
+acne-154_jpg.rf.3a3be14df7e5a70b268d664010e1383e.jpg,ACCEPTED (accepted),Unique representative. Repaired bboxes: 0,acne-154_jpg.rf.3a3be14df7e5a70b268d664010e1383e.jpg,325.87,train
+acne-10_jpeg.rf.f27748da2520545eba9ebcd7e0dc6482.jpg,ACCEPTED (borderline),Unique representative. Repaired bboxes: 0,acne-10_jpeg.rf.f27748da2520545eba9ebcd7e0dc6482.jpg,34.04,train
+acne-273_jpeg.rf.2c96969d8a1f9e271106aa1845ae2c3d.jpg,ACCEPTED (accepted),Unique representative. Repaired bboxes: 0,acne-273_jpeg.rf.2c96969d8a1f9e271106aa1845ae2c3d.jpg,138.06,train
+acne-238_jpg.rf.80f847a030394d5465ce92577e178e3d.jpg,ACCEPTED (accepted),Unique representative. Repaired bboxes: 0,acne-238_jpg.rf.80f847a030394d5465ce92577e178e3d.jpg,444.55,train
+acne-133_jpg.rf.6db7d5e9aba6f4de4253e2100ab6ffbc.jpg,ACCEPTED (accepted),Unique representative. Repaired bboxes: 0,acne-133_jpg.rf.6db7d5e9aba6f4de4253e2100ab6ffbc.jpg,441.19,train
+acne-326_jpeg.rf.a38294ebe371460887bf7faa766c446f.jpg,ACCEPTED (accepted),Unique representative. Repaired bboxes: 0,acne-326_jpeg.rf.a38294ebe371460887bf7faa766c446f.jpg,119.75,train
+acne-451_jpeg.rf.ab9da0a0f97f4a3049d0e45b3cf1fff9.jpg,ACCEPTED (borderline),Unique representative. Repaired bboxes: 0,acne-451_jpeg.rf.ab9da0a0f97f4a3049d0e45b3cf1fff9.jpg,34.94,train
+acne-456_jpeg.rf.ebd4ad4ae2390d49bd8739f325fff0b4.jpg,ACCEPTED (accepted),Unique representative. Repaired bboxes: 0,acne-456_jpeg.rf.ebd4ad4ae2390d49bd8739f325fff0b4.jpg,68.21,train
+acne-10_jpeg.rf.1a5742dc70d2abc4799e0ce84795741b.jpg,ACCEPTED (accepted),Unique representative. Repaired bboxes: 0,acne-10_jpeg.rf.1a5742dc70d2abc4799e0ce84795741b.jpg,367.24,train
+acne-243_jpeg.rf.f3d5b38abbb217c911e3780085133be5.jpg,ACCEPTED (borderline),Unique representative. Repaired bboxes: 0,acne-243_jpeg.rf.f3d5b38abbb217c911e3780085133be5.jpg,38.37,train
+acne-13_jpeg.rf.6bccdd195b2e284d78717dccf8333266.jpg,ACCEPTED (borderline),Unique representative. Repaired bboxes: 0,acne-13_jpeg.rf.6bccdd195b2e284d78717dccf8333266.jpg,30.41,train
+acne-319_jpeg.rf.205637ac39511f1f1662a5aec69ebdfa.jpg,ACCEPTED (borderline),Unique representative. Repaired bboxes: 0,acne-319_jpeg.rf.205637ac39511f1f1662a5aec69ebdfa.jpg,24.77,train
+acne-159_jpg.rf.1e5a07658d750d8ba5461046e276e5f0.jpg,ACCEPTED (accepted),Unique representative. Repaired bboxes: 0,acne-159_jpg.rf.1e5a07658d750d8ba5461046e276e5f0.jpg,165.02,train
+acne-369_jpeg.rf.c2ff2e67d05d05952f4a40350f6ad3d0.jpg,ACCEPTED (borderline),Unique representative. Repaired bboxes: 0,acne-369_jpeg.rf.c2ff2e67d05d05952f4a40350f6ad3d0.jpg,38.39,train
+acne-264_jpeg.rf.4ca425fecee74e503bca84463aab5cf7.jpg,ACCEPTED (accepted),Unique representative. Repaired bboxes: 0,acne-264_jpeg.rf.4ca425fecee74e503bca84463aab5cf7.jpg,160.23,train
+acne-272_jpeg.rf.f2a52a5091e827195d89bb2e1adc68f2.jpg,ACCEPTED (accepted),Unique representative. Repaired bboxes: 0,acne-272_jpeg.rf.f2a52a5091e827195d89bb2e1adc68f2.jpg,276.34,train
+acne-30_jpeg.rf.a0496a290183a84f56100a623fe63a30.jpg,ACCEPTED (borderline),Unique representative. Repaired bboxes: 0,acne-30_jpeg.rf.a0496a290183a84f56100a623fe63a30.jpg,29.26,train
+acne-244_jpeg.rf.397fc919836ce234ec8b5a5d0fa686ce.jpg,ACCEPTED (borderline),Unique representative. Repaired bboxes: 0,acne-244_jpeg.rf.397fc919836ce234ec8b5a5d0fa686ce.jpg,22.68,train
+acne-41_jpeg.rf.0a5af3c72cbda564daf5fa35de6f9c3d.jpg,ACCEPTED (borderline),Unique representative. Repaired bboxes: 0,acne-41_jpeg.rf.0a5af3c72cbda564daf5fa35de6f9c3d.jpg,28.97,train
+acne-274_jpeg.rf.b89c832c00d43006a473c082a676bf8a.jpg,ACCEPTED (accepted),Unique representative. Repaired bboxes: 0,acne-274_jpeg.rf.b89c832c00d43006a473c082a676bf8a.jpg,151.76,train
+acne-153_jpg.rf.26750acfcfc53810f96cae56aa2c4462.jpg,ACCEPTED (accepted),Unique representative. Repaired bboxes: 0,acne-153_jpg.rf.26750acfcfc53810f96cae56aa2c4462.jpg,542.85,train
+acne-102_jpeg.rf.d15b34dc9a1e69aa996118a4c1a173ef.jpg,ACCEPTED (accepted),Unique representative. Repaired bboxes: 0,acne-102_jpeg.rf.d15b34dc9a1e69aa996118a4c1a173ef.jpg,141.37,train
+acne-343_jpeg.rf.b5da5bc6a8466e5838fbf838a63bb924.jpg,ACCEPTED (borderline),Unique representative. Repaired bboxes: 0,acne-343_jpeg.rf.b5da5bc6a8466e5838fbf838a63bb924.jpg,20.54,train
+acne-146_jpg.rf.ad8dd4f3dbbff83b7a2081bfbf2fee4e.jpg,ACCEPTED (accepted),Unique representative. Repaired bboxes: 0,acne-146_jpg.rf.ad8dd4f3dbbff83b7a2081bfbf2fee4e.jpg,230.27,train
+acne-122_jpg.rf.457449f3ea61b059c8755a833cba36e4.jpg,ACCEPTED (accepted),Unique representative. Repaired bboxes: 0,acne-122_jpg.rf.457449f3ea61b059c8755a833cba36e4.jpg,304.92,train
+acne-201_jpg.rf.3258e50cc995cbcac9d825ea00f33167.jpg,ACCEPTED (accepted),Unique representative. Repaired bboxes: 0,acne-201_jpg.rf.3258e50cc995cbcac9d825ea00f33167.jpg,399.73,train
+acne-113_jpeg.rf.61f34253768c2c2d90f282009cc85cc1.jpg,ACCEPTED (borderline),Unique representative. Repaired bboxes: 0,acne-113_jpeg.rf.61f34253768c2c2d90f282009cc85cc1.jpg,49.13,train
+acne-24_jpeg.rf.baa0f5a4aeba2132b48dd958e6911b1a.jpg,ACCEPTED (accepted),Unique representative. Repaired bboxes: 0,acne-24_jpeg.rf.baa0f5a4aeba2132b48dd958e6911b1a.jpg,73.38,train
+acne-199_jpg.rf.471efe501dd703c4c868b80f346eafb1.jpg,ACCEPTED (accepted),Unique representative. Repaired bboxes: 0,acne-199_jpg.rf.471efe501dd703c4c868b80f346eafb1.jpg,234.70,train
+acne-254_jpeg.rf.88cbc08ac5888b008a34030b7d82e2a4.jpg,ACCEPTED (accepted),Unique representative. Repaired bboxes: 0,acne-254_jpeg.rf.88cbc08ac5888b008a34030b7d82e2a4.jpg,254.90,train
+acne-42_jpeg.rf.922e1ad2015d0b38de6725dfa26aa056.jpg,ACCEPTED (accepted),Unique representative. Repaired bboxes: 0,acne-42_jpeg.rf.922e1ad2015d0b38de6725dfa26aa056.jpg,154.01,train
+acne-268_jpeg.rf.f5740bd4e859015e8d02ec408dc4aec2.jpg,ACCEPTED (accepted),Unique representative. Repaired bboxes: 0,acne-268_jpeg.rf.f5740bd4e859015e8d02ec408dc4aec2.jpg,197.89,train
+acne-341_jpeg.rf.4cb410fa46618338d9e935597ba6ad44.jpg,ACCEPTED (accepted),Unique representative. Repaired bboxes: 0,acne-341_jpeg.rf.4cb410fa46618338d9e935597ba6ad44.jpg,71.56,train
+acne-377_jpeg.rf.e2fbe6bd44370d9c27efb5f0c4fe6d43.jpg,ACCEPTED (accepted),Unique representative. Repaired bboxes: 0,acne-377_jpeg.rf.e2fbe6bd44370d9c27efb5f0c4fe6d43.jpg,136.43,train
+acne-203_jpg.rf.e63e6e1e90fa2af37fcdabea7cdefb41.jpg,ACCEPTED (accepted),Unique representative. Repaired bboxes: 0,acne-203_jpg.rf.e63e6e1e90fa2af37fcdabea7cdefb41.jpg,212.82,train
+acne-395_jpeg.rf.8e488b38e5e5576a3ea1f0302d47da3a.jpg,ACCEPTED (accepted),Unique representative. Repaired bboxes: 0,acne-395_jpeg.rf.8e488b38e5e5576a3ea1f0302d47da3a.jpg,78.86,train
+acne-303_jpeg.rf.0afc7b236db9b4d5728bc61905f6a4ce.jpg,ACCEPTED (accepted),Unique representative. Repaired bboxes: 0,acne-303_jpeg.rf.0afc7b236db9b4d5728bc61905f6a4ce.jpg,96.34,train
+acne-248_jpeg.rf.9e4f57bbf4202a85b336503d3b358c40.jpg,ACCEPTED (accepted),Unique representative. Repaired bboxes: 0,acne-248_jpeg.rf.9e4f57bbf4202a85b336503d3b358c40.jpg,69.16,train
+acne-19_jpeg.rf.08f442979a625bee5a09e346ab0f8185.jpg,ACCEPTED (accepted),Unique representative. Repaired bboxes: 0,acne-19_jpeg.rf.08f442979a625bee5a09e346ab0f8185.jpg,91.30,train
+acne-304_jpeg.rf.f6dababa61a42441d668032b4577994e.jpg,ACCEPTED (accepted),Unique representative. Repaired bboxes: 0,acne-304_jpeg.rf.f6dababa61a42441d668032b4577994e.jpg,109.22,train
+acne-372_jpeg.rf.26906e49c0b19ece96085c3c8afc6bea.jpg,ACCEPTED (accepted),Unique representative. Repaired bboxes: 0,acne-372_jpeg.rf.26906e49c0b19ece96085c3c8afc6bea.jpg,72.69,train
+acne-56_jpeg.rf.967731b7fd228e7b4e8d996b656781cd.jpg,ACCEPTED (borderline),Unique representative. Repaired bboxes: 0,acne-56_jpeg.rf.967731b7fd228e7b4e8d996b656781cd.jpg,31.46,train
+acne-2_jpeg.rf.f4ec613e23dd372f3232c4cd68424250.jpg,ACCEPTED (borderline),Unique representative. Repaired bboxes: 0,acne-2_jpeg.rf.f4ec613e23dd372f3232c4cd68424250.jpg,22.67,train
+acne-211_jpg.rf.897fd14484e689e5a579422312525be5.jpg,ACCEPTED (accepted),Unique representative. Repaired bboxes: 0,acne-211_jpg.rf.897fd14484e689e5a579422312525be5.jpg,127.46,train
+acne-374_jpeg.rf.9a7d17e0551efd45d5c0c0307d8e398f.jpg,ACCEPTED (borderline),Unique representative. Repaired bboxes: 0,acne-374_jpeg.rf.9a7d17e0551efd45d5c0c0307d8e398f.jpg,24.38,train
+acne-24_jpeg.rf.d8d7cdb672a8c411c9822ed978d0f06b.jpg,ACCEPTED (accepted),Unique representative. Repaired bboxes: 0,acne-24_jpeg.rf.d8d7cdb672a8c411c9822ed978d0f06b.jpg,219.44,train
+acne-205_jpg.rf.38aad590bdaf41afcf089fa97467ed1b.jpg,ACCEPTED (accepted),Unique representative. Repaired bboxes: 0,acne-205_jpg.rf.38aad590bdaf41afcf089fa97467ed1b.jpg,175.13,train
+acne-287_jpeg.rf.26a033f8acf312e5ae68de86a886be7a.jpg,ACCEPTED (borderline),Unique representative. Repaired bboxes: 0,acne-287_jpeg.rf.26a033f8acf312e5ae68de86a886be7a.jpg,58.61,train
+acne-196_jpg.rf.9fb85af642d154fba4f3ddaac45d98ba.jpg,ACCEPTED (accepted),Unique representative. Repaired bboxes: 0,acne-196_jpg.rf.9fb85af642d154fba4f3ddaac45d98ba.jpg,113.39,train
+acne-228_jpg.rf.b7310fea7306adb3ad6a912cd30c35c6.jpg,ACCEPTED (accepted),Unique representative. Repaired bboxes: 0,acne-228_jpg.rf.b7310fea7306adb3ad6a912cd30c35c6.jpg,391.26,train
+acne-286_jpeg.rf.1b6bcca440593ac6e33617083f34a4c5.jpg,ACCEPTED (accepted),Unique representative. Repaired bboxes: 0,acne-286_jpeg.rf.1b6bcca440593ac6e33617083f34a4c5.jpg,120.84,train
+acne-297_jpeg.rf.88dc8c0f4c7b088c16aade56961db50e.jpg,ACCEPTED (accepted),Unique representative. Repaired bboxes: 0,acne-297_jpeg.rf.88dc8c0f4c7b088c16aade56961db50e.jpg,162.77,train
+acne-398_jpeg.rf.643fe2e633c0c27d4ef47df2d3e35167.jpg,ACCEPTED (accepted),Unique representative. Repaired bboxes: 0,acne-398_jpeg.rf.643fe2e633c0c27d4ef47df2d3e35167.jpg,60.50,train
+acne-339_jpeg.rf.89ead30b27764c9ff8f8b9c8fbd6d0d7.jpg,ACCEPTED (accepted),Unique representative. Repaired bboxes: 0,acne-339_jpeg.rf.89ead30b27764c9ff8f8b9c8fbd6d0d7.jpg,142.99,train
+acne-107_jpeg.rf.9a0d1f16966910fc2d1351f8c218e971.jpg,ACCEPTED (accepted),Unique representative. Repaired bboxes: 0,acne-107_jpeg.rf.9a0d1f16966910fc2d1351f8c218e971.jpg,123.51,train
+acne-178_jpg.rf.3c2c36e281c650dd6a48b45bde2a3767.jpg,ACCEPTED (accepted),Unique representative. Repaired bboxes: 0,acne-178_jpg.rf.3c2c36e281c650dd6a48b45bde2a3767.jpg,258.75,train
+acne-344_jpeg.rf.580e6a0e454cf49479d15b0ae2e3db00.jpg,ACCEPTED (borderline),Unique representative. Repaired bboxes: 0,acne-344_jpeg.rf.580e6a0e454cf49479d15b0ae2e3db00.jpg,35.23,train
+acne-458_jpeg.rf.9dfc3f4adb87460f23c8a99cbf268976.jpg,ACCEPTED (borderline),Unique representative. Repaired bboxes: 0,acne-458_jpeg.rf.9dfc3f4adb87460f23c8a99cbf268976.jpg,29.29,train
+acne-236_jpg.rf.c937d8c3c60bac296eb9e3b9237e13aa.jpg,ACCEPTED (accepted),Unique representative. Repaired bboxes: 0,acne-236_jpg.rf.c937d8c3c60bac296eb9e3b9237e13aa.jpg,331.38,train
+acne-202_jpg.rf.3cb4d03fc5719519ae3f8319099eddef.jpg,ACCEPTED (accepted),Unique representative. Repaired bboxes: 0,acne-202_jpg.rf.3cb4d03fc5719519ae3f8319099eddef.jpg,343.81,train
+acne-443_jpeg.rf.035df980e217425cf3c01c69db4e3ca8.jpg,ACCEPTED (accepted),Unique representative. Repaired bboxes: 0,acne-443_jpeg.rf.035df980e217425cf3c01c69db4e3ca8.jpg,132.00,train
+acne-197_jpg.rf.b97d2d4715779a1d8e5126a412a80028.jpg,ACCEPTED (accepted),Unique representative. Repaired bboxes: 0,acne-197_jpg.rf.b97d2d4715779a1d8e5126a412a80028.jpg,243.83,train
+acne-274_jpeg.rf.18debabcc2bd570e8ba04deee7365362.jpg,ACCEPTED (borderline),Unique representative. Repaired bboxes: 0,acne-274_jpeg.rf.18debabcc2bd570e8ba04deee7365362.jpg,41.45,train
+acne-419_jpeg.rf.22e2e44393ce5049c1163fcb407ce2c0.jpg,ACCEPTED (accepted),Unique representative. Repaired bboxes: 0,acne-419_jpeg.rf.22e2e44393ce5049c1163fcb407ce2c0.jpg,118.62,train
+acne-253_jpeg.rf.e154d63b84079d632df8e55caed9cfa9.jpg,ACCEPTED (accepted),Unique representative. Repaired bboxes: 0,acne-253_jpeg.rf.e154d63b84079d632df8e55caed9cfa9.jpg,148.25,train
+acne-279_jpeg.rf.c93f53ae9fdc420e918ca3d523cb7699.jpg,ACCEPTED (accepted),Unique representative. Repaired bboxes: 0,acne-279_jpeg.rf.c93f53ae9fdc420e918ca3d523cb7699.jpg,287.84,train
+acne-312_jpeg.rf.e6122630d600d32cdb7d18aa87a5c874.jpg,ACCEPTED (accepted),Unique representative. Repaired bboxes: 0,acne-312_jpeg.rf.e6122630d600d32cdb7d18aa87a5c874.jpg,227.18,train
+acne-426_jpeg.rf.c6cf511ebfc862bf24a087df1ac10bfd.jpg,ACCEPTED (accepted),Unique representative. Repaired bboxes: 0,acne-426_jpeg.rf.c6cf511ebfc862bf24a087df1ac10bfd.jpg,127.75,train
+acne-342_jpeg.rf.5249295520380096454ecc28c2fbab82.jpg,ACCEPTED (accepted),Unique representative. Repaired bboxes: 0,acne-342_jpeg.rf.5249295520380096454ecc28c2fbab82.jpg,75.11,train
+acne-70_jpeg.rf.79a8da468a25fbeeb5a047793a3e9a4d.jpg,ACCEPTED (accepted),Unique representative. Repaired bboxes: 0,acne-70_jpeg.rf.79a8da468a25fbeeb5a047793a3e9a4d.jpg,70.21,train
+acne-406_jpeg.rf.046be6251368f2122cac81637d5e0603.jpg,ACCEPTED (accepted),Unique representative. Repaired bboxes: 0,acne-406_jpeg.rf.046be6251368f2122cac81637d5e0603.jpg,119.40,train
+acne-301_jpeg.rf.8106738a68360a3b4b44213002378a11.jpg,ACCEPTED (accepted),Unique representative. Repaired bboxes: 0,acne-301_jpeg.rf.8106738a68360a3b4b44213002378a11.jpg,157.33,train
+acne-306_jpeg.rf.40691f2c7cb3cd1adc01b94d628f07c2.jpg,ACCEPTED (accepted),Unique representative. Repaired bboxes: 0,acne-306_jpeg.rf.40691f2c7cb3cd1adc01b94d628f07c2.jpg,238.50,train
+acne-96_jpeg.rf.ff885bfd24e5fd4322f0189e98ade0ac.jpg,ACCEPTED (accepted),Unique representative. Repaired bboxes: 0,acne-96_jpeg.rf.ff885bfd24e5fd4322f0189e98ade0ac.jpg,194.06,train
+acne-111_jpeg.rf.5305be8df8fc4bac0f9d4473e75ce446.jpg,ACCEPTED (borderline),Unique representative. Repaired bboxes: 0,acne-111_jpeg.rf.5305be8df8fc4bac0f9d4473e75ce446.jpg,24.58,train
+acne-109_jpeg.rf.f1dfe70192f63b0f7f3c60c34f989502.jpg,ACCEPTED (accepted),Unique representative. Repaired bboxes: 0,acne-109_jpeg.rf.f1dfe70192f63b0f7f3c60c34f989502.jpg,331.58,train
+acne-436_jpeg.rf.da0a6c94fc959f7b274efd39aff66b86.jpg,ACCEPTED (accepted),Unique representative. Repaired bboxes: 0,acne-436_jpeg.rf.da0a6c94fc959f7b274efd39aff66b86.jpg,241.72,train
+acne-238_jpg.rf.87930190461918c137e4496b995c318b.jpg,ACCEPTED (accepted),Unique representative. Repaired bboxes: 0,acne-238_jpg.rf.87930190461918c137e4496b995c318b.jpg,327.31,train
+acne-361_jpeg.rf.cd9b17ea87f1fe36e9645dcfa026ae14.jpg,ACCEPTED (accepted),Unique representative. Repaired bboxes: 0,acne-361_jpeg.rf.cd9b17ea87f1fe36e9645dcfa026ae14.jpg,176.14,train
+acne-302_jpeg.rf.39d5cd7876a0868d79a972616a4f9453.jpg,ACCEPTED (accepted),Unique representative. Repaired bboxes: 0,acne-302_jpeg.rf.39d5cd7876a0868d79a972616a4f9453.jpg,119.37,train
+acne-161_jpg.rf.78459635cae3ff835cac7159c10bce51.jpg,ACCEPTED (accepted),Unique representative. Repaired bboxes: 0,acne-161_jpg.rf.78459635cae3ff835cac7159c10bce51.jpg,115.83,train
+acne-61_jpeg.rf.44491ade9b975ab6df0431537edb6408.jpg,ACCEPTED (accepted),Unique representative. Repaired bboxes: 0,acne-61_jpeg.rf.44491ade9b975ab6df0431537edb6408.jpg,74.52,train
+acne-150_jpg.rf.ffcc725634ec3221b86686905e57e399.jpg,ACCEPTED (accepted),Unique representative. Repaired bboxes: 0,acne-150_jpg.rf.ffcc725634ec3221b86686905e57e399.jpg,195.72,train
+acne-71_jpeg.rf.b5adf33b1b35b9ac7d025477efa13bb6.jpg,ACCEPTED (accepted),Unique representative. Repaired bboxes: 0,acne-71_jpeg.rf.b5adf33b1b35b9ac7d025477efa13bb6.jpg,73.74,train
+acne-93_jpeg.rf.8ed4d65382cf14da62dad08e938e414e.jpg,ACCEPTED (borderline),Unique representative. Repaired bboxes: 0,acne-93_jpeg.rf.8ed4d65382cf14da62dad08e938e414e.jpg,21.49,train
+acne-225_jpg.rf.33624bbd3381958397789ce04775a4e7.jpg,ACCEPTED (accepted),Unique representative. Repaired bboxes: 0,acne-225_jpg.rf.33624bbd3381958397789ce04775a4e7.jpg,804.65,train
+acne-234_jpg.rf.d11b7694547229ae40b68f4f9a3486ad.jpg,ACCEPTED (accepted),Unique representative. Repaired bboxes: 0,acne-234_jpg.rf.d11b7694547229ae40b68f4f9a3486ad.jpg,781.72,train
+acne-48_jpeg.rf.4cc8afaf5b4f5e5328775578bf9ce06b.jpg,ACCEPTED (accepted),Unique representative. Repaired bboxes: 0,acne-48_jpeg.rf.4cc8afaf5b4f5e5328775578bf9ce06b.jpg,250.49,train
+acne-331_jpeg.rf.c5f8a3c6a50ee512374cad7ce38c9019.jpg,ACCEPTED (accepted),Unique representative. Repaired bboxes: 0,acne-331_jpeg.rf.c5f8a3c6a50ee512374cad7ce38c9019.jpg,63.67,train
+acne-299_jpeg.rf.110c3f91aa4758e9fd18fbe5975c1e38.jpg,ACCEPTED (accepted),Unique representative. Repaired bboxes: 0,acne-299_jpeg.rf.110c3f91aa4758e9fd18fbe5975c1e38.jpg,68.79,train
+acne-29_jpeg.rf.a24f12e840936acca22493e5b9b680c4.jpg,ACCEPTED (accepted),Unique representative. Repaired bboxes: 0,acne-29_jpeg.rf.a24f12e840936acca22493e5b9b680c4.jpg,183.49,train
+acne-1_jpeg.rf.19271021285a0573d9c1351cc0a39309.jpg,ACCEPTED (accepted),Unique representative. Repaired bboxes: 0,acne-1_jpeg.rf.19271021285a0573d9c1351cc0a39309.jpg,139.59,train
+acne-340_jpeg.rf.c2980243aa844e28b4cc19b02b723df9.jpg,ACCEPTED (borderline),Unique representative. Repaired bboxes: 0,acne-340_jpeg.rf.c2980243aa844e28b4cc19b02b723df9.jpg,45.83,train
+acne-223_jpg.rf.1b603f941d5d6b2ed05a4998dabd83d4.jpg,ACCEPTED (accepted),Unique representative. Repaired bboxes: 0,acne-223_jpg.rf.1b603f941d5d6b2ed05a4998dabd83d4.jpg,262.58,train
+acne-273_jpeg.rf.f1b90cd6256ff39c393140634e65b4f5.jpg,ACCEPTED (accepted),Unique representative. Repaired bboxes: 0,acne-273_jpeg.rf.f1b90cd6256ff39c393140634e65b4f5.jpg,80.17,train
+acne-250_jpeg.rf.2b1fce5f13deb5d4c1483ee4d0ebadd6.jpg,ACCEPTED (accepted),Unique representative. Repaired bboxes: 0,acne-250_jpeg.rf.2b1fce5f13deb5d4c1483ee4d0ebadd6.jpg,109.95,train
+acne-262_jpeg.rf.afa37603fe5f54b8eace275167430729.jpg,ACCEPTED (accepted),Unique representative. Repaired bboxes: 0,acne-262_jpeg.rf.afa37603fe5f54b8eace275167430729.jpg,196.30,train
+acne-194_jpg.rf.1d82dbb7c1fa130420898223ef06720a.jpg,ACCEPTED (accepted),Unique representative. Repaired bboxes: 0,acne-194_jpg.rf.1d82dbb7c1fa130420898223ef06720a.jpg,212.01,train
+acne-353_jpeg.rf.edc35d597e58e570a2e3d663f4fab978.jpg,ACCEPTED (borderline),Unique representative. Repaired bboxes: 0,acne-353_jpeg.rf.edc35d597e58e570a2e3d663f4fab978.jpg,31.05,train
+acne-133_jpg.rf.d5a2596cbb19ae009ce2659b3104dba1.jpg,ACCEPTED (accepted),Unique representative. Repaired bboxes: 0,acne-133_jpg.rf.d5a2596cbb19ae009ce2659b3104dba1.jpg,506.89,train
+acne-423_jpeg.rf.4eb7b5df4ad75115bf9f463d8a74a675.jpg,ACCEPTED (accepted),Unique representative. Repaired bboxes: 0,acne-423_jpeg.rf.4eb7b5df4ad75115bf9f463d8a74a675.jpg,164.78,train
+acne-297_jpeg.rf.fa66ef476c33461675c5b2296b901a6d.jpg,ACCEPTED (accepted),Unique representative. Repaired bboxes: 0,acne-297_jpeg.rf.fa66ef476c33461675c5b2296b901a6d.jpg,354.04,train
+acne-195_jpg.rf.bcfc34920b8aec75484cddfc069c343c.jpg,ACCEPTED (accepted),Unique representative. Repaired bboxes: 0,acne-195_jpg.rf.bcfc34920b8aec75484cddfc069c343c.jpg,79.98,train
+acne-395_jpeg.rf.a49c2366bd09e30b12904dfd64ba25a0.jpg,ACCEPTED (borderline),Unique representative. Repaired bboxes: 0,acne-395_jpeg.rf.a49c2366bd09e30b12904dfd64ba25a0.jpg,20.89,train
+acne-403_jpeg.rf.137e5a1d3dfbfc106e99aaa5e8368891.jpg,ACCEPTED (accepted),Unique representative. Repaired bboxes: 0,acne-403_jpeg.rf.137e5a1d3dfbfc106e99aaa5e8368891.jpg,71.41,train
+acne-55_jpeg.rf.58295d18f65b714284f8b196289592fd.jpg,ACCEPTED (accepted),Unique representative. Repaired bboxes: 0,acne-55_jpeg.rf.58295d18f65b714284f8b196289592fd.jpg,60.51,train
+acne-282_jpeg.rf.2b0cc8d72fc1111adda59750e815492e.jpg,ACCEPTED (accepted),Unique representative. Repaired bboxes: 0,acne-282_jpeg.rf.2b0cc8d72fc1111adda59750e815492e.jpg,274.99,train
+acne-58_jpeg.rf.28bfba3d8e2101849e282cb1272be2cf.jpg,ACCEPTED (accepted),Unique representative. Repaired bboxes: 0,acne-58_jpeg.rf.28bfba3d8e2101849e282cb1272be2cf.jpg,201.75,train
+acne-291_jpeg.rf.edde17fb518b35f2edf62b9d529cfae0.jpg,ACCEPTED (accepted),Unique representative. Repaired bboxes: 0,acne-291_jpeg.rf.edde17fb518b35f2edf62b9d529cfae0.jpg,168.69,train
+acne-185_jpg.rf.3bd7bc00f8d8f6e04e041a9a664f80e2.jpg,ACCEPTED (accepted),Unique representative. Repaired bboxes: 0,acne-185_jpg.rf.3bd7bc00f8d8f6e04e041a9a664f80e2.jpg,552.08,train
+acne-145_jpg.rf.0a5ef2e06e9910a40d972dca98b41eef.jpg,ACCEPTED (accepted),Unique representative. Repaired bboxes: 0,acne-145_jpg.rf.0a5ef2e06e9910a40d972dca98b41eef.jpg,390.30,train
+acne-262_jpeg.rf.36a982c9495a6f9378a19e9344bd6d09.jpg,ACCEPTED (accepted),Unique representative. Repaired bboxes: 0,acne-262_jpeg.rf.36a982c9495a6f9378a19e9344bd6d09.jpg,210.02,train
+acne-17_jpeg.rf.51057c9fd58430da022fe8b8e54cbfce.jpg,ACCEPTED (accepted),Unique representative. Repaired bboxes: 0,acne-17_jpeg.rf.51057c9fd58430da022fe8b8e54cbfce.jpg,133.76,train
+acne-260_jpeg.rf.5c8e935a9fab3530d525cd1d89cd22ab.jpg,ACCEPTED (borderline),Unique representative. Repaired bboxes: 0,acne-260_jpeg.rf.5c8e935a9fab3530d525cd1d89cd22ab.jpg,55.26,train
+acne-169_jpg.rf.cc770617347b77cbf96905c6139f8098.jpg,ACCEPTED (accepted),Unique representative. Repaired bboxes: 0,acne-169_jpg.rf.cc770617347b77cbf96905c6139f8098.jpg,343.21,train
+acne-258_jpeg.rf.c6937ddeacbc12fceaba7a559a419cf0.jpg,ACCEPTED (borderline),Unique representative. Repaired bboxes: 0,acne-258_jpeg.rf.c6937ddeacbc12fceaba7a559a419cf0.jpg,33.86,train
+acne-329_jpeg.rf.705fb900ba87dc12538508177c52c8a6.jpg,ACCEPTED (borderline),Unique representative. Repaired bboxes: 0,acne-329_jpeg.rf.705fb900ba87dc12538508177c52c8a6.jpg,40.31,train
+acne-255_jpeg.rf.9291c5262240f4fbda98110fa6ab6b1e.jpg,ACCEPTED (accepted),Unique representative. Repaired bboxes: 0,acne-255_jpeg.rf.9291c5262240f4fbda98110fa6ab6b1e.jpg,162.57,train
+acne-399_jpeg.rf.aa45a6ad4a79d4c3da26f62b83b77ea1.jpg,ACCEPTED (borderline),Unique representative. Repaired bboxes: 0,acne-399_jpeg.rf.aa45a6ad4a79d4c3da26f62b83b77ea1.jpg,20.59,train
+acne-235_jpg.rf.ddcc61451447d013bca45e397e90c1af.jpg,ACCEPTED (accepted),Unique representative. Repaired bboxes: 0,acne-235_jpg.rf.ddcc61451447d013bca45e397e90c1af.jpg,392.61,train
+acne-281_jpeg.rf.269c38281b84a2a86e0f987e62edc571.jpg,ACCEPTED (accepted),Unique representative. Repaired bboxes: 0,acne-281_jpeg.rf.269c38281b84a2a86e0f987e62edc571.jpg,206.95,train
+acne-394_jpeg.rf.ff80d118ac89d5c1a63726e73abd80ab.jpg,ACCEPTED (accepted),Unique representative. Repaired bboxes: 0,acne-394_jpeg.rf.ff80d118ac89d5c1a63726e73abd80ab.jpg,95.64,train
+acne-371_jpeg.rf.c0c4d138c3773c1b5a6851993d716e86.jpg,ACCEPTED (accepted),Unique representative. Repaired bboxes: 0,acne-371_jpeg.rf.c0c4d138c3773c1b5a6851993d716e86.jpg,91.86,train
+acne-343_jpeg.rf.897705a3f7a11ef2e9cd8c29759c4ef9.jpg,ACCEPTED (accepted),Unique representative. Repaired bboxes: 0,acne-343_jpeg.rf.897705a3f7a11ef2e9cd8c29759c4ef9.jpg,160.18,train
+acne-272_jpeg.rf.8e771c50868bbb1091207a059ca3dca0.jpg,ACCEPTED (accepted),Unique representative. Repaired bboxes: 0,acne-272_jpeg.rf.8e771c50868bbb1091207a059ca3dca0.jpg,70.29,train
+acne-104_jpeg.rf.854a06c90fd544c3418d6931d1a5c92b.jpg,ACCEPTED (accepted),Unique representative. Repaired bboxes: 0,acne-104_jpeg.rf.854a06c90fd544c3418d6931d1a5c92b.jpg,135.29,train
+acne-120_jpg.rf.05d2df98b09a59455e77d06fb330a261.jpg,ACCEPTED (accepted),Unique representative. Repaired bboxes: 0,acne-120_jpg.rf.05d2df98b09a59455e77d06fb330a261.jpg,284.51,train
+acne-254_jpeg.rf.e9349a9efaa9442bc374fccbded6ff60.jpg,ACCEPTED (accepted),Unique representative. Repaired bboxes: 0,acne-254_jpeg.rf.e9349a9efaa9442bc374fccbded6ff60.jpg,247.77,train
+acne-332_jpeg.rf.8d6f2cb10ab18da14224de1817cf989a.jpg,ACCEPTED (borderline),Unique representative. Repaired bboxes: 0,acne-332_jpeg.rf.8d6f2cb10ab18da14224de1817cf989a.jpg,50.74,train
+acne-184_jpg.rf.6d066efaae280add14b1ad11bfd69ee8.jpg,ACCEPTED (accepted),Unique representative. Repaired bboxes: 0,acne-184_jpg.rf.6d066efaae280add14b1ad11bfd69ee8.jpg,354.88,train
+acne-450_jpeg.rf.c4287e4b16e7dc4edd06e51bfe683938.jpg,ACCEPTED (accepted),Unique representative. Repaired bboxes: 0,acne-450_jpeg.rf.c4287e4b16e7dc4edd06e51bfe683938.jpg,114.31,train
+acne-385_jpeg.rf.194b8fc89123b19866804286f91caff9.jpg,ACCEPTED (borderline),Unique representative. Repaired bboxes: 0,acne-385_jpeg.rf.194b8fc89123b19866804286f91caff9.jpg,28.16,train
+acne-304_jpeg.rf.ebbbd6ba2e236aa84216690eff37ec1d.jpg,ACCEPTED (accepted),Unique representative. Repaired bboxes: 0,acne-304_jpeg.rf.ebbbd6ba2e236aa84216690eff37ec1d.jpg,241.26,train
+acne-368_jpeg.rf.4da0925effde916e57f433c8ceb39301.jpg,ACCEPTED (accepted),Unique representative. Repaired bboxes: 0,acne-368_jpeg.rf.4da0925effde916e57f433c8ceb39301.jpg,61.25,train
+acne-250_jpeg.rf.1685917ec76c978971bd9c1b32a19678.jpg,ACCEPTED (accepted),Unique representative. Repaired bboxes: 0,acne-250_jpeg.rf.1685917ec76c978971bd9c1b32a19678.jpg,362.10,train
+acne-267_jpeg.rf.f242964df9d8d9b39d5da13dea75712c.jpg,ACCEPTED (borderline),Unique representative. Repaired bboxes: 0,acne-267_jpeg.rf.f242964df9d8d9b39d5da13dea75712c.jpg,22.44,train
+acne-174_jpg.rf.df4de09ebf38d94532fdf09bddc96b39.jpg,ACCEPTED (accepted),Unique representative. Repaired bboxes: 0,acne-174_jpg.rf.df4de09ebf38d94532fdf09bddc96b39.jpg,105.12,train
+acne-265_jpeg.rf.221c9b831e6923d24de3460c49072b99.jpg,ACCEPTED (borderline),Unique representative. Repaired bboxes: 0,acne-265_jpeg.rf.221c9b831e6923d24de3460c49072b99.jpg,24.57,train
+acne-23_jpeg.rf.14c0b14b2e85e50c5acbb0b3b4bd90e1.jpg,ACCEPTED (accepted),Unique representative. Repaired bboxes: 0,acne-23_jpeg.rf.14c0b14b2e85e50c5acbb0b3b4bd90e1.jpg,236.94,train
+acne-244_jpeg.rf.3aa7181fc3fd8edee88d3579a514f142.jpg,ACCEPTED (accepted),Unique representative. Repaired bboxes: 0,acne-244_jpeg.rf.3aa7181fc3fd8edee88d3579a514f142.jpg,218.15,train
+acne-160_jpg.rf.b50f56372db5685c5301c83c555a777a.jpg,ACCEPTED (accepted),Unique representative. Repaired bboxes: 0,acne-160_jpg.rf.b50f56372db5685c5301c83c555a777a.jpg,154.78,train
+acne-79_jpeg.rf.f04fa53e2ca424f3df254c55036cd948.jpg,ACCEPTED (borderline),Unique representative. Repaired bboxes: 0,acne-79_jpeg.rf.f04fa53e2ca424f3df254c55036cd948.jpg,44.81,train
+acne-401_jpeg.rf.a3908ee69841a054d6c166d5fa018ff1.jpg,ACCEPTED (borderline),Unique representative. Repaired bboxes: 0,acne-401_jpeg.rf.a3908ee69841a054d6c166d5fa018ff1.jpg,46.65,train
+acne-252_jpeg.rf.98d057b590c7d2661a0c3baa1bd01187.jpg,ACCEPTED (accepted),Unique representative. Repaired bboxes: 0,acne-252_jpeg.rf.98d057b590c7d2661a0c3baa1bd01187.jpg,143.46,train
+acne-52_jpeg.rf.463ca01427ced8b75e8ad555f6562c85.jpg,ACCEPTED (accepted),Unique representative. Repaired bboxes: 0,acne-52_jpeg.rf.463ca01427ced8b75e8ad555f6562c85.jpg,137.30,train
+acne-259_jpeg.rf.08339d4984a98c11ac6656873b322c50.jpg,ACCEPTED (accepted),Unique representative. Repaired bboxes: 0,acne-259_jpeg.rf.08339d4984a98c11ac6656873b322c50.jpg,69.51,train
+acne-411_jpeg.rf.a862c397f8142672533ee2bdf117a748.jpg,ACCEPTED (accepted),Unique representative. Repaired bboxes: 0,acne-411_jpeg.rf.a862c397f8142672533ee2bdf117a748.jpg,73.53,train
+acne-397_jpeg.rf.135d00f347de4a3dc53439a1b743cab0.jpg,ACCEPTED (borderline),Unique representative. Repaired bboxes: 0,acne-397_jpeg.rf.135d00f347de4a3dc53439a1b743cab0.jpg,33.69,train
+acne-244_jpeg.rf.c301c6f1c5b54fbe2210538f8f027be1.jpg,ACCEPTED (borderline),Unique representative. Repaired bboxes: 0,acne-244_jpeg.rf.c301c6f1c5b54fbe2210538f8f027be1.jpg,35.72,train
+acne-158_jpg.rf.9c07578d00524a159f65bff978a79c5a.jpg,ACCEPTED (accepted),Unique representative. Repaired bboxes: 0,acne-158_jpg.rf.9c07578d00524a159f65bff978a79c5a.jpg,396.08,train
+acne-90_jpeg.rf.715856ba33d2f7c26294ceea4aaa611b.jpg,ACCEPTED (accepted),Unique representative. Repaired bboxes: 0,acne-90_jpeg.rf.715856ba33d2f7c26294ceea4aaa611b.jpg,90.42,train
+acne-206_jpg.rf.8c9e6075fe0cfed1632f82cf23a2d9e4.jpg,ACCEPTED (accepted),Unique representative. Repaired bboxes: 0,acne-206_jpg.rf.8c9e6075fe0cfed1632f82cf23a2d9e4.jpg,72.90,train
+acne-311_jpeg.rf.048b66cab5e30735f4e4d4293eeff8ea.jpg,ACCEPTED (borderline),Unique representative. Repaired bboxes: 0,acne-311_jpeg.rf.048b66cab5e30735f4e4d4293eeff8ea.jpg,34.25,train
+acne-388_jpeg.rf.b0b73e88c7e3f7ac1459b0fc341d05b1.jpg,ACCEPTED (borderline),Unique representative. Repaired bboxes: 0,acne-388_jpeg.rf.b0b73e88c7e3f7ac1459b0fc341d05b1.jpg,54.90,train
+acne-118_jpg.rf.5ac494ffe6003d136d78802a2e018b93.jpg,ACCEPTED (accepted),Unique representative. Repaired bboxes: 0,acne-118_jpg.rf.5ac494ffe6003d136d78802a2e018b93.jpg,401.24,train
+acne-257_jpeg.rf.895db52509dcf3274333c8a46af00f79.jpg,ACCEPTED (accepted),Unique representative. Repaired bboxes: 0,acne-257_jpeg.rf.895db52509dcf3274333c8a46af00f79.jpg,68.17,train
+acne-120_jpg.rf.83c70d65304fb3bac6fe6e3451d957e7.jpg,ACCEPTED (accepted),Unique representative. Repaired bboxes: 0,acne-120_jpg.rf.83c70d65304fb3bac6fe6e3451d957e7.jpg,471.81,train
+acne-238_jpg.rf.71f5e25e5ac28ad76396f7a62f89ee84.jpg,ACCEPTED (accepted),Unique representative. Repaired bboxes: 0,acne-238_jpg.rf.71f5e25e5ac28ad76396f7a62f89ee84.jpg,451.18,train
+acne-54_jpeg.rf.fd50ab764a000a713e4213d603feba8a.jpg,ACCEPTED (accepted),Unique representative. Repaired bboxes: 0,acne-54_jpeg.rf.fd50ab764a000a713e4213d603feba8a.jpg,66.68,train
+acne-368_jpeg.rf.0375c66d41b108dfaf27d36b7df29e06.jpg,ACCEPTED (accepted),Unique representative. Repaired bboxes: 0,acne-368_jpeg.rf.0375c66d41b108dfaf27d36b7df29e06.jpg,338.73,train
+acne-34_jpeg.rf.f9243484168f8c7fa6ecb6b210f268e9.jpg,ACCEPTED (accepted),Unique representative. Repaired bboxes: 0,acne-34_jpeg.rf.f9243484168f8c7fa6ecb6b210f268e9.jpg,72.80,train
+acne-409_jpeg.rf.6c849b9ab9d249335ef9982f47be98b6.jpg,ACCEPTED (borderline),Unique representative. Repaired bboxes: 0,acne-409_jpeg.rf.6c849b9ab9d249335ef9982f47be98b6.jpg,50.45,train
+acne-131_jpg.rf.116f58db510524f94237b01e37f3a16f.jpg,ACCEPTED (accepted),Unique representative. Repaired bboxes: 0,acne-131_jpg.rf.116f58db510524f94237b01e37f3a16f.jpg,127.31,train
+acne-247_jpeg.rf.8b927d007d985691e46eadbc19f04ca4.jpg,ACCEPTED (borderline),Unique representative. Repaired bboxes: 0,acne-247_jpeg.rf.8b927d007d985691e46eadbc19f04ca4.jpg,50.70,train
+acne-342_jpeg.rf.43983d45ed089d5aa6259bd8a75c8843.jpg,ACCEPTED (accepted),Unique representative. Repaired bboxes: 0,acne-342_jpeg.rf.43983d45ed089d5aa6259bd8a75c8843.jpg,125.35,train
+acne-268_jpeg.rf.5acc4a588a7bd16225522b12673f6f90.jpg,ACCEPTED (accepted),Unique representative. Repaired bboxes: 0,acne-268_jpeg.rf.5acc4a588a7bd16225522b12673f6f90.jpg,78.67,train
+acne-76_jpeg.rf.61a13e5af10b4ecf110131f40b6edf13.jpg,ACCEPTED (accepted),Unique representative. Repaired bboxes: 0,acne-76_jpeg.rf.61a13e5af10b4ecf110131f40b6edf13.jpg,183.18,train
+acne-280_jpeg.rf.2e05aec0290c93461730b485a4454f32.jpg,ACCEPTED (accepted),Unique representative. Repaired bboxes: 0,acne-280_jpeg.rf.2e05aec0290c93461730b485a4454f32.jpg,261.07,train
+acne-28_jpeg.rf.ebdca88990f4baf196b8147e5d785fbe.jpg,ACCEPTED (borderline),Unique representative. Repaired bboxes: 0,acne-28_jpeg.rf.ebdca88990f4baf196b8147e5d785fbe.jpg,47.17,train
+acne-8_jpeg.rf.294cb3bcf0d442b8ad6de0145c53d5ea.jpg,ACCEPTED (accepted),Unique representative. Repaired bboxes: 0,acne-8_jpeg.rf.294cb3bcf0d442b8ad6de0145c53d5ea.jpg,354.80,train
+acne-114_jpeg.rf.8886a0bfd6aae22e7a0d23fa689f93e0.jpg,ACCEPTED (accepted),Unique representative. Repaired bboxes: 0,acne-114_jpeg.rf.8886a0bfd6aae22e7a0d23fa689f93e0.jpg,82.06,train
+acne-157_jpg.rf.89ce37476eb116348c9be25774e30727.jpg,ACCEPTED (accepted),Unique representative. Repaired bboxes: 0,acne-157_jpg.rf.89ce37476eb116348c9be25774e30727.jpg,193.06,train
+acne-182_jpg.rf.7c2e3699a804e6c8aa7910f55b5ca1d5.jpg,ACCEPTED (accepted),Unique representative. Repaired bboxes: 0,acne-182_jpg.rf.7c2e3699a804e6c8aa7910f55b5ca1d5.jpg,351.17,train
+acne-302_jpeg.rf.695c4d95f41391fbee11021363a7c2cf.jpg,ACCEPTED (borderline),Unique representative. Repaired bboxes: 0,acne-302_jpeg.rf.695c4d95f41391fbee11021363a7c2cf.jpg,50.95,train
+acne-136_jpg.rf.3e73b4689794a339be8e23f11d08fc37.jpg,ACCEPTED (accepted),Unique representative. Repaired bboxes: 0,acne-136_jpg.rf.3e73b4689794a339be8e23f11d08fc37.jpg,421.17,train
+acne-281_jpeg.rf.f2072868eb678168f54f10187606759c.jpg,ACCEPTED (borderline),Unique representative. Repaired bboxes: 0,acne-281_jpeg.rf.f2072868eb678168f54f10187606759c.jpg,49.33,train
+acne-22_jpeg.rf.ee4659bccc79f60a653fd52a8d6b4d51.jpg,ACCEPTED (accepted),Unique representative. Repaired bboxes: 0,acne-22_jpeg.rf.ee4659bccc79f60a653fd52a8d6b4d51.jpg,125.55,train
+acne-431_jpeg.rf.b6af8da016d65c420d4d43ccc19921f8.jpg,ACCEPTED (accepted),Unique representative. Repaired bboxes: 0,acne-431_jpeg.rf.b6af8da016d65c420d4d43ccc19921f8.jpg,75.33,train
+acne-62_jpeg.rf.70605cf17da5ed58c8681dd07fdd767c.jpg,ACCEPTED (borderline),Unique representative. Repaired bboxes: 0,acne-62_jpeg.rf.70605cf17da5ed58c8681dd07fdd767c.jpg,43.80,train
+acne-266_jpeg.rf.f24013f661ebe46b8fcc302349ae81e2.jpg,ACCEPTED (accepted),Unique representative. Repaired bboxes: 0,acne-266_jpeg.rf.f24013f661ebe46b8fcc302349ae81e2.jpg,119.71,train
+acne-262_jpeg.rf.5d09bed19804b673a2ac648102744558.jpg,ACCEPTED (borderline),Unique representative. Repaired bboxes: 0,acne-262_jpeg.rf.5d09bed19804b673a2ac648102744558.jpg,40.79,train
+acne-55_jpeg.rf.63cbfdb90a0985cf988c074a247c3a38.jpg,ACCEPTED (borderline),Unique representative. Repaired bboxes: 0,acne-55_jpeg.rf.63cbfdb90a0985cf988c074a247c3a38.jpg,34.48,train
+acne-430_jpeg.rf.060bf1e5e68a338a3c3257f61533d42d.jpg,ACCEPTED (borderline),Unique representative. Repaired bboxes: 0,acne-430_jpeg.rf.060bf1e5e68a338a3c3257f61533d42d.jpg,32.10,train
+acne-93_jpeg.rf.30dd3c2dd35c187c279f81197894c65e.jpg,ACCEPTED (borderline),Unique representative. Repaired bboxes: 0,acne-93_jpeg.rf.30dd3c2dd35c187c279f81197894c65e.jpg,56.24,train
+acne-275_jpeg.rf.bf7708c917e32843d1256126e9901939.jpg,ACCEPTED (accepted),Unique representative. Repaired bboxes: 0,acne-275_jpeg.rf.bf7708c917e32843d1256126e9901939.jpg,98.26,train
+acne-274_jpeg.rf.6e5283ddb6357ba59b0df93ae4ae593e.jpg,ACCEPTED (accepted),Unique representative. Repaired bboxes: 0,acne-274_jpeg.rf.6e5283ddb6357ba59b0df93ae4ae593e.jpg,115.42,train
+acne-326_jpeg.rf.8d2d5e7518b1299974190173d0bcc106.jpg,ACCEPTED (accepted),Unique representative. Repaired bboxes: 0,acne-326_jpeg.rf.8d2d5e7518b1299974190173d0bcc106.jpg,163.06,train
+acne-203_jpg.rf.8205fac07a2a50ce7b656cfc7a60c1c6.jpg,ACCEPTED (accepted),Unique representative. Repaired bboxes: 0,acne-203_jpg.rf.8205fac07a2a50ce7b656cfc7a60c1c6.jpg,185.13,train
+acne-378_jpeg.rf.2ced61875bc16008549fa48ac957ba18.jpg,ACCEPTED (borderline),Unique representative. Repaired bboxes: 0,acne-378_jpeg.rf.2ced61875bc16008549fa48ac957ba18.jpg,37.14,train
+acne-61_jpeg.rf.28209abd219eaf358e32f3e41c368760.jpg,ACCEPTED (accepted),Unique representative. Repaired bboxes: 0,acne-61_jpeg.rf.28209abd219eaf358e32f3e41c368760.jpg,168.42,train
+acne-283_jpeg.rf.f08f5a8e3cdceeaba0bb98f188a7a3e0.jpg,ACCEPTED (borderline),Unique representative. Repaired bboxes: 0,acne-283_jpeg.rf.f08f5a8e3cdceeaba0bb98f188a7a3e0.jpg,49.03,train
+acne-308_jpeg.rf.d62319b7946355fa41a8ade9b8473a68.jpg,ACCEPTED (borderline),Unique representative. Repaired bboxes: 0,acne-308_jpeg.rf.d62319b7946355fa41a8ade9b8473a68.jpg,54.19,train
+acne-345_jpeg.rf.002b6d9c99b9d10198b110273259bb49.jpg,ACCEPTED (accepted),Unique representative. Repaired bboxes: 0,acne-345_jpeg.rf.002b6d9c99b9d10198b110273259bb49.jpg,90.57,train
+acne-392_jpeg.rf.8b104cd68b0713735fc8cc2920f3c171.jpg,ACCEPTED (accepted),Unique representative. Repaired bboxes: 0,acne-392_jpeg.rf.8b104cd68b0713735fc8cc2920f3c171.jpg,87.19,train
+acne-369_jpeg.rf.86b958fd5657d652169f3714ad97e608.jpg,ACCEPTED (borderline),Unique representative. Repaired bboxes: 0,acne-369_jpeg.rf.86b958fd5657d652169f3714ad97e608.jpg,23.81,train
+acne-321_jpeg.rf.e6bcc4a787ddac7730b017f3822ed082.jpg,ACCEPTED (accepted),Unique representative. Repaired bboxes: 0,acne-321_jpeg.rf.e6bcc4a787ddac7730b017f3822ed082.jpg,209.40,train
+acne-32_jpeg.rf.6cfebd1da197182fd10391fc051d7308.jpg,ACCEPTED (borderline),Unique representative. Repaired bboxes: 0,acne-32_jpeg.rf.6cfebd1da197182fd10391fc051d7308.jpg,24.64,train
+acne-13_jpeg.rf.a5f9a647b82ba14238855de41ce76a2f.jpg,ACCEPTED (borderline),Unique representative. Repaired bboxes: 0,acne-13_jpeg.rf.a5f9a647b82ba14238855de41ce76a2f.jpg,31.68,train
+acne-165_jpg.rf.68256b3b8febcb6314e4ab36bb6375f5.jpg,ACCEPTED (accepted),Unique representative. Repaired bboxes: 0,acne-165_jpg.rf.68256b3b8febcb6314e4ab36bb6375f5.jpg,226.15,train
+acne-269_jpeg.rf.e507376b24748624f92d3c0b37391e00.jpg,ACCEPTED (accepted),Unique representative. Repaired bboxes: 0,acne-269_jpeg.rf.e507376b24748624f92d3c0b37391e00.jpg,68.99,train
+acne-94_jpeg.rf.c64f8962172091d296b522d43b8e2958.jpg,ACCEPTED (borderline),Unique representative. Repaired bboxes: 0,acne-94_jpeg.rf.c64f8962172091d296b522d43b8e2958.jpg,26.80,train
+acne-356_jpeg.rf.fa2076a41a23a162052ab9224e5a9ebd.jpg,ACCEPTED (accepted),Unique representative. Repaired bboxes: 0,acne-356_jpeg.rf.fa2076a41a23a162052ab9224e5a9ebd.jpg,102.73,train
+acne-151_jpg.rf.638c693eb9342b4800bd8b1758e566e1.jpg,ACCEPTED (accepted),Unique representative. Repaired bboxes: 0,acne-151_jpg.rf.638c693eb9342b4800bd8b1758e566e1.jpg,267.68,train
+acne-78_jpeg.rf.ca1dc8af44d36a59fe0b4964ebcca155.jpg,ACCEPTED (borderline),Unique representative. Repaired bboxes: 0,acne-78_jpeg.rf.ca1dc8af44d36a59fe0b4964ebcca155.jpg,28.88,train
+acne-48_jpeg.rf.3acdab521ecb10062309943f51c0ec77.jpg,ACCEPTED (borderline),Unique representative. Repaired bboxes: 0,acne-48_jpeg.rf.3acdab521ecb10062309943f51c0ec77.jpg,27.90,train
+acne-111_jpeg.rf.d2f96fc4bb37d79f182ff62b6c21203f.jpg,ACCEPTED (borderline),Unique representative. Repaired bboxes: 0,acne-111_jpeg.rf.d2f96fc4bb37d79f182ff62b6c21203f.jpg,25.61,train
+acne-447_jpeg.rf.40589a71ed621a0a4d23df9fbdedda3c.jpg,ACCEPTED (accepted),Unique representative. Repaired bboxes: 0,acne-447_jpeg.rf.40589a71ed621a0a4d23df9fbdedda3c.jpg,164.24,train
+acne-243_jpeg.rf.224276464dae0015106b49305689a71f.jpg,ACCEPTED (accepted),Unique representative. Repaired bboxes: 0,acne-243_jpeg.rf.224276464dae0015106b49305689a71f.jpg,178.78,train
+acne-427_jpeg.rf.2da783e959b0fa739da2747fcddad57b.jpg,ACCEPTED (accepted),Unique representative. Repaired bboxes: 0,acne-427_jpeg.rf.2da783e959b0fa739da2747fcddad57b.jpg,207.62,train
+acne-304_jpeg.rf.77962a6df5f121604e80cbb050034066.jpg,ACCEPTED (accepted),Unique representative. Repaired bboxes: 0,acne-304_jpeg.rf.77962a6df5f121604e80cbb050034066.jpg,136.31,train
+acne-115_jpeg.rf.1c4b3100bd61c3be8b101094633f80e0.jpg,ACCEPTED (accepted),Unique representative. Repaired bboxes: 0,acne-115_jpeg.rf.1c4b3100bd61c3be8b101094633f80e0.jpg,62.20,train
+acne-218_jpg.rf.5b69f80528f623394b3e859163966e68.jpg,ACCEPTED (accepted),Unique representative. Repaired bboxes: 0,acne-218_jpg.rf.5b69f80528f623394b3e859163966e68.jpg,359.53,train
+acne-120_jpg.rf.59864fcc325d7c476b1d4276551aa0dd.jpg,ACCEPTED (accepted),Unique representative. Repaired bboxes: 0,acne-120_jpg.rf.59864fcc325d7c476b1d4276551aa0dd.jpg,598.62,train
+acne-294_jpeg.rf.06965fed951caff14fdd95dcdb3fee1d.jpg,ACCEPTED (borderline),Unique representative. Repaired bboxes: 0,acne-294_jpeg.rf.06965fed951caff14fdd95dcdb3fee1d.jpg,40.47,train
+acne-318_jpeg.rf.cd2f729339f69140f92978c19e0664b0.jpg,ACCEPTED (accepted),Unique representative. Repaired bboxes: 0,acne-318_jpeg.rf.cd2f729339f69140f92978c19e0664b0.jpg,77.15,train
+acne-227_jpg.rf.e7232e54671958546fa8bd8e76de323e.jpg,ACCEPTED (accepted),Unique representative. Repaired bboxes: 0,acne-227_jpg.rf.e7232e54671958546fa8bd8e76de323e.jpg,824.77,train
+acne-441_jpeg.rf.11e4ecfbce81071580a4c488c55359a1.jpg,ACCEPTED (accepted),Unique representative. Repaired bboxes: 0,acne-441_jpeg.rf.11e4ecfbce81071580a4c488c55359a1.jpg,109.27,train
+acne-41_jpeg.rf.fd599c1d4532e89b3aa4847093e7183b.jpg,ACCEPTED (accepted),Unique representative. Repaired bboxes: 0,acne-41_jpeg.rf.fd599c1d4532e89b3aa4847093e7183b.jpg,61.57,train
+acne-429_jpeg.rf.de91db9b06b86077a563bc6bfcac3bd9.jpg,ACCEPTED (borderline),Unique representative. Repaired bboxes: 0,acne-429_jpeg.rf.de91db9b06b86077a563bc6bfcac3bd9.jpg,24.40,train
+acne-221_jpg.rf.b18cf9dc385b45ae4d38acec4b978e51.jpg,ACCEPTED (borderline),Unique representative. Repaired bboxes: 0,acne-221_jpg.rf.b18cf9dc385b45ae4d38acec4b978e51.jpg,49.17,train
+acne-99_jpeg.rf.38ff75b46468fb68d29e4125bde66e86.jpg,ACCEPTED (borderline),Unique representative. Repaired bboxes: 0,acne-99_jpeg.rf.38ff75b46468fb68d29e4125bde66e86.jpg,48.18,train
+acne-451_jpeg.rf.5d0cea48cdeab0d4da0e1bcc7be09971.jpg,ACCEPTED (borderline),Unique representative. Repaired bboxes: 0,acne-451_jpeg.rf.5d0cea48cdeab0d4da0e1bcc7be09971.jpg,28.05,train
+acne-317_jpeg.rf.67150dd365e3698fce482a944e674fde.jpg,ACCEPTED (borderline),Unique representative. Repaired bboxes: 0,acne-317_jpeg.rf.67150dd365e3698fce482a944e674fde.jpg,36.36,train
+acne-317_jpeg.rf.7b7d3ede64a00397babad2c3fa9f8470.jpg,ACCEPTED (accepted),Unique representative. Repaired bboxes: 0,acne-317_jpeg.rf.7b7d3ede64a00397babad2c3fa9f8470.jpg,73.51,train
+acne-162_jpg.rf.3e7a961c691682bef628b7784a4dd8e7.jpg,ACCEPTED (accepted),Unique representative. Repaired bboxes: 0,acne-162_jpg.rf.3e7a961c691682bef628b7784a4dd8e7.jpg,143.78,train
+acne-444_jpeg.rf.e04558fc0798fa5a6dfa4a0c1f263089.jpg,ACCEPTED (accepted),Unique representative. Repaired bboxes: 0,acne-444_jpeg.rf.e04558fc0798fa5a6dfa4a0c1f263089.jpg,71.49,train
+acne-58_jpeg.rf.6a41f6b35e99676c1aa71a5b4184a19a.jpg,ACCEPTED (accepted),Unique representative. Repaired bboxes: 0,acne-58_jpeg.rf.6a41f6b35e99676c1aa71a5b4184a19a.jpg,445.08,train
+acne-9_jpeg.rf.212c446a5902af3d2c20c95e80c2fe14.jpg,ACCEPTED (accepted),Unique representative. Repaired bboxes: 0,acne-9_jpeg.rf.212c446a5902af3d2c20c95e80c2fe14.jpg,511.30,train
+acne-195_jpg.rf.b5c6f2b08bb2c091d26ea2dc2d0b8d8c.jpg,ACCEPTED (accepted),Unique representative. Repaired bboxes: 0,acne-195_jpg.rf.b5c6f2b08bb2c091d26ea2dc2d0b8d8c.jpg,83.93,train
+acne-82_jpeg.rf.58aa128cb89c7440c298ad87ba810f87.jpg,ACCEPTED (borderline),Unique representative. Repaired bboxes: 0,acne-82_jpeg.rf.58aa128cb89c7440c298ad87ba810f87.jpg,56.42,train
+acne-208_jpg.rf.35a3cef9fe70b179687816ff6948a8ca.jpg,ACCEPTED (accepted),Unique representative. Repaired bboxes: 0,acne-208_jpg.rf.35a3cef9fe70b179687816ff6948a8ca.jpg,255.56,train
+acne-25_jpeg.rf.61edfe1eaf01bce48403a1a22f693a86.jpg,ACCEPTED (borderline),Unique representative. Repaired bboxes: 0,acne-25_jpeg.rf.61edfe1eaf01bce48403a1a22f693a86.jpg,27.58,train
+acne-95_jpeg.rf.28c5c0321aca3fbff22844c56937dbfd.jpg,ACCEPTED (borderline),Unique representative. Repaired bboxes: 0,acne-95_jpeg.rf.28c5c0321aca3fbff22844c56937dbfd.jpg,56.57,train
+acne-377_jpeg.rf.09c3859ff50d3f864f8eed5ce8fff6b8.jpg,ACCEPTED (borderline),Unique representative. Repaired bboxes: 0,acne-377_jpeg.rf.09c3859ff50d3f864f8eed5ce8fff6b8.jpg,22.43,train
+acne-309_jpeg.rf.ced4ac5492bed97773d915cca6c77df5.jpg,ACCEPTED (accepted),Unique representative. Repaired bboxes: 0,acne-309_jpeg.rf.ced4ac5492bed97773d915cca6c77df5.jpg,194.65,train
+acne-282_jpeg.rf.a7f5d7ac92b15c00f45b5d8d90e8e81c.jpg,ACCEPTED (accepted),Unique representative. Repaired bboxes: 0,acne-282_jpeg.rf.a7f5d7ac92b15c00f45b5d8d90e8e81c.jpg,312.14,train
+acne-284_jpeg.rf.3c07273f141120e450c0bc506bb64849.jpg,ACCEPTED (accepted),Unique representative. Repaired bboxes: 0,acne-284_jpeg.rf.3c07273f141120e450c0bc506bb64849.jpg,111.45,train
+acne-125_jpg.rf.2612211b3bedfab30f3c1917dba2de98.jpg,ACCEPTED (accepted),Unique representative. Repaired bboxes: 0,acne-125_jpg.rf.2612211b3bedfab30f3c1917dba2de98.jpg,119.65,train
+acne-410_jpeg.rf.37ffe2355a639dec42916f056b306826.jpg,ACCEPTED (accepted),Unique representative. Repaired bboxes: 0,acne-410_jpeg.rf.37ffe2355a639dec42916f056b306826.jpg,160.08,train
+acne-280_jpeg.rf.3fc1d746ee1d9ee8f94e5b8e13869c32.jpg,ACCEPTED (accepted),Unique representative. Repaired bboxes: 0,acne-280_jpeg.rf.3fc1d746ee1d9ee8f94e5b8e13869c32.jpg,352.26,train
+acne-346_jpeg.rf.cbaa650f00e504b096a8473f93c6468e.jpg,ACCEPTED (accepted),Unique representative. Repaired bboxes: 0,acne-346_jpeg.rf.cbaa650f00e504b096a8473f93c6468e.jpg,175.79,train
+acne-79_jpeg.rf.8b03b6494f67a31e4e066213e42f485f.jpg,ACCEPTED (accepted),Unique representative. Repaired bboxes: 0,acne-79_jpeg.rf.8b03b6494f67a31e4e066213e42f485f.jpg,242.32,train
+acne-28_jpeg.rf.0779dcb29db01f05b5e55255fd894752.jpg,ACCEPTED (accepted),Unique representative. Repaired bboxes: 0,acne-28_jpeg.rf.0779dcb29db01f05b5e55255fd894752.jpg,322.36,train
+acne-237_jpg.rf.e5f4f7eaa88499717b72c8d9d88fe289.jpg,ACCEPTED (accepted),Unique representative. Repaired bboxes: 0,acne-237_jpg.rf.e5f4f7eaa88499717b72c8d9d88fe289.jpg,711.62,train
+acne-14_jpeg.rf.147d68756bf7b24c32159f65a026346d.jpg,ACCEPTED (accepted),Unique representative. Repaired bboxes: 0,acne-14_jpeg.rf.147d68756bf7b24c32159f65a026346d.jpg,65.30,train
+acne-201_jpg.rf.385b133794127449eb734db717cfeeaa.jpg,ACCEPTED (accepted),Unique representative. Repaired bboxes: 0,acne-201_jpg.rf.385b133794127449eb734db717cfeeaa.jpg,326.89,train
+acne-280_jpeg.rf.043d7ff205e61574c18d1a51dbc8e528.jpg,ACCEPTED (accepted),Unique representative. Repaired bboxes: 0,acne-280_jpeg.rf.043d7ff205e61574c18d1a51dbc8e528.jpg,94.24,train
+acne-321_jpeg.rf.8b746dd8e9fed6bdb3c9be0101076b71.jpg,ACCEPTED (borderline),Unique representative. Repaired bboxes: 0,acne-321_jpeg.rf.8b746dd8e9fed6bdb3c9be0101076b71.jpg,22.75,train
+acne-233_jpg.rf.9dea716314f6337abf96cde4f779123f.jpg,ACCEPTED (accepted),Unique representative. Repaired bboxes: 0,acne-233_jpg.rf.9dea716314f6337abf96cde4f779123f.jpg,576.24,train
+acne-303_jpeg.rf.bf471d912e0f8f2114ca931bae2a5e95.jpg,ACCEPTED (accepted),Unique representative. Repaired bboxes: 0,acne-303_jpeg.rf.bf471d912e0f8f2114ca931bae2a5e95.jpg,270.16,train
+acne-175_jpg.rf.612b817fa477d486d22e0f2fb61e01b3.jpg,ACCEPTED (accepted),Unique representative. Repaired bboxes: 0,acne-175_jpg.rf.612b817fa477d486d22e0f2fb61e01b3.jpg,1289.84,train
+acne-213_jpg.rf.a5c1514f9c68cfe06f0f8e16b908c7bd.jpg,ACCEPTED (accepted),Unique representative. Repaired bboxes: 0,acne-213_jpg.rf.a5c1514f9c68cfe06f0f8e16b908c7bd.jpg,183.01,train
+acne-367_jpeg.rf.0256023f81edf9a88db31978ece3be48.jpg,ACCEPTED (borderline),Unique representative. Repaired bboxes: 0,acne-367_jpeg.rf.0256023f81edf9a88db31978ece3be48.jpg,21.42,train
+acne-85_jpeg.rf.ad62617f33028383d5f54a9e96e18f02.jpg,ACCEPTED (accepted),Unique representative. Repaired bboxes: 0,acne-85_jpeg.rf.ad62617f33028383d5f54a9e96e18f02.jpg,75.94,train
+acne-228_jpg.rf.d85abe1dea887d8ee14c7967d38bfc7e.jpg,ACCEPTED (accepted),Unique representative. Repaired bboxes: 0,acne-228_jpg.rf.d85abe1dea887d8ee14c7967d38bfc7e.jpg,538.39,train
+acne-318_jpeg.rf.14b5537b3bf111c0a0ca9de9ccb85932.jpg,ACCEPTED (accepted),Unique representative. Repaired bboxes: 0,acne-318_jpeg.rf.14b5537b3bf111c0a0ca9de9ccb85932.jpg,314.41,train
+acne-333_jpeg.rf.cf08829a4c2cafda406bea5993dfaf05.jpg,ACCEPTED (accepted),Unique representative. Repaired bboxes: 0,acne-333_jpeg.rf.cf08829a4c2cafda406bea5993dfaf05.jpg,127.94,train
+acne-258_jpeg.rf.1d696f16032fca31a79513c9331d5ed0.jpg,ACCEPTED (borderline),Unique representative. Repaired bboxes: 0,acne-258_jpeg.rf.1d696f16032fca31a79513c9331d5ed0.jpg,33.44,train
+acne-453_jpeg.rf.599343d9d86bdff8f2ef1b12c5f3eaac.jpg,ACCEPTED (borderline),Unique representative. Repaired bboxes: 0,acne-453_jpeg.rf.599343d9d86bdff8f2ef1b12c5f3eaac.jpg,24.76,train
+acne-12_jpeg.rf.28444ad5ce2ac27bc0ce6ed17f8e6ec0.jpg,ACCEPTED (borderline),Unique representative. Repaired bboxes: 0,acne-12_jpeg.rf.28444ad5ce2ac27bc0ce6ed17f8e6ec0.jpg,29.02,train
+acne-336_jpeg.rf.51e16db2ee65d5b1300fd9db14e2ff1c.jpg,ACCEPTED (borderline),Unique representative. Repaired bboxes: 0,acne-336_jpeg.rf.51e16db2ee65d5b1300fd9db14e2ff1c.jpg,30.52,train
+acne-126_jpg.rf.5b0e9e4d04ae70075efeaee8971a48aa.jpg,ACCEPTED (accepted),Unique representative. Repaired bboxes: 0,acne-126_jpg.rf.5b0e9e4d04ae70075efeaee8971a48aa.jpg,338.74,train
+acne-135_jpg.rf.042025713da3de0b88f75367822f27a0.jpg,ACCEPTED (accepted),Unique representative. Repaired bboxes: 0,acne-135_jpg.rf.042025713da3de0b88f75367822f27a0.jpg,640.40,train
+acne-50_jpeg.rf.482e3ccd2dd52214470131746460f538.jpg,ACCEPTED (accepted),Unique representative. Repaired bboxes: 0,acne-50_jpeg.rf.482e3ccd2dd52214470131746460f538.jpg,88.90,train
+acne-425_jpeg.rf.a75481672426a9921005da4e3c94847e.jpg,ACCEPTED (accepted),Unique representative. Repaired bboxes: 0,acne-425_jpeg.rf.a75481672426a9921005da4e3c94847e.jpg,212.40,train
+acne-456_jpeg.rf.130dc43a9283d658f345f81c13d24430.jpg,ACCEPTED (borderline),Unique representative. Repaired bboxes: 0,acne-456_jpeg.rf.130dc43a9283d658f345f81c13d24430.jpg,42.32,train
+acne-408_jpeg.rf.9e83a95814251aa25b03bdd121fc63e1.jpg,ACCEPTED (borderline),Unique representative. Repaired bboxes: 0,acne-408_jpeg.rf.9e83a95814251aa25b03bdd121fc63e1.jpg,57.39,train
+acne-110_jpeg.rf.b2e331d513bdc74cab2a514eb157444c.jpg,ACCEPTED (borderline),Unique representative. Repaired bboxes: 0,acne-110_jpeg.rf.b2e331d513bdc74cab2a514eb157444c.jpg,53.53,train
+acne-260_jpeg.rf.ece37464f2edf715db748266485a76f6.jpg,ACCEPTED (accepted),Unique representative. Repaired bboxes: 0,acne-260_jpeg.rf.ece37464f2edf715db748266485a76f6.jpg,147.74,train
+acne-412_jpeg.rf.3d70c0bfec74e985db5dc829ffc4c69a.jpg,ACCEPTED (borderline),Unique representative. Repaired bboxes: 0,acne-412_jpeg.rf.3d70c0bfec74e985db5dc829ffc4c69a.jpg,47.08,train
+acne-225_jpg.rf.20af853a017a915046884562cedb90fb.jpg,ACCEPTED (accepted),Unique representative. Repaired bboxes: 0,acne-225_jpg.rf.20af853a017a915046884562cedb90fb.jpg,809.73,train
+acne-439_jpeg.rf.c007f11f2d18b68b3d07fbda36372e84.jpg,ACCEPTED (accepted),Unique representative. Repaired bboxes: 0,acne-439_jpeg.rf.c007f11f2d18b68b3d07fbda36372e84.jpg,98.51,train
+acne-169_jpg.rf.62e380e19804577ee193ff7a379afca0.jpg,ACCEPTED (accepted),Unique representative. Repaired bboxes: 0,acne-169_jpg.rf.62e380e19804577ee193ff7a379afca0.jpg,202.69,train
+acne-299_jpeg.rf.ec7aa0661240eaab8fc8fcbe05ad558b.jpg,ACCEPTED (borderline),Unique representative. Repaired bboxes: 0,acne-299_jpeg.rf.ec7aa0661240eaab8fc8fcbe05ad558b.jpg,41.88,train
+acne-318_jpeg.rf.3019f1975e0d3ec5ebefef7472185f3b.jpg,ACCEPTED (accepted),Unique representative. Repaired bboxes: 0,acne-318_jpeg.rf.3019f1975e0d3ec5ebefef7472185f3b.jpg,199.68,train
+acne-294_jpeg.rf.07555dc6d9d86c479ead2905b6ffa370.jpg,ACCEPTED (accepted),Unique representative. Repaired bboxes: 0,acne-294_jpeg.rf.07555dc6d9d86c479ead2905b6ffa370.jpg,246.33,train
+acne-405_jpeg.rf.5927cc2573154ea6a64e8e181aece8e8.jpg,ACCEPTED (accepted),Unique representative. Repaired bboxes: 0,acne-405_jpeg.rf.5927cc2573154ea6a64e8e181aece8e8.jpg,82.63,train
+acne-426_jpeg.rf.43beb99a3d900dd220cdddbeeb87adf1.jpg,ACCEPTED (accepted),Unique representative. Repaired bboxes: 0,acne-426_jpeg.rf.43beb99a3d900dd220cdddbeeb87adf1.jpg,104.16,train
+acne-253_jpeg.rf.0d8326d149e20928c2b1c1138e716a3d.jpg,ACCEPTED (borderline),Unique representative. Repaired bboxes: 0,acne-253_jpeg.rf.0d8326d149e20928c2b1c1138e716a3d.jpg,52.09,train
+acne-207_jpg.rf.7598b31c83c3bf22d831a520ef1a906e.jpg,ACCEPTED (borderline),Unique representative. Repaired bboxes: 0,acne-207_jpg.rf.7598b31c83c3bf22d831a520ef1a906e.jpg,36.39,train
+acne-381_jpeg.rf.1aaeb5f712aa2284561ed8faae0b8bf4.jpg,ACCEPTED (borderline),Unique representative. Repaired bboxes: 0,acne-381_jpeg.rf.1aaeb5f712aa2284561ed8faae0b8bf4.jpg,43.30,train
+acne-446_jpeg.rf.8e74b2de9ae5b231b4555619d7774e6f.jpg,ACCEPTED (accepted),Unique representative. Repaired bboxes: 0,acne-446_jpeg.rf.8e74b2de9ae5b231b4555619d7774e6f.jpg,130.73,train
+acne-413_jpeg.rf.6ef8475c0f6bce6817a636453b783f48.jpg,ACCEPTED (accepted),Unique representative. Repaired bboxes: 0,acne-413_jpeg.rf.6ef8475c0f6bce6817a636453b783f48.jpg,92.04,train
+acne-35_jpeg.rf.873fbd0bd8c09cc8a0f9282f08ba1725.jpg,ACCEPTED (borderline),Unique representative. Repaired bboxes: 0,acne-35_jpeg.rf.873fbd0bd8c09cc8a0f9282f08ba1725.jpg,57.63,train
+acne-442_jpeg.rf.aac25ee86644e0903055548cc75b7f5b.jpg,ACCEPTED (borderline),Unique representative. Repaired bboxes: 0,acne-442_jpeg.rf.aac25ee86644e0903055548cc75b7f5b.jpg,21.60,train
+acne-193_jpg.rf.4cdb0fbc270b04b91fb4cf23478d5b75.jpg,ACCEPTED (accepted),Unique representative. Repaired bboxes: 0,acne-193_jpg.rf.4cdb0fbc270b04b91fb4cf23478d5b75.jpg,538.75,train
+acne-84_jpeg.rf.040421ad53965f5f41ddc6f6a8edef9f.jpg,ACCEPTED (borderline),Unique representative. Repaired bboxes: 0,acne-84_jpeg.rf.040421ad53965f5f41ddc6f6a8edef9f.jpg,25.53,train
+acne-303_jpeg.rf.e7c788b6515756a248c34066f097814d.jpg,ACCEPTED (accepted),Unique representative. Repaired bboxes: 0,acne-303_jpeg.rf.e7c788b6515756a248c34066f097814d.jpg,250.91,train
+acne-174_jpg.rf.2d2e25b5d60f61c775266df80d4d4cca.jpg,ACCEPTED (accepted),Unique representative. Repaired bboxes: 0,acne-174_jpg.rf.2d2e25b5d60f61c775266df80d4d4cca.jpg,84.78,train
+acne-16_jpeg.rf.8a203a8e0514ebc66c79ff58b8fb8fca.jpg,ACCEPTED (accepted),Unique representative. Repaired bboxes: 0,acne-16_jpeg.rf.8a203a8e0514ebc66c79ff58b8fb8fca.jpg,292.82,train
+acne-327_jpeg.rf.1eab7e229c29431fef5a7a19b545a91a.jpg,ACCEPTED (accepted),Unique representative. Repaired bboxes: 0,acne-327_jpeg.rf.1eab7e229c29431fef5a7a19b545a91a.jpg,68.08,train
+acne-94_jpeg.rf.0e74b52e9ba5c22c361c725fc97cd7d5.jpg,ACCEPTED (accepted),Unique representative. Repaired bboxes: 0,acne-94_jpeg.rf.0e74b52e9ba5c22c361c725fc97cd7d5.jpg,155.60,train
+acne-308_jpeg.rf.210139eceb1e20107337f66369fdffed.jpg,ACCEPTED (accepted),Unique representative. Repaired bboxes: 0,acne-308_jpeg.rf.210139eceb1e20107337f66369fdffed.jpg,237.25,train
+acne-141_jpg.rf.056aa3399307f077aa37f49ff94c27f4.jpg,ACCEPTED (accepted),Unique representative. Repaired bboxes: 0,acne-141_jpg.rf.056aa3399307f077aa37f49ff94c27f4.jpg,275.15,train
+acne-89_jpeg.rf.773df8d1638ee1ab24ec4f35e9ff7e8b.jpg,ACCEPTED (accepted),Unique representative. Repaired bboxes: 0,acne-89_jpeg.rf.773df8d1638ee1ab24ec4f35e9ff7e8b.jpg,100.48,train
+acne-458_jpeg.rf.1800044c39a5a7bf3ad6c8ee9e9621e9.jpg,ACCEPTED (borderline),Unique representative. Repaired bboxes: 0,acne-458_jpeg.rf.1800044c39a5a7bf3ad6c8ee9e9621e9.jpg,24.66,train
+acne-232_jpg.rf.c675be6b07a6bf37519db31b5167e4c7.jpg,ACCEPTED (accepted),Unique representative. Repaired bboxes: 0,acne-232_jpg.rf.c675be6b07a6bf37519db31b5167e4c7.jpg,328.88,train
+acne-125_jpg.rf.dc9c441370bb9fdb7c992c7e422c8003.jpg,ACCEPTED (accepted),Unique representative. Repaired bboxes: 0,acne-125_jpg.rf.dc9c441370bb9fdb7c992c7e422c8003.jpg,80.03,train
+acne-229_jpg.rf.8591496c5be08eade2f51c29fc778b16.jpg,ACCEPTED (accepted),Unique representative. Repaired bboxes: 0,acne-229_jpg.rf.8591496c5be08eade2f51c29fc778b16.jpg,630.49,train
+acne-251_jpeg.rf.3ffc5e75a252fe9ed7ee8e2ff38bb378.jpg,ACCEPTED (borderline),Unique representative. Repaired bboxes: 0,acne-251_jpeg.rf.3ffc5e75a252fe9ed7ee8e2ff38bb378.jpg,27.24,train
+acne-426_jpeg.rf.32f7d6eb515c5f5ec7fe0e5bd07bfbc3.jpg,ACCEPTED (borderline),Unique representative. Repaired bboxes: 0,acne-426_jpeg.rf.32f7d6eb515c5f5ec7fe0e5bd07bfbc3.jpg,43.90,train
+acne-400_jpeg.rf.8a5527f5b1873dd19b02c29dd9e693a3.jpg,ACCEPTED (accepted),Unique representative. Repaired bboxes: 0,acne-400_jpeg.rf.8a5527f5b1873dd19b02c29dd9e693a3.jpg,75.31,train
+acne-110_jpeg.rf.30388309b832a1dbcd9f74e88a6d80c7.jpg,ACCEPTED (accepted),Unique representative. Repaired bboxes: 0,acne-110_jpeg.rf.30388309b832a1dbcd9f74e88a6d80c7.jpg,96.62,train
+acne-7_jpeg.rf.34ee37b930f592f787bb8d1bf6b37d30.jpg,ACCEPTED (borderline),Unique representative. Repaired bboxes: 0,acne-7_jpeg.rf.34ee37b930f592f787bb8d1bf6b37d30.jpg,47.90,train
+acne-255_jpeg.rf.aa4f675a126ab3ecd31f53c8d9754976.jpg,ACCEPTED (borderline),Unique representative. Repaired bboxes: 0,acne-255_jpeg.rf.aa4f675a126ab3ecd31f53c8d9754976.jpg,36.57,train
+acne-361_jpeg.rf.1cade253a8aa63ca4fecbd580be1319f.jpg,ACCEPTED (accepted),Unique representative. Repaired bboxes: 0,acne-361_jpeg.rf.1cade253a8aa63ca4fecbd580be1319f.jpg,152.89,train
+acne-101_jpeg.rf.af45ba09bf2981ed7cc4af94b54aae48.jpg,ACCEPTED (accepted),Unique representative. Repaired bboxes: 0,acne-101_jpeg.rf.af45ba09bf2981ed7cc4af94b54aae48.jpg,146.05,train
+acne-327_jpeg.rf.19f5bff4fbba329b66f6d16ac0b427ef.jpg,ACCEPTED (accepted),Unique representative. Repaired bboxes: 0,acne-327_jpeg.rf.19f5bff4fbba329b66f6d16ac0b427ef.jpg,132.69,train
+acne-331_jpeg.rf.4f4b52de1ea6ef286b238e4c072dab59.jpg,ACCEPTED (accepted),Unique representative. Repaired bboxes: 0,acne-331_jpeg.rf.4f4b52de1ea6ef286b238e4c072dab59.jpg,61.83,train
+acne-191_jpg.rf.a3f25509212676a658832b172df7d830.jpg,ACCEPTED (accepted),Unique representative. Repaired bboxes: 0,acne-191_jpg.rf.a3f25509212676a658832b172df7d830.jpg,676.95,train
+acne-269_jpeg.rf.3fdd24755d11661703669be0ca18a612.jpg,ACCEPTED (accepted),Unique representative. Repaired bboxes: 0,acne-269_jpeg.rf.3fdd24755d11661703669be0ca18a612.jpg,78.24,train
+acne-418_jpeg.rf.babdb73015373233846d99bc65d93a97.jpg,ACCEPTED (accepted),Unique representative. Repaired bboxes: 0,acne-418_jpeg.rf.babdb73015373233846d99bc65d93a97.jpg,73.10,train
+acne-166_jpg.rf.a12f2acc98f6a862f6d8b7d28306e6ff.jpg,ACCEPTED (accepted),Unique representative. Repaired bboxes: 0,acne-166_jpg.rf.a12f2acc98f6a862f6d8b7d28306e6ff.jpg,164.02,train
+acne-62_jpeg.rf.ac3f35c21b2fe5ca0ce4aff6bd348c3b.jpg,ACCEPTED (accepted),Unique representative. Repaired bboxes: 0,acne-62_jpeg.rf.ac3f35c21b2fe5ca0ce4aff6bd348c3b.jpg,304.46,train
+acne-393_jpeg.rf.6e6398a10d41e29b78b290318af07fc3.jpg,ACCEPTED (accepted),Unique representative. Repaired bboxes: 0,acne-393_jpeg.rf.6e6398a10d41e29b78b290318af07fc3.jpg,157.18,train
+acne-216_jpg.rf.229a8cdefe7eae1fa2fdcd7f63036f7e.jpg,ACCEPTED (accepted),Unique representative. Repaired bboxes: 0,acne-216_jpg.rf.229a8cdefe7eae1fa2fdcd7f63036f7e.jpg,302.75,train
+acne-249_jpeg.rf.74586fb9ccb9b2b9cd14569cf17e5866.jpg,ACCEPTED (accepted),Unique representative. Repaired bboxes: 0,acne-249_jpeg.rf.74586fb9ccb9b2b9cd14569cf17e5866.jpg,261.88,train
+acne-375_jpeg.rf.77366ff6701d154088facaea479be255.jpg,ACCEPTED (accepted),Unique representative. Repaired bboxes: 0,acne-375_jpeg.rf.77366ff6701d154088facaea479be255.jpg,125.10,train
+acne-154_jpg.rf.aa10f14b351652c5646e22544670738c.jpg,ACCEPTED (accepted),Unique representative. Repaired bboxes: 0,acne-154_jpg.rf.aa10f14b351652c5646e22544670738c.jpg,343.54,train
+acne-316_jpeg.rf.4d78682dca505e9a307dc9afee2c2a98.jpg,ACCEPTED (accepted),Unique representative. Repaired bboxes: 0,acne-316_jpeg.rf.4d78682dca505e9a307dc9afee2c2a98.jpg,74.59,train
+acne-198_jpg.rf.b908268208c2706886941b806856d5f7.jpg,ACCEPTED (accepted),Unique representative. Repaired bboxes: 0,acne-198_jpg.rf.b908268208c2706886941b806856d5f7.jpg,322.72,train
+acne-312_jpeg.rf.1af65ed498f64c5050d20705378da211.jpg,ACCEPTED (accepted),Unique representative. Repaired bboxes: 0,acne-312_jpeg.rf.1af65ed498f64c5050d20705378da211.jpg,85.15,train
+acne-439_jpeg.rf.739b9e7b2550b900462320a9b086ce79.jpg,ACCEPTED (accepted),Unique representative. Repaired bboxes: 0,acne-439_jpeg.rf.739b9e7b2550b900462320a9b086ce79.jpg,129.24,train
+acne-101_jpeg.rf.d13d618fff02c3133aac95c6b0c7b5fb.jpg,ACCEPTED (borderline),Unique representative. Repaired bboxes: 0,acne-101_jpeg.rf.d13d618fff02c3133aac95c6b0c7b5fb.jpg,35.34,train
+acne-89_jpeg.rf.2d6e99b7acb34ac110655a0129c6f6ff.jpg,ACCEPTED (borderline),Unique representative. Repaired bboxes: 0,acne-89_jpeg.rf.2d6e99b7acb34ac110655a0129c6f6ff.jpg,24.67,train
+acne-18_jpeg.rf.5b6c3916caae984b4e628466c6217dc7.jpg,ACCEPTED (accepted),Unique representative. Repaired bboxes: 0,acne-18_jpeg.rf.5b6c3916caae984b4e628466c6217dc7.jpg,84.55,train
+acne-293_jpeg.rf.4c57ffc9138c5c8ceb3f16e8f57431e4.jpg,ACCEPTED (borderline),Unique representative. Repaired bboxes: 0,acne-293_jpeg.rf.4c57ffc9138c5c8ceb3f16e8f57431e4.jpg,43.22,train
+acne-142_jpg.rf.9ffefe2ae2611433749ba9e3198ce75e.jpg,ACCEPTED (accepted),Unique representative. Repaired bboxes: 0,acne-142_jpg.rf.9ffefe2ae2611433749ba9e3198ce75e.jpg,334.96,train
+acne-157_jpg.rf.ef7e9923abad787cede0228467c8924a.jpg,ACCEPTED (accepted),Unique representative. Repaired bboxes: 0,acne-157_jpg.rf.ef7e9923abad787cede0228467c8924a.jpg,115.32,train
+acne-337_jpeg.rf.d8466fa49f89fb18f3bd152da42a71e5.jpg,ACCEPTED (borderline),Unique representative. Repaired bboxes: 0,acne-337_jpeg.rf.d8466fa49f89fb18f3bd152da42a71e5.jpg,23.77,train
+acne-382_jpeg.rf.985f679f84865a9fb015f6a23afc0184.jpg,ACCEPTED (borderline),Unique representative. Repaired bboxes: 0,acne-382_jpeg.rf.985f679f84865a9fb015f6a23afc0184.jpg,23.32,train
+acne-74_jpeg.rf.67eee3b2d55309b3ace1df0c70afd9e2.jpg,ACCEPTED (accepted),Unique representative. Repaired bboxes: 0,acne-74_jpeg.rf.67eee3b2d55309b3ace1df0c70afd9e2.jpg,155.00,train
+acne-204_jpg.rf.f33f3ded55db615da9540b2ad9e8ffc3.jpg,ACCEPTED (accepted),Unique representative. Repaired bboxes: 0,acne-204_jpg.rf.f33f3ded55db615da9540b2ad9e8ffc3.jpg,194.08,train
+acne-73_jpeg.rf.2703f4793f2d5044e08486eff454f0d9.jpg,ACCEPTED (borderline),Unique representative. Repaired bboxes: 0,acne-73_jpeg.rf.2703f4793f2d5044e08486eff454f0d9.jpg,24.19,train
+acne-159_jpg.rf.0c98a05944768d0fcb2e6ac369394f30.jpg,ACCEPTED (borderline),Unique representative. Repaired bboxes: 0,acne-159_jpg.rf.0c98a05944768d0fcb2e6ac369394f30.jpg,40.91,train
+acne-414_jpeg.rf.71827a785203417d1653d0483f51b99d.jpg,ACCEPTED (borderline),Unique representative. Repaired bboxes: 0,acne-414_jpeg.rf.71827a785203417d1653d0483f51b99d.jpg,50.95,train
+acne-278_jpeg.rf.3e21ea9cfde6b63b9819b6ba5f5ff54f.jpg,ACCEPTED (accepted),Unique representative. Repaired bboxes: 0,acne-278_jpeg.rf.3e21ea9cfde6b63b9819b6ba5f5ff54f.jpg,77.56,train
+acne-334_jpeg.rf.b432e959fcbd94bc4567a10a4aa9e780.jpg,ACCEPTED (accepted),Unique representative. Repaired bboxes: 0,acne-334_jpeg.rf.b432e959fcbd94bc4567a10a4aa9e780.jpg,65.80,train
+acne-235_jpg.rf.2ef71aabbc8d65a4ec7a38e95b2c355a.jpg,ACCEPTED (accepted),Unique representative. Repaired bboxes: 0,acne-235_jpg.rf.2ef71aabbc8d65a4ec7a38e95b2c355a.jpg,415.72,train
+acne-326_jpeg.rf.c66317ba3381c7eff5d1ea711859a3ba.jpg,ACCEPTED (accepted),Unique representative. Repaired bboxes: 0,acne-326_jpeg.rf.c66317ba3381c7eff5d1ea711859a3ba.jpg,139.22,train
+acne-302_jpeg.rf.4fb146c4ee39e5667172f7c560eb8f9a.jpg,ACCEPTED (accepted),Unique representative. Repaired bboxes: 0,acne-302_jpeg.rf.4fb146c4ee39e5667172f7c560eb8f9a.jpg,183.41,train
+acne-412_jpeg.rf.dbb3259893ec5ad43a9dcf0266aae515.jpg,ACCEPTED (borderline),Unique representative. Repaired bboxes: 0,acne-412_jpeg.rf.dbb3259893ec5ad43a9dcf0266aae515.jpg,49.88,train
+acne-272_jpeg.rf.f60235307b067bc131380ed6671437a4.jpg,ACCEPTED (accepted),Unique representative. Repaired bboxes: 0,acne-272_jpeg.rf.f60235307b067bc131380ed6671437a4.jpg,175.09,train
+acne-273_jpeg.rf.e18dc566aa45fcabd5a200dd86074c60.jpg,ACCEPTED (accepted),Unique representative. Repaired bboxes: 0,acne-273_jpeg.rf.e18dc566aa45fcabd5a200dd86074c60.jpg,180.84,train
+acne-127_jpg.rf.f448d7470b4d04d0576302eefabed949.jpg,ACCEPTED (accepted),Unique representative. Repaired bboxes: 0,acne-127_jpg.rf.f448d7470b4d04d0576302eefabed949.jpg,600.25,train
+acne-357_jpeg.rf.d1d86e145a090a3f4d28ea3ac43b9c7d.jpg,ACCEPTED (accepted),Unique representative. Repaired bboxes: 0,acne-357_jpeg.rf.d1d86e145a090a3f4d28ea3ac43b9c7d.jpg,117.46,train
+acne-352_jpeg.rf.5ba32bd220a14e6891977c4037ff03a4.jpg,ACCEPTED (borderline),Unique representative. Repaired bboxes: 0,acne-352_jpeg.rf.5ba32bd220a14e6891977c4037ff03a4.jpg,50.73,valid
+acne-402_jpeg.rf.4d11bc7c1dc032855852dae4165b697f.jpg,ACCEPTED (accepted),Unique representative. Repaired bboxes: 0,acne-402_jpeg.rf.4d11bc7c1dc032855852dae4165b697f.jpg,186.43,valid
+acne-363_jpeg.rf.0c5af213756448958464517dac64be5f.jpg,ACCEPTED (accepted),Unique representative. Repaired bboxes: 0,acne-363_jpeg.rf.0c5af213756448958464517dac64be5f.jpg,81.21,valid
+acne-134_jpg.rf.417c82e7063a6160461440b5758b9993.jpg,ACCEPTED (accepted),Unique representative. Repaired bboxes: 0,acne-134_jpg.rf.417c82e7063a6160461440b5758b9993.jpg,202.42,valid
+acne-185_jpg.rf.3de0a75834e59f15738509f7c7bdeb1c.jpg,ACCEPTED (accepted),Unique representative. Repaired bboxes: 0,acne-185_jpg.rf.3de0a75834e59f15738509f7c7bdeb1c.jpg,468.59,valid
+acne-157_jpg.rf.cc6a50c4ff1337782a2ddf5e7f7bfc32.jpg,ACCEPTED (accepted),Unique representative. Repaired bboxes: 0,acne-157_jpg.rf.cc6a50c4ff1337782a2ddf5e7f7bfc32.jpg,100.60,valid
+acne-123_jpg.rf.29fdc29e00ae4036bda03345c84e75ec.jpg,ACCEPTED (accepted),Unique representative. Repaired bboxes: 0,acne-123_jpg.rf.29fdc29e00ae4036bda03345c84e75ec.jpg,459.71,valid
+acne-147_jpg.rf.7ab83e752d29e1cb1efc428fb26f4b62.jpg,ACCEPTED (accepted),Unique representative. Repaired bboxes: 0,acne-147_jpg.rf.7ab83e752d29e1cb1efc428fb26f4b62.jpg,297.32,valid
+acne-30_jpeg.rf.093be01147ffe73677435553b5ff88b3.jpg,ACCEPTED (accepted),Unique representative. Repaired bboxes: 0,acne-30_jpeg.rf.093be01147ffe73677435553b5ff88b3.jpg,338.06,valid
+acne-316_jpeg.rf.7269093f7038311d0134f6b370525859.jpg,ACCEPTED (accepted),Unique representative. Repaired bboxes: 0,acne-316_jpeg.rf.7269093f7038311d0134f6b370525859.jpg,111.72,valid
+acne-178_jpg.rf.ac87bffd9abfaa365be22b9bfef13f2c.jpg,ACCEPTED (accepted),Unique representative. Repaired bboxes: 0,acne-178_jpg.rf.ac87bffd9abfaa365be22b9bfef13f2c.jpg,482.35,valid
+acne-4_jpeg.rf.c438a57664dacd9816090039d5522ded.jpg,ACCEPTED (accepted),Unique representative. Repaired bboxes: 0,acne-4_jpeg.rf.c438a57664dacd9816090039d5522ded.jpg,217.02,valid
+acne-121_jpg.rf.fda929f19402573163ffba906f3509ac.jpg,ACCEPTED (accepted),Unique representative. Repaired bboxes: 0,acne-121_jpg.rf.fda929f19402573163ffba906f3509ac.jpg,280.12,valid
+acne-277_jpeg.rf.22d440c4bcd4d50ed40790f3ee2d2fd4.jpg,ACCEPTED (accepted),Unique representative. Repaired bboxes: 0,acne-277_jpeg.rf.22d440c4bcd4d50ed40790f3ee2d2fd4.jpg,81.65,valid
+acne-345_jpeg.rf.f59e715bacab2b4767e16e45c013017b.jpg,ACCEPTED (accepted),Unique representative. Repaired bboxes: 0,acne-345_jpeg.rf.f59e715bacab2b4767e16e45c013017b.jpg,112.37,valid
+acne-288_jpeg.rf.d391fc8b216dec340d6239c8174c5f80.jpg,ACCEPTED (accepted),Unique representative. Repaired bboxes: 0,acne-288_jpeg.rf.d391fc8b216dec340d6239c8174c5f80.jpg,222.42,valid
+acne-346_jpeg.rf.7f6664cf705339001d9b41d67ba7c719.jpg,ACCEPTED (borderline),Unique representative. Repaired bboxes: 0,acne-346_jpeg.rf.7f6664cf705339001d9b41d67ba7c719.jpg,30.68,valid
+acne-240_jpg.rf.db60c7b36784891f222f2e2defbb77bb.jpg,ACCEPTED (accepted),Unique representative. Repaired bboxes: 0,acne-240_jpg.rf.db60c7b36784891f222f2e2defbb77bb.jpg,274.35,valid
+acne-330_jpeg.rf.8b1c55b99af06bebdd71a096203d4b2c.jpg,ACCEPTED (accepted),Unique representative. Repaired bboxes: 0,acne-330_jpeg.rf.8b1c55b99af06bebdd71a096203d4b2c.jpg,308.55,valid
+acne-172_jpg.rf.f8ed4f69412f8420d6628e206113b64c.jpg,ACCEPTED (accepted),Unique representative. Repaired bboxes: 0,acne-172_jpg.rf.f8ed4f69412f8420d6628e206113b64c.jpg,114.07,valid
+acne-429_jpeg.rf.d90e994f0e6b570071ecb7ea7c1665a1.jpg,ACCEPTED (borderline),Unique representative. Repaired bboxes: 0,acne-429_jpeg.rf.d90e994f0e6b570071ecb7ea7c1665a1.jpg,30.92,valid
+acne-234_jpg.rf.d6f9f966d1bf5799aa4d8b260cf1a07f.jpg,ACCEPTED (accepted),Unique representative. Repaired bboxes: 0,acne-234_jpg.rf.d6f9f966d1bf5799aa4d8b260cf1a07f.jpg,700.78,valid
+acne-179_jpg.rf.b3bde7c655fccb9590b3dcfd338ea42f.jpg,ACCEPTED (accepted),Unique representative. Repaired bboxes: 0,acne-179_jpg.rf.b3bde7c655fccb9590b3dcfd338ea42f.jpg,223.97,valid
+acne-21_jpeg.rf.1520100798d86a2e36b9727e4b6ac613.jpg,ACCEPTED (borderline),Unique representative. Repaired bboxes: 0,acne-21_jpeg.rf.1520100798d86a2e36b9727e4b6ac613.jpg,41.31,valid
+acne-17_jpeg.rf.b9922046ba7af5c9296c5568c1f3b8c6.jpg,ACCEPTED (accepted),Unique representative. Repaired bboxes: 0,acne-17_jpeg.rf.b9922046ba7af5c9296c5568c1f3b8c6.jpg,549.27,valid
+acne-300_jpeg.rf.0827844ebf261e9e2169581a6cb28874.jpg,ACCEPTED (accepted),Unique representative. Repaired bboxes: 0,acne-300_jpeg.rf.0827844ebf261e9e2169581a6cb28874.jpg,88.39,valid
+acne-382_jpeg.rf.db55dbac46a156f1390e1bdd893ba56f.jpg,ACCEPTED (accepted),Unique representative. Repaired bboxes: 0,acne-382_jpeg.rf.db55dbac46a156f1390e1bdd893ba56f.jpg,90.79,valid
+acne-275_jpeg.rf.f2994243e64d1c183465fb7d9141e955.jpg,ACCEPTED (accepted),Unique representative. Repaired bboxes: 0,acne-275_jpeg.rf.f2994243e64d1c183465fb7d9141e955.jpg,62.80,valid
+acne-311_jpeg.rf.f60d123b327f9ccf4a2fe23864562086.jpg,ACCEPTED (accepted),Unique representative. Repaired bboxes: 0,acne-311_jpeg.rf.f60d123b327f9ccf4a2fe23864562086.jpg,144.56,valid
+acne-391_jpeg.rf.0574e9486dfd815a8721c013009643c4.jpg,ACCEPTED (borderline),Unique representative. Repaired bboxes: 0,acne-391_jpeg.rf.0574e9486dfd815a8721c013009643c4.jpg,44.64,valid
+acne-450_jpeg.rf.4e11d9dcb7bf02787f418a02bdb00c35.jpg,ACCEPTED (borderline),Unique representative. Repaired bboxes: 0,acne-450_jpeg.rf.4e11d9dcb7bf02787f418a02bdb00c35.jpg,25.20,valid
+acne-453_jpeg.rf.4421c608bb7ad4edc58efb540f096440.jpg,ACCEPTED (borderline),Unique representative. Repaired bboxes: 0,acne-453_jpeg.rf.4421c608bb7ad4edc58efb540f096440.jpg,42.92,valid
+acne-415_jpeg.rf.3cb0a68f9f428b1dd3d08c3b62a0ddb6.jpg,ACCEPTED (accepted),Unique representative. Repaired bboxes: 0,acne-415_jpeg.rf.3cb0a68f9f428b1dd3d08c3b62a0ddb6.jpg,72.69,valid
+acne-341_jpeg.rf.78cdff7ab2de2e37502eb5b412ebec9d.jpg,ACCEPTED (accepted),Unique representative. Repaired bboxes: 0,acne-341_jpeg.rf.78cdff7ab2de2e37502eb5b412ebec9d.jpg,115.88,valid
+acne-212_jpg.rf.ecc2ffc6c00fedeff6f1570cd2595525.jpg,ACCEPTED (accepted),Unique representative. Repaired bboxes: 0,acne-212_jpg.rf.ecc2ffc6c00fedeff6f1570cd2595525.jpg,279.43,valid
+acne-129_jpg.rf.27d7bc358ff1e9d29a12c68dfec19376.jpg,ACCEPTED (accepted),Unique representative. Repaired bboxes: 0,acne-129_jpg.rf.27d7bc358ff1e9d29a12c68dfec19376.jpg,702.11,valid
+acne-241_jpg.rf.9eeb9ff941f8813eb9c830bba65289f2.jpg,ACCEPTED (accepted),Unique representative. Repaired bboxes: 0,acne-241_jpg.rf.9eeb9ff941f8813eb9c830bba65289f2.jpg,136.52,valid
+acne-277_jpeg.rf.c933b8a394f5fb21129277aff731ad04.jpg,ACCEPTED (accepted),Unique representative. Repaired bboxes: 0,acne-277_jpeg.rf.c933b8a394f5fb21129277aff731ad04.jpg,102.56,valid
+acne-254_jpeg.rf.3804dd6f10c511c2ec0763aaf55594a4.jpg,ACCEPTED (accepted),Unique representative. Repaired bboxes: 0,acne-254_jpeg.rf.3804dd6f10c511c2ec0763aaf55594a4.jpg,200.66,valid
+acne-276_jpeg.rf.9d0990f99dee0e0ec17d89fd07384e0b.jpg,ACCEPTED (accepted),Unique representative. Repaired bboxes: 0,acne-276_jpeg.rf.9d0990f99dee0e0ec17d89fd07384e0b.jpg,66.53,valid
+acne-226_jpg.rf.9a5e291ba12532858133526881c86eb5.jpg,ACCEPTED (accepted),Unique representative. Repaired bboxes: 0,acne-226_jpg.rf.9a5e291ba12532858133526881c86eb5.jpg,337.49,valid
+acne-125_jpg.rf.5514716e1ee3faa1692e38c275afe7a1.jpg,ACCEPTED (accepted),Unique representative. Repaired bboxes: 0,acne-125_jpg.rf.5514716e1ee3faa1692e38c275afe7a1.jpg,213.95,valid
+acne-447_jpeg.rf.b73cd997b638eae09b73b418d144f910.jpg,ACCEPTED (borderline),Unique representative. Repaired bboxes: 0,acne-447_jpeg.rf.b73cd997b638eae09b73b418d144f910.jpg,51.25,valid
+acne-445_jpeg.rf.ea1f44c1548bc922b805a8cf9baed35e.jpg,ACCEPTED (accepted),Unique representative. Repaired bboxes: 0,acne-445_jpeg.rf.ea1f44c1548bc922b805a8cf9baed35e.jpg,176.09,valid
+acne-282_jpeg.rf.a47b3c0ba41952cdbcf2e571490a4a7f.jpg,ACCEPTED (borderline),Unique representative. Repaired bboxes: 0,acne-282_jpeg.rf.a47b3c0ba41952cdbcf2e571490a4a7f.jpg,25.48,valid
+acne-402_jpeg.rf.6b9c991d6ae6983c8477efdac6e0a53a.jpg,ACCEPTED (borderline),Unique representative. Repaired bboxes: 0,acne-402_jpeg.rf.6b9c991d6ae6983c8477efdac6e0a53a.jpg,34.60,valid
+acne-140_jpg.rf.785b2c29676c422c6a1cdbe6708f86e8.jpg,ACCEPTED (accepted),Unique representative. Repaired bboxes: 0,acne-140_jpg.rf.785b2c29676c422c6a1cdbe6708f86e8.jpg,725.51,valid
+acne-336_jpeg.rf.cc2e7b94610e566c652bc75229846c70.jpg,ACCEPTED (accepted),Unique representative. Repaired bboxes: 0,acne-336_jpeg.rf.cc2e7b94610e566c652bc75229846c70.jpg,131.53,valid
+acne-403_jpeg.rf.dc0fa68daf6ab1520af807ea9d7f62ec.jpg,ACCEPTED (borderline),Unique representative. Repaired bboxes: 0,acne-403_jpeg.rf.dc0fa68daf6ab1520af807ea9d7f62ec.jpg,22.90,valid
+acne-381_jpeg.rf.ddafcb075cc9e3972b3f8d58535cca4b.jpg,ACCEPTED (accepted),Unique representative. Repaired bboxes: 0,acne-381_jpeg.rf.ddafcb075cc9e3972b3f8d58535cca4b.jpg,109.41,valid
+acne-242_jpg.rf.163bea139c1038429a67cdefdb3da7ed.jpg,ACCEPTED (accepted),Unique representative. Repaired bboxes: 0,acne-242_jpg.rf.163bea139c1038429a67cdefdb3da7ed.jpg,262.09,valid
+acne-87_jpeg.rf.6b37c6168d53f3f4c81497908a042d88.jpg,ACCEPTED (borderline),Unique representative. Repaired bboxes: 0,acne-87_jpeg.rf.6b37c6168d53f3f4c81497908a042d88.jpg,20.76,valid
+acne-301_jpeg.rf.70af8f642e9ad2bf27fe5684850ef40e.jpg,ACCEPTED (accepted),Unique representative. Repaired bboxes: 0,acne-301_jpeg.rf.70af8f642e9ad2bf27fe5684850ef40e.jpg,97.87,valid
+acne-224_jpg.rf.21be34e10c2c539505d35f293f36f36d.jpg,ACCEPTED (accepted),Unique representative. Repaired bboxes: 0,acne-224_jpg.rf.21be34e10c2c539505d35f293f36f36d.jpg,175.33,valid
+acne-233_jpg.rf.def5958145685575eb337e5c599b5cf5.jpg,ACCEPTED (accepted),Unique representative. Repaired bboxes: 0,acne-233_jpg.rf.def5958145685575eb337e5c599b5cf5.jpg,635.91,valid
+acne-20_jpeg.rf.d401578b451f1b68e8c29f5e4c7f4da1.jpg,ACCEPTED (borderline),Unique representative. Repaired bboxes: 0,acne-20_jpeg.rf.d401578b451f1b68e8c29f5e4c7f4da1.jpg,37.68,valid
+acne-327_jpeg.rf.6a337ae979a131b4e8c2c22f086bf878.jpg,ACCEPTED (borderline),Unique representative. Repaired bboxes: 0,acne-327_jpeg.rf.6a337ae979a131b4e8c2c22f086bf878.jpg,36.51,valid
+acne-196_jpg.rf.1bbd0b777a3e6a95749dfae39c5d0db1.jpg,ACCEPTED (accepted),Unique representative. Repaired bboxes: 0,acne-196_jpg.rf.1bbd0b777a3e6a95749dfae39c5d0db1.jpg,64.90,valid
+acne-82_jpeg.rf.995da97ae453da87bbc95d23d6e576fa.jpg,ACCEPTED (borderline),Unique representative. Repaired bboxes: 0,acne-82_jpeg.rf.995da97ae453da87bbc95d23d6e576fa.jpg,26.19,valid
+acne-367_jpeg.rf.7b7f404f68052dd966b7596480bcc2a3.jpg,ACCEPTED (borderline),Unique representative. Repaired bboxes: 0,acne-367_jpeg.rf.7b7f404f68052dd966b7596480bcc2a3.jpg,34.35,valid
+acne-132_jpg.rf.f63fe21b456337795ceeaba4913f7bae.jpg,ACCEPTED (accepted),Unique representative. Repaired bboxes: 0,acne-132_jpg.rf.f63fe21b456337795ceeaba4913f7bae.jpg,250.38,valid
+acne-385_jpeg.rf.d5d01a898e065e15b4cd58ba3bcb2ef0.jpg,ACCEPTED (accepted),Unique representative. Repaired bboxes: 0,acne-385_jpeg.rf.d5d01a898e065e15b4cd58ba3bcb2ef0.jpg,121.53,valid
+acne-402_jpeg.rf.506c2cd50fa906b41ac80f9dbbe5618e.jpg,ACCEPTED (borderline),Unique representative. Repaired bboxes: 0,acne-402_jpeg.rf.506c2cd50fa906b41ac80f9dbbe5618e.jpg,24.81,valid
+acne-15_jpeg.rf.510f6ab6153777e8087f1439ef39d8cc.jpg,ACCEPTED (borderline),Unique representative. Repaired bboxes: 0,acne-15_jpeg.rf.510f6ab6153777e8087f1439ef39d8cc.jpg,22.08,valid
+acne-241_jpg.rf.de2bfe112d02fe95a39e2a5ff3fb4f06.jpg,ACCEPTED (accepted),Unique representative. Repaired bboxes: 0,acne-241_jpg.rf.de2bfe112d02fe95a39e2a5ff3fb4f06.jpg,235.70,valid
+acne-397_jpeg.rf.d234e389ecadbff5554b4b8aa6ebe768.jpg,ACCEPTED (accepted),Unique representative. Repaired bboxes: 0,acne-397_jpeg.rf.d234e389ecadbff5554b4b8aa6ebe768.jpg,95.44,valid
+acne-212_jpg.rf.7c6366f80f280c7946181a492194f128.jpg,ACCEPTED (accepted),Unique representative. Repaired bboxes: 0,acne-212_jpg.rf.7c6366f80f280c7946181a492194f128.jpg,248.43,valid
+acne-33_jpeg.rf.5f883b1bb6eacef56d03175d54955561.jpg,ACCEPTED (borderline),Unique representative. Repaired bboxes: 0,acne-33_jpeg.rf.5f883b1bb6eacef56d03175d54955561.jpg,33.63,valid
+acne-268_jpeg.rf.e5a4f44f0af800e8d58fe2c7ccbc39da.jpg,ACCEPTED (accepted),Unique representative. Repaired bboxes: 0,acne-268_jpeg.rf.e5a4f44f0af800e8d58fe2c7ccbc39da.jpg,216.09,valid
+acne-193_jpg.rf.2ad0c8779ee966c9c6f99bc869192f68.jpg,ACCEPTED (accepted),Unique representative. Repaired bboxes: 0,acne-193_jpg.rf.2ad0c8779ee966c9c6f99bc869192f68.jpg,486.53,valid
+acne-266_jpeg.rf.28933fedfa8b3997cabeeec11f865667.jpg,ACCEPTED (borderline),Unique representative. Repaired bboxes: 0,acne-266_jpeg.rf.28933fedfa8b3997cabeeec11f865667.jpg,57.02,valid
+acne-73_jpeg.rf.416e2a071e15c7c6c421e8f9c9cbf362.jpg,ACCEPTED (accepted),Unique representative. Repaired bboxes: 0,acne-73_jpeg.rf.416e2a071e15c7c6c421e8f9c9cbf362.jpg,230.80,valid
+acne-379_jpeg.rf.15ab7bab8764a1deb304f2b054d207df.jpg,ACCEPTED (accepted),Unique representative. Repaired bboxes: 0,acne-379_jpeg.rf.15ab7bab8764a1deb304f2b054d207df.jpg,83.23,valid
+acne-29_jpeg.rf.707590656ec25deb88c16de37d21d7ed.jpg,ACCEPTED (accepted),Unique representative. Repaired bboxes: 0,acne-29_jpeg.rf.707590656ec25deb88c16de37d21d7ed.jpg,224.23,valid
+acne-320_jpeg.rf.36da7f5652215ec1bcc16a1d1dc6a420.jpg,ACCEPTED (borderline),Unique representative. Repaired bboxes: 0,acne-320_jpeg.rf.36da7f5652215ec1bcc16a1d1dc6a420.jpg,33.25,valid
+acne-246_jpeg.rf.97766b7ea51380c13600bb25c9153fca.jpg,ACCEPTED (borderline),Unique representative. Repaired bboxes: 0,acne-246_jpeg.rf.97766b7ea51380c13600bb25c9153fca.jpg,21.74,valid
+acne-153_jpg.rf.e8973f33679d67ebfc2384a4d92d41b2.jpg,ACCEPTED (accepted),Unique representative. Repaired bboxes: 0,acne-153_jpg.rf.e8973f33679d67ebfc2384a4d92d41b2.jpg,409.55,valid
+acne-209_jpg.rf.a1dde106a5e5c3cd2b93666e9e226930.jpg,ACCEPTED (accepted),Unique representative. Repaired bboxes: 0,acne-209_jpg.rf.a1dde106a5e5c3cd2b93666e9e226930.jpg,408.26,valid
+acne-85_jpeg.rf.4954c7005be728243d7e261bb54c7676.jpg,ACCEPTED (accepted),Unique representative. Repaired bboxes: 0,acne-85_jpeg.rf.4954c7005be728243d7e261bb54c7676.jpg,75.46,test
+acne-149_jpg.rf.03e8887e9c8de1c1f12b9d147d0dda17.jpg,ACCEPTED (accepted),Unique representative. Repaired bboxes: 0,acne-149_jpg.rf.03e8887e9c8de1c1f12b9d147d0dda17.jpg,93.26,test
+acne-247_jpeg.rf.609bebea165a5d6ed959aaef11f3e708.jpg,ACCEPTED (accepted),Unique representative. Repaired bboxes: 0,acne-247_jpeg.rf.609bebea165a5d6ed959aaef11f3e708.jpg,147.99,test
+acne-446_jpeg.rf.aa12a3b18ac56343efb41e92c3963f39.jpg,ACCEPTED (accepted),Unique representative. Repaired bboxes: 0,acne-446_jpeg.rf.aa12a3b18ac56343efb41e92c3963f39.jpg,70.93,test
+acne-225_jpg.rf.86b4596072a51356712e842ba8adbe7e.jpg,ACCEPTED (accepted),Unique representative. Repaired bboxes: 0,acne-225_jpg.rf.86b4596072a51356712e842ba8adbe7e.jpg,821.95,test
+acne-393_jpeg.rf.e22909f613d8c62bae6d1a9330ef4e95.jpg,ACCEPTED (accepted),Unique representative. Repaired bboxes: 0,acne-393_jpeg.rf.e22909f613d8c62bae6d1a9330ef4e95.jpg,76.52,test
+acne-123_jpg.rf.094991fa4eca4fe9d2414c139380c767.jpg,ACCEPTED (accepted),Unique representative. Repaired bboxes: 0,acne-123_jpg.rf.094991fa4eca4fe9d2414c139380c767.jpg,137.57,test
+acne-12_jpeg.rf.a8b0e9276a6914edc03a7e3def427bf2.jpg,ACCEPTED (accepted),Unique representative. Repaired bboxes: 0,acne-12_jpeg.rf.a8b0e9276a6914edc03a7e3def427bf2.jpg,195.06,test
+acne-411_jpeg.rf.7d019ce4b6775c6e3b91b618dcc6b7ec.jpg,ACCEPTED (borderline),Unique representative. Repaired bboxes: 0,acne-411_jpeg.rf.7d019ce4b6775c6e3b91b618dcc6b7ec.jpg,56.23,test
+acne-203_jpg.rf.81c85919943866f8e856d6724eae0c3b.jpg,ACCEPTED (accepted),Unique representative. Repaired bboxes: 0,acne-203_jpg.rf.81c85919943866f8e856d6724eae0c3b.jpg,179.11,test
+acne-343_jpeg.rf.c85522764d47047f7affd2a3b0af4232.jpg,ACCEPTED (borderline),Unique representative. Repaired bboxes: 0,acne-343_jpeg.rf.c85522764d47047f7affd2a3b0af4232.jpg,48.00,test
+acne-265_jpeg.rf.28dc1f89934291b26b04c66bcbf57be0.jpg,ACCEPTED (accepted),Unique representative. Repaired bboxes: 0,acne-265_jpeg.rf.28dc1f89934291b26b04c66bcbf57be0.jpg,103.52,test
+acne-457_jpeg.rf.96817d48e7a4fe76651012d96df43141.jpg,ACCEPTED (borderline),Unique representative. Repaired bboxes: 0,acne-457_jpeg.rf.96817d48e7a4fe76651012d96df43141.jpg,31.83,test
+acne-9_jpeg.rf.f4c2ca2d6212d212b29a6a9644d997db.jpg,ACCEPTED (borderline),Unique representative. Repaired bboxes: 0,acne-9_jpeg.rf.f4c2ca2d6212d212b29a6a9644d997db.jpg,27.70,test
+acne-36_jpeg.rf.51cfb97155eea90115dbdb6dce03f79e.jpg,ACCEPTED (accepted),Unique representative. Repaired bboxes: 0,acne-36_jpeg.rf.51cfb97155eea90115dbdb6dce03f79e.jpg,246.05,test
+acne-376_jpeg.rf.7dbf19a32e30877ef3748eb9a80f6cfd.jpg,ACCEPTED (borderline),Unique representative. Repaired bboxes: 0,acne-376_jpeg.rf.7dbf19a32e30877ef3748eb9a80f6cfd.jpg,56.28,test
+acne-64_jpeg.rf.4186cc3c011874e31e65851c7adff713.jpg,ACCEPTED (accepted),Unique representative. Repaired bboxes: 0,acne-64_jpeg.rf.4186cc3c011874e31e65851c7adff713.jpg,182.16,test
+acne-248_jpeg.rf.2a7a9fa6acf6a2ec559666cc56987bfa.jpg,ACCEPTED (borderline),Unique representative. Repaired bboxes: 0,acne-248_jpeg.rf.2a7a9fa6acf6a2ec559666cc56987bfa.jpg,23.42,test
+acne-334_jpeg.rf.704a6e2a57ec614231bd2683225afd07.jpg,ACCEPTED (borderline),Unique representative. Repaired bboxes: 0,acne-334_jpeg.rf.704a6e2a57ec614231bd2683225afd07.jpg,55.96,test
+acne-136_jpg.rf.bcf7437fb066a95c7f159436df6c7c27.jpg,ACCEPTED (accepted),Unique representative. Repaired bboxes: 0,acne-136_jpg.rf.bcf7437fb066a95c7f159436df6c7c27.jpg,297.75,test
+acne-270_jpeg.rf.02b4b1d03ec73351a0ab15ea93028650.jpg,ACCEPTED (accepted),Unique representative. Repaired bboxes: 0,acne-270_jpeg.rf.02b4b1d03ec73351a0ab15ea93028650.jpg,66.37,test
+acne-49_jpeg.rf.3c951af43df31b304067823e836ec20b.jpg,ACCEPTED (borderline),Unique representative. Repaired bboxes: 0,acne-49_jpeg.rf.3c951af43df31b304067823e836ec20b.jpg,50.65,test
+acne-330_jpeg.rf.4a9e71f79f3ac432d8f35fd5e4612a2b.jpg,ACCEPTED (accepted),Unique representative. Repaired bboxes: 0,acne-330_jpeg.rf.4a9e71f79f3ac432d8f35fd5e4612a2b.jpg,308.21,test
+acne-300_jpeg.rf.37d6ebe89a9258816b60beac5c432deb.jpg,ACCEPTED (borderline),Unique representative. Repaired bboxes: 0,acne-300_jpeg.rf.37d6ebe89a9258816b60beac5c432deb.jpg,35.83,test
+acne-423_jpeg.rf.12ace9ed601c657e03d589552513381f.jpg,ACCEPTED (borderline),Unique representative. Repaired bboxes: 0,acne-423_jpeg.rf.12ace9ed601c657e03d589552513381f.jpg,23.82,test
+acne-122_jpg.rf.79832d3e5a9fd4a65ababe273ed29bf1.jpg,ACCEPTED (accepted),Unique representative. Repaired bboxes: 0,acne-122_jpg.rf.79832d3e5a9fd4a65ababe273ed29bf1.jpg,433.95,test
+acne-54_jpeg.rf.28ba6467b58feb5da045ed75c4437955.jpg,ACCEPTED (borderline),Unique representative. Repaired bboxes: 0,acne-54_jpeg.rf.28ba6467b58feb5da045ed75c4437955.jpg,36.79,test
+acne-240_jpg.rf.e843d0318dbc2602b10d182fed2aac33.jpg,ACCEPTED (accepted),Unique representative. Repaired bboxes: 0,acne-240_jpg.rf.e843d0318dbc2602b10d182fed2aac33.jpg,194.16,test
+acne-365_jpeg.rf.188e94b58976329aac72248d90241590.jpg,ACCEPTED (accepted),Unique representative. Repaired bboxes: 0,acne-365_jpeg.rf.188e94b58976329aac72248d90241590.jpg,88.28,test
+acne-285_jpeg.rf.9e03cf2f6e78640d15671d542de12cac.jpg,ACCEPTED (accepted),Unique representative. Repaired bboxes: 0,acne-285_jpeg.rf.9e03cf2f6e78640d15671d542de12cac.jpg,107.10,test
+acne-5_jpeg.rf.2d6671715f0149df7b494c4d3f12a98b.jpg,ACCEPTED (borderline),Unique representative. Repaired bboxes: 0,acne-5_jpeg.rf.2d6671715f0149df7b494c4d3f12a98b.jpg,45.85,test
+acne-264_jpeg.rf.c2f687a278fc20c5411577713e0f11a8.jpg,ACCEPTED (accepted),Unique representative. Repaired bboxes: 0,acne-264_jpeg.rf.c2f687a278fc20c5411577713e0f11a8.jpg,114.06,test
+acne-14_jpeg.rf.ce37e344b5f0d2c1aeed3f330eaf47f7.jpg,ACCEPTED (accepted),Unique representative. Repaired bboxes: 0,acne-14_jpeg.rf.ce37e344b5f0d2c1aeed3f330eaf47f7.jpg,112.70,test
+acne-270_jpeg.rf.5cfa8c65b242d57a44805ffe812a01e5.jpg,ACCEPTED (accepted),Unique representative. Repaired bboxes: 0,acne-270_jpeg.rf.5cfa8c65b242d57a44805ffe812a01e5.jpg,97.89,test
+acne-239_jpg.rf.08487e45a5ca975c038eabe8464b0c87.jpg,ACCEPTED (accepted),Unique representative. Repaired bboxes: 0,acne-239_jpg.rf.08487e45a5ca975c038eabe8464b0c87.jpg,337.57,test
+acne-154_jpg.rf.2c23312611bde8ff91dba18be75c8584.jpg,ACCEPTED (accepted),Unique representative. Repaired bboxes: 0,acne-154_jpg.rf.2c23312611bde8ff91dba18be75c8584.jpg,404.03,test
+acne-259_jpeg.rf.a8d0bd1f501bcaec124233bceb542373.jpg,ACCEPTED (accepted),Unique representative. Repaired bboxes: 0,acne-259_jpeg.rf.a8d0bd1f501bcaec124233bceb542373.jpg,179.86,test
+acne-443_jpeg.rf.66cc2f0992d43d40395e8abb53eea948.jpg,ACCEPTED (accepted),Unique representative. Repaired bboxes: 0,acne-443_jpeg.rf.66cc2f0992d43d40395e8abb53eea948.jpg,109.19,test
+acne-215_jpg.rf.03e0070c1d7b1425afb2fa5e61365358.jpg,ACCEPTED (accepted),Unique representative. Repaired bboxes: 0,acne-215_jpg.rf.03e0070c1d7b1425afb2fa5e61365358.jpg,283.82,test
+acne-18_jpeg.rf.e1d7462fae95a22cf821ff2dce74fe48.jpg,ACCEPTED (borderline),Unique representative. Repaired bboxes: 0,acne-18_jpeg.rf.e1d7462fae95a22cf821ff2dce74fe48.jpg,24.13,test
+acne-83_jpeg.rf.5e49317764327db080c83ca841084390.jpg,ACCEPTED (borderline),Unique representative. Repaired bboxes: 0,acne-83_jpeg.rf.5e49317764327db080c83ca841084390.jpg,20.13,test
+acne-285_jpeg.rf.d5899ab24f731625c88f2309bdf693d2.jpg,ACCEPTED (accepted),Unique representative. Repaired bboxes: 0,acne-285_jpeg.rf.d5899ab24f731625c88f2309bdf693d2.jpg,93.79,test
+acne-287_jpeg.rf.0e3351b30d0ffeee1c87427015114682.jpg,ACCEPTED (accepted),Unique representative. Repaired bboxes: 0,acne-287_jpeg.rf.0e3351b30d0ffeee1c87427015114682.jpg,148.11,test
+acne-409_jpeg.rf.de36768b426b2176e489c7bc3ad974cb.jpg,ACCEPTED (borderline),Unique representative. Repaired bboxes: 0,acne-409_jpeg.rf.de36768b426b2176e489c7bc3ad974cb.jpg,58.57,test
+acne-191_jpg.rf.a0c9751faf17b372142f143e58795b87.jpg,ACCEPTED (accepted),Unique representative. Repaired bboxes: 0,acne-191_jpg.rf.a0c9751faf17b372142f143e58795b87.jpg,804.81,test
+acne-52_jpeg.rf.4ba5bae739485794ad01d6ddb2713b31.jpg,ACCEPTED (borderline),Unique representative. Repaired bboxes: 0,acne-52_jpeg.rf.4ba5bae739485794ad01d6ddb2713b31.jpg,52.01,test
+acne-442_jpeg.rf.98fbd79029b796a6a769cb3d7cf6a2e4.jpg,ACCEPTED (accepted),Unique representative. Repaired bboxes: 0,acne-442_jpeg.rf.98fbd79029b796a6a769cb3d7cf6a2e4.jpg,93.81,test
+acne-107_jpeg.rf.4e21baf3b6d77c05024f07b3cca0c498.jpg,ACCEPTED (accepted),Unique representative. Repaired bboxes: 0,acne-107_jpeg.rf.4e21baf3b6d77c05024f07b3cca0c498.jpg,143.01,test
+acne-8_jpeg.rf.846909f42bc6ab7c2271191b9847b310.jpg,ACCEPTED (accepted),Unique representative. Repaired bboxes: 0,acne-8_jpeg.rf.846909f42bc6ab7c2271191b9847b310.jpg,158.24,test
+acne-54_jpeg.rf.f42808ceac9b99026647fefa6ad40097.jpg,ACCEPTED (borderline),Unique representative. Repaired bboxes: 0,acne-54_jpeg.rf.f42808ceac9b99026647fefa6ad40097.jpg,23.28,test
+acne-57_jpeg.rf.b9ed02768080fdfcf648eef4e58c1904.jpg,ACCEPTED (borderline),Unique representative. Repaired bboxes: 0,acne-57_jpeg.rf.b9ed02768080fdfcf648eef4e58c1904.jpg,32.85,test
+acne-34_jpeg.rf.d085cdfb42ef1e9e0d0ca356ae1346da.jpg,ACCEPTED (accepted),Unique representative. Repaired bboxes: 0,acne-34_jpeg.rf.d085cdfb42ef1e9e0d0ca356ae1346da.jpg,301.95,test
+acne-298_jpeg.rf.8445c28ab2956fcd0168767b748c9b3f.jpg,ACCEPTED (accepted),Unique representative. Repaired bboxes: 0,acne-298_jpeg.rf.8445c28ab2956fcd0168767b748c9b3f.jpg,70.31,test
+acne-218_jpg.rf.ce804a2e4ef6d119d4e442112589453d.jpg,ACCEPTED (accepted),Unique representative. Repaired bboxes: 0,acne-218_jpg.rf.ce804a2e4ef6d119d4e442112589453d.jpg,293.81,test
+acne-283_jpeg.rf.682f2f5641c37539f30f61ba73192625.jpg,ACCEPTED (accepted),Unique representative. Repaired bboxes: 0,acne-283_jpeg.rf.682f2f5641c37539f30f61ba73192625.jpg,178.22,test
+acne-332_jpeg.rf.c818cc35005248abbf274b3469129aed.jpg,ACCEPTED (accepted),Unique representative. Repaired bboxes: 0,acne-332_jpeg.rf.c818cc35005248abbf274b3469129aed.jpg,105.51,test
+acne-410_jpeg.rf.caced8b70846cbfe696a0a075af50549.jpg,ACCEPTED (accepted),Unique representative. Repaired bboxes: 0,acne-410_jpeg.rf.caced8b70846cbfe696a0a075af50549.jpg,181.49,test
+acne-386_jpeg.rf.391340962432958139ed9931c55dbe75.jpg,ACCEPTED (accepted),Unique representative. Repaired bboxes: 0,acne-386_jpeg.rf.391340962432958139ed9931c55dbe75.jpg,233.76,test
+acne-415_jpeg.rf.05c9e8697889c3a2f3485c7071c3750f.jpg,ACCEPTED (accepted),Unique representative. Repaired bboxes: 0,acne-415_jpeg.rf.05c9e8697889c3a2f3485c7071c3750f.jpg,81.59,test
+acne-207_jpg.rf.8a60c3b59e4a9e0f1cad7e370dd77ea5.jpg,ACCEPTED (borderline),Unique representative. Repaired bboxes: 0,acne-207_jpg.rf.8a60c3b59e4a9e0f1cad7e370dd77ea5.jpg,36.13,test
+acne-340_jpeg.rf.af9ce04eaa77297fe319b3cde9050f77.jpg,ACCEPTED (borderline),Unique representative. Repaired bboxes: 0,acne-340_jpeg.rf.af9ce04eaa77297fe319b3cde9050f77.jpg,45.43,test
+acne-114_jpeg.rf.05500969621c6ec1a2720c8113a7f730.jpg,ACCEPTED (borderline),Unique representative. Repaired bboxes: 0,acne-114_jpeg.rf.05500969621c6ec1a2720c8113a7f730.jpg,20.39,test
+acne-365_jpeg.rf.10ae61ddb2eeac85cf9d66f68a66d18b.jpg,ACCEPTED (accepted),Unique representative. Repaired bboxes: 0,acne-365_jpeg.rf.10ae61ddb2eeac85cf9d66f68a66d18b.jpg,104.50,test
+acne-314_jpeg.rf.e15998758f9ee99e20780a0ebbfc64f2.jpg,ACCEPTED (borderline),Unique representative. Repaired bboxes: 0,acne-314_jpeg.rf.e15998758f9ee99e20780a0ebbfc64f2.jpg,39.43,test
+acne-227_jpg.rf.b194f70aa07fec4da34ba2a7d1ab559b.jpg,ACCEPTED (accepted),Unique representative. Repaired bboxes: 0,acne-227_jpg.rf.b194f70aa07fec4da34ba2a7d1ab559b.jpg,709.27,test
+acne-215_jpg.rf.8ba2225c358d32fff5022b3c5fef3b89.jpg,ACCEPTED (accepted),Unique representative. Repaired bboxes: 0,acne-215_jpg.rf.8ba2225c358d32fff5022b3c5fef3b89.jpg,323.50,test
+acne-147_jpg.rf.b9bc95a6617b86d57c6fa510d8be42ce.jpg,ACCEPTED (accepted),Unique representative. Repaired bboxes: 0,acne-147_jpg.rf.b9bc95a6617b86d57c6fa510d8be42ce.jpg,224.38,test
+acne-307_jpeg.rf.5297a008770db29598632a05048eba2b.jpg,ACCEPTED (borderline),Unique representative. Repaired bboxes: 0,acne-307_jpeg.rf.5297a008770db29598632a05048eba2b.jpg,45.59,test
+acne-118_jpg.rf.2146315fc7eedcc8269c3855a055f362.jpg,ACCEPTED (accepted),Unique representative. Repaired bboxes: 0,acne-118_jpg.rf.2146315fc7eedcc8269c3855a055f362.jpg,351.39,test
+acne-80_jpeg.rf.9f84fde7496074c93b503a03de510157.jpg,ACCEPTED (accepted),Unique representative. Repaired bboxes: 0,acne-80_jpeg.rf.9f84fde7496074c93b503a03de510157.jpg,179.51,test
+acne-197_jpg.rf.3e08f172ad3783593d3d6f09b5914df4.jpg,ACCEPTED (accepted),Unique representative. Repaired bboxes: 0,acne-197_jpg.rf.3e08f172ad3783593d3d6f09b5914df4.jpg,184.29,test
+acne-208_jpg.rf.6a0543944c7ec0abf4d3420ef5a48789.jpg,ACCEPTED (accepted),Unique representative. Repaired bboxes: 0,acne-208_jpg.rf.6a0543944c7ec0abf4d3420ef5a48789.jpg,246.19,test
+acne-243_jpeg.rf.ff8b7eddd7999e473316b3c51c5d98fa.jpg,ACCEPTED (accepted),Unique representative. Repaired bboxes: 0,acne-243_jpeg.rf.ff8b7eddd7999e473316b3c51c5d98fa.jpg,131.15,test
+acne-298_jpeg.rf.73b96de78ba1c2aa86eda297a5a7fb22.jpg,ACCEPTED (accepted),Unique representative. Repaired bboxes: 0,acne-298_jpeg.rf.73b96de78ba1c2aa86eda297a5a7fb22.jpg,565.93,test
+acne-309_jpeg.rf.c873de2e8d5769a1e9fbc1a8b7a507fd.jpg,ACCEPTED (borderline),Unique representative. Repaired bboxes: 0,acne-309_jpeg.rf.c873de2e8d5769a1e9fbc1a8b7a507fd.jpg,40.55,test
+acne-334_jpeg.rf.3ccb3cffd5806a38c4700d8f27cca524.jpg,ACCEPTED (accepted),Unique representative. Repaired bboxes: 0,acne-334_jpeg.rf.3ccb3cffd5806a38c4700d8f27cca524.jpg,140.90,test
+acne-123_jpg.rf.2cb8c9deb32b0e5378694e4bc095b86a.jpg,ACCEPTED (accepted),Unique representative. Repaired bboxes: 0,acne-123_jpg.rf.2cb8c9deb32b0e5378694e4bc095b86a.jpg,190.58,test
+acne-222_jpg.rf.19ebefd17c9d7278b70237d51272f4d7.jpg,ACCEPTED (accepted),Unique representative. Repaired bboxes: 0,acne-222_jpg.rf.19ebefd17c9d7278b70237d51272f4d7.jpg,1503.65,test

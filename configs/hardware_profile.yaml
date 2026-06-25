@@ -1,0 +1,66 @@
+# QYRO Hardware Profile & Optimization Configuration
+# Target Hardware: ASUS TUF F16 Laptop
+# Specs: RTX 5050 Laptop GPU (8GB VRAM), 16GB CPU RAM, 1TB SSD
+
+hardware_specs:
+  device: "cuda"
+  gpu_model: "NVIDIA GeForce RTX 5050 Laptop GPU"
+  total_vram_gb: 8.0
+  total_cpu_ram_gb: 16.0
+  has_ssd: true
+
+# YOLOv8n Detection Model Hardware Recommendations
+detection:
+  imgsz: 640
+  batch_size: 16             # Approved Modification: baseline batch size 16 for RTX 5050
+  num_workers: 4             # Scaled to prevent CPU bottleneck on 16GB RAM
+  cache: "disk"              # SSD Disk Cache Strategy: cache to SSD rather than raw RAM to save system memory
+  device: 0                  # CUDA device index
+  amp: true                  # Mixed precision FP16 enabled
+  grad_accumulate: 2         # Accumulate gradients to simulate larger batch size (32 effective)
+  estimated_vram_usage_gb: 3.2
+  estimated_training_time_hours: 1.5
+
+# EfficientNet-B0 Subtype Classification Model Hardware Recommendations
+subtype_classification:
+  input_resolution: 224
+  batch_size: 32             # Approved Modification: baseline batch size 32 to avoid OOM
+  num_workers: 4
+  amp: true                  # Mixed precision (AMP) enabled
+  pin_memory: true           # Pin memory for faster CPU-to-GPU data transfers
+  prefetch_factor: 2         # Prefetch 2 batches per worker
+  estimated_vram_usage_gb: 4.1
+  estimated_training_time_hours: 2.2
+
+# EfficientNet-B0 Severity Grading Model Hardware Recommendations
+severity_grading:
+  input_resolution: 224
+  batch_size: 32             # Approved Modification: baseline batch size 32
+  num_workers: 4
+  amp: true
+  pin_memory: true
+  prefetch_factor: 2
+  estimated_vram_usage_gb: 3.8
+  estimated_training_time_hours: 1.0
+
+# Automatic OOM Fallback Recommendations
+oom_fallback:
+  enabled: true
+  revert_batch_size_ratio: 0.5   # If OOM occurs, cut batch size in half
+  enable_grad_accumulation: true # Multiply gradient accumulation factor by 2
+  disable_dataset_cache: true    # If cache=disk or memory OOM, turn off cache
+  fallback_device: "cpu"         # Last resort fallback device
+
+# SSD Disk Cache Strategy Specifications
+ssd_cache_strategy:
+  preload_labels_only: true      # Only load labels into RAM, stream images from SSD
+  use_persistent_workers: true   # Keeps data loading workers alive between epochs to avoid reload lag
+  tmp_cache_directory: "experiments/shared/cache_temp"
+
+# Thermal Safeguard Recommendations
+thermal_safeguards:
+  max_allowed_temp_celsius: 85   # Trigger throttling alert if GPU core exceeds 85C
+  max_cpu_temp_celsius: 90
+  fan_profile: "Turbo"           # Suggest Armoury Crate 'Turbo' mode
+  windows_power_state: "High Performance"
+  check_interval_seconds: 60

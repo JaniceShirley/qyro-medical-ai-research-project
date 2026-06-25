@@ -1,0 +1,83 @@
+{
+    "dataset_structure": {
+        "directory_structure_valid": true,
+        "total_images_scanned": 4617,
+        "split_distribution": {
+            "train": 2778,
+            "valid": 921,
+            "test": 918
+        },
+        "class_distribution": {
+            "Blackheads": 1240,
+            "Cyst": 1040,
+            "Pustules": 1006,
+            "Papules": 1032,
+            "Whiteheads": 299
+        },
+        "class_split_distribution": {
+            "Blackheads": {
+                "train": 735,
+                "valid": 240,
+                "test": 265
+            },
+            "Cyst": {
+                "train": 645,
+                "valid": 206,
+                "test": 189
+            },
+            "Papules": {
+                "train": 621,
+                "valid": 209,
+                "test": 202
+            },
+            "Pustules": {
+                "train": 584,
+                "valid": 217,
+                "test": 205
+            },
+            "Whiteheads": {
+                "train": 193,
+                "valid": 49,
+                "test": 57
+            }
+        },
+        "orphan_files_count": 10,
+        "missing_images_count": 0,
+        "corrupted_images_count": 0
+    },
+    "image_statistics": {
+        "resolutions": {
+            "640x640": 4617
+        },
+        "formats": {
+            "JPEG": 4617
+        },
+        "aspect_ratios": {
+            "1.0": 4617
+        },
+        "quality_categories": {
+            "high_quality": 232,
+            "usable": 2421,
+            "borderline": 1523,
+            "reject_worthy": 441
+        },
+        "beauty_filtered_count": 723,
+        "medical_realistic_count": 3894
+    },
+    "duplicates": {
+        "exact_duplicate_count": 45,
+        "dhash_duplicate_count": 1478,
+        "near_duplicate_count": 1692,
+        "duplicate_percentage": 36.65,
+        "estimated_unique_images": 2925,
+        "estimated_usable_images_after_cleaning": 2746
+    },
+    "split_leakage": {
+        "total_leakage_pairs": 1535,
+        "leakage_by_splits": {
+            "train_to_valid": 632,
+            "test_to_train": 660,
+            "test_to_valid": 243
+        }
+    }
+}

@@ -1,0 +1,53 @@
+{
+    "total_image_count": 4434,
+    "dataset_distribution": {
+        "tiswan": 2632,
+        "acne04": 752,
+        "kurnaz": 520,
+        "dermnet": 325,
+        "scin": 205
+    },
+    "subtype_distribution": {
+        "mixed": 752,
+        "open_comedo": 751,
+        "cystic": 743,
+        "unknown": 731,
+        "papular": 634,
+        "pustular": 627,
+        "closed_comedo": 168,
+        "infantile": 16,
+        "scar": 11,
+        "mechanica": 1
+    },
+    "severity_distribution": {
+        "unknown": 3682,
+        "stage_2": 340,
+        "stage_1": 271,
+        "stage_3": 89,
+        "stage_4": 52
+    },
+    "split_distribution": {
+        "train": 2951,
+        "test": 647,
+        "valid": 631,
+        "robustness_holdout": 205
+    },
+    "quality_distribution": {
+        "usable": 2191,
+        "sharp": 1234,
+        "borderline": 962,
+        "poor": 47
+    },
+    "missing_metadata_analysis": {
+        "unknown_subtype": 731,
+        "unknown_severity": 3682,
+        "unknown_skin_tone": 4342,
+        "unknown_body_region": 4265
+    },
+    "quality_validation_summary": {
+        "duplicate_image_ids_count": 0,
+        "missing_files_count": 0,
+        "invalid_subtype_labels_count": 0,
+        "invalid_severity_labels_count": 0
+    }
+}

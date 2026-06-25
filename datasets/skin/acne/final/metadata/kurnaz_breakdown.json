@@ -1,0 +1,26 @@
+{
+    "dataset_name": "kurnaz",
+    "image_count": 520,
+    "split_distribution": {
+        "train": 364,
+        "valid": 78,
+        "test": 78
+    },
+    "clinical_quality_distribution": {
+        "sharp": 221,
+        "usable": 158,
+        "borderline": 141
+    },
+    "subtype_distribution": {
+        "unknown": 520
+    },
+    "severity_distribution": {
+        "unknown": 520
+    },
+    "missing_metadata": {
+        "unknown_subtype": 520,
+        "unknown_severity": 520,
+        "unknown_skin_tone": 520,
+        "unknown_body_region": 520
+    }
+}

@@ -1,0 +1,32 @@
+{
+    "total_images_scanned": 1406,
+    "corrupted_images_count": 0,
+    "resolutions": {
+        "1024x1024": 1406
+    },
+    "formats": {
+        "JPEG": 1406
+    },
+    "aspect_ratios": {
+        "1.0": 1406
+    },
+    "severity_distribution": {
+        "Level 0": 491,
+        "Level 1": 623,
+        "Level 2": 177,
+        "Level 3": 115
+    },
+    "quality_categories": {
+        "high_quality": 900,
+        "usable": 202,
+        "borderline": 152,
+        "reject_worthy": 152
+    },
+    "duplicates": {
+        "exact_duplicates": 36,
+        "near_duplicates": 342,
+        "duplicate_percentage": 24.32,
+        "estimated_unique_images": 1064,
+        "estimated_usable_images_after_cleaning": 918
+    }
+}

@@ -1,0 +1,97 @@
+{
+    "overall": {
+        "total_validation_images": 78,
+        "total_ground_truth_lesions": 1145,
+        "total_predictions": 1086,
+        "total_true_positives": 525,
+        "total_false_positives": 561,
+        "total_false_negatives": 620,
+        "global_precision": 0.48342541436464087,
+        "global_recall": 0.4585152838427948,
+        "mean_iou_of_true_positives": 0.6896786842797253
+    },
+    "false_positive_breakdown": {
+        "overlapping lesions": 277,
+        "other": 254,
+        "skin texture": 22,
+        "pigmentation": 7,
+        "glare/specular reflections": 1
+    },
+    "false_negative_breakdown": {
+        "low contrast lesions": 530,
+        "clustered lesions": 63,
+        "other": 15,
+        "severe inflammatory lesions": 7,
+        "side-angle lesions": 4,
+        "tiny lesions": 1
+    },
+    "annotation_risk_breakdown": {
+        "suspiciously large box": 16
+    },
+    "crowding_analysis": {
+        "correlation_density_vs_total_errors": 0.876622862778612,
+        "correlation_density_vs_missed_lesions": 0.8335959326290696,
+        "high_density_images_stats": [
+            {
+                "image_path": "datasets/skin/acne/final/detection/valid/images/kurnaz_000389.jpg",
+                "gt_count": 52,
+                "fp_count": 6,
+                "fn_count": 40
+            },
+            {
+                "image_path": "datasets/skin/acne/final/detection/valid/images/kurnaz_000390.jpg",
+                "gt_count": 38,
+                "fp_count": 20,
+                "fn_count": 24
+            },
+            {
+                "image_path": "datasets/skin/acne/final/detection/valid/images/kurnaz_000413.jpg",
+                "gt_count": 38,
+                "fp_count": 18,
+                "fn_count": 13
+            },
+            {
+                "image_path": "datasets/skin/acne/final/detection/valid/images/kurnaz_000416.jpg",
+                "gt_count": 34,
+                "fp_count": 14,
+                "fn_count": 20
+            },
+            {
+                "image_path": "datasets/skin/acne/final/detection/valid/images/kurnaz_000367.jpg",
+                "gt_count": 31,
+                "fp_count": 0,
+                "fn_count": 20
+            },
+            {
+                "image_path": "datasets/skin/acne/final/detection/valid/images/kurnaz_000391.jpg",
+                "gt_count": 31,
+                "fp_count": 22,
+                "fn_count": 27
+            },
+            {
+                "image_path": "datasets/skin/acne/final/detection/valid/images/kurnaz_000381.jpg",
+                "gt_count": 30,
+                "fp_count": 24,
+                "fn_count": 8
+            },
+            {
+                "image_path": "datasets/skin/acne/final/detection/valid/images/kurnaz_000393.jpg",
+                "gt_count": 30,
+                "fp_count": 23,
+                "fn_count": 8
+            },
+            {
+                "image_path": "datasets/skin/acne/final/detection/valid/images/kurnaz_000394.jpg",
+                "gt_count": 30,
+                "fp_count": 24,
+                "fn_count": 8
+            },
+            {
+                "image_path": "datasets/skin/acne/final/detection/valid/images/kurnaz_000434.jpg",
+                "gt_count": 30,
+                "fp_count": 1,
+                "fn_count": 25
+            }
+        ]
+    }
+}

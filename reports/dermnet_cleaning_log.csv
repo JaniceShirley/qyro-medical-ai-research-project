@@ -1,0 +1,1153 @@
+original_filename,class,status,reason,duplicate_cluster,blur_score,quality_label,final_split
+07Acne081101.jpg,acne_active,REMOVED,Duplicate of acne-cystic-12.jpg,1,574.41,high,N/A
+07AcnePittedScars.jpg,acne_scar,RETAINED,Valid unique acne image,2,740.34,high,test
+07AcnePittedScars1.jpg,acne_scar,RETAINED,Valid unique acne image,3,760.67,high,test
+07PerioralDermEye.jpg,perioral_dermatitis,REJECTED,Diagnostic reject: perioral_dermatitis,N/A,613.29,reject,N/A
+07PerioralDermNose.jpg,perioral_dermatitis,REJECTED,Diagnostic reject: perioral_dermatitis,N/A,486.32,reject,N/A
+07PerioralDermq.jpg,perioral_dermatitis,REJECTED,Diagnostic reject: perioral_dermatitis,N/A,196.30,reject,N/A
+07PerioralSteroid1.jpg,perioral_dermatitis,REJECTED,Diagnostic reject: perioral_dermatitis,N/A,379.60,reject,N/A
+07PerlecheAccutane.jpg,perleche_accutane,REJECTED,Diagnostic reject: perleche_accutane,N/A,624.20,reject,N/A
+07Rhinophyma1.jpg,rosacea,REJECTED,Diagnostic reject: rosacea,N/A,1104.21,reject,N/A
+07Rhinophyma1a.jpg,rosacea,REJECTED,Diagnostic reject: rosacea,N/A,1267.87,reject,N/A
+07Rhinophymaq.jpg,rosacea,REJECTED,Diagnostic reject: rosacea,N/A,803.63,reject,N/A
+07rhnophymas032105.jpg,rosacea,REJECTED,Diagnostic reject: rosacea,N/A,388.40,reject,N/A
+07rhnophymas0321051.jpg,rosacea,REJECTED,Diagnostic reject: rosacea,N/A,228.22,reject,N/A
+07rosacea010206OK.jpg,rosacea,REJECTED,Diagnostic reject: rosacea,N/A,773.27,reject,N/A
+07RosaceaForehead.jpg,rosacea,REJECTED,Diagnostic reject: rosacea,N/A,382.16,reject,N/A
+07RosaceaFulFAce.jpg,rosacea,REJECTED,Diagnostic reject: rosacea,N/A,911.74,reject,N/A
+07RosaceaK0216.jpg,rosacea,REJECTED,Diagnostic reject: rosacea,N/A,1404.27,reject,N/A
+07RosaceaK02161.jpg,rosacea,REJECTED,Diagnostic reject: rosacea,N/A,1351.47,reject,N/A
+07RosaceaK02162.jpg,rosacea,REJECTED,Diagnostic reject: rosacea,N/A,1129.43,reject,N/A
+07RosaceaK02163.jpg,rosacea,REJECTED,Diagnostic reject: rosacea,N/A,1556.10,reject,N/A
+07RosaceaK02164.jpg,rosacea,REJECTED,Diagnostic reject: rosacea,N/A,1109.76,reject,N/A
+07RosaceaK02165.jpg,rosacea,REJECTED,Diagnostic reject: rosacea,N/A,1088.55,reject,N/A
+07RosaceaK02166.jpg,rosacea,REJECTED,Diagnostic reject: rosacea,N/A,2213.59,reject,N/A
+07RosaceaMilia0120.jpg,milia,REJECTED,Diagnostic reject: milia,N/A,924.94,reject,N/A
+07RosaceaOK082806.jpg,rosacea,REJECTED,Diagnostic reject: rosacea,N/A,489.14,reject,N/A
+07RosaceaOK0828062.jpg,rosacea,REJECTED,Diagnostic reject: rosacea,N/A,1325.10,reject,N/A
+07RosaceaOK0828063.jpg,rosacea,REJECTED,Diagnostic reject: rosacea,N/A,561.12,reject,N/A
+07RosaceaTel011204.jpg,rosacea,REJECTED,Diagnostic reject: rosacea,N/A,557.80,reject,N/A
+07rosaceaTreated091806OK.jpg,rosacea,REJECTED,Diagnostic reject: rosacea,N/A,748.70,reject,N/A
+07sebDerem110105.jpg,seborrheic_dermatitis,REJECTED,Diagnostic reject: seborrheic_dermatitis,N/A,268.07,reject,N/A
+07sebDerem1101051.jpg,seborrheic_dermatitis,REJECTED,Diagnostic reject: seborrheic_dermatitis,N/A,590.76,reject,N/A
+07sebDerem1101052.jpg,seborrheic_dermatitis,REJECTED,Diagnostic reject: seborrheic_dermatitis,N/A,564.00,reject,N/A
+07SteroidPerioral.jpg,perioral_dermatitis,REJECTED,Diagnostic reject: perioral_dermatitis,N/A,599.26,reject,N/A
+07SteroidRosacea.jpg,rosacea,REJECTED,Diagnostic reject: rosacea,N/A,510.49,reject,N/A
+07SteroidRosacea43.jpg,rosacea,REJECTED,Diagnostic reject: rosacea,N/A,1453.34,reject,N/A
+07SteroidRosGlab.jpg,rosacea,REJECTED,Diagnostic reject: rosacea,N/A,1118.89,reject,N/A
+07VascularFace0120.jpg,rosacea,REJECTED,Diagnostic reject: rosacea,N/A,1231.06,reject,N/A
+08PerioralDerm0203.jpg,perioral_dermatitis,REJECTED,Diagnostic reject: perioral_dermatitis,N/A,1098.81,reject,N/A
+08PerioralDerm1.jpg,perioral_dermatitis,REJECTED,Diagnostic reject: perioral_dermatitis,N/A,856.84,reject,N/A
+23VesselsNose.jpg,rosacea,REJECTED,Diagnostic reject: rosacea,N/A,836.52,reject,N/A
+23VesselsNose1.jpg,rosacea,REJECTED,Diagnostic reject: rosacea,N/A,982.25,reject,N/A
+acne-closed-comedo-002.jpg,acne_active,RETAINED,Valid unique acne image,4,69.90,usable,test
+acne-closed-comedo-003.jpg,acne_active,REMOVED,Duplicate of acne-closed-comedo-25.jpg,5,841.96,high,N/A
+acne-closed-comedo-1.jpg,acne_active,REMOVED,Duplicate of acne-closed-comedo-13.jpg,6,1150.15,high,N/A
+acne-closed-comedo-10.jpg,acne_active,RETAINED,Valid unique acne image,7,781.93,high,train
+acne-closed-comedo-11.jpg,acne_active,RETAINED,Valid unique acne image,8,982.45,high,valid
+acne-closed-comedo-12.jpg,acne_active,REMOVED,Duplicate of acne-closed-comedo-25.jpg,5,737.32,high,N/A
+acne-closed-comedo-13.jpg,acne_active,RETAINED,Valid unique acne image,6,1199.44,high,test
+acne-closed-comedo-14.jpg,acne_active,REMOVED,Duplicate of acne-pustular-65.jpg,9,1466.76,high,N/A
+acne-closed-comedo-15.jpg,acne_active,RETAINED,Valid unique acne image,10,145.80,usable,train
+acne-closed-comedo-16.jpg,acne_active,RETAINED,Valid unique acne image,11,111.15,usable,train
+acne-closed-comedo-17.jpg,acne_active,RETAINED,Valid unique acne image,12,431.84,high,test
+acne-closed-comedo-18.jpg,acne_active,RETAINED,Valid unique acne image,13,977.93,high,train
+acne-closed-comedo-19.jpg,acne_active,RETAINED,Valid unique acne image,14,76.95,usable,train
+acne-closed-comedo-2.jpg,acne_active,RETAINED,Valid unique acne image,15,195.97,high,train
+acne-closed-comedo-20.jpg,acne_active,RETAINED,Valid unique acne image,16,36.88,borderline,train
+acne-closed-comedo-21.jpg,acne_active,RETAINED,Valid unique acne image,17,529.86,high,train
+acne-closed-comedo-22.jpg,acne_active,RETAINED,Valid unique acne image,18,2224.97,high,train
+acne-closed-comedo-23.jpg,acne_active,RETAINED,Valid unique acne image,19,1840.50,high,train
+acne-closed-comedo-24.jpg,acne_active,RETAINED,Valid unique acne image,20,2029.16,high,train
+acne-closed-comedo-25.jpg,acne_active,RETAINED,Valid unique acne image,5,1637.82,high,train
+acne-closed-comedo-26.jpg,acne_active,RETAINED,Valid unique acne image,21,1947.79,high,test
+acne-closed-comedo-27.jpg,acne_active,RETAINED,Valid unique acne image,22,1057.77,high,train
+acne-closed-comedo-28.jpg,acne_active,REMOVED,Duplicate of acne-pustular-50.jpg,23,374.21,high,N/A
+acne-closed-comedo-29.jpg,acne_active,RETAINED,Valid unique acne image,24,294.31,high,train
+acne-closed-comedo-3.jpg,acne_active,RETAINED,Valid unique acne image,25,97.63,usable,train
+acne-closed-comedo-31.jpg,acne_active,RETAINED,Valid unique acne image,26,152.20,high,valid
+acne-closed-comedo-32.jpg,acne_active,RETAINED,Valid unique acne image,27,44.50,borderline,train
+acne-closed-comedo-33.jpg,acne_active,RETAINED,Valid unique acne image,28,607.50,high,valid
+acne-closed-comedo-34.jpg,acne_active,RETAINED,Valid unique acne image,29,2426.02,high,train
+acne-closed-comedo-35.jpg,acne_active,RETAINED,Valid unique acne image,30,2054.77,high,train
+acne-closed-comedo-36.jpg,acne_active,RETAINED,Valid unique acne image,31,807.19,high,train
+acne-closed-comedo-38.jpg,acne_active,RETAINED,Valid unique acne image,32,852.83,high,valid
+acne-closed-comedo-39.jpg,acne_active,RETAINED,Valid unique acne image,33,947.92,high,train
+acne-closed-comedo-4.jpg,acne_active,RETAINED,Valid unique acne image,34,588.22,high,train
+acne-closed-comedo-40.jpg,acne_active,REMOVED,Duplicate of acne-closed-comedo-24.jpg,20,1392.15,high,N/A
+acne-closed-comedo-5.jpg,acne_active,RETAINED,Valid unique acne image,35,1185.04,high,test
+acne-closed-comedo-6.jpg,acne_active,REMOVED,Duplicate of acne-pustular-50.jpg,23,581.64,high,N/A
+acne-closed-comedo-7.jpg,acne_active,RETAINED,Valid unique acne image,36,1304.51,high,valid
+acne-closed-comedo-8.jpg,acne_active,RETAINED,Valid unique acne image,37,834.21,high,train
+acne-closed-comedo-9.jpg,acne_active,RETAINED,Valid unique acne image,38,1135.57,high,test
+acne-Closed-Comedo.jpg,acne_active,RETAINED,Valid unique acne image,39,310.91,high,train
+acne-cystic-1.jpg,acne_active,REMOVED,Duplicate of acne-cystic-36.jpg,40,64.52,usable,N/A
+acne-cystic-10.jpg,acne_active,RETAINED,Valid unique acne image,41,136.13,usable,valid
+acne-cystic-100.jpg,acne_active,RETAINED,Valid unique acne image,42,279.50,high,train
+acne-cystic-101.jpg,acne_active,RETAINED,Valid unique acne image,43,913.93,high,train
+acne-cystic-102.jpg,acne_active,RETAINED,Valid unique acne image,44,295.56,high,test
+acne-cystic-103.jpg,acne_active,RETAINED,Valid unique acne image,45,1224.92,high,test
+acne-cystic-104.jpg,acne_active,REMOVED,Duplicate of acne-closed-comedo-25.jpg,5,177.88,high,N/A
+acne-cystic-105.jpg,acne_active,RETAINED,Valid unique acne image,46,228.35,high,train
+acne-cystic-106.jpg,acne_active,RETAINED,Valid unique acne image,47,855.98,high,train
+acne-cystic-107.jpg,acne_active,RETAINED,Valid unique acne image,48,1275.32,high,train
+acne-cystic-108.jpg,acne_active,RETAINED,Valid unique acne image,49,898.40,high,train
+acne-cystic-109.jpg,acne_active,RETAINED,Valid unique acne image,50,245.34,high,train
+acne-cystic-11.jpg,acne_active,REMOVED,Duplicate of acne-pustular-18.jpg,51,450.49,high,N/A
+acne-cystic-110.jpg,acne_active,RETAINED,Valid unique acne image,52,305.08,high,train
+acne-cystic-111.jpg,acne_active,RETAINED,Valid unique acne image,53,1278.63,high,test
+acne-cystic-112.jpg,acne_active,RETAINED,Valid unique acne image,54,158.92,high,train
+acne-cystic-113.jpg,acne_active,RETAINED,Valid unique acne image,55,1008.93,high,test
+acne-cystic-114.jpg,acne_active,RETAINED,Valid unique acne image,56,928.67,high,test
+acne-cystic-115.jpg,acne_active,RETAINED,Valid unique acne image,57,828.27,high,train
+acne-cystic-116.jpg,acne_active,RETAINED,Valid unique acne image,58,229.77,high,train
+acne-cystic-117.jpg,acne_active,RETAINED,Valid unique acne image,59,471.93,high,test
+acne-cystic-118.jpg,acne_active,RETAINED,Valid unique acne image,60,1177.43,high,train
+acne-cystic-119.jpg,acne_active,RETAINED,Valid unique acne image,61,2312.83,high,train
+acne-cystic-12.jpg,acne_active,RETAINED,Valid unique acne image,1,574.41,high,valid
+acne-cystic-120.jpg,acne_active,RETAINED,Valid unique acne image,62,1094.14,high,train
+acne-cystic-121.jpg,acne_active,RETAINED,Valid unique acne image,63,545.01,high,train
+acne-cystic-122.jpg,acne_active,RETAINED,Valid unique acne image,64,405.39,high,train
+acne-cystic-123.jpg,acne_active,RETAINED,Valid unique acne image,65,141.62,usable,train
+acne-cystic-124.jpg,acne_active,RETAINED,Valid unique acne image,66,351.04,high,valid
+acne-cystic-125.jpg,acne_active,RETAINED,Valid unique acne image,67,252.07,high,train
+acne-cystic-126.jpg,acne_active,RETAINED,Valid unique acne image,68,721.27,high,valid
+acne-cystic-127.jpg,acne_active,REMOVED,Duplicate of acne-cystic-131.jpg,69,325.46,high,N/A
+acne-cystic-128.jpg,acne_active,RETAINED,Valid unique acne image,70,1444.70,high,test
+acne-cystic-129.jpg,acne_active,RETAINED,Valid unique acne image,71,1537.75,high,valid
+acne-cystic-13.jpg,acne_active,REMOVED,Duplicate of acne-pustular-3.jpg,72,633.02,high,N/A
+acne-cystic-130.jpg,acne_active,RETAINED,Valid unique acne image,73,1003.13,high,train
+acne-cystic-131.jpg,acne_active,RETAINED,Valid unique acne image,69,447.41,high,test
+acne-cystic-132.jpg,acne_active,RETAINED,Valid unique acne image,74,1444.99,high,train
+acne-cystic-133.jpg,acne_active,RETAINED,Valid unique acne image,75,2529.79,high,train
+acne-cystic-134.jpg,acne_active,RETAINED,Valid unique acne image,76,895.89,high,train
+acne-cystic-135.jpg,acne_active,RETAINED,Valid unique acne image,77,830.27,high,test
+acne-cystic-136.jpg,acne_active,REMOVED,Duplicate of acne-cystic-52.jpg,78,377.20,high,N/A
+acne-cystic-137.jpg,acne_active,REMOVED,Duplicate of acne-cystic-52.jpg,78,359.50,high,N/A
+acne-cystic-138.jpg,acne_active,RETAINED,Valid unique acne image,79,1459.22,high,train
+acne-cystic-139.jpg,acne_active,REMOVED,Duplicate of acne-cystic-54.jpg,80,781.56,high,N/A
+acne-cystic-14.jpg,acne_active,REMOVED,Duplicate of acne-closed-comedo-25.jpg,5,521.20,high,N/A
+acne-cystic-140.jpg,acne_active,RETAINED,Valid unique acne image,81,1280.34,high,train
+acne-cystic-141.jpg,acne_active,RETAINED,Valid unique acne image,82,2456.95,high,train
+acne-cystic-142.jpg,acne_active,RETAINED,Valid unique acne image,83,1841.31,high,train
+acne-cystic-143.jpg,acne_active,RETAINED,Valid unique acne image,84,1149.48,high,train
+acne-cystic-144.jpg,acne_active,REMOVED,Duplicate of acne-closed-comedo-25.jpg,5,1119.62,high,N/A
+acne-cystic-145.jpg,acne_active,RETAINED,Valid unique acne image,85,1425.70,high,train
+acne-cystic-146.jpg,acne_active,RETAINED,Valid unique acne image,86,1465.89,high,train
+acne-cystic-147.jpg,acne_active,RETAINED,Valid unique acne image,87,1051.04,high,train
+acne-cystic-148.jpg,acne_active,RETAINED,Valid unique acne image,88,1522.76,high,train
+acne-cystic-149.jpg,acne_active,RETAINED,Valid unique acne image,89,417.03,high,train
+acne-cystic-15.jpg,acne_active,RETAINED,Valid unique acne image,90,529.40,high,train
+acne-cystic-150.jpg,acne_active,RETAINED,Valid unique acne image,91,351.43,high,train
+acne-cystic-151.jpg,acne_active,RETAINED,Valid unique acne image,92,435.75,high,train
+acne-cystic-16.jpg,acne_active,RETAINED,Valid unique acne image,93,279.22,high,train
+acne-cystic-17.jpg,acne_active,REMOVED,Duplicate of acne-pustular-30.jpg,94,252.41,high,N/A
+acne-cystic-18.jpg,acne_active,REMOVED,Duplicate of acne-pustular-6.jpg,95,1359.83,high,N/A
+acne-cystic-19.jpg,acne_active,RETAINED,Valid unique acne image,96,777.44,high,train
+acne-cystic-2.jpg,acne_active,RETAINED,Valid unique acne image,97,636.22,high,train
+acne-cystic-20.jpg,acne_active,REMOVED,Duplicate of acne-pustular-7.jpg,98,506.92,high,N/A
+acne-cystic-21.jpg,acne_active,REMOVED,Duplicate of acne-pustular-7.jpg,98,157.01,high,N/A
+acne-cystic-24.jpg,acne_active,RETAINED,Valid unique acne image,99,759.50,high,train
+acne-cystic-25.jpg,acne_active,RETAINED,Valid unique acne image,100,750.49,high,valid
+acne-cystic-26.jpg,acne_active,RETAINED,Valid unique acne image,101,821.15,high,test
+acne-cystic-27.jpg,acne_active,REMOVED,Duplicate of acne-closed-comedo-25.jpg,5,547.75,high,N/A
+acne-cystic-28.jpg,acne_active,REMOVED,Duplicate of acne-closed-comedo-24.jpg,20,426.50,high,N/A
+acne-cystic-29.jpg,acne_active,RETAINED,Valid unique acne image,102,598.30,high,train
+acne-cystic-3.jpg,acne_active,REMOVED,Duplicate of acne-closed-comedo-25.jpg,5,545.33,high,N/A
+acne-cystic-30.jpg,acne_active,RETAINED,Valid unique acne image,103,465.56,high,train
+acne-cystic-31.jpg,acne_active,RETAINED,Valid unique acne image,104,570.73,high,valid
+acne-cystic-32.jpg,acne_active,RETAINED,Valid unique acne image,105,617.69,high,train
+acne-cystic-34.jpg,acne_active,RETAINED,Valid unique acne image,106,666.67,high,train
+acne-cystic-36.jpg,acne_active,RETAINED,Valid unique acne image,40,153.78,high,train
+acne-cystic-37.jpg,acne_active,RETAINED,Valid unique acne image,107,878.60,high,train
+acne-cystic-38.jpg,acne_active,RETAINED,Valid unique acne image,108,1206.66,high,train
+acne-cystic-39.jpg,acne_active,RETAINED,Valid unique acne image,109,298.00,high,valid
+acne-cystic-4.jpg,acne_active,RETAINED,Valid unique acne image,110,1686.75,high,train
+acne-cystic-40.jpg,acne_active,RETAINED,Valid unique acne image,111,163.72,high,train
+acne-cystic-42.jpg,acne_active,RETAINED,Valid unique acne image,112,383.17,high,train
+acne-cystic-43.jpg,acne_active,RETAINED,Valid unique acne image,113,624.20,high,train
+acne-cystic-44.jpg,acne_active,RETAINED,Valid unique acne image,114,1680.27,high,test
+acne-cystic-45.jpg,acne_active,RETAINED,Valid unique acne image,115,841.40,high,train
+acne-cystic-47.jpg,acne_active,RETAINED,Valid unique acne image,116,245.08,high,train
+acne-cystic-48.jpg,acne_active,RETAINED,Valid unique acne image,117,3450.54,high,train
+acne-cystic-49.jpg,acne_active,RETAINED,Valid unique acne image,118,4671.75,high,train
+acne-cystic-5.jpg,acne_active,RETAINED,Valid unique acne image,119,2683.81,high,test
+acne-cystic-50.jpg,acne_active,RETAINED,Valid unique acne image,120,2239.58,high,train
+acne-cystic-51.jpg,acne_active,RETAINED,Valid unique acne image,121,608.74,high,valid
+acne-cystic-52.jpg,acne_active,RETAINED,Valid unique acne image,78,801.99,high,train
+acne-cystic-53.jpg,acne_active,RETAINED,Valid unique acne image,122,3661.08,high,train
+acne-cystic-54.jpg,acne_active,RETAINED,Valid unique acne image,80,1543.43,high,train
+acne-cystic-56.jpg,acne_active,RETAINED,Valid unique acne image,123,770.73,high,train
+acne-cystic-57.jpg,acne_active,RETAINED,Valid unique acne image,124,447.43,high,train
+acne-cystic-58.jpg,acne_active,RETAINED,Valid unique acne image,125,894.73,high,train
+acne-cystic-59.jpg,acne_active,RETAINED,Valid unique acne image,126,211.82,high,train
+acne-cystic-6.jpg,acne_active,RETAINED,Valid unique acne image,127,1369.15,high,test
+acne-cystic-60.jpg,acne_active,RETAINED,Valid unique acne image,128,321.77,high,valid
+acne-cystic-61.jpg,acne_active,RETAINED,Valid unique acne image,129,148.81,usable,train
+acne-cystic-84.jpg,acne_active,REMOVED,Duplicate of acne-cystic-112.jpg,54,154.09,high,N/A
+acne-cystic-85.jpg,acne_active,RETAINED,Valid unique acne image,130,1129.07,high,train
+acne-cystic-86.jpg,acne_active,REMOVED,Duplicate of acne-cystic-52.jpg,78,588.33,high,N/A
+acne-cystic-87.jpg,acne_active,RETAINED,Valid unique acne image,131,442.43,high,train
+acne-cystic-88.jpg,acne_active,RETAINED,Valid unique acne image,132,1705.19,high,valid
+acne-cystic-89.jpg,acne_active,RETAINED,Valid unique acne image,133,674.18,high,valid
+acne-cystic-9.jpg,acne_active,RETAINED,Valid unique acne image,134,1466.46,high,train
+acne-cystic-90.jpg,acne_active,RETAINED,Valid unique acne image,135,922.06,high,test
+acne-cystic-91.jpg,acne_active,RETAINED,Valid unique acne image,136,717.79,high,train
+acne-cystic-92.jpg,acne_active,RETAINED,Valid unique acne image,137,1046.17,high,train
+acne-cystic-93.jpg,acne_active,RETAINED,Valid unique acne image,138,1702.58,high,valid
+acne-cystic-94.jpg,acne_active,RETAINED,Valid unique acne image,139,320.33,high,train
+acne-cystic-95.jpg,acne_active,RETAINED,Valid unique acne image,140,1414.19,high,valid
+acne-cystic-96.jpg,acne_active,RETAINED,Valid unique acne image,141,945.63,high,test
+acne-cystic-97.jpg,acne_active,RETAINED,Valid unique acne image,142,784.04,high,test
+acne-cystic-98.jpg,acne_active,RETAINED,Valid unique acne image,143,190.08,high,train
+acne-cystic-99.jpg,acne_active,RETAINED,Valid unique acne image,144,1603.14,high,train
+acne-excoriated-1.jpg,acne_active,REMOVED,Duplicate of acne-excoriated-2.jpg,145,949.12,high,N/A
+acne-excoriated-10.jpg,acne_active,RETAINED,Valid unique acne image,146,548.18,high,test
+acne-excoriated-11.jpg,acne_active,RETAINED,Valid unique acne image,147,630.73,high,train
+acne-excoriated-12.jpg,acne_active,RETAINED,Valid unique acne image,148,615.72,high,train
+acne-excoriated-13.jpg,acne_active,RETAINED,Valid unique acne image,149,251.30,high,test
+acne-excoriated-14.jpg,acne_active,RETAINED,Valid unique acne image,150,475.37,high,valid
+acne-excoriated-15.jpg,acne_active,RETAINED,Valid unique acne image,151,569.94,high,train
+acne-excoriated-16.jpg,acne_active,RETAINED,Valid unique acne image,152,261.85,high,train
+acne-excoriated-17.jpg,acne_active,RETAINED,Valid unique acne image,153,3058.65,high,test
+acne-excoriated-2.jpg,acne_active,RETAINED,Valid unique acne image,145,949.12,high,train
+acne-excoriated-20.jpg,acne_active,RETAINED,Valid unique acne image,154,1050.12,high,train
+acne-excoriated-21.jpg,acne_active,RETAINED,Valid unique acne image,155,829.00,high,train
+acne-excoriated-22.jpg,acne_active,REMOVED,Duplicate of acne-excoriated-21.jpg,155,627.91,high,N/A
+acne-excoriated-23.jpg,acne_active,RETAINED,Valid unique acne image,156,883.62,high,train
+acne-excoriated-24.jpg,acne_active,REMOVED,Duplicate of acne-excoriated-20.jpg,154,628.04,high,N/A
+acne-excoriated-25.jpg,acne_active,RETAINED,Valid unique acne image,157,517.33,high,train
+acne-excoriated-26.jpg,acne_active,RETAINED,Valid unique acne image,158,263.01,high,train
+acne-excoriated-27.jpg,acne_active,REMOVED,Duplicate of acne-excoriated-20.jpg,154,177.74,high,N/A
+acne-excoriated-28.jpg,acne_active,RETAINED,Valid unique acne image,159,99.57,usable,train
+acne-excoriated-29.jpg,acne_active,RETAINED,Valid unique acne image,160,329.42,high,train
+acne-excoriated-3.jpg,acne_active,RETAINED,Valid unique acne image,161,1078.51,high,train
+acne-excoriated-30.jpg,acne_active,RETAINED,Valid unique acne image,162,378.33,high,valid
+acne-excoriated-4.jpg,acne_active,RETAINED,Valid unique acne image,163,424.62,high,test
+acne-excoriated-5.jpg,acne_active,RETAINED,Valid unique acne image,164,1027.29,high,train
+acne-excoriated-6.jpg,acne_active,RETAINED,Valid unique acne image,165,891.28,high,valid
+acne-excoriated-8.jpg,acne_active,RETAINED,Valid unique acne image,166,653.16,high,train
+acne-histology-3.jpg,histology_or_illustration,REJECTED,Diagnostic reject: histology_or_illustration,N/A,1456.40,reject,N/A
+acne-histology-4.jpg,histology_or_illustration,REJECTED,Diagnostic reject: histology_or_illustration,N/A,8062.10,reject,N/A
+acne-infantile-1.jpg,acne_active,RETAINED,Valid unique acne image,167,275.47,high,test
+acne-infantile-11.jpg,acne_active,RETAINED,Valid unique acne image,168,418.65,high,train
+acne-infantile-12.jpg,acne_active,RETAINED,Valid unique acne image,169,246.83,high,test
+acne-infantile-13.jpg,acne_active,RETAINED,Valid unique acne image,170,309.05,high,valid
+acne-infantile-14.jpg,acne_active,RETAINED,Valid unique acne image,171,2612.15,high,train
+acne-infantile-15.jpg,acne_active,RETAINED,Valid unique acne image,172,1105.46,high,train
+acne-infantile-16.jpg,acne_active,RETAINED,Valid unique acne image,173,1740.33,high,train
+acne-infantile-2.jpg,acne_active,RETAINED,Valid unique acne image,174,352.22,high,train
+acne-infantile-3.jpg,acne_active,RETAINED,Valid unique acne image,175,1027.05,high,train
+acne-infantile-4.jpg,acne_active,RETAINED,Valid unique acne image,176,80.60,usable,train
+acne-infantile-5.jpg,acne_active,RETAINED,Valid unique acne image,177,376.62,high,test
+acne-infantile-6.jpg,acne_active,RETAINED,Valid unique acne image,178,166.34,high,train
+acne-infantile-7.jpg,acne_active,RETAINED,Valid unique acne image,179,355.93,high,train
+acne-infantile-8.jpg,acne_active,RETAINED,Valid unique acne image,180,414.75,high,train
+acne-infantile-9.jpg,acne_active,RETAINED,Valid unique acne image,181,797.08,high,valid
+acne-mechanica-1.jpg,acne_active,RETAINED,Valid unique acne image,182,809.74,high,test
+acne-open-comedo-1.jpg,acne_active,RETAINED,Valid unique acne image,183,416.86,high,train
+acne-open-comedo-10.jpg,acne_active,RETAINED,Valid unique acne image,184,210.33,high,valid
+acne-open-comedo-11.jpg,acne_active,RETAINED,Valid unique acne image,185,753.09,high,valid
+acne-open-comedo-12.jpg,acne_active,RETAINED,Valid unique acne image,186,93.56,usable,test
+acne-open-comedo-13.jpg,acne_active,RETAINED,Valid unique acne image,187,93.72,usable,train
+acne-open-comedo-14.jpg,acne_active,REMOVED,Duplicate of acne-closed-comedo-25.jpg,5,841.96,high,N/A
+acne-open-comedo-15.jpg,acne_active,RETAINED,Valid unique acne image,188,903.28,high,valid
+acne-open-comedo-17.jpg,acne_active,RETAINED,Valid unique acne image,189,1327.16,high,train
+acne-open-comedo-18.jpg,acne_active,RETAINED,Valid unique acne image,190,1940.45,high,test
+acne-open-comedo-19.jpg,acne_active,RETAINED,Valid unique acne image,191,663.61,high,train
+acne-open-comedo-2.jpg,acne_active,RETAINED,Valid unique acne image,192,339.89,high,train
+acne-open-comedo-20.jpg,acne_active,REMOVED,Duplicate of acne-cystic-33.jpg,193,446.66,high,N/A
+acne-open-comedo-21.jpg,acne_active,RETAINED,Valid unique acne image,194,615.57,high,train
+acne-open-comedo-22.jpg,acne_active,RETAINED,Valid unique acne image,195,485.00,high,train
+acne-open-comedo-23.jpg,acne_active,RETAINED,Valid unique acne image,196,783.96,high,valid
+acne-open-comedo-24.jpg,acne_active,RETAINED,Valid unique acne image,197,655.17,high,test
+acne-open-comedo-25.jpg,acne_active,RETAINED,Valid unique acne image,198,704.97,high,test
+acne-open-comedo-26.jpg,acne_active,RETAINED,Valid unique acne image,199,556.18,high,train
+acne-open-comedo-28.jpg,acne_active,RETAINED,Valid unique acne image,200,1366.48,high,train
+acne-open-comedo-29.jpg,acne_active,RETAINED,Valid unique acne image,201,367.52,high,train
+acne-open-comedo-3.jpg,acne_active,RETAINED,Valid unique acne image,202,396.17,high,train
+acne-open-comedo-30.jpg,acne_active,RETAINED,Valid unique acne image,203,1279.99,high,train
+acne-open-comedo-31.jpg,acne_active,RETAINED,Valid unique acne image,204,206.09,high,train
+acne-open-comedo-32.jpg,acne_active,RETAINED,Valid unique acne image,205,516.24,high,train
+acne-open-comedo-33.jpg,acne_active,RETAINED,Valid unique acne image,206,1084.27,high,train
+acne-open-comedo-34.jpg,acne_active,RETAINED,Valid unique acne image,207,459.10,high,train
+acne-open-comedo-35.jpg,acne_active,RETAINED,Valid unique acne image,208,51.60,borderline,train
+acne-open-comedo-36.jpg,acne_active,RETAINED,Valid unique acne image,209,492.05,high,valid
+acne-open-comedo-37.jpg,acne_active,RETAINED,Valid unique acne image,210,299.39,high,train
+acne-open-comedo-38.jpg,acne_active,REMOVED,Duplicate of acne-pustular-32.jpg,211,235.93,high,N/A
+acne-open-comedo-39.jpg,acne_active,RETAINED,Valid unique acne image,212,1080.47,high,train
+acne-open-comedo-4.jpg,acne_active,RETAINED,Valid unique acne image,213,1543.23,high,train
+acne-open-comedo-40.jpg,acne_active,RETAINED,Valid unique acne image,214,349.70,high,train
+acne-open-comedo-41.jpg,acne_active,RETAINED,Valid unique acne image,215,246.85,high,valid
+acne-open-comedo-42.jpg,acne_active,RETAINED,Valid unique acne image,216,635.15,high,train
+acne-open-comedo-43.jpg,acne_active,RETAINED,Valid unique acne image,217,503.95,high,test
+acne-open-comedo-44.jpg,acne_active,RETAINED,Valid unique acne image,218,2855.45,high,test
+acne-open-comedo-45.jpg,acne_active,RETAINED,Valid unique acne image,219,554.65,high,train
+acne-open-comedo-46.jpg,acne_active,RETAINED,Valid unique acne image,220,460.12,high,valid
+acne-open-comedo-47.jpg,acne_active,RETAINED,Valid unique acne image,221,585.66,high,train
+acne-open-comedo-48.jpg,acne_active,RETAINED,Valid unique acne image,222,1465.61,high,train
+acne-open-comedo-49.jpg,acne_active,RETAINED,Valid unique acne image,223,1230.97,high,train
+acne-open-comedo-5.jpg,acne_active,RETAINED,Valid unique acne image,224,614.09,high,train
+acne-open-comedo-50.jpg,acne_active,RETAINED,Valid unique acne image,225,691.28,high,train
+acne-open-comedo-51.jpg,acne_active,REMOVED,Duplicate of acne-closed-comedo-13.jpg,6,332.41,high,N/A
+acne-open-comedo-52.jpg,acne_active,RETAINED,Valid unique acne image,226,418.15,high,test
+acne-open-comedo-53.jpg,acne_active,RETAINED,Valid unique acne image,227,466.57,high,train
+acne-open-comedo-54.jpg,acne_active,RETAINED,Valid unique acne image,228,759.64,high,train
+acne-open-comedo-56.jpg,acne_active,RETAINED,Valid unique acne image,229,446.74,high,train
+acne-open-comedo-57.jpg,acne_active,REMOVED,Duplicate of acne-closed-comedo-24.jpg,20,857.86,high,N/A
+acne-open-comedo-58.jpg,acne_active,RETAINED,Valid unique acne image,230,1282.28,high,test
+acne-open-comedo-59.jpg,acne_active,RETAINED,Valid unique acne image,231,765.84,high,train
+acne-open-comedo-6.jpg,acne_active,RETAINED,Valid unique acne image,232,277.23,high,train
+acne-open-comedo-60.jpg,acne_active,RETAINED,Valid unique acne image,233,476.59,high,train
+acne-open-comedo-61.jpg,acne_active,RETAINED,Valid unique acne image,234,1255.64,high,train
+acne-open-comedo-62.jpg,acne_active,RETAINED,Valid unique acne image,235,2251.38,high,train
+acne-open-comedo-63.jpg,acne_active,RETAINED,Valid unique acne image,236,431.35,high,train
+acne-open-comedo-64.jpg,acne_active,RETAINED,Valid unique acne image,237,1086.03,high,valid
+acne-open-comedo-65.jpg,acne_active,REMOVED,Duplicate of acne-open-comedo-27.jpg,238,804.93,high,N/A
+acne-open-comedo-66.jpg,acne_active,RETAINED,Valid unique acne image,239,527.54,high,train
+acne-open-comedo-67.jpg,acne_active,RETAINED,Valid unique acne image,240,338.16,high,train
+acne-open-comedo-68.jpg,acne_active,RETAINED,Valid unique acne image,241,1622.50,high,train
+acne-open-comedo-69.jpg,acne_active,RETAINED,Valid unique acne image,242,679.78,high,train
+acne-open-comedo-7.jpg,acne_active,RETAINED,Valid unique acne image,243,503.52,high,test
+acne-open-comedo-70.jpg,acne_active,RETAINED,Valid unique acne image,244,1022.35,high,train
+acne-open-comedo-71.jpg,acne_active,RETAINED,Valid unique acne image,245,573.78,high,valid
+acne-open-comedo-72.jpg,acne_active,RETAINED,Valid unique acne image,246,760.16,high,train
+acne-open-comedo-73.jpg,acne_active,RETAINED,Valid unique acne image,247,154.02,high,train
+acne-open-comedo-8.jpg,acne_active,RETAINED,Valid unique acne image,248,80.79,usable,train
+acne-open-comedo-9.jpg,acne_active,RETAINED,Valid unique acne image,249,199.12,high,test
+acne-primary-lesion-2.jpg,acne_active,RETAINED,Valid unique acne image,250,8105.55,high,test
+acne-primary-lesion-3.jpg,acne_active,RETAINED,Valid unique acne image,251,8089.24,high,train
+acne-primary-lesion-4.jpg,acne_active,RETAINED,Valid unique acne image,252,7370.25,high,train
+acne-primary-lesion-5.jpg,acne_active,RETAINED,Valid unique acne image,253,8130.62,high,train
+acne-primary-lesion-6.jpg,acne_active,RETAINED,Valid unique acne image,254,7459.55,high,train
+acne-primary-lesion-7.jpg,acne_active,RETAINED,Valid unique acne image,255,6330.43,high,test
+acne-pustular-1.jpg,acne_active,RETAINED,Valid unique acne image,256,1764.93,high,train
+acne-pustular-10.jpg,acne_active,RETAINED,Valid unique acne image,257,175.05,high,test
+acne-pustular-12.jpg,acne_active,RETAINED,Valid unique acne image,258,505.52,high,valid
+acne-pustular-13.jpg,acne_active,REMOVED,Duplicate of acne-cystic-33.jpg,193,703.88,high,N/A
+acne-pustular-14.jpg,acne_active,RETAINED,Valid unique acne image,259,497.48,high,train
+acne-pustular-15.jpg,acne_active,RETAINED,Valid unique acne image,260,820.91,high,train
+acne-pustular-16.jpg,acne_active,RETAINED,Valid unique acne image,261,871.06,high,valid
+acne-pustular-17.jpg,acne_active,RETAINED,Valid unique acne image,262,869.45,high,test
+acne-pustular-18.jpg,acne_active,RETAINED,Valid unique acne image,51,450.49,high,test
+acne-pustular-20.jpg,acne_active,RETAINED,Valid unique acne image,263,788.75,high,test
+acne-pustular-21.jpg,acne_active,RETAINED,Valid unique acne image,264,490.81,high,train
+acne-pustular-23.jpg,acne_active,RETAINED,Valid unique acne image,265,469.34,high,train
+acne-pustular-24.jpg,acne_active,RETAINED,Valid unique acne image,266,175.69,high,train
+acne-pustular-25.jpg,acne_active,RETAINED,Valid unique acne image,267,70.27,usable,train
+acne-pustular-26.jpg,acne_active,RETAINED,Valid unique acne image,268,1085.01,high,test
+acne-pustular-27.jpg,acne_active,RETAINED,Valid unique acne image,269,683.79,high,test
+acne-pustular-28.jpg,acne_active,RETAINED,Valid unique acne image,270,1019.33,high,train
+acne-pustular-29.jpg,acne_active,RETAINED,Valid unique acne image,271,576.56,high,test
+acne-pustular-3.jpg,acne_active,RETAINED,Valid unique acne image,72,633.02,high,train
+acne-pustular-30.jpg,acne_active,RETAINED,Valid unique acne image,94,351.87,high,train
+acne-pustular-31.jpg,acne_active,RETAINED,Valid unique acne image,272,653.32,high,train
+acne-pustular-32.jpg,acne_active,RETAINED,Valid unique acne image,211,498.03,high,train
+acne-pustular-33.jpg,acne_active,RETAINED,Valid unique acne image,273,1568.35,high,train
+acne-pustular-34.jpg,acne_active,RETAINED,Valid unique acne image,274,594.47,high,train
+acne-pustular-35.jpg,acne_active,RETAINED,Valid unique acne image,275,691.97,high,train
+acne-pustular-36.jpg,acne_active,RETAINED,Valid unique acne image,276,1146.79,high,train
+acne-pustular-37.jpg,acne_active,REMOVED,Duplicate of acne-pustular-50.jpg,23,995.41,high,N/A
+acne-pustular-38.jpg,acne_active,REMOVED,Duplicate of acne-closed-comedo-11.jpg,8,575.21,high,N/A
+acne-pustular-39.jpg,acne_active,RETAINED,Valid unique acne image,277,714.98,high,train
+acne-pustular-4.jpg,acne_active,REMOVED,Duplicate of acne-closed-comedo-25.jpg,5,410.20,high,N/A
+acne-pustular-40.jpg,acne_active,RETAINED,Valid unique acne image,278,724.89,high,valid
+acne-pustular-41.jpg,acne_active,REMOVED,Duplicate of acne-pustular-23.jpg,265,116.72,usable,N/A
+acne-pustular-42.jpg,acne_active,RETAINED,Valid unique acne image,279,476.69,high,train
+acne-pustular-43.jpg,acne_active,RETAINED,Valid unique acne image,280,96.45,usable,train
+acne-pustular-44.jpg,acne_active,RETAINED,Valid unique acne image,281,3399.18,high,train
+acne-pustular-45.jpg,acne_active,RETAINED,Valid unique acne image,282,639.94,high,train
+acne-pustular-46.jpg,acne_active,RETAINED,Valid unique acne image,283,387.11,high,train
+acne-pustular-47.jpg,acne_active,REMOVED,Duplicate of acne-pustular-50.jpg,23,1681.51,high,N/A
+acne-pustular-48.jpg,acne_active,REMOVED,Duplicate of acne-closed-comedo-25.jpg,5,600.18,high,N/A
+acne-pustular-49.jpg,acne_active,RETAINED,Valid unique acne image,284,757.97,high,train
+acne-pustular-5.jpg,acne_active,RETAINED,Valid unique acne image,285,530.28,high,valid
+acne-pustular-50.jpg,acne_active,RETAINED,Valid unique acne image,23,1885.79,high,train
+acne-pustular-51.jpg,acne_active,RETAINED,Valid unique acne image,286,1036.30,high,train
+acne-pustular-52.jpg,acne_active,RETAINED,Valid unique acne image,287,1244.19,high,valid
+acne-pustular-53.jpg,acne_active,RETAINED,Valid unique acne image,288,196.60,high,train
+acne-pustular-54.jpg,acne_active,REMOVED,Duplicate of acne-pustular-52.jpg,287,478.39,high,N/A
+acne-pustular-56.jpg,acne_active,RETAINED,Valid unique acne image,289,561.85,high,test
+acne-pustular-57.jpg,acne_active,RETAINED,Valid unique acne image,290,551.38,high,train
+acne-pustular-58.jpg,acne_active,RETAINED,Valid unique acne image,291,666.32,high,train
+acne-pustular-59.jpg,acne_active,RETAINED,Valid unique acne image,292,727.49,high,valid
+acne-pustular-6.jpg,acne_active,RETAINED,Valid unique acne image,95,1359.83,high,train
+acne-pustular-60.jpg,acne_active,RETAINED,Valid unique acne image,293,1264.01,high,train
+acne-pustular-61.jpg,acne_active,RETAINED,Valid unique acne image,294,2100.35,high,train
+acne-pustular-62.jpg,acne_active,RETAINED,Valid unique acne image,295,1688.93,high,test
+acne-pustular-63.jpg,acne_active,RETAINED,Valid unique acne image,296,2521.33,high,train
+acne-pustular-64.jpg,acne_active,RETAINED,Valid unique acne image,297,974.91,high,valid
+acne-pustular-65.jpg,acne_active,RETAINED,Valid unique acne image,9,4019.63,high,train
+acne-pustular-66.jpg,acne_active,RETAINED,Valid unique acne image,298,903.44,high,train
+acne-pustular-67.jpg,acne_active,RETAINED,Valid unique acne image,299,1762.21,high,train
+acne-pustular-68.jpg,acne_active,RETAINED,Valid unique acne image,300,2112.47,high,train
+acne-pustular-69.jpg,acne_active,RETAINED,Valid unique acne image,301,1846.23,high,valid
+acne-pustular-7.jpg,acne_active,RETAINED,Valid unique acne image,98,506.92,high,train
+acne-pustular-70.jpg,acne_active,RETAINED,Valid unique acne image,302,928.39,high,train
+acne-pustular-71.jpg,acne_active,RETAINED,Valid unique acne image,303,905.36,high,train
+acne-pustular-72.jpg,acne_active,RETAINED,Valid unique acne image,304,547.62,high,train
+acne-pustular-73.jpg,acne_active,RETAINED,Valid unique acne image,305,563.60,high,test
+acne-pustular-74.jpg,acne_active,RETAINED,Valid unique acne image,306,309.33,high,valid
+acne-pustular-8.jpg,acne_active,RETAINED,Valid unique acne image,307,209.35,high,train
+acne-pustular-9.jpg,acne_active,RETAINED,Valid unique acne image,308,332.32,high,train
+acne-scar-1.jpg,acne_scar,RETAINED,Valid unique acne image,309,2220.91,high,train
+acne-scar-2.jpg,acne_scar,RETAINED,Valid unique acne image,310,745.05,high,train
+acne-scar-3.jpg,acne_scar,RETAINED,Valid unique acne image,311,759.84,high,valid
+acne-scar-4.jpg,acne_scar,RETAINED,Valid unique acne image,312,681.48,high,train
+acne-scar-5.jpg,acne_scar,RETAINED,Valid unique acne image,313,665.61,high,train
+acne-scar-6.jpg,acne_scar,RETAINED,Valid unique acne image,314,901.87,high,train
+acne-scar-7.jpg,acne_scar,RETAINED,Valid unique acne image,315,1558.55,high,train
+acne-scar-8.jpg,acne_scar,RETAINED,Valid unique acne image,316,1110.64,high,train
+acne-scar-9.jpg,acne_scar,RETAINED,Valid unique acne image,317,2041.97,high,test
+anal-Comedones-1.jpg,anal_comedones,REJECTED,Diagnostic reject: anal_comedones,N/A,789.17,reject,N/A
+anal-Comedones-2.jpg,anal_comedones,REJECTED,Diagnostic reject: anal_comedones,N/A,386.28,reject,N/A
+Comedones-Ears.jpg,acne_active,REMOVED,Duplicate of acne-open-comedo-9.jpg,249,199.12,high,N/A
+ComedonesEars-1.jpg,acne_active,REMOVED,Duplicate of acne-open-comedo-7.jpg,243,503.52,high,N/A
+fordyce-spots-1.jpg,fordyce_spots,REJECTED,Diagnostic reject: fordyce_spots,N/A,2933.27,reject,N/A
+fordyce-spots-2.jpg,fordyce_spots,REJECTED,Diagnostic reject: fordyce_spots,N/A,449.03,reject,N/A
+fordyce-spots-3.jpg,fordyce_spots,REJECTED,Diagnostic reject: fordyce_spots,N/A,913.42,reject,N/A
+fordyce-spots-4.jpg,fordyce_spots,REJECTED,Diagnostic reject: fordyce_spots,N/A,786.73,reject,N/A
+fordyce-spots-5.jpg,fordyce_spots,REJECTED,Diagnostic reject: fordyce_spots,N/A,382.41,reject,N/A
+fordyce-spots-6.jpg,fordyce_spots,REJECTED,Diagnostic reject: fordyce_spots,N/A,430.28,reject,N/A
+fordyce-spots-lip.jpg,fordyce_spots,REJECTED,Diagnostic reject: fordyce_spots,N/A,942.31,reject,N/A
+Forest-2.jpg,irrelevant_forest,REJECTED,Diagnostic reject: irrelevant_forest,N/A,806.67,reject,N/A
+gram-negative-folliculitis-1.jpg,folliculitis,REJECTED,Diagnostic reject: folliculitis,N/A,484.11,reject,N/A
+hidradenitis-suppurativa-1.jpg,hidradenitis_suppurativa,REJECTED,Diagnostic reject: hidradenitis_suppurativa,N/A,4597.58,reject,N/A
+hidradenitis-suppurativa-10.jpg,hidradenitis_suppurativa,REJECTED,Diagnostic reject: hidradenitis_suppurativa,N/A,3192.79,reject,N/A
+hidradenitis-suppurativa-100.jpg,hidradenitis_suppurativa,REJECTED,Diagnostic reject: hidradenitis_suppurativa,N/A,1037.67,reject,N/A
+hidradenitis-suppurativa-101.jpg,hidradenitis_suppurativa,REJECTED,Diagnostic reject: hidradenitis_suppurativa,N/A,3038.38,reject,N/A
+hidradenitis-suppurativa-102.jpg,hidradenitis_suppurativa,REJECTED,Diagnostic reject: hidradenitis_suppurativa,N/A,1037.04,reject,N/A
+hidradenitis-suppurativa-103.jpg,hidradenitis_suppurativa,REJECTED,Diagnostic reject: hidradenitis_suppurativa,N/A,299.34,reject,N/A
+hidradenitis-suppurativa-104.jpg,hidradenitis_suppurativa,REJECTED,Diagnostic reject: hidradenitis_suppurativa,N/A,3274.05,reject,N/A
+hidradenitis-suppurativa-105.jpg,hidradenitis_suppurativa,REJECTED,Diagnostic reject: hidradenitis_suppurativa,N/A,227.74,reject,N/A
+hidradenitis-suppurativa-106.jpg,hidradenitis_suppurativa,REJECTED,Diagnostic reject: hidradenitis_suppurativa,N/A,1079.40,reject,N/A
+hidradenitis-suppurativa-107.jpg,hidradenitis_suppurativa,REJECTED,Diagnostic reject: hidradenitis_suppurativa,N/A,283.55,reject,N/A
+hidradenitis-suppurativa-11.jpg,hidradenitis_suppurativa,REJECTED,Diagnostic reject: hidradenitis_suppurativa,N/A,474.61,reject,N/A
+hidradenitis-suppurativa-12.jpg,hidradenitis_suppurativa,REJECTED,Diagnostic reject: hidradenitis_suppurativa,N/A,230.36,reject,N/A
+hidradenitis-suppurativa-13.jpg,hidradenitis_suppurativa,REJECTED,Diagnostic reject: hidradenitis_suppurativa,N/A,3175.91,reject,N/A
+hidradenitis-suppurativa-14.jpg,hidradenitis_suppurativa,REJECTED,Diagnostic reject: hidradenitis_suppurativa,N/A,2354.35,reject,N/A
+hidradenitis-suppurativa-16.jpg,hidradenitis_suppurativa,REJECTED,Diagnostic reject: hidradenitis_suppurativa,N/A,535.38,reject,N/A
+hidradenitis-suppurativa-17.jpg,hidradenitis_suppurativa,REJECTED,Diagnostic reject: hidradenitis_suppurativa,N/A,84.25,reject,N/A
+hidradenitis-suppurativa-18.jpg,hidradenitis_suppurativa,REJECTED,Diagnostic reject: hidradenitis_suppurativa,N/A,82.46,reject,N/A
+hidradenitis-suppurativa-2.jpg,hidradenitis_suppurativa,REJECTED,Diagnostic reject: hidradenitis_suppurativa,N/A,4425.40,reject,N/A
+hidradenitis-suppurativa-20.jpg,hidradenitis_suppurativa,REJECTED,Diagnostic reject: hidradenitis_suppurativa,N/A,197.82,reject,N/A
+hidradenitis-suppurativa-21.jpg,hidradenitis_suppurativa,REJECTED,Diagnostic reject: hidradenitis_suppurativa,N/A,278.43,reject,N/A
+hidradenitis-suppurativa-22.jpg,hidradenitis_suppurativa,REJECTED,Diagnostic reject: hidradenitis_suppurativa,N/A,560.65,reject,N/A
+hidradenitis-suppurativa-23.jpg,hidradenitis_suppurativa,REJECTED,Diagnostic reject: hidradenitis_suppurativa,N/A,4073.94,reject,N/A
+hidradenitis-suppurativa-24.jpg,hidradenitis_suppurativa,REJECTED,Diagnostic reject: hidradenitis_suppurativa,N/A,595.68,reject,N/A
+hidradenitis-suppurativa-25.jpg,hidradenitis_suppurativa,REJECTED,Diagnostic reject: hidradenitis_suppurativa,N/A,123.44,reject,N/A
+hidradenitis-suppurativa-26.jpg,hidradenitis_suppurativa,REJECTED,Diagnostic reject: hidradenitis_suppurativa,N/A,272.55,reject,N/A
+hidradenitis-suppurativa-27.jpg,hidradenitis_suppurativa,REJECTED,Diagnostic reject: hidradenitis_suppurativa,N/A,272.55,reject,N/A
+hidradenitis-suppurativa-28.jpg,hidradenitis_suppurativa,REJECTED,Diagnostic reject: hidradenitis_suppurativa,N/A,968.39,reject,N/A
+hidradenitis-suppurativa-29.jpg,hidradenitis_suppurativa,REJECTED,Diagnostic reject: hidradenitis_suppurativa,N/A,1121.36,reject,N/A
+hidradenitis-suppurativa-3.jpg,hidradenitis_suppurativa,REJECTED,Diagnostic reject: hidradenitis_suppurativa,N/A,167.15,reject,N/A
+hidradenitis-suppurativa-30.jpg,hidradenitis_suppurativa,REJECTED,Diagnostic reject: hidradenitis_suppurativa,N/A,294.32,reject,N/A
+hidradenitis-suppurativa-31.jpg,hidradenitis_suppurativa,REJECTED,Diagnostic reject: hidradenitis_suppurativa,N/A,446.05,reject,N/A
+hidradenitis-suppurativa-32.jpg,hidradenitis_suppurativa,REJECTED,Diagnostic reject: hidradenitis_suppurativa,N/A,595.68,reject,N/A
+hidradenitis-suppurativa-34.jpg,hidradenitis_suppurativa,REJECTED,Diagnostic reject: hidradenitis_suppurativa,N/A,298.31,reject,N/A
+hidradenitis-suppurativa-35.jpg,hidradenitis_suppurativa,REJECTED,Diagnostic reject: hidradenitis_suppurativa,N/A,628.24,reject,N/A
+hidradenitis-suppurativa-36.jpg,hidradenitis_suppurativa,REJECTED,Diagnostic reject: hidradenitis_suppurativa,N/A,470.62,reject,N/A
+hidradenitis-suppurativa-37.jpg,hidradenitis_suppurativa,REJECTED,Diagnostic reject: hidradenitis_suppurativa,N/A,1104.13,reject,N/A
+hidradenitis-suppurativa-38.jpg,hidradenitis_suppurativa,REJECTED,Diagnostic reject: hidradenitis_suppurativa,N/A,185.02,reject,N/A
+hidradenitis-suppurativa-39.jpg,hidradenitis_suppurativa,REJECTED,Diagnostic reject: hidradenitis_suppurativa,N/A,276.41,reject,N/A
+hidradenitis-suppurativa-4.jpg,hidradenitis_suppurativa,REJECTED,Diagnostic reject: hidradenitis_suppurativa,N/A,298.81,reject,N/A
+hidradenitis-suppurativa-40.jpg,hidradenitis_suppurativa,REJECTED,Diagnostic reject: hidradenitis_suppurativa,N/A,309.46,reject,N/A
+hidradenitis-suppurativa-41.jpg,hidradenitis_suppurativa,REJECTED,Diagnostic reject: hidradenitis_suppurativa,N/A,770.03,reject,N/A
+hidradenitis-suppurativa-45.jpg,hidradenitis_suppurativa,REJECTED,Diagnostic reject: hidradenitis_suppurativa,N/A,142.64,reject,N/A
+hidradenitis-suppurativa-46.jpg,hidradenitis_suppurativa,REJECTED,Diagnostic reject: hidradenitis_suppurativa,N/A,273.68,reject,N/A
+hidradenitis-suppurativa-47.jpg,hidradenitis_suppurativa,REJECTED,Diagnostic reject: hidradenitis_suppurativa,N/A,344.20,reject,N/A
+hidradenitis-suppurativa-48.jpg,hidradenitis_suppurativa,REJECTED,Diagnostic reject: hidradenitis_suppurativa,N/A,537.13,reject,N/A
+hidradenitis-suppurativa-49.jpg,hidradenitis_suppurativa,REJECTED,Diagnostic reject: hidradenitis_suppurativa,N/A,1190.59,reject,N/A
+hidradenitis-suppurativa-5.jpg,hidradenitis_suppurativa,REJECTED,Diagnostic reject: hidradenitis_suppurativa,N/A,271.89,reject,N/A
+hidradenitis-suppurativa-50.jpg,hidradenitis_suppurativa,REJECTED,Diagnostic reject: hidradenitis_suppurativa,N/A,358.54,reject,N/A
+hidradenitis-suppurativa-51.jpg,hidradenitis_suppurativa,REJECTED,Diagnostic reject: hidradenitis_suppurativa,N/A,673.95,reject,N/A
+hidradenitis-suppurativa-52.jpg,hidradenitis_suppurativa,REJECTED,Diagnostic reject: hidradenitis_suppurativa,N/A,1001.07,reject,N/A
+hidradenitis-suppurativa-53.jpg,hidradenitis_suppurativa,REJECTED,Diagnostic reject: hidradenitis_suppurativa,N/A,327.62,reject,N/A
+hidradenitis-suppurativa-54.jpg,hidradenitis_suppurativa,REJECTED,Diagnostic reject: hidradenitis_suppurativa,N/A,2539.23,reject,N/A
+hidradenitis-suppurativa-55.jpg,hidradenitis_suppurativa,REJECTED,Diagnostic reject: hidradenitis_suppurativa,N/A,709.08,reject,N/A
+hidradenitis-suppurativa-57.jpg,hidradenitis_suppurativa,REJECTED,Diagnostic reject: hidradenitis_suppurativa,N/A,336.56,reject,N/A
+hidradenitis-suppurativa-58.jpg,hidradenitis_suppurativa,REJECTED,Diagnostic reject: hidradenitis_suppurativa,N/A,364.56,reject,N/A
+hidradenitis-suppurativa-59.jpg,hidradenitis_suppurativa,REJECTED,Diagnostic reject: hidradenitis_suppurativa,N/A,326.70,reject,N/A
+hidradenitis-suppurativa-6.jpg,hidradenitis_suppurativa,REJECTED,Diagnostic reject: hidradenitis_suppurativa,N/A,2551.11,reject,N/A
+hidradenitis-suppurativa-60.jpg,hidradenitis_suppurativa,REJECTED,Diagnostic reject: hidradenitis_suppurativa,N/A,439.64,reject,N/A
+hidradenitis-suppurativa-61.jpg,hidradenitis_suppurativa,REJECTED,Diagnostic reject: hidradenitis_suppurativa,N/A,1383.03,reject,N/A
+hidradenitis-suppurativa-63.jpg,hidradenitis_suppurativa,REJECTED,Diagnostic reject: hidradenitis_suppurativa,N/A,1835.80,reject,N/A
+hidradenitis-suppurativa-64.jpg,hidradenitis_suppurativa,REJECTED,Diagnostic reject: hidradenitis_suppurativa,N/A,495.02,reject,N/A
+hidradenitis-suppurativa-65.jpg,hidradenitis_suppurativa,REJECTED,Diagnostic reject: hidradenitis_suppurativa,N/A,425.76,reject,N/A
+hidradenitis-suppurativa-66.jpg,hidradenitis_suppurativa,REJECTED,Diagnostic reject: hidradenitis_suppurativa,N/A,396.92,reject,N/A
+hidradenitis-suppurativa-67.jpg,hidradenitis_suppurativa,REJECTED,Diagnostic reject: hidradenitis_suppurativa,N/A,1158.95,reject,N/A
+hidradenitis-suppurativa-69.jpg,hidradenitis_suppurativa,REJECTED,Diagnostic reject: hidradenitis_suppurativa,N/A,1666.93,reject,N/A
+hidradenitis-suppurativa-7.jpg,hidradenitis_suppurativa,REJECTED,Diagnostic reject: hidradenitis_suppurativa,N/A,297.27,reject,N/A
+hidradenitis-suppurativa-70.jpg,hidradenitis_suppurativa,REJECTED,Diagnostic reject: hidradenitis_suppurativa,N/A,389.98,reject,N/A
+hidradenitis-suppurativa-71.jpg,hidradenitis_suppurativa,REJECTED,Diagnostic reject: hidradenitis_suppurativa,N/A,769.35,reject,N/A
+hidradenitis-suppurativa-72.jpg,hidradenitis_suppurativa,REJECTED,Diagnostic reject: hidradenitis_suppurativa,N/A,204.36,reject,N/A
+hidradenitis-suppurativa-73.jpg,hidradenitis_suppurativa,REJECTED,Diagnostic reject: hidradenitis_suppurativa,N/A,1306.17,reject,N/A
+hidradenitis-suppurativa-75.jpg,hidradenitis_suppurativa,REJECTED,Diagnostic reject: hidradenitis_suppurativa,N/A,863.86,reject,N/A
+hidradenitis-suppurativa-76.jpg,hidradenitis_suppurativa,REJECTED,Diagnostic reject: hidradenitis_suppurativa,N/A,496.79,reject,N/A
+hidradenitis-suppurativa-77.jpg,hidradenitis_suppurativa,REJECTED,Diagnostic reject: hidradenitis_suppurativa,N/A,429.65,reject,N/A
+hidradenitis-suppurativa-78.jpg,hidradenitis_suppurativa,REJECTED,Diagnostic reject: hidradenitis_suppurativa,N/A,2062.83,reject,N/A
+hidradenitis-suppurativa-79.jpg,hidradenitis_suppurativa,REJECTED,Diagnostic reject: hidradenitis_suppurativa,N/A,2278.59,reject,N/A
+hidradenitis-suppurativa-8.jpg,hidradenitis_suppurativa,REJECTED,Diagnostic reject: hidradenitis_suppurativa,N/A,315.96,reject,N/A
+hidradenitis-suppurativa-80.jpg,hidradenitis_suppurativa,REJECTED,Diagnostic reject: hidradenitis_suppurativa,N/A,509.14,reject,N/A
+hidradenitis-suppurativa-81.jpg,hidradenitis_suppurativa,REJECTED,Diagnostic reject: hidradenitis_suppurativa,N/A,946.08,reject,N/A
+hidradenitis-suppurativa-83.jpg,hidradenitis_suppurativa,REJECTED,Diagnostic reject: hidradenitis_suppurativa,N/A,1161.31,reject,N/A
+hidradenitis-suppurativa-84.jpg,hidradenitis_suppurativa,REJECTED,Diagnostic reject: hidradenitis_suppurativa,N/A,1788.73,reject,N/A
+hidradenitis-suppurativa-85.jpg,hidradenitis_suppurativa,REJECTED,Diagnostic reject: hidradenitis_suppurativa,N/A,1394.58,reject,N/A
+hidradenitis-suppurativa-86.jpg,hidradenitis_suppurativa,REJECTED,Diagnostic reject: hidradenitis_suppurativa,N/A,907.70,reject,N/A
+hidradenitis-suppurativa-87.jpg,hidradenitis_suppurativa,REJECTED,Diagnostic reject: hidradenitis_suppurativa,N/A,1922.64,reject,N/A
+hidradenitis-suppurativa-89.jpg,hidradenitis_suppurativa,REJECTED,Diagnostic reject: hidradenitis_suppurativa,N/A,306.28,reject,N/A
+hidradenitis-suppurativa-9.jpg,hidradenitis_suppurativa,REJECTED,Diagnostic reject: hidradenitis_suppurativa,N/A,530.77,reject,N/A
+hidradenitis-suppurativa-90.jpg,hidradenitis_suppurativa,REJECTED,Diagnostic reject: hidradenitis_suppurativa,N/A,435.88,reject,N/A
+hidradenitis-suppurativa-91.jpg,hidradenitis_suppurativa,REJECTED,Diagnostic reject: hidradenitis_suppurativa,N/A,1763.54,reject,N/A
+hidradenitis-suppurativa-92.jpg,hidradenitis_suppurativa,REJECTED,Diagnostic reject: hidradenitis_suppurativa,N/A,211.15,reject,N/A
+hidradenitis-suppurativa-94.jpg,hidradenitis_suppurativa,REJECTED,Diagnostic reject: hidradenitis_suppurativa,N/A,1789.83,reject,N/A
+hidradenitis-suppurativa-95.jpg,hidradenitis_suppurativa,REJECTED,Diagnostic reject: hidradenitis_suppurativa,N/A,1071.56,reject,N/A
+hidradenitis-suppurativa-96.jpg,hidradenitis_suppurativa,REJECTED,Diagnostic reject: hidradenitis_suppurativa,N/A,743.90,reject,N/A
+hidradenitis-suppurativa-97.jpg,hidradenitis_suppurativa,REJECTED,Diagnostic reject: hidradenitis_suppurativa,N/A,205.87,reject,N/A
+hidradenitis-suppurativa-98.jpg,hidradenitis_suppurativa,REJECTED,Diagnostic reject: hidradenitis_suppurativa,N/A,2935.91,reject,N/A
+hidradenitis-suppurativa-99.jpg,hidradenitis_suppurativa,REJECTED,Diagnostic reject: hidradenitis_suppurativa,N/A,947.43,reject,N/A
+hidradenitis-Suppurativa-Areola-1.jpg,hidradenitis_suppurativa,REJECTED,Diagnostic reject: hidradenitis_suppurativa,N/A,688.74,reject,N/A
+Hidradenitis-Suppurativa-Areola-2.jpg,hidradenitis_suppurativa,REJECTED,Diagnostic reject: hidradenitis_suppurativa,N/A,920.64,reject,N/A
+hyperhidrosis-1.jpg,hyperhidrosis,REJECTED,Diagnostic reject: hyperhidrosis,N/A,2694.90,reject,N/A
+hyperhidrosis-2.jpg,hyperhidrosis,REJECTED,Diagnostic reject: hyperhidrosis,N/A,309.09,reject,N/A
+hyperhidrosis-3.jpg,hyperhidrosis,REJECTED,Diagnostic reject: hyperhidrosis,N/A,357.61,reject,N/A
+hyperhidrosis-4.jpg,hyperhidrosis,REJECTED,Diagnostic reject: hyperhidrosis,N/A,1335.37,reject,N/A
+hyperhidrosis-5.jpg,hyperhidrosis,REJECTED,Diagnostic reject: hyperhidrosis,N/A,891.10,reject,N/A
+milia-1.jpg,milia,REJECTED,Diagnostic reject: milia,N/A,282.85,reject,N/A
+milia-10.jpg,milia,REJECTED,Diagnostic reject: milia,N/A,917.85,reject,N/A
+milia-11.jpg,milia,REJECTED,Diagnostic reject: milia,N/A,807.31,reject,N/A
+milia-12.jpg,milia,REJECTED,Diagnostic reject: milia,N/A,2019.12,reject,N/A
+milia-13.jpg,milia,REJECTED,Diagnostic reject: milia,N/A,696.37,reject,N/A
+milia-14.jpg,milia,REJECTED,Diagnostic reject: milia,N/A,962.99,reject,N/A
+milia-15.jpg,milia,REJECTED,Diagnostic reject: milia,N/A,1740.64,reject,N/A
+milia-16.jpg,milia,REJECTED,Diagnostic reject: milia,N/A,416.21,reject,N/A
+milia-17.jpg,milia,REJECTED,Diagnostic reject: milia,N/A,711.08,reject,N/A
+milia-18.jpg,milia,REJECTED,Diagnostic reject: milia,N/A,138.45,reject,N/A
+milia-19.jpg,milia,REJECTED,Diagnostic reject: milia,N/A,1547.47,reject,N/A
+milia-4.jpg,milia,REJECTED,Diagnostic reject: milia,N/A,542.92,reject,N/A
+milia-5.jpg,milia,REJECTED,Diagnostic reject: milia,N/A,1112.83,reject,N/A
+milia-6.jpg,milia,REJECTED,Diagnostic reject: milia,N/A,1864.83,reject,N/A
+milia-8.jpg,milia,REJECTED,Diagnostic reject: milia,N/A,1990.82,reject,N/A
+milia-9.jpg,milia,REJECTED,Diagnostic reject: milia,N/A,917.85,reject,N/A
+minocycline-pigmentation-1.jpg,minocycline_pigmentation,REJECTED,Diagnostic reject: minocycline_pigmentation,N/A,1202.42,reject,N/A
+minocycline-pigmentation-10.jpg,minocycline_pigmentation,REJECTED,Diagnostic reject: minocycline_pigmentation,N/A,2874.64,reject,N/A
+minocycline-pigmentation-12.jpg,minocycline_pigmentation,REJECTED,Diagnostic reject: minocycline_pigmentation,N/A,400.29,reject,N/A
+minocycline-pigmentation-2.jpg,minocycline_pigmentation,REJECTED,Diagnostic reject: minocycline_pigmentation,N/A,1624.39,reject,N/A
+minocycline-pigmentation-3.jpg,minocycline_pigmentation,REJECTED,Diagnostic reject: minocycline_pigmentation,N/A,381.93,reject,N/A
+minocycline-pigmentation-4.jpg,minocycline_pigmentation,REJECTED,Diagnostic reject: minocycline_pigmentation,N/A,2864.65,reject,N/A
+minocycline-pigmentation-8.jpg,minocycline_pigmentation,REJECTED,Diagnostic reject: minocycline_pigmentation,N/A,575.93,reject,N/A
+minocycline-pigmentation-9.jpg,minocycline_pigmentation,REJECTED,Diagnostic reject: minocycline_pigmentation,N/A,2205.01,reject,N/A
+nevus-comedonicus-1.jpg,nevus_comedonicus,REJECTED,Diagnostic reject: nevus_comedonicus,N/A,394.62,reject,N/A
+nevus-comedonicus-2.jpg,nevus_comedonicus,REJECTED,Diagnostic reject: nevus_comedonicus,N/A,113.85,reject,N/A
+nevus-comedonicus-3.jpg,nevus_comedonicus,REJECTED,Diagnostic reject: nevus_comedonicus,N/A,208.25,reject,N/A
+nevus-comedonicus-4.jpg,nevus_comedonicus,REJECTED,Diagnostic reject: nevus_comedonicus,N/A,391.88,reject,N/A
+nevus-comedonicus-5.jpg,nevus_comedonicus,REJECTED,Diagnostic reject: nevus_comedonicus,N/A,398.55,reject,N/A
+nevus-comedonicus-8.jpg,nevus_comedonicus,REJECTED,Diagnostic reject: nevus_comedonicus,N/A,265.67,reject,N/A
+perioral-dermatitis-1.jpg,perioral_dermatitis,REJECTED,Diagnostic reject: perioral_dermatitis,N/A,790.43,reject,N/A
+perioral-dermatitis-10.jpg,perioral_dermatitis,REJECTED,Diagnostic reject: perioral_dermatitis,N/A,635.38,reject,N/A
+perioral-dermatitis-100.jpg,perioral_dermatitis,REJECTED,Diagnostic reject: perioral_dermatitis,N/A,659.52,reject,N/A
+perioral-dermatitis-101.jpg,perioral_dermatitis,REJECTED,Diagnostic reject: perioral_dermatitis,N/A,610.62,reject,N/A
+perioral-dermatitis-102.jpg,perioral_dermatitis,REJECTED,Diagnostic reject: perioral_dermatitis,N/A,681.04,reject,N/A
+perioral-dermatitis-103.jpg,perioral_dermatitis,REJECTED,Diagnostic reject: perioral_dermatitis,N/A,492.70,reject,N/A
+perioral-dermatitis-104.jpg,perioral_dermatitis,REJECTED,Diagnostic reject: perioral_dermatitis,N/A,662.24,reject,N/A
+perioral-dermatitis-105.jpg,perioral_dermatitis,REJECTED,Diagnostic reject: perioral_dermatitis,N/A,310.58,reject,N/A
+perioral-dermatitis-106.jpg,perioral_dermatitis,REJECTED,Diagnostic reject: perioral_dermatitis,N/A,571.63,reject,N/A
+perioral-dermatitis-107.jpg,perioral_dermatitis,REJECTED,Diagnostic reject: perioral_dermatitis,N/A,726.17,reject,N/A
+perioral-dermatitis-108.jpg,perioral_dermatitis,REJECTED,Diagnostic reject: perioral_dermatitis,N/A,733.36,reject,N/A
+perioral-dermatitis-109.jpg,perioral_dermatitis,REJECTED,Diagnostic reject: perioral_dermatitis,N/A,839.77,reject,N/A
+perioral-dermatitis-11.jpg,perioral_dermatitis,REJECTED,Diagnostic reject: perioral_dermatitis,N/A,580.05,reject,N/A
+perioral-dermatitis-110.jpg,perioral_dermatitis,REJECTED,Diagnostic reject: perioral_dermatitis,N/A,1531.65,reject,N/A
+perioral-dermatitis-111.jpg,perioral_dermatitis,REJECTED,Diagnostic reject: perioral_dermatitis,N/A,252.11,reject,N/A
+perioral-dermatitis-113.jpg,perioral_dermatitis,REJECTED,Diagnostic reject: perioral_dermatitis,N/A,1276.78,reject,N/A
+perioral-dermatitis-114.jpg,perioral_dermatitis,REJECTED,Diagnostic reject: perioral_dermatitis,N/A,514.81,reject,N/A
+perioral-dermatitis-115.jpg,perioral_dermatitis,REJECTED,Diagnostic reject: perioral_dermatitis,N/A,878.82,reject,N/A
+perioral-dermatitis-117.jpg,perioral_dermatitis,REJECTED,Diagnostic reject: perioral_dermatitis,N/A,1091.67,reject,N/A
+perioral-dermatitis-118.jpg,perioral_dermatitis,REJECTED,Diagnostic reject: perioral_dermatitis,N/A,1237.75,reject,N/A
+perioral-dermatitis-119.jpg,perioral_dermatitis,REJECTED,Diagnostic reject: perioral_dermatitis,N/A,499.05,reject,N/A
+perioral-dermatitis-12.jpg,perioral_dermatitis,REJECTED,Diagnostic reject: perioral_dermatitis,N/A,591.65,reject,N/A
+perioral-dermatitis-120.jpg,perioral_dermatitis,REJECTED,Diagnostic reject: perioral_dermatitis,N/A,548.39,reject,N/A
+perioral-dermatitis-121.jpg,perioral_dermatitis,REJECTED,Diagnostic reject: perioral_dermatitis,N/A,332.76,reject,N/A
+perioral-dermatitis-122.jpg,perioral_dermatitis,REJECTED,Diagnostic reject: perioral_dermatitis,N/A,647.00,reject,N/A
+perioral-dermatitis-123.jpg,perioral_dermatitis,REJECTED,Diagnostic reject: perioral_dermatitis,N/A,476.49,reject,N/A
+perioral-dermatitis-124.jpg,perioral_dermatitis,REJECTED,Diagnostic reject: perioral_dermatitis,N/A,812.49,reject,N/A
+perioral-dermatitis-125.jpg,perioral_dermatitis,REJECTED,Diagnostic reject: perioral_dermatitis,N/A,462.54,reject,N/A
+perioral-dermatitis-126.jpg,perioral_dermatitis,REJECTED,Diagnostic reject: perioral_dermatitis,N/A,350.35,reject,N/A
+perioral-dermatitis-128.jpg,perioral_dermatitis,REJECTED,Diagnostic reject: perioral_dermatitis,N/A,1314.48,reject,N/A
+perioral-dermatitis-129.jpg,perioral_dermatitis,REJECTED,Diagnostic reject: perioral_dermatitis,N/A,389.59,reject,N/A
+perioral-dermatitis-13.jpg,perioral_dermatitis,REJECTED,Diagnostic reject: perioral_dermatitis,N/A,554.06,reject,N/A
+perioral-dermatitis-130.jpg,perioral_dermatitis,REJECTED,Diagnostic reject: perioral_dermatitis,N/A,2185.20,reject,N/A
+perioral-dermatitis-131.jpg,perioral_dermatitis,REJECTED,Diagnostic reject: perioral_dermatitis,N/A,1667.37,reject,N/A
+perioral-dermatitis-132.jpg,perioral_dermatitis,REJECTED,Diagnostic reject: perioral_dermatitis,N/A,243.91,reject,N/A
+perioral-dermatitis-133.jpg,perioral_dermatitis,REJECTED,Diagnostic reject: perioral_dermatitis,N/A,792.51,reject,N/A
+perioral-dermatitis-134.jpg,perioral_dermatitis,REJECTED,Diagnostic reject: perioral_dermatitis,N/A,2311.15,reject,N/A
+perioral-dermatitis-135.jpg,perioral_dermatitis,REJECTED,Diagnostic reject: perioral_dermatitis,N/A,1233.27,reject,N/A
+perioral-dermatitis-136.jpg,perioral_dermatitis,REJECTED,Diagnostic reject: perioral_dermatitis,N/A,1064.58,reject,N/A
+perioral-dermatitis-137.jpg,perioral_dermatitis,REJECTED,Diagnostic reject: perioral_dermatitis,N/A,1059.02,reject,N/A
+perioral-dermatitis-139.jpg,perioral_dermatitis,REJECTED,Diagnostic reject: perioral_dermatitis,N/A,2916.45,reject,N/A
+perioral-dermatitis-14.jpg,perioral_dermatitis,REJECTED,Diagnostic reject: perioral_dermatitis,N/A,475.06,reject,N/A
+perioral-dermatitis-140.jpg,perioral_dermatitis,REJECTED,Diagnostic reject: perioral_dermatitis,N/A,1173.70,reject,N/A
+perioral-dermatitis-141.jpg,perioral_dermatitis,REJECTED,Diagnostic reject: perioral_dermatitis,N/A,224.90,reject,N/A
+perioral-dermatitis-15.jpg,perioral_dermatitis,REJECTED,Diagnostic reject: perioral_dermatitis,N/A,554.23,reject,N/A
+perioral-dermatitis-16.jpg,perioral_dermatitis,REJECTED,Diagnostic reject: perioral_dermatitis,N/A,439.13,reject,N/A
+perioral-dermatitis-18.jpg,perioral_dermatitis,REJECTED,Diagnostic reject: perioral_dermatitis,N/A,603.15,reject,N/A
+perioral-dermatitis-19.jpg,perioral_dermatitis,REJECTED,Diagnostic reject: perioral_dermatitis,N/A,356.87,reject,N/A
+perioral-dermatitis-2.jpg,perioral_dermatitis,REJECTED,Diagnostic reject: perioral_dermatitis,N/A,1501.25,reject,N/A
+perioral-dermatitis-20.jpg,perioral_dermatitis,REJECTED,Diagnostic reject: perioral_dermatitis,N/A,338.64,reject,N/A
+perioral-dermatitis-21.jpg,perioral_dermatitis,REJECTED,Diagnostic reject: perioral_dermatitis,N/A,289.92,reject,N/A
+perioral-dermatitis-22.jpg,perioral_dermatitis,REJECTED,Diagnostic reject: perioral_dermatitis,N/A,518.83,reject,N/A
+perioral-dermatitis-23.jpg,perioral_dermatitis,REJECTED,Diagnostic reject: perioral_dermatitis,N/A,336.71,reject,N/A
+perioral-dermatitis-24.jpg,perioral_dermatitis,REJECTED,Diagnostic reject: perioral_dermatitis,N/A,347.70,reject,N/A
+perioral-dermatitis-25.jpg,perioral_dermatitis,REJECTED,Diagnostic reject: perioral_dermatitis,N/A,366.33,reject,N/A
+perioral-dermatitis-26.jpg,perioral_dermatitis,REJECTED,Diagnostic reject: perioral_dermatitis,N/A,294.41,reject,N/A
+perioral-dermatitis-27.jpg,perioral_dermatitis,REJECTED,Diagnostic reject: perioral_dermatitis,N/A,664.87,reject,N/A
+perioral-dermatitis-28.jpg,perioral_dermatitis,REJECTED,Diagnostic reject: perioral_dermatitis,N/A,486.61,reject,N/A
+perioral-dermatitis-29.jpg,perioral_dermatitis,REJECTED,Diagnostic reject: perioral_dermatitis,N/A,249.10,reject,N/A
+perioral-dermatitis-3.jpg,perioral_dermatitis,REJECTED,Diagnostic reject: perioral_dermatitis,N/A,1469.21,reject,N/A
+perioral-dermatitis-30.jpg,perioral_dermatitis,REJECTED,Diagnostic reject: perioral_dermatitis,N/A,284.75,reject,N/A
+perioral-dermatitis-31.jpg,perioral_dermatitis,REJECTED,Diagnostic reject: perioral_dermatitis,N/A,278.25,reject,N/A
+perioral-dermatitis-32.jpg,perioral_dermatitis,REJECTED,Diagnostic reject: perioral_dermatitis,N/A,196.30,reject,N/A
+perioral-dermatitis-33.jpg,perioral_dermatitis,REJECTED,Diagnostic reject: perioral_dermatitis,N/A,1412.04,reject,N/A
+perioral-dermatitis-34.jpg,perioral_dermatitis,REJECTED,Diagnostic reject: perioral_dermatitis,N/A,1412.04,reject,N/A
+perioral-dermatitis-35.jpg,perioral_dermatitis,REJECTED,Diagnostic reject: perioral_dermatitis,N/A,1098.81,reject,N/A
+perioral-dermatitis-36.jpg,perioral_dermatitis,REJECTED,Diagnostic reject: perioral_dermatitis,N/A,981.81,reject,N/A
+perioral-dermatitis-37.jpg,perioral_dermatitis,REJECTED,Diagnostic reject: perioral_dermatitis,N/A,902.20,reject,N/A
+perioral-dermatitis-38.jpg,perioral_dermatitis,REJECTED,Diagnostic reject: perioral_dermatitis,N/A,336.29,reject,N/A
+perioral-dermatitis-39.jpg,perioral_dermatitis,REJECTED,Diagnostic reject: perioral_dermatitis,N/A,173.38,reject,N/A
+perioral-dermatitis-4.jpg,perioral_dermatitis,REJECTED,Diagnostic reject: perioral_dermatitis,N/A,956.84,reject,N/A
+perioral-dermatitis-40.jpg,perioral_dermatitis,REJECTED,Diagnostic reject: perioral_dermatitis,N/A,314.75,reject,N/A
+perioral-dermatitis-41.jpg,perioral_dermatitis,REJECTED,Diagnostic reject: perioral_dermatitis,N/A,365.65,reject,N/A
+perioral-dermatitis-43.jpg,perioral_dermatitis,REJECTED,Diagnostic reject: perioral_dermatitis,N/A,856.84,reject,N/A
+perioral-dermatitis-44.jpg,perioral_dermatitis,REJECTED,Diagnostic reject: perioral_dermatitis,N/A,760.40,reject,N/A
+perioral-dermatitis-45.jpg,perioral_dermatitis,REJECTED,Diagnostic reject: perioral_dermatitis,N/A,447.17,reject,N/A
+perioral-dermatitis-46.jpg,perioral_dermatitis,REJECTED,Diagnostic reject: perioral_dermatitis,N/A,499.63,reject,N/A
+perioral-dermatitis-47.jpg,perioral_dermatitis,REJECTED,Diagnostic reject: perioral_dermatitis,N/A,856.84,reject,N/A
+perioral-dermatitis-48.jpg,perioral_dermatitis,REJECTED,Diagnostic reject: perioral_dermatitis,N/A,145.21,reject,N/A
+perioral-dermatitis-49.jpg,perioral_dermatitis,REJECTED,Diagnostic reject: perioral_dermatitis,N/A,374.81,reject,N/A
+perioral-dermatitis-5.jpg,perioral_dermatitis,REJECTED,Diagnostic reject: perioral_dermatitis,N/A,511.28,reject,N/A
+perioral-dermatitis-50.jpg,perioral_dermatitis,REJECTED,Diagnostic reject: perioral_dermatitis,N/A,679.70,reject,N/A
+perioral-dermatitis-51.jpg,perioral_dermatitis,REJECTED,Diagnostic reject: perioral_dermatitis,N/A,298.47,reject,N/A
+perioral-dermatitis-52.jpg,perioral_dermatitis,REJECTED,Diagnostic reject: perioral_dermatitis,N/A,432.67,reject,N/A
+perioral-dermatitis-53.jpg,perioral_dermatitis,REJECTED,Diagnostic reject: perioral_dermatitis,N/A,497.46,reject,N/A
+perioral-dermatitis-54.jpg,perioral_dermatitis,REJECTED,Diagnostic reject: perioral_dermatitis,N/A,281.76,reject,N/A
+perioral-dermatitis-55.jpg,perioral_dermatitis,REJECTED,Diagnostic reject: perioral_dermatitis,N/A,1037.51,reject,N/A
+perioral-dermatitis-56.jpg,perioral_dermatitis,REJECTED,Diagnostic reject: perioral_dermatitis,N/A,1737.35,reject,N/A
+perioral-dermatitis-58.jpg,perioral_dermatitis,REJECTED,Diagnostic reject: perioral_dermatitis,N/A,3630.99,reject,N/A
+perioral-dermatitis-59.jpg,perioral_dermatitis,REJECTED,Diagnostic reject: perioral_dermatitis,N/A,1274.20,reject,N/A
+perioral-dermatitis-82.jpg,perioral_dermatitis,REJECTED,Diagnostic reject: perioral_dermatitis,N/A,1256.90,reject,N/A
+perioral-dermatitis-83.jpg,perioral_dermatitis,REJECTED,Diagnostic reject: perioral_dermatitis,N/A,1447.56,reject,N/A
+perioral-dermatitis-84.jpg,perioral_dermatitis,REJECTED,Diagnostic reject: perioral_dermatitis,N/A,307.28,reject,N/A
+perioral-dermatitis-85.jpg,perioral_dermatitis,REJECTED,Diagnostic reject: perioral_dermatitis,N/A,1297.86,reject,N/A
+perioral-dermatitis-86.jpg,perioral_dermatitis,REJECTED,Diagnostic reject: perioral_dermatitis,N/A,100.56,reject,N/A
+perioral-dermatitis-87.jpg,perioral_dermatitis,REJECTED,Diagnostic reject: perioral_dermatitis,N/A,722.31,reject,N/A
+perioral-dermatitis-88.jpg,perioral_dermatitis,REJECTED,Diagnostic reject: perioral_dermatitis,N/A,301.82,reject,N/A
+perioral-dermatitis-89.jpg,perioral_dermatitis,REJECTED,Diagnostic reject: perioral_dermatitis,N/A,576.39,reject,N/A
+perioral-dermatitis-9.jpg,perioral_dermatitis,REJECTED,Diagnostic reject: perioral_dermatitis,N/A,918.31,reject,N/A
+perioral-dermatitis-90.jpg,perioral_dermatitis,REJECTED,Diagnostic reject: perioral_dermatitis,N/A,772.36,reject,N/A
+perioral-dermatitis-91.jpg,perioral_dermatitis,REJECTED,Diagnostic reject: perioral_dermatitis,N/A,214.34,reject,N/A
+perioral-dermatitis-92.jpg,perioral_dermatitis,REJECTED,Diagnostic reject: perioral_dermatitis,N/A,473.16,reject,N/A
+perioral-dermatitis-93.jpg,perioral_dermatitis,REJECTED,Diagnostic reject: perioral_dermatitis,N/A,714.20,reject,N/A
+perioral-dermatitis-94.jpg,perioral_dermatitis,REJECTED,Diagnostic reject: perioral_dermatitis,N/A,943.37,reject,N/A
+perioral-dermatitis-95.jpg,perioral_dermatitis,REJECTED,Diagnostic reject: perioral_dermatitis,N/A,913.97,reject,N/A
+perioral-dermatitis-96.jpg,perioral_dermatitis,REJECTED,Diagnostic reject: perioral_dermatitis,N/A,703.41,reject,N/A
+perioral-dermatitis-97.jpg,perioral_dermatitis,REJECTED,Diagnostic reject: perioral_dermatitis,N/A,560.98,reject,N/A
+perioral-dermatitis-98.jpg,perioral_dermatitis,REJECTED,Diagnostic reject: perioral_dermatitis,N/A,519.23,reject,N/A
+perioral-dermatitis-99.jpg,perioral_dermatitis,REJECTED,Diagnostic reject: perioral_dermatitis,N/A,357.39,reject,N/A
+rhinophyma-1.jpg,rosacea,REJECTED,Diagnostic reject: rosacea,N/A,1215.58,reject,N/A
+rhinophyma-2.jpg,rosacea,REJECTED,Diagnostic reject: rosacea,N/A,870.90,reject,N/A
+rhinophyma-3.jpg,rosacea,REJECTED,Diagnostic reject: rosacea,N/A,843.31,reject,N/A
+rhinophyma-4.jpg,rosacea,REJECTED,Diagnostic reject: rosacea,N/A,1097.79,reject,N/A
+rhinophyma.jpg,rosacea,REJECTED,Diagnostic reject: rosacea,N/A,473.24,reject,N/A
+rosacea-101.jpg,rosacea,REJECTED,Diagnostic reject: rosacea,N/A,585.38,reject,N/A
+rosacea-102.jpg,rosacea,REJECTED,Diagnostic reject: rosacea,N/A,259.48,reject,N/A
+rosacea-103.jpg,rosacea,REJECTED,Diagnostic reject: rosacea,N/A,308.95,reject,N/A
+rosacea-105.jpg,rosacea,REJECTED,Diagnostic reject: rosacea,N/A,1117.44,reject,N/A
+rosacea-106.jpg,rosacea,REJECTED,Diagnostic reject: rosacea,N/A,1105.34,reject,N/A
+rosacea-107.jpg,rosacea,REJECTED,Diagnostic reject: rosacea,N/A,1127.59,reject,N/A
+rosacea-108.jpg,rosacea,REJECTED,Diagnostic reject: rosacea,N/A,1916.99,reject,N/A
+rosacea-109.jpg,rosacea,REJECTED,Diagnostic reject: rosacea,N/A,2327.11,reject,N/A
+rosacea-11.jpg,rosacea,REJECTED,Diagnostic reject: rosacea,N/A,1237.41,reject,N/A
+rosacea-110.jpg,rosacea,REJECTED,Diagnostic reject: rosacea,N/A,6895.79,reject,N/A
+rosacea-111.jpg,rosacea,REJECTED,Diagnostic reject: rosacea,N/A,1724.99,reject,N/A
+rosacea-112.jpg,rosacea,REJECTED,Diagnostic reject: rosacea,N/A,1037.88,reject,N/A
+rosacea-113.jpg,rosacea,REJECTED,Diagnostic reject: rosacea,N/A,1069.51,reject,N/A
+rosacea-114.jpg,rosacea,REJECTED,Diagnostic reject: rosacea,N/A,907.35,reject,N/A
+rosacea-115.jpg,rosacea,REJECTED,Diagnostic reject: rosacea,N/A,1067.47,reject,N/A
+rosacea-116.jpg,rosacea,REJECTED,Diagnostic reject: rosacea,N/A,1249.66,reject,N/A
+rosacea-117.jpg,rosacea,REJECTED,Diagnostic reject: rosacea,N/A,513.03,reject,N/A
+rosacea-118.jpg,rosacea,REJECTED,Diagnostic reject: rosacea,N/A,279.40,reject,N/A
+rosacea-12.jpg,rosacea,REJECTED,Diagnostic reject: rosacea,N/A,1187.73,reject,N/A
+rosacea-13.jpg,rosacea,REJECTED,Diagnostic reject: rosacea,N/A,517.71,reject,N/A
+rosacea-14.jpg,rosacea,REJECTED,Diagnostic reject: rosacea,N/A,1160.84,reject,N/A
+rosacea-15.jpg,rosacea,REJECTED,Diagnostic reject: rosacea,N/A,293.67,reject,N/A
+rosacea-16.jpg,rosacea,REJECTED,Diagnostic reject: rosacea,N/A,491.32,reject,N/A
+rosacea-17.jpg,rosacea,REJECTED,Diagnostic reject: rosacea,N/A,1123.68,reject,N/A
+rosacea-18.jpg,rosacea,REJECTED,Diagnostic reject: rosacea,N/A,591.12,reject,N/A
+rosacea-19.jpg,rosacea,REJECTED,Diagnostic reject: rosacea,N/A,553.25,reject,N/A
+rosacea-2.jpg,rosacea,REJECTED,Diagnostic reject: rosacea,N/A,1462.09,reject,N/A
+rosacea-20.jpg,rosacea,REJECTED,Diagnostic reject: rosacea,N/A,799.89,reject,N/A
+rosacea-21.jpg,rosacea,REJECTED,Diagnostic reject: rosacea,N/A,2305.45,reject,N/A
+rosacea-22.jpg,rosacea,REJECTED,Diagnostic reject: rosacea,N/A,1549.54,reject,N/A
+rosacea-23.jpg,rosacea,REJECTED,Diagnostic reject: rosacea,N/A,2375.96,reject,N/A
+rosacea-24.jpg,rosacea,REJECTED,Diagnostic reject: rosacea,N/A,544.29,reject,N/A
+rosacea-25.jpg,rosacea,REJECTED,Diagnostic reject: rosacea,N/A,602.35,reject,N/A
+rosacea-26.jpg,rosacea,REJECTED,Diagnostic reject: rosacea,N/A,638.36,reject,N/A
+rosacea-27.jpg,rosacea,REJECTED,Diagnostic reject: rosacea,N/A,728.80,reject,N/A
+rosacea-28.jpg,rosacea,REJECTED,Diagnostic reject: rosacea,N/A,462.04,reject,N/A
+rosacea-29.jpg,rosacea,REJECTED,Diagnostic reject: rosacea,N/A,956.15,reject,N/A
+rosacea-3.jpg,rosacea,REJECTED,Diagnostic reject: rosacea,N/A,584.43,reject,N/A
+rosacea-30.jpg,rosacea,REJECTED,Diagnostic reject: rosacea,N/A,896.68,reject,N/A
+rosacea-31.jpg,rosacea,REJECTED,Diagnostic reject: rosacea,N/A,736.06,reject,N/A
+rosacea-32.jpg,rosacea,REJECTED,Diagnostic reject: rosacea,N/A,1088.88,reject,N/A
+rosacea-33.jpg,rosacea,REJECTED,Diagnostic reject: rosacea,N/A,1780.26,reject,N/A
+rosacea-34.jpg,rosacea,REJECTED,Diagnostic reject: rosacea,N/A,861.95,reject,N/A
+rosacea-35.jpg,rosacea,REJECTED,Diagnostic reject: rosacea,N/A,689.54,reject,N/A
+rosacea-36.jpg,rosacea,REJECTED,Diagnostic reject: rosacea,N/A,1523.08,reject,N/A
+rosacea-37.jpg,rosacea,REJECTED,Diagnostic reject: rosacea,N/A,656.21,reject,N/A
+rosacea-38.jpg,rosacea,REJECTED,Diagnostic reject: rosacea,N/A,543.07,reject,N/A
+rosacea-4.jpg,rosacea,REJECTED,Diagnostic reject: rosacea,N/A,612.77,reject,N/A
+rosacea-40.jpg,rosacea,REJECTED,Diagnostic reject: rosacea,N/A,1008.77,reject,N/A
+rosacea-41.jpg,rosacea,REJECTED,Diagnostic reject: rosacea,N/A,1272.10,reject,N/A
+rosacea-42.jpg,rosacea,REJECTED,Diagnostic reject: rosacea,N/A,1515.37,reject,N/A
+rosacea-43.jpg,rosacea,REJECTED,Diagnostic reject: rosacea,N/A,858.94,reject,N/A
+rosacea-44.jpg,rosacea,REJECTED,Diagnostic reject: rosacea,N/A,916.03,reject,N/A
+rosacea-45.jpg,rosacea,REJECTED,Diagnostic reject: rosacea,N/A,884.24,reject,N/A
+rosacea-46.jpg,rosacea,REJECTED,Diagnostic reject: rosacea,N/A,1109.27,reject,N/A
+rosacea-47.jpg,rosacea,REJECTED,Diagnostic reject: rosacea,N/A,605.74,reject,N/A
+rosacea-48.jpg,rosacea,REJECTED,Diagnostic reject: rosacea,N/A,776.51,reject,N/A
+rosacea-49.jpg,rosacea,REJECTED,Diagnostic reject: rosacea,N/A,608.61,reject,N/A
+rosacea-5.jpg,rosacea,REJECTED,Diagnostic reject: rosacea,N/A,2560.62,reject,N/A
+rosacea-50.jpg,rosacea,REJECTED,Diagnostic reject: rosacea,N/A,482.18,reject,N/A
+rosacea-51.jpg,rosacea,REJECTED,Diagnostic reject: rosacea,N/A,1086.68,reject,N/A
+rosacea-52.jpg,rosacea,REJECTED,Diagnostic reject: rosacea,N/A,559.74,reject,N/A
+rosacea-53.jpg,rosacea,REJECTED,Diagnostic reject: rosacea,N/A,1301.52,reject,N/A
+rosacea-54.jpg,rosacea,REJECTED,Diagnostic reject: rosacea,N/A,1047.41,reject,N/A
+rosacea-55.jpg,rosacea,REJECTED,Diagnostic reject: rosacea,N/A,1510.42,reject,N/A
+rosacea-56.jpg,rosacea,REJECTED,Diagnostic reject: rosacea,N/A,1455.44,reject,N/A
+rosacea-57.jpg,rosacea,REJECTED,Diagnostic reject: rosacea,N/A,1802.83,reject,N/A
+rosacea-58.jpg,rosacea,REJECTED,Diagnostic reject: rosacea,N/A,1081.80,reject,N/A
+rosacea-6.jpg,rosacea,REJECTED,Diagnostic reject: rosacea,N/A,701.49,reject,N/A
+rosacea-60.jpg,rosacea,REJECTED,Diagnostic reject: rosacea,N/A,1152.81,reject,N/A
+rosacea-61.jpg,rosacea,REJECTED,Diagnostic reject: rosacea,N/A,1044.59,reject,N/A
+rosacea-63.jpg,rosacea,REJECTED,Diagnostic reject: rosacea,N/A,1061.68,reject,N/A
+rosacea-64.jpg,rosacea,REJECTED,Diagnostic reject: rosacea,N/A,1007.21,reject,N/A
+rosacea-65.jpg,rosacea,REJECTED,Diagnostic reject: rosacea,N/A,1567.56,reject,N/A
+rosacea-67.jpg,rosacea,REJECTED,Diagnostic reject: rosacea,N/A,770.80,reject,N/A
+rosacea-68.jpg,rosacea,REJECTED,Diagnostic reject: rosacea,N/A,1609.80,reject,N/A
+rosacea-69.jpg,rosacea,REJECTED,Diagnostic reject: rosacea,N/A,494.72,reject,N/A
+rosacea-7.jpg,rosacea,REJECTED,Diagnostic reject: rosacea,N/A,371.99,reject,N/A
+rosacea-70.jpg,rosacea,REJECTED,Diagnostic reject: rosacea,N/A,4801.71,reject,N/A
+rosacea-71.jpg,rosacea,REJECTED,Diagnostic reject: rosacea,N/A,3998.86,reject,N/A
+rosacea-72.jpg,rosacea,REJECTED,Diagnostic reject: rosacea,N/A,3026.56,reject,N/A
+rosacea-73.jpg,rosacea,REJECTED,Diagnostic reject: rosacea,N/A,3297.46,reject,N/A
+rosacea-74.jpg,rosacea,REJECTED,Diagnostic reject: rosacea,N/A,1214.59,reject,N/A
+rosacea-75.jpg,rosacea,REJECTED,Diagnostic reject: rosacea,N/A,1555.30,reject,N/A
+rosacea-77.jpg,rosacea,REJECTED,Diagnostic reject: rosacea,N/A,1022.04,reject,N/A
+rosacea-78.jpg,rosacea,REJECTED,Diagnostic reject: rosacea,N/A,1340.81,reject,N/A
+rosacea-79.jpg,rosacea,REJECTED,Diagnostic reject: rosacea,N/A,957.41,reject,N/A
+rosacea-8.jpg,rosacea,REJECTED,Diagnostic reject: rosacea,N/A,657.13,reject,N/A
+rosacea-80.jpg,rosacea,REJECTED,Diagnostic reject: rosacea,N/A,598.69,reject,N/A
+rosacea-81.jpg,rosacea,REJECTED,Diagnostic reject: rosacea,N/A,730.63,reject,N/A
+rosacea-82.jpg,rosacea,REJECTED,Diagnostic reject: rosacea,N/A,994.75,reject,N/A
+rosacea-83.jpg,rosacea,REJECTED,Diagnostic reject: rosacea,N/A,771.34,reject,N/A
+rosacea-85.jpg,rosacea,REJECTED,Diagnostic reject: rosacea,N/A,1297.38,reject,N/A
+rosacea-86.jpg,rosacea,REJECTED,Diagnostic reject: rosacea,N/A,1075.09,reject,N/A
+rosacea-87.jpg,rosacea,REJECTED,Diagnostic reject: rosacea,N/A,982.84,reject,N/A
+rosacea-89.jpg,rosacea,REJECTED,Diagnostic reject: rosacea,N/A,624.10,reject,N/A
+rosacea-9.jpg,rosacea,REJECTED,Diagnostic reject: rosacea,N/A,658.80,reject,N/A
+rosacea-90.jpg,rosacea,REJECTED,Diagnostic reject: rosacea,N/A,1006.41,reject,N/A
+rosacea-91.jpg,rosacea,REJECTED,Diagnostic reject: rosacea,N/A,790.20,reject,N/A
+rosacea-92.jpg,rosacea,REJECTED,Diagnostic reject: rosacea,N/A,552.73,reject,N/A
+rosacea-94.jpg,rosacea,REJECTED,Diagnostic reject: rosacea,N/A,1449.81,reject,N/A
+rosacea-95.jpg,rosacea,REJECTED,Diagnostic reject: rosacea,N/A,1730.33,reject,N/A
+rosacea-96.jpg,rosacea,REJECTED,Diagnostic reject: rosacea,N/A,672.58,reject,N/A
+rosacea-97.jpg,rosacea,REJECTED,Diagnostic reject: rosacea,N/A,756.51,reject,N/A
+rosacea-98.jpg,rosacea,REJECTED,Diagnostic reject: rosacea,N/A,358.40,reject,N/A
+rosacea-99.jpg,rosacea,REJECTED,Diagnostic reject: rosacea,N/A,625.89,reject,N/A
+rosacea-granulomatous-1.jpg,rosacea,REJECTED,Diagnostic reject: rosacea,N/A,784.85,reject,N/A
+rosacea-granulomatous-2.jpg,rosacea,REJECTED,Diagnostic reject: rosacea,N/A,1340.31,reject,N/A
+rosacea-nose-1.jpg,rosacea,REJECTED,Diagnostic reject: rosacea,N/A,980.21,reject,N/A
+rosacea-nose-10.jpg,rosacea,REJECTED,Diagnostic reject: rosacea,N/A,912.23,reject,N/A
+rosacea-nose-11.jpg,rosacea,REJECTED,Diagnostic reject: rosacea,N/A,3165.45,reject,N/A
+rosacea-nose-12.jpg,rosacea,REJECTED,Diagnostic reject: rosacea,N/A,2322.74,reject,N/A
+rosacea-nose-13.jpg,rosacea,REJECTED,Diagnostic reject: rosacea,N/A,2302.01,reject,N/A
+rosacea-nose-14.jpg,rosacea,REJECTED,Diagnostic reject: rosacea,N/A,3014.87,reject,N/A
+rosacea-nose-15.jpg,rosacea,REJECTED,Diagnostic reject: rosacea,N/A,1250.35,reject,N/A
+rosacea-nose-16.jpg,rosacea,REJECTED,Diagnostic reject: rosacea,N/A,1211.69,reject,N/A
+rosacea-nose-17.jpg,rosacea,REJECTED,Diagnostic reject: rosacea,N/A,307.18,reject,N/A
+rosacea-nose-18.jpg,rosacea,REJECTED,Diagnostic reject: rosacea,N/A,311.61,reject,N/A
+rosacea-nose-19.jpg,rosacea,REJECTED,Diagnostic reject: rosacea,N/A,351.40,reject,N/A
+rosacea-nose-2.jpg,rosacea,REJECTED,Diagnostic reject: rosacea,N/A,519.15,reject,N/A
+rosacea-nose-21.jpg,rosacea,REJECTED,Diagnostic reject: rosacea,N/A,1013.94,reject,N/A
+rosacea-nose-22.jpg,rosacea,REJECTED,Diagnostic reject: rosacea,N/A,4303.79,reject,N/A
+rosacea-nose-23.jpg,rosacea,REJECTED,Diagnostic reject: rosacea,N/A,1146.90,reject,N/A
+rosacea-nose-24.jpg,rosacea,REJECTED,Diagnostic reject: rosacea,N/A,890.04,reject,N/A
+rosacea-nose-25.jpg,rosacea,REJECTED,Diagnostic reject: rosacea,N/A,235.59,reject,N/A
+rosacea-nose-26.jpg,rosacea,REJECTED,Diagnostic reject: rosacea,N/A,391.10,reject,N/A
+rosacea-nose-28.jpg,rosacea,REJECTED,Diagnostic reject: rosacea,N/A,440.78,reject,N/A
+rosacea-nose-29.jpg,rosacea,REJECTED,Diagnostic reject: rosacea,N/A,337.68,reject,N/A
+rosacea-nose-3.jpg,rosacea,REJECTED,Diagnostic reject: rosacea,N/A,644.72,reject,N/A
+rosacea-nose-30.jpg,rosacea,REJECTED,Diagnostic reject: rosacea,N/A,315.08,reject,N/A
+rosacea-nose-31.jpg,rosacea,REJECTED,Diagnostic reject: rosacea,N/A,632.20,reject,N/A
+rosacea-nose-32.jpg,rosacea,REJECTED,Diagnostic reject: rosacea,N/A,31.99,reject,N/A
+rosacea-nose-33.jpg,rosacea,REJECTED,Diagnostic reject: rosacea,N/A,31.95,reject,N/A
+rosacea-nose-34.jpg,rosacea,REJECTED,Diagnostic reject: rosacea,N/A,575.25,reject,N/A
+rosacea-nose-35.jpg,rosacea,REJECTED,Diagnostic reject: rosacea,N/A,1486.13,reject,N/A
+rosacea-nose-36.jpg,rosacea,REJECTED,Diagnostic reject: rosacea,N/A,98.99,reject,N/A
+rosacea-nose-37.jpg,rosacea,REJECTED,Diagnostic reject: rosacea,N/A,117.58,reject,N/A
+rosacea-nose-38.jpg,rosacea,REJECTED,Diagnostic reject: rosacea,N/A,947.77,reject,N/A
+rosacea-nose-39.jpg,rosacea,REJECTED,Diagnostic reject: rosacea,N/A,241.21,reject,N/A
+rosacea-nose-4.jpg,rosacea,REJECTED,Diagnostic reject: rosacea,N/A,858.53,reject,N/A
+rosacea-nose-41.jpg,rosacea,REJECTED,Diagnostic reject: rosacea,N/A,1305.88,reject,N/A
+rosacea-nose-42.jpg,rosacea,REJECTED,Diagnostic reject: rosacea,N/A,1081.59,reject,N/A
+rosacea-nose-43.jpg,rosacea,REJECTED,Diagnostic reject: rosacea,N/A,108.05,reject,N/A
+rosacea-nose-44.jpg,rosacea,REJECTED,Diagnostic reject: rosacea,N/A,1281.03,reject,N/A
+rosacea-nose-46.jpg,rosacea,REJECTED,Diagnostic reject: rosacea,N/A,89.92,reject,N/A
+rosacea-nose-47.jpg,rosacea,REJECTED,Diagnostic reject: rosacea,N/A,303.50,reject,N/A
+rosacea-nose-48.jpg,rosacea,REJECTED,Diagnostic reject: rosacea,N/A,1682.96,reject,N/A
+rosacea-nose-49.jpg,rosacea,REJECTED,Diagnostic reject: rosacea,N/A,1427.54,reject,N/A
+rosacea-nose-5.jpg,rosacea,REJECTED,Diagnostic reject: rosacea,N/A,785.72,reject,N/A
+rosacea-nose-50.jpg,rosacea,REJECTED,Diagnostic reject: rosacea,N/A,1211.07,reject,N/A
+rosacea-nose-51.jpg,rosacea,REJECTED,Diagnostic reject: rosacea,N/A,284.82,reject,N/A
+rosacea-nose-52.jpg,rosacea,REJECTED,Diagnostic reject: rosacea,N/A,1441.73,reject,N/A
+rosacea-nose-53.jpg,rosacea,REJECTED,Diagnostic reject: rosacea,N/A,1112.90,reject,N/A
+rosacea-nose-54.jpg,rosacea,REJECTED,Diagnostic reject: rosacea,N/A,363.61,reject,N/A
+rosacea-nose-55.jpg,rosacea,REJECTED,Diagnostic reject: rosacea,N/A,1484.72,reject,N/A
+rosacea-nose-56.jpg,rosacea,REJECTED,Diagnostic reject: rosacea,N/A,159.53,reject,N/A
+rosacea-nose-57.jpg,rosacea,REJECTED,Diagnostic reject: rosacea,N/A,1076.71,reject,N/A
+rosacea-nose-58.jpg,rosacea,REJECTED,Diagnostic reject: rosacea,N/A,2663.09,reject,N/A
+rosacea-nose-59.jpg,rosacea,REJECTED,Diagnostic reject: rosacea,N/A,619.93,reject,N/A
+rosacea-nose-6.jpg,rosacea,REJECTED,Diagnostic reject: rosacea,N/A,1213.01,reject,N/A
+rosacea-nose-60.jpg,rosacea,REJECTED,Diagnostic reject: rosacea,N/A,546.33,reject,N/A
+rosacea-nose-61.jpg,rosacea,REJECTED,Diagnostic reject: rosacea,N/A,603.65,reject,N/A
+rosacea-nose-62.jpg,rosacea,REJECTED,Diagnostic reject: rosacea,N/A,1491.92,reject,N/A
+rosacea-nose-63.jpg,rosacea,REJECTED,Diagnostic reject: rosacea,N/A,1963.33,reject,N/A
+rosacea-nose-64.jpg,rosacea,REJECTED,Diagnostic reject: rosacea,N/A,1224.83,reject,N/A
+rosacea-nose-65.jpg,rosacea,REJECTED,Diagnostic reject: rosacea,N/A,482.06,reject,N/A
+rosacea-nose-7.jpg,rosacea,REJECTED,Diagnostic reject: rosacea,N/A,1226.51,reject,N/A
+rosacea-nose-8.jpg,rosacea,REJECTED,Diagnostic reject: rosacea,N/A,1483.90,reject,N/A
+rosacea-nose-9.jpg,rosacea,REJECTED,Diagnostic reject: rosacea,N/A,753.43,reject,N/A
+rosacea-steroid-1.jpg,rosacea,REJECTED,Diagnostic reject: rosacea,N/A,513.07,reject,N/A
+rosacea-steroid-2.jpg,rosacea,REJECTED,Diagnostic reject: rosacea,N/A,901.16,reject,N/A
+rosacea-steroid-3.jpg,rosacea,REJECTED,Diagnostic reject: rosacea,N/A,461.40,reject,N/A
+rosacea-steroid-4.jpg,rosacea,REJECTED,Diagnostic reject: rosacea,N/A,3618.88,reject,N/A
+rosacea-steroid-6.jpg,rosacea,REJECTED,Diagnostic reject: rosacea,N/A,1121.25,reject,N/A
+rosacea-steroid-7.jpg,rosacea,REJECTED,Diagnostic reject: rosacea,N/A,1367.56,reject,N/A
+rosacea-steroid-8.jpg,rosacea,REJECTED,Diagnostic reject: rosacea,N/A,1453.34,reject,N/A
+Sebaceous-glands-Areola-1.jpg,sebaceous_glands,REJECTED,Diagnostic reject: sebaceous_glands,N/A,326.45,reject,N/A
+Sebaceous-glands-Areola-2.jpg,sebaceous_glands,REJECTED,Diagnostic reject: sebaceous_glands,N/A,369.39,reject,N/A
+Sebaceous-glands-Areola-3.jpg,sebaceous_glands,REJECTED,Diagnostic reject: sebaceous_glands,N/A,544.58,reject,N/A
+Sebaceous-glands-labia-1.jpg,sebaceous_glands,REJECTED,Diagnostic reject: sebaceous_glands,N/A,793.83,reject,N/A
+sebaceous-glands-upper-lip-1.jpg,sebaceous_glands,REJECTED,Diagnostic reject: sebaceous_glands,N/A,808.60,reject,N/A
+sebaceous-glands-upper-lip-2.jpg,sebaceous_glands,REJECTED,Diagnostic reject: sebaceous_glands,N/A,942.31,reject,N/A
+07PerioralDermEye.jpg,perioral_dermatitis,REJECTED,Diagnostic reject: perioral_dermatitis,N/A,613.29,reject,N/A
+07Rhinophyma1.jpg,rosacea,REJECTED,Diagnostic reject: rosacea,N/A,1104.21,reject,N/A
+07rhnophymas0321051.jpg,rosacea,REJECTED,Diagnostic reject: rosacea,N/A,228.22,reject,N/A
+07RosaceaFulFAce.jpg,rosacea,REJECTED,Diagnostic reject: rosacea,N/A,911.74,reject,N/A
+07RosaceaMilia0120.jpg,milia,REJECTED,Diagnostic reject: milia,N/A,924.94,reject,N/A
+07RosaceaOK0828063.jpg,rosacea,REJECTED,Diagnostic reject: rosacea,N/A,561.12,reject,N/A
+07sebDerem1101051.jpg,seborrheic_dermatitis,REJECTED,Diagnostic reject: seborrheic_dermatitis,N/A,590.76,reject,N/A
+07SteroidPerioral.jpg,perioral_dermatitis,REJECTED,Diagnostic reject: perioral_dermatitis,N/A,599.26,reject,N/A
+07SteroidPerioral1.jpg,perioral_dermatitis,REJECTED,Diagnostic reject: perioral_dermatitis,N/A,605.76,reject,N/A
+07VascularFace0120.jpg,rosacea,REJECTED,Diagnostic reject: rosacea,N/A,1231.06,reject,N/A
+08PerioralDerm1.jpg,perioral_dermatitis,REJECTED,Diagnostic reject: perioral_dermatitis,N/A,856.84,reject,N/A
+acne-closed-comedo-003.jpg,acne_active,REMOVED,Duplicate of acne-closed-comedo-25.jpg,5,841.96,high,N/A
+acne-closed-comedo-1.jpg,acne_active,REMOVED,Duplicate of acne-closed-comedo-13.jpg,6,1150.15,high,N/A
+acne-closed-comedo-13.jpg,acne_active,REMOVED,Duplicate of acne-closed-comedo-13.jpg,6,1199.44,high,N/A
+acne-closed-comedo-15.jpg,acne_active,REMOVED,Duplicate of acne-closed-comedo-15.jpg,10,145.80,usable,N/A
+acne-closed-comedo-16.jpg,acne_active,REMOVED,Duplicate of acne-closed-comedo-16.jpg,11,111.15,usable,N/A
+acne-closed-comedo-2.jpg,acne_active,REMOVED,Duplicate of acne-closed-comedo-2.jpg,15,195.97,high,N/A
+acne-closed-comedo-21.jpg,acne_active,REMOVED,Duplicate of acne-closed-comedo-21.jpg,17,529.86,high,N/A
+acne-closed-comedo-22.jpg,acne_active,REMOVED,Duplicate of acne-closed-comedo-22.jpg,18,2224.97,high,N/A
+acne-closed-comedo-24.jpg,acne_active,REMOVED,Duplicate of acne-closed-comedo-24.jpg,20,2029.16,high,N/A
+acne-closed-comedo-25.jpg,acne_active,REMOVED,Duplicate of acne-closed-comedo-25.jpg,5,1637.82,high,N/A
+acne-closed-comedo-26.jpg,acne_active,REMOVED,Duplicate of acne-closed-comedo-26.jpg,21,1947.79,high,N/A
+acne-closed-comedo-28.jpg,acne_active,REMOVED,Duplicate of acne-pustular-50.jpg,23,374.21,high,N/A
+acne-closed-comedo-29.jpg,acne_active,REMOVED,Duplicate of acne-closed-comedo-29.jpg,24,294.31,high,N/A
+acne-closed-comedo-3.jpg,acne_active,REMOVED,Duplicate of acne-closed-comedo-3.jpg,25,97.63,usable,N/A
+acne-closed-comedo-31.jpg,acne_active,REMOVED,Duplicate of acne-closed-comedo-31.jpg,26,152.20,high,N/A
+acne-closed-comedo-36.jpg,acne_active,REMOVED,Duplicate of acne-closed-comedo-36.jpg,31,807.19,high,N/A
+acne-closed-comedo-4.jpg,acne_active,REMOVED,Duplicate of acne-closed-comedo-4.jpg,34,588.22,high,N/A
+acne-cystic-101.jpg,acne_active,REMOVED,Duplicate of acne-cystic-101.jpg,43,913.93,high,N/A
+acne-cystic-103.jpg,acne_active,REMOVED,Duplicate of acne-cystic-103.jpg,45,1224.92,high,N/A
+acne-cystic-104.jpg,acne_active,REMOVED,Duplicate of acne-closed-comedo-25.jpg,5,177.88,high,N/A
+acne-cystic-112.jpg,acne_active,REMOVED,Duplicate of acne-cystic-112.jpg,54,158.92,high,N/A
+acne-cystic-114.jpg,acne_active,REMOVED,Duplicate of acne-cystic-114.jpg,56,928.67,high,N/A
+acne-cystic-120.jpg,acne_active,REMOVED,Duplicate of acne-cystic-120.jpg,62,1094.14,high,N/A
+acne-cystic-122.jpg,acne_active,REMOVED,Duplicate of acne-cystic-122.jpg,64,405.39,high,N/A
+acne-cystic-126.jpg,acne_active,REMOVED,Duplicate of acne-cystic-126.jpg,68,721.27,high,N/A
+acne-cystic-128.jpg,acne_active,REMOVED,Duplicate of acne-cystic-128.jpg,70,1444.70,high,N/A
+acne-cystic-131.jpg,acne_active,REMOVED,Duplicate of acne-cystic-131.jpg,69,447.41,high,N/A
+acne-cystic-133.jpg,acne_active,REMOVED,Duplicate of acne-cystic-133.jpg,75,2529.79,high,N/A
+acne-cystic-135.jpg,acne_active,REMOVED,Duplicate of acne-cystic-135.jpg,77,830.27,high,N/A
+acne-cystic-137.jpg,acne_active,REMOVED,Duplicate of acne-cystic-52.jpg,78,359.50,high,N/A
+acne-cystic-141.jpg,acne_active,REMOVED,Duplicate of acne-cystic-141.jpg,82,2456.95,high,N/A
+acne-cystic-148.jpg,acne_active,REMOVED,Duplicate of acne-cystic-148.jpg,88,1522.76,high,N/A
+acne-cystic-149.jpg,acne_active,REMOVED,Duplicate of acne-cystic-149.jpg,89,417.03,high,N/A
+acne-cystic-18.jpg,acne_active,REMOVED,Duplicate of acne-pustular-6.jpg,95,1359.83,high,N/A
+acne-cystic-19.jpg,acne_active,REMOVED,Duplicate of acne-cystic-19.jpg,96,777.44,high,N/A
+acne-cystic-3.jpg,acne_active,REMOVED,Duplicate of acne-closed-comedo-25.jpg,5,545.33,high,N/A
+acne-cystic-30.jpg,acne_active,REMOVED,Duplicate of acne-cystic-30.jpg,103,465.56,high,N/A
+acne-cystic-33.jpg,acne_active,RETAINED,Valid unique acne image,193,1048.90,high,train
+acne-cystic-40.jpg,acne_active,REMOVED,Duplicate of acne-cystic-40.jpg,111,163.72,high,N/A
+acne-cystic-44.jpg,acne_active,REMOVED,Duplicate of acne-cystic-44.jpg,114,1680.27,high,N/A
+acne-cystic-45.jpg,acne_active,REMOVED,Duplicate of acne-cystic-45.jpg,115,841.40,high,N/A
+acne-cystic-46.jpg,acne_active,RETAINED,Valid unique acne image,318,781.71,high,valid
+acne-cystic-52.jpg,acne_active,REMOVED,Duplicate of acne-cystic-52.jpg,78,801.99,high,N/A
+acne-cystic-53.jpg,acne_active,REMOVED,Duplicate of acne-cystic-53.jpg,122,3661.08,high,N/A
+acne-cystic-55.jpg,acne_active,RETAINED,Valid unique acne image,319,1071.70,high,test
+acne-cystic-6.jpg,acne_active,REMOVED,Duplicate of acne-cystic-6.jpg,127,1369.15,high,N/A
+acne-cystic-61.jpg,acne_active,REMOVED,Duplicate of acne-cystic-61.jpg,129,148.81,usable,N/A
+acne-cystic-85.jpg,acne_active,REMOVED,Duplicate of acne-cystic-85.jpg,130,1129.07,high,N/A
+acne-cystic-86.jpg,acne_active,REMOVED,Duplicate of acne-cystic-52.jpg,78,588.33,high,N/A
+acne-cystic-89.jpg,acne_active,REMOVED,Duplicate of acne-cystic-89.jpg,133,674.18,high,N/A
+acne-cystic-90.jpg,acne_active,REMOVED,Duplicate of acne-cystic-90.jpg,135,922.06,high,N/A
+acne-cystic-92.jpg,acne_active,REMOVED,Duplicate of acne-cystic-92.jpg,137,1046.17,high,N/A
+acne-cystic-95.jpg,acne_active,REMOVED,Duplicate of acne-cystic-95.jpg,140,1414.19,high,N/A
+acne-cystic-97.jpg,acne_active,REMOVED,Duplicate of acne-cystic-97.jpg,142,784.04,high,N/A
+acne-cystic-98.jpg,acne_active,REMOVED,Duplicate of acne-cystic-98.jpg,143,190.08,high,N/A
+acne-cystic-99.jpg,acne_active,REMOVED,Duplicate of acne-cystic-99.jpg,144,1603.14,high,N/A
+acne-excoriated-12.jpg,acne_active,REMOVED,Duplicate of acne-excoriated-12.jpg,148,615.72,high,N/A
+acne-excoriated-14.jpg,acne_active,REMOVED,Duplicate of acne-excoriated-14.jpg,150,475.37,high,N/A
+acne-excoriated-18.jpg,acne_active,RETAINED,Valid unique acne image,320,1096.26,high,test
+acne-excoriated-19.jpg,acne_active,RETAINED,Valid unique acne image,321,807.03,high,train
+acne-excoriated-2.jpg,acne_active,REMOVED,Duplicate of acne-excoriated-2.jpg,145,949.12,high,N/A
+acne-excoriated-22.jpg,acne_active,REMOVED,Duplicate of acne-excoriated-21.jpg,155,627.91,high,N/A
+acne-excoriated-4.jpg,acne_active,REMOVED,Duplicate of acne-excoriated-4.jpg,163,424.62,high,N/A
+acne-excoriated-8.jpg,acne_active,REMOVED,Duplicate of acne-excoriated-8.jpg,166,653.16,high,N/A
+acne-histology-4.jpg,histology_or_illustration,REJECTED,Diagnostic reject: histology_or_illustration,N/A,8062.10,reject,N/A
+acne-histology-5.jpg,histology_or_illustration,REJECTED,Diagnostic reject: histology_or_illustration,N/A,7727.88,reject,N/A
+acne-infantile-10.jpg,acne_active,RETAINED,Valid unique acne image,322,447.45,high,train
+acne-infantile-12.jpg,acne_active,REMOVED,Duplicate of acne-infantile-12.jpg,169,246.83,high,N/A
+acne-infantile-6.jpg,acne_active,REMOVED,Duplicate of acne-infantile-6.jpg,178,166.34,high,N/A
+acne-open-comedo-1.jpg,acne_active,REMOVED,Duplicate of acne-open-comedo-1.jpg,183,416.86,high,N/A
+acne-open-comedo-10.jpg,acne_active,REMOVED,Duplicate of acne-open-comedo-10.jpg,184,210.33,high,N/A
+acne-open-comedo-12.jpg,acne_active,REMOVED,Duplicate of acne-open-comedo-12.jpg,186,93.56,usable,N/A
+acne-open-comedo-13.jpg,acne_active,REMOVED,Duplicate of acne-open-comedo-13.jpg,187,93.72,usable,N/A
+acne-open-comedo-14.jpg,acne_active,REMOVED,Duplicate of acne-closed-comedo-25.jpg,5,841.96,high,N/A
+acne-open-comedo-15.jpg,acne_active,REMOVED,Duplicate of acne-open-comedo-15.jpg,188,903.28,high,N/A
+acne-open-comedo-16.jpg,acne_active,RETAINED,Valid unique acne image,323,660.47,high,test
+acne-open-comedo-17.jpg,acne_active,REMOVED,Duplicate of acne-open-comedo-17.jpg,189,1327.16,high,N/A
+acne-open-comedo-18.jpg,acne_active,REMOVED,Duplicate of acne-open-comedo-18.jpg,190,1940.45,high,N/A
+acne-open-comedo-24.jpg,acne_active,REMOVED,Duplicate of acne-open-comedo-24.jpg,197,655.17,high,N/A
+acne-open-comedo-26.jpg,acne_active,REMOVED,Duplicate of acne-open-comedo-26.jpg,199,556.18,high,N/A
+acne-open-comedo-27.jpg,acne_active,RETAINED,Valid unique acne image,238,1150.06,high,train
+acne-open-comedo-30.jpg,acne_active,REMOVED,Duplicate of acne-open-comedo-30.jpg,203,1279.99,high,N/A
+acne-open-comedo-31.jpg,acne_active,REMOVED,Duplicate of acne-open-comedo-31.jpg,204,206.09,high,N/A
+acne-open-comedo-33.jpg,acne_active,REMOVED,Duplicate of acne-open-comedo-33.jpg,206,1084.27,high,N/A
+acne-open-comedo-36.jpg,acne_active,REMOVED,Duplicate of acne-open-comedo-36.jpg,209,492.05,high,N/A
+acne-open-comedo-37.jpg,acne_active,REMOVED,Duplicate of acne-open-comedo-37.jpg,210,299.39,high,N/A
+acne-open-comedo-48.jpg,acne_active,REMOVED,Duplicate of acne-open-comedo-48.jpg,222,1465.61,high,N/A
+acne-open-comedo-57.jpg,acne_active,REMOVED,Duplicate of acne-closed-comedo-24.jpg,20,857.86,high,N/A
+acne-open-comedo-58.jpg,acne_active,REMOVED,Duplicate of acne-open-comedo-58.jpg,230,1282.28,high,N/A
+acne-open-comedo-61.jpg,acne_active,REMOVED,Duplicate of acne-open-comedo-61.jpg,234,1255.64,high,N/A
+acne-open-comedo-62.jpg,acne_active,REMOVED,Duplicate of acne-open-comedo-62.jpg,235,2251.38,high,N/A
+acne-open-comedo-63.jpg,acne_active,REMOVED,Duplicate of acne-open-comedo-63.jpg,236,431.35,high,N/A
+acne-open-comedo-67.jpg,acne_active,REMOVED,Duplicate of acne-open-comedo-67.jpg,240,338.16,high,N/A
+acne-open-comedo-69.jpg,acne_active,REMOVED,Duplicate of acne-open-comedo-69.jpg,242,679.78,high,N/A
+acne-open-comedo-7.jpg,acne_active,REMOVED,Duplicate of acne-open-comedo-7.jpg,243,503.52,high,N/A
+acne-open-comedo-72.jpg,acne_active,REMOVED,Duplicate of acne-open-comedo-72.jpg,246,760.16,high,N/A
+acne-primary-lesion-2.jpg,acne_active,REMOVED,Duplicate of acne-primary-lesion-2.jpg,250,8105.55,high,N/A
+acne-primary-lesion-3.jpg,acne_active,REMOVED,Duplicate of acne-primary-lesion-3.jpg,251,8089.24,high,N/A
+acne-primary-lesion-5.jpg,acne_active,REMOVED,Duplicate of acne-primary-lesion-5.jpg,253,8130.62,high,N/A
+acne-pustular-13.jpg,acne_active,REMOVED,Duplicate of acne-cystic-33.jpg,193,703.88,high,N/A
+acne-pustular-15.jpg,acne_active,REMOVED,Duplicate of acne-pustular-15.jpg,260,820.91,high,N/A
+acne-pustular-17.jpg,acne_active,REMOVED,Duplicate of acne-pustular-17.jpg,262,869.45,high,N/A
+acne-pustular-20.jpg,acne_active,REMOVED,Duplicate of acne-pustular-20.jpg,263,788.75,high,N/A
+acne-pustular-21.jpg,acne_active,REMOVED,Duplicate of acne-pustular-21.jpg,264,490.81,high,N/A
+acne-pustular-22.jpg,acne_active,RETAINED,Valid unique acne image,324,761.57,high,train
+acne-pustular-26.jpg,acne_active,REMOVED,Duplicate of acne-pustular-26.jpg,268,1085.01,high,N/A
+acne-pustular-34.jpg,acne_active,REMOVED,Duplicate of acne-pustular-34.jpg,274,594.47,high,N/A
+acne-pustular-37.jpg,acne_active,REMOVED,Duplicate of acne-pustular-50.jpg,23,995.41,high,N/A
+acne-pustular-38.jpg,acne_active,REMOVED,Duplicate of acne-closed-comedo-11.jpg,8,575.21,high,N/A
+acne-pustular-41.jpg,acne_active,REMOVED,Duplicate of acne-pustular-23.jpg,265,116.72,usable,N/A
+acne-pustular-51.jpg,acne_active,REMOVED,Duplicate of acne-pustular-51.jpg,286,1036.30,high,N/A
+acne-pustular-55.jpg,acne_active,RETAINED,Valid unique acne image,325,754.02,high,train
+acne-pustular-59.jpg,acne_active,REMOVED,Duplicate of acne-pustular-59.jpg,292,727.49,high,N/A
+acne-pustular-61.jpg,acne_active,REMOVED,Duplicate of acne-pustular-61.jpg,294,2100.35,high,N/A
+acne-pustular-66.jpg,acne_active,REMOVED,Duplicate of acne-pustular-66.jpg,298,903.44,high,N/A
+acne-pustular-67.jpg,acne_active,REMOVED,Duplicate of acne-pustular-67.jpg,299,1762.21,high,N/A
+acne-pustular-7.jpg,acne_active,REMOVED,Duplicate of acne-pustular-7.jpg,98,506.92,high,N/A
+acne-pustular-8.jpg,acne_active,REMOVED,Duplicate of acne-pustular-8.jpg,307,209.35,high,N/A
+acne-scar-2.jpg,acne_scar,REMOVED,Duplicate of acne-scar-2.jpg,310,745.05,high,N/A
+acne-scar-5.jpg,acne_scar,REMOVED,Duplicate of acne-scar-5.jpg,313,665.61,high,N/A
+ComedonesEars-1.jpg,acne_active,REMOVED,Duplicate of acne-open-comedo-7.jpg,243,503.52,high,N/A
+fordyce-spots-1.jpg,fordyce_spots,REJECTED,Diagnostic reject: fordyce_spots,N/A,2933.27,reject,N/A
+fordyce-spots-3.jpg,fordyce_spots,REJECTED,Diagnostic reject: fordyce_spots,N/A,913.42,reject,N/A
+fordyce-spots-4.jpg,fordyce_spots,REJECTED,Diagnostic reject: fordyce_spots,N/A,786.73,reject,N/A
+fordyce-spots-5.jpg,fordyce_spots,REJECTED,Diagnostic reject: fordyce_spots,N/A,382.41,reject,N/A
+fordyce-spots-6.jpg,fordyce_spots,REJECTED,Diagnostic reject: fordyce_spots,N/A,430.28,reject,N/A
+fordyce-spots-7.jpg,fordyce_spots,REJECTED,Diagnostic reject: fordyce_spots,N/A,347.62,reject,N/A
+Forest-2.jpg,irrelevant_forest,REJECTED,Diagnostic reject: irrelevant_forest,N/A,806.67,reject,N/A
+hidradenitis-suppurativa-10.jpg,hidradenitis_suppurativa,REJECTED,Diagnostic reject: hidradenitis_suppurativa,N/A,3192.79,reject,N/A
+hidradenitis-suppurativa-107.jpg,hidradenitis_suppurativa,REJECTED,Diagnostic reject: hidradenitis_suppurativa,N/A,283.55,reject,N/A
+hidradenitis-suppurativa-12.jpg,hidradenitis_suppurativa,REJECTED,Diagnostic reject: hidradenitis_suppurativa,N/A,230.36,reject,N/A
+hidradenitis-suppurativa-14.jpg,hidradenitis_suppurativa,REJECTED,Diagnostic reject: hidradenitis_suppurativa,N/A,2354.35,reject,N/A
+hidradenitis-suppurativa-2.jpg,hidradenitis_suppurativa,REJECTED,Diagnostic reject: hidradenitis_suppurativa,N/A,4425.40,reject,N/A
+hidradenitis-suppurativa-20.jpg,hidradenitis_suppurativa,REJECTED,Diagnostic reject: hidradenitis_suppurativa,N/A,197.82,reject,N/A
+hidradenitis-suppurativa-21.jpg,hidradenitis_suppurativa,REJECTED,Diagnostic reject: hidradenitis_suppurativa,N/A,278.43,reject,N/A
+hidradenitis-suppurativa-25.jpg,hidradenitis_suppurativa,REJECTED,Diagnostic reject: hidradenitis_suppurativa,N/A,123.44,reject,N/A
+hidradenitis-suppurativa-27.jpg,hidradenitis_suppurativa,REJECTED,Diagnostic reject: hidradenitis_suppurativa,N/A,272.55,reject,N/A
+hidradenitis-suppurativa-29.jpg,hidradenitis_suppurativa,REJECTED,Diagnostic reject: hidradenitis_suppurativa,N/A,1121.36,reject,N/A
+hidradenitis-suppurativa-3.jpg,hidradenitis_suppurativa,REJECTED,Diagnostic reject: hidradenitis_suppurativa,N/A,167.15,reject,N/A
+hidradenitis-suppurativa-33.jpg,hidradenitis_suppurativa,REJECTED,Diagnostic reject: hidradenitis_suppurativa,N/A,434.72,reject,N/A
+hidradenitis-suppurativa-34.jpg,hidradenitis_suppurativa,REJECTED,Diagnostic reject: hidradenitis_suppurativa,N/A,298.31,reject,N/A
+hidradenitis-suppurativa-37.jpg,hidradenitis_suppurativa,REJECTED,Diagnostic reject: hidradenitis_suppurativa,N/A,1104.13,reject,N/A
+hidradenitis-suppurativa-39.jpg,hidradenitis_suppurativa,REJECTED,Diagnostic reject: hidradenitis_suppurativa,N/A,276.41,reject,N/A
+hidradenitis-suppurativa-40.jpg,hidradenitis_suppurativa,REJECTED,Diagnostic reject: hidradenitis_suppurativa,N/A,309.46,reject,N/A
+hidradenitis-suppurativa-42.jpg,hidradenitis_suppurativa,REJECTED,Diagnostic reject: hidradenitis_suppurativa,N/A,226.06,reject,N/A
+hidradenitis-suppurativa-43.jpg,hidradenitis_suppurativa,REJECTED,Diagnostic reject: hidradenitis_suppurativa,N/A,138.66,reject,N/A
+hidradenitis-suppurativa-45.jpg,hidradenitis_suppurativa,REJECTED,Diagnostic reject: hidradenitis_suppurativa,N/A,142.64,reject,N/A
+hidradenitis-suppurativa-46.jpg,hidradenitis_suppurativa,REJECTED,Diagnostic reject: hidradenitis_suppurativa,N/A,273.68,reject,N/A
+hidradenitis-suppurativa-49.jpg,hidradenitis_suppurativa,REJECTED,Diagnostic reject: hidradenitis_suppurativa,N/A,1190.59,reject,N/A
+hidradenitis-suppurativa-50.jpg,hidradenitis_suppurativa,REJECTED,Diagnostic reject: hidradenitis_suppurativa,N/A,358.54,reject,N/A
+hidradenitis-suppurativa-56.jpg,hidradenitis_suppurativa,REJECTED,Diagnostic reject: hidradenitis_suppurativa,N/A,1277.91,reject,N/A
+hidradenitis-suppurativa-6.jpg,hidradenitis_suppurativa,REJECTED,Diagnostic reject: hidradenitis_suppurativa,N/A,2551.11,reject,N/A
+hidradenitis-suppurativa-60.jpg,hidradenitis_suppurativa,REJECTED,Diagnostic reject: hidradenitis_suppurativa,N/A,439.64,reject,N/A
+hidradenitis-suppurativa-62.jpg,hidradenitis_suppurativa,REJECTED,Diagnostic reject: hidradenitis_suppurativa,N/A,987.33,reject,N/A
+hidradenitis-suppurativa-64.jpg,hidradenitis_suppurativa,REJECTED,Diagnostic reject: hidradenitis_suppurativa,N/A,495.02,reject,N/A
+hidradenitis-suppurativa-66.jpg,hidradenitis_suppurativa,REJECTED,Diagnostic reject: hidradenitis_suppurativa,N/A,396.92,reject,N/A
+hidradenitis-suppurativa-69.jpg,hidradenitis_suppurativa,REJECTED,Diagnostic reject: hidradenitis_suppurativa,N/A,1666.93,reject,N/A
+hidradenitis-suppurativa-84.jpg,hidradenitis_suppurativa,REJECTED,Diagnostic reject: hidradenitis_suppurativa,N/A,1788.73,reject,N/A
+hidradenitis-suppurativa-86.jpg,hidradenitis_suppurativa,REJECTED,Diagnostic reject: hidradenitis_suppurativa,N/A,907.70,reject,N/A
+hidradenitis-suppurativa-87.jpg,hidradenitis_suppurativa,REJECTED,Diagnostic reject: hidradenitis_suppurativa,N/A,1922.64,reject,N/A
+hidradenitis-suppurativa-90.jpg,hidradenitis_suppurativa,REJECTED,Diagnostic reject: hidradenitis_suppurativa,N/A,435.88,reject,N/A
+hidradenitis-suppurativa-93.jpg,hidradenitis_suppurativa,REJECTED,Diagnostic reject: hidradenitis_suppurativa,N/A,607.68,reject,N/A
+hidradenitis-suppurativa-94.jpg,hidradenitis_suppurativa,REJECTED,Diagnostic reject: hidradenitis_suppurativa,N/A,1789.83,reject,N/A
+hidradenitis-suppurativa-95.jpg,hidradenitis_suppurativa,REJECTED,Diagnostic reject: hidradenitis_suppurativa,N/A,1071.56,reject,N/A
+hidradenitis-suppurativa-97.jpg,hidradenitis_suppurativa,REJECTED,Diagnostic reject: hidradenitis_suppurativa,N/A,205.87,reject,N/A
+hidradenitis-suppurativa-99.jpg,hidradenitis_suppurativa,REJECTED,Diagnostic reject: hidradenitis_suppurativa,N/A,947.43,reject,N/A
+Hidradenitis-Suppurativa-Areola-2.jpg,hidradenitis_suppurativa,REJECTED,Diagnostic reject: hidradenitis_suppurativa,N/A,920.64,reject,N/A
+hyperhidrosis-2.jpg,hyperhidrosis,REJECTED,Diagnostic reject: hyperhidrosis,N/A,309.09,reject,N/A
+hyperhidrosis-5.jpg,hyperhidrosis,REJECTED,Diagnostic reject: hyperhidrosis,N/A,891.10,reject,N/A
+milia-14.jpg,milia,REJECTED,Diagnostic reject: milia,N/A,962.99,reject,N/A
+milia-18.jpg,milia,REJECTED,Diagnostic reject: milia,N/A,138.45,reject,N/A
+milia-19.jpg,milia,REJECTED,Diagnostic reject: milia,N/A,1547.47,reject,N/A
+milia-3.jpg,milia,REJECTED,Diagnostic reject: milia,N/A,299.84,reject,N/A
+minocycline-pigmentation-10.jpg,minocycline_pigmentation,REJECTED,Diagnostic reject: minocycline_pigmentation,N/A,2874.64,reject,N/A
+minocycline-pigmentation-3.jpg,minocycline_pigmentation,REJECTED,Diagnostic reject: minocycline_pigmentation,N/A,381.93,reject,N/A
+nevus-comedonicus-2.jpg,nevus_comedonicus,REJECTED,Diagnostic reject: nevus_comedonicus,N/A,113.85,reject,N/A
+perioral-dermatitis-1.jpg,perioral_dermatitis,REJECTED,Diagnostic reject: perioral_dermatitis,N/A,790.43,reject,N/A
+perioral-dermatitis-10.jpg,perioral_dermatitis,REJECTED,Diagnostic reject: perioral_dermatitis,N/A,635.38,reject,N/A
+perioral-dermatitis-100.jpg,perioral_dermatitis,REJECTED,Diagnostic reject: perioral_dermatitis,N/A,659.52,reject,N/A
+perioral-dermatitis-101.jpg,perioral_dermatitis,REJECTED,Diagnostic reject: perioral_dermatitis,N/A,610.62,reject,N/A
+perioral-dermatitis-102.jpg,perioral_dermatitis,REJECTED,Diagnostic reject: perioral_dermatitis,N/A,681.04,reject,N/A
+perioral-dermatitis-106.jpg,perioral_dermatitis,REJECTED,Diagnostic reject: perioral_dermatitis,N/A,571.63,reject,N/A
+perioral-dermatitis-109.jpg,perioral_dermatitis,REJECTED,Diagnostic reject: perioral_dermatitis,N/A,839.77,reject,N/A
+perioral-dermatitis-113.jpg,perioral_dermatitis,REJECTED,Diagnostic reject: perioral_dermatitis,N/A,1276.78,reject,N/A
+perioral-dermatitis-114.jpg,perioral_dermatitis,REJECTED,Diagnostic reject: perioral_dermatitis,N/A,514.81,reject,N/A
+perioral-dermatitis-115.jpg,perioral_dermatitis,REJECTED,Diagnostic reject: perioral_dermatitis,N/A,878.82,reject,N/A
+perioral-dermatitis-116.jpg,perioral_dermatitis,REJECTED,Diagnostic reject: perioral_dermatitis,N/A,880.06,reject,N/A
+perioral-dermatitis-119.jpg,perioral_dermatitis,REJECTED,Diagnostic reject: perioral_dermatitis,N/A,499.05,reject,N/A
+perioral-dermatitis-121.jpg,perioral_dermatitis,REJECTED,Diagnostic reject: perioral_dermatitis,N/A,332.76,reject,N/A
+perioral-dermatitis-122.jpg,perioral_dermatitis,REJECTED,Diagnostic reject: perioral_dermatitis,N/A,647.00,reject,N/A
+perioral-dermatitis-123.jpg,perioral_dermatitis,REJECTED,Diagnostic reject: perioral_dermatitis,N/A,476.49,reject,N/A
+perioral-dermatitis-125.jpg,perioral_dermatitis,REJECTED,Diagnostic reject: perioral_dermatitis,N/A,462.54,reject,N/A
+perioral-dermatitis-127.jpg,perioral_dermatitis,REJECTED,Diagnostic reject: perioral_dermatitis,N/A,425.50,reject,N/A
+perioral-dermatitis-129.jpg,perioral_dermatitis,REJECTED,Diagnostic reject: perioral_dermatitis,N/A,389.59,reject,N/A
+perioral-dermatitis-130.jpg,perioral_dermatitis,REJECTED,Diagnostic reject: perioral_dermatitis,N/A,2185.20,reject,N/A
+perioral-dermatitis-131.jpg,perioral_dermatitis,REJECTED,Diagnostic reject: perioral_dermatitis,N/A,1667.37,reject,N/A
+perioral-dermatitis-134.jpg,perioral_dermatitis,REJECTED,Diagnostic reject: perioral_dermatitis,N/A,2311.15,reject,N/A
+perioral-dermatitis-138.jpg,perioral_dermatitis,REJECTED,Diagnostic reject: perioral_dermatitis,N/A,821.11,reject,N/A
+perioral-dermatitis-141.jpg,perioral_dermatitis,REJECTED,Diagnostic reject: perioral_dermatitis,N/A,224.90,reject,N/A
+perioral-dermatitis-16.jpg,perioral_dermatitis,REJECTED,Diagnostic reject: perioral_dermatitis,N/A,439.13,reject,N/A
+perioral-dermatitis-17.jpg,perioral_dermatitis,REJECTED,Diagnostic reject: perioral_dermatitis,N/A,499.04,reject,N/A
+perioral-dermatitis-2.jpg,perioral_dermatitis,REJECTED,Diagnostic reject: perioral_dermatitis,N/A,1501.25,reject,N/A
+perioral-dermatitis-22.jpg,perioral_dermatitis,REJECTED,Diagnostic reject: perioral_dermatitis,N/A,518.83,reject,N/A
+perioral-dermatitis-23.jpg,perioral_dermatitis,REJECTED,Diagnostic reject: perioral_dermatitis,N/A,336.71,reject,N/A
+perioral-dermatitis-24.jpg,perioral_dermatitis,REJECTED,Diagnostic reject: perioral_dermatitis,N/A,347.70,reject,N/A
+perioral-dermatitis-26.jpg,perioral_dermatitis,REJECTED,Diagnostic reject: perioral_dermatitis,N/A,294.41,reject,N/A
+perioral-dermatitis-27.jpg,perioral_dermatitis,REJECTED,Diagnostic reject: perioral_dermatitis,N/A,664.87,reject,N/A
+perioral-dermatitis-28.jpg,perioral_dermatitis,REJECTED,Diagnostic reject: perioral_dermatitis,N/A,486.61,reject,N/A
+perioral-dermatitis-29.jpg,perioral_dermatitis,REJECTED,Diagnostic reject: perioral_dermatitis,N/A,249.10,reject,N/A
+perioral-dermatitis-32.jpg,perioral_dermatitis,REJECTED,Diagnostic reject: perioral_dermatitis,N/A,196.30,reject,N/A
+perioral-dermatitis-33.jpg,perioral_dermatitis,REJECTED,Diagnostic reject: perioral_dermatitis,N/A,1412.04,reject,N/A
+perioral-dermatitis-35.jpg,perioral_dermatitis,REJECTED,Diagnostic reject: perioral_dermatitis,N/A,1098.81,reject,N/A
+perioral-dermatitis-36.jpg,perioral_dermatitis,REJECTED,Diagnostic reject: perioral_dermatitis,N/A,981.81,reject,N/A
+perioral-dermatitis-38.jpg,perioral_dermatitis,REJECTED,Diagnostic reject: perioral_dermatitis,N/A,336.29,reject,N/A
+perioral-dermatitis-42.jpg,perioral_dermatitis,REJECTED,Diagnostic reject: perioral_dermatitis,N/A,1546.58,reject,N/A
+perioral-dermatitis-45.jpg,perioral_dermatitis,REJECTED,Diagnostic reject: perioral_dermatitis,N/A,447.17,reject,N/A
+perioral-dermatitis-50.jpg,perioral_dermatitis,REJECTED,Diagnostic reject: perioral_dermatitis,N/A,679.70,reject,N/A
+perioral-dermatitis-57.jpg,perioral_dermatitis,REJECTED,Diagnostic reject: perioral_dermatitis,N/A,2611.85,reject,N/A
+perioral-dermatitis-59.jpg,perioral_dermatitis,REJECTED,Diagnostic reject: perioral_dermatitis,N/A,1274.20,reject,N/A
+perioral-dermatitis-83.jpg,perioral_dermatitis,REJECTED,Diagnostic reject: perioral_dermatitis,N/A,1447.56,reject,N/A
+perioral-dermatitis-85.jpg,perioral_dermatitis,REJECTED,Diagnostic reject: perioral_dermatitis,N/A,1297.86,reject,N/A
+perioral-dermatitis-87.jpg,perioral_dermatitis,REJECTED,Diagnostic reject: perioral_dermatitis,N/A,722.31,reject,N/A
+perioral-dermatitis-88.jpg,perioral_dermatitis,REJECTED,Diagnostic reject: perioral_dermatitis,N/A,301.82,reject,N/A
+perioral-dermatitis-9.jpg,perioral_dermatitis,REJECTED,Diagnostic reject: perioral_dermatitis,N/A,918.31,reject,N/A
+perioral-dermatitis-90.jpg,perioral_dermatitis,REJECTED,Diagnostic reject: perioral_dermatitis,N/A,772.36,reject,N/A
+perioral-dermatitis-92.jpg,perioral_dermatitis,REJECTED,Diagnostic reject: perioral_dermatitis,N/A,473.16,reject,N/A
+perioral-dermatitis-99.jpg,perioral_dermatitis,REJECTED,Diagnostic reject: perioral_dermatitis,N/A,357.39,reject,N/A
+rhinophyma-4.jpg,rosacea,REJECTED,Diagnostic reject: rosacea,N/A,1097.79,reject,N/A
+rosacea-1.jpg,rosacea,REJECTED,Diagnostic reject: rosacea,N/A,1085.59,reject,N/A
+rosacea-10.jpg,rosacea,REJECTED,Diagnostic reject: rosacea,N/A,1240.56,reject,N/A
+rosacea-100.jpg,rosacea,REJECTED,Diagnostic reject: rosacea,N/A,1142.91,reject,N/A
+rosacea-103.jpg,rosacea,REJECTED,Diagnostic reject: rosacea,N/A,308.95,reject,N/A
+rosacea-104.jpg,rosacea,REJECTED,Diagnostic reject: rosacea,N/A,278.77,reject,N/A
+rosacea-107.jpg,rosacea,REJECTED,Diagnostic reject: rosacea,N/A,1127.59,reject,N/A
+rosacea-111.jpg,rosacea,REJECTED,Diagnostic reject: rosacea,N/A,1724.99,reject,N/A
+rosacea-114.jpg,rosacea,REJECTED,Diagnostic reject: rosacea,N/A,907.35,reject,N/A
+rosacea-116.jpg,rosacea,REJECTED,Diagnostic reject: rosacea,N/A,1249.66,reject,N/A
+rosacea-117.jpg,rosacea,REJECTED,Diagnostic reject: rosacea,N/A,513.03,reject,N/A
+rosacea-118.jpg,rosacea,REJECTED,Diagnostic reject: rosacea,N/A,279.40,reject,N/A
+rosacea-14.jpg,rosacea,REJECTED,Diagnostic reject: rosacea,N/A,1160.84,reject,N/A
+rosacea-15.jpg,rosacea,REJECTED,Diagnostic reject: rosacea,N/A,293.67,reject,N/A
+rosacea-17.jpg,rosacea,REJECTED,Diagnostic reject: rosacea,N/A,1123.68,reject,N/A
+rosacea-25.jpg,rosacea,REJECTED,Diagnostic reject: rosacea,N/A,602.35,reject,N/A
+rosacea-27.jpg,rosacea,REJECTED,Diagnostic reject: rosacea,N/A,728.80,reject,N/A
+rosacea-29.jpg,rosacea,REJECTED,Diagnostic reject: rosacea,N/A,956.15,reject,N/A
+rosacea-3.jpg,rosacea,REJECTED,Diagnostic reject: rosacea,N/A,584.43,reject,N/A
+rosacea-30.jpg,rosacea,REJECTED,Diagnostic reject: rosacea,N/A,896.68,reject,N/A
+rosacea-31.jpg,rosacea,REJECTED,Diagnostic reject: rosacea,N/A,736.06,reject,N/A
+rosacea-32.jpg,rosacea,REJECTED,Diagnostic reject: rosacea,N/A,1088.88,reject,N/A
+rosacea-34.jpg,rosacea,REJECTED,Diagnostic reject: rosacea,N/A,861.95,reject,N/A
+rosacea-36.jpg,rosacea,REJECTED,Diagnostic reject: rosacea,N/A,1523.08,reject,N/A
+rosacea-38.jpg,rosacea,REJECTED,Diagnostic reject: rosacea,N/A,543.07,reject,N/A
+rosacea-39.jpg,rosacea,REJECTED,Diagnostic reject: rosacea,N/A,726.45,reject,N/A
+rosacea-4.jpg,rosacea,REJECTED,Diagnostic reject: rosacea,N/A,612.77,reject,N/A
+rosacea-41.jpg,rosacea,REJECTED,Diagnostic reject: rosacea,N/A,1272.10,reject,N/A
+rosacea-47.jpg,rosacea,REJECTED,Diagnostic reject: rosacea,N/A,605.74,reject,N/A
+rosacea-50.jpg,rosacea,REJECTED,Diagnostic reject: rosacea,N/A,482.18,reject,N/A
+rosacea-53.jpg,rosacea,REJECTED,Diagnostic reject: rosacea,N/A,1301.52,reject,N/A
+rosacea-58.jpg,rosacea,REJECTED,Diagnostic reject: rosacea,N/A,1081.80,reject,N/A
+rosacea-59.jpg,rosacea,REJECTED,Diagnostic reject: rosacea,N/A,1913.96,reject,N/A
+rosacea-60.jpg,rosacea,REJECTED,Diagnostic reject: rosacea,N/A,1152.81,reject,N/A
+rosacea-62.jpg,rosacea,REJECTED,Diagnostic reject: rosacea,N/A,1828.13,reject,N/A
+rosacea-65.jpg,rosacea,REJECTED,Diagnostic reject: rosacea,N/A,1567.56,reject,N/A
+rosacea-67.jpg,rosacea,REJECTED,Diagnostic reject: rosacea,N/A,770.80,reject,N/A
+rosacea-68.jpg,rosacea,REJECTED,Diagnostic reject: rosacea,N/A,1609.80,reject,N/A
+rosacea-74.jpg,rosacea,REJECTED,Diagnostic reject: rosacea,N/A,1214.59,reject,N/A
+rosacea-76.jpg,rosacea,REJECTED,Diagnostic reject: rosacea,N/A,889.40,reject,N/A
+rosacea-79.jpg,rosacea,REJECTED,Diagnostic reject: rosacea,N/A,957.41,reject,N/A
+rosacea-84.jpg,rosacea,REJECTED,Diagnostic reject: rosacea,N/A,1342.60,reject,N/A
+rosacea-88.jpg,rosacea,REJECTED,Diagnostic reject: rosacea,N/A,1065.63,reject,N/A
+rosacea-9.jpg,rosacea,REJECTED,Diagnostic reject: rosacea,N/A,658.80,reject,N/A
+rosacea-93.jpg,rosacea,REJECTED,Diagnostic reject: rosacea,N/A,262.72,reject,N/A
+rosacea-99.jpg,rosacea,REJECTED,Diagnostic reject: rosacea,N/A,625.89,reject,N/A
+rosacea-nose-10.jpg,rosacea,REJECTED,Diagnostic reject: rosacea,N/A,912.23,reject,N/A
+rosacea-nose-16.jpg,rosacea,REJECTED,Diagnostic reject: rosacea,N/A,1211.69,reject,N/A
+rosacea-nose-18.jpg,rosacea,REJECTED,Diagnostic reject: rosacea,N/A,311.61,reject,N/A
+rosacea-nose-2.jpg,rosacea,REJECTED,Diagnostic reject: rosacea,N/A,519.15,reject,N/A
+rosacea-nose-20.jpg,rosacea,REJECTED,Diagnostic reject: rosacea,N/A,1277.20,reject,N/A
+rosacea-nose-24.jpg,rosacea,REJECTED,Diagnostic reject: rosacea,N/A,890.04,reject,N/A
+rosacea-nose-29.jpg,rosacea,REJECTED,Diagnostic reject: rosacea,N/A,337.68,reject,N/A
+rosacea-nose-30.jpg,rosacea,REJECTED,Diagnostic reject: rosacea,N/A,315.08,reject,N/A
+rosacea-nose-33.jpg,rosacea,REJECTED,Diagnostic reject: rosacea,N/A,31.95,reject,N/A
+rosacea-nose-34.jpg,rosacea,REJECTED,Diagnostic reject: rosacea,N/A,575.25,reject,N/A
+rosacea-nose-37.jpg,rosacea,REJECTED,Diagnostic reject: rosacea,N/A,117.58,reject,N/A
+rosacea-nose-38.jpg,rosacea,REJECTED,Diagnostic reject: rosacea,N/A,947.77,reject,N/A
+rosacea-nose-40.jpg,rosacea,REJECTED,Diagnostic reject: rosacea,N/A,360.55,reject,N/A
+rosacea-nose-44.jpg,rosacea,REJECTED,Diagnostic reject: rosacea,N/A,1281.03,reject,N/A
+rosacea-nose-45.jpg,rosacea,REJECTED,Diagnostic reject: rosacea,N/A,351.81,reject,N/A
+rosacea-nose-48.jpg,rosacea,REJECTED,Diagnostic reject: rosacea,N/A,1682.96,reject,N/A
+rosacea-nose-49.jpg,rosacea,REJECTED,Diagnostic reject: rosacea,N/A,1427.54,reject,N/A
+rosacea-nose-5.jpg,rosacea,REJECTED,Diagnostic reject: rosacea,N/A,785.72,reject,N/A
+rosacea-nose-53.jpg,rosacea,REJECTED,Diagnostic reject: rosacea,N/A,1112.90,reject,N/A
+rosacea-nose-6.jpg,rosacea,REJECTED,Diagnostic reject: rosacea,N/A,1213.01,reject,N/A
+rosacea-nose-61.jpg,rosacea,REJECTED,Diagnostic reject: rosacea,N/A,603.65,reject,N/A
+rosacea-nose-65.jpg,rosacea,REJECTED,Diagnostic reject: rosacea,N/A,482.06,reject,N/A
+rosacea-nose-66.jpg,rosacea,REJECTED,Diagnostic reject: rosacea,N/A,593.66,reject,N/A
+rosacea-nose-7.jpg,rosacea,REJECTED,Diagnostic reject: rosacea,N/A,1226.51,reject,N/A
+rosacea-steroid-1.jpg,rosacea,REJECTED,Diagnostic reject: rosacea,N/A,513.07,reject,N/A
+rosacea-steroid-8.jpg,rosacea,REJECTED,Diagnostic reject: rosacea,N/A,1453.34,reject,N/A
+Sebaceous-glands-Areola-4.jpg,sebaceous_glands,REJECTED,Diagnostic reject: sebaceous_glands,N/A,317.93,reject,N/A
+sebaceous-glands-upper-lip-2.jpg,sebaceous_glands,REJECTED,Diagnostic reject: sebaceous_glands,N/A,942.31,reject,N/A

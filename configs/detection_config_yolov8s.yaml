@@ -1,0 +1,45 @@
+# QYRO YOLOv8s Detection Configuration (Phase 7D.2 Baseline)
+model_params:
+  model_type: "yolov8s.pt"
+  data_yaml: "datasets/skin/acne/final/detection/data.yaml"
+  epochs: 75
+  patience: 10              # Early stopping patience in epochs
+  batch: 16                 # Adjusted batch size for YOLOv8s on RTX 5050 8GB
+  imgsz: 640
+  save: true
+  cache: "disk"             # SSD disk caching strategy
+  device: 0
+  workers: 0
+  seed: 42
+  deterministic: true
+
+optimizer_params:
+  optimizer: "AdamW"
+  lr0: 0.01                 # Initial learning rate
+  lrf: 0.01                 # Final learning rate fraction (lr0 * lrf)
+  momentum: 0.937
+  weight_decay: 0.0005
+  warmup_epochs: 3.0
+  warmup_momentum: 0.8
+  warmup_bias_lr: 0.1
+
+augmentation_params:
+  hsv_h: 0.015              # Image HSV-Hue augmentation (fraction)
+  hsv_s: 0.7                # Image HSV-Saturation augmentation (fraction)
+  hsv_v: 0.4                # Image HSV-Value augmentation (fraction)
+  degrees: 0.0              # Image rotation (+/- deg)
+  translate: 0.1            # Image translation (+/- fraction)
+  scale: 0.5                # Image scale (+/- gain)
+  shear: 0.0                # Image shear (+/- deg)
+  perspective: 0.0          # Image perspective (+/- fraction)
+  flipud: 0.0               # Approved Modification: NO vertical flips
+  fliplr: 0.5               # Horizontal flip (probability)
+  mosaic: 1.0               # Image mosaic (probability)
+  mixup: 0.0                # Image mixup (probability)
+  copy_paste: 0.0           # Segment copy-paste (probability)
+
+logging_params:
+  project: "experiments/detection"
+  name: "yolov8s_qyro_acne_v1"
+  save_period: -1           # Save checkpoint every epoch (disabled if -1)
+  plots: true

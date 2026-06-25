@@ -1,0 +1,10 @@
+train: train/images
+val: valid/images
+test: test/images
+
+nc: 1
+names: ['Acne']
+
+clean_reconstruction: true
+version: 1.0
+reconstruction_date: "2026-06-05"

@@ -1,0 +1,12 @@
+[2026-06-06 14:01:39] Experiment Run Started: yolov8n_qyro_acne_v1_20260606_140139
+[2026-06-06 14:01:39] Git Hash: ab60fb0e5dd8d6292762c63dd9b4d7a80a7ad9aa | Dataset Hash: b98ee7d934ee9bd80beffea8c448e92165e3f48763ab4ac22ce6169b2f8c6559
+[2026-06-06 14:01:39] Training GPU: NVIDIA GeForce RTX 5050 Laptop GPU | VRAM: 7.96 GB
+[2026-06-06 14:01:39] Config Snapshot saved to experiments\detection\runs\yolov8n_qyro_acne_v1_20260606_140139\config_snapshot.yaml
+[2026-06-06 14:01:39] Dataset paths and labels successfully verified.
+[2026-06-06 14:01:39] Routing training execution to device: cuda:0
+[2026-06-06 14:01:39] Current VRAM details: {'allocated_mb': 0.0, 'reserved_mb': 0.0}
+[2026-06-06 14:01:39] Initializing YOLO model: yolov8n.pt
+[2026-06-06 14:01:39] Attempting to launch YOLOv8n training with batch size: 16
+[2026-06-06 14:04:57] Copied YOLO weight 'best.pt' to checkpoint directory: experiments\detection\checkpoints\yolov8n_qyro_acne_v1_20260606_140139\best.pt
+[2026-06-06 14:04:57] Copied YOLO weight 'last.pt' to checkpoint directory: experiments\detection\checkpoints\yolov8n_qyro_acne_v1_20260606_140139\last.pt
+[2026-06-06 14:04:57] Experiment completed. Final Metrics saved to experiments\detection\runs\yolov8n_qyro_acne_v1_20260606_140139\metrics.json

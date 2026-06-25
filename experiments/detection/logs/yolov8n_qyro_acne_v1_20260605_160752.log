@@ -1,0 +1,9 @@
+[2026-06-05 16:07:52] Experiment Run Started: yolov8n_qyro_acne_v1_20260605_160752
+[2026-06-05 16:07:52] Git Hash: ab60fb0e5dd8d6292762c63dd9b4d7a80a7ad9aa | Dataset Hash: b98ee7d934ee9bd80beffea8c448e92165e3f48763ab4ac22ce6169b2f8c6559
+[2026-06-05 16:07:52] Training GPU: NVIDIA GeForce RTX 5050 Laptop GPU | VRAM: 7.96 GB
+[2026-06-05 16:07:52] Config Snapshot saved to experiments\detection\runs\yolov8n_qyro_acne_v1_20260605_160752\config_snapshot.yaml
+[2026-06-05 16:07:52] Routing training execution to device: cuda:0
+[2026-06-05 16:07:52] Current VRAM details: {'allocated_mb': 0.0, 'reserved_mb': 0.0}
+[2026-06-05 16:07:52] Initializing YOLO model: yolov8n.pt
+[2026-06-05 16:07:52] Attempting to launch YOLOv8n training with batch size: 16
+[2026-06-05 16:08:35] Critical Runtime Exception occurred: cuDNN error: CUDNN_STATUS_EXECUTION_FAILED

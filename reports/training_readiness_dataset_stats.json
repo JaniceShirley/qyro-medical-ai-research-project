@@ -1,0 +1,15 @@
+{
+    "missing_files_count": 0,
+    "corrupted_images_count": 0,
+    "split_leakage_pairs_count": 0,
+    "hash_mismatches_count": 0,
+    "invalid_labels_count": 0,
+    "empty_folders_count": 0,
+    "yolo_label_issues_count": 0,
+    "path_validation_failures": [],
+    "leakage_failures": [],
+    "hash_mismatches": [],
+    "invalid_label_failures": [],
+    "empty_folders": [],
+    "yolo_issues": []
+}

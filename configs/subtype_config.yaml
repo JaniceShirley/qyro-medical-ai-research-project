@@ -1,0 +1,45 @@
+# QYRO EfficientNet-B0 Subtype Classification Configuration
+model_params:
+  backbone: "efficientnet_b0"
+  pretrained: true
+  num_classes: 9
+  input_size: 224
+  seed: 42
+  deterministic: true
+
+dataset_params:
+  data_dir: "datasets/skin/acne/final/subtype_classification"
+  manifest_path: "datasets/skin/acne/final/metadata/subtype_manifest.csv"
+  num_workers: 0
+  pin_memory: true
+  prefetch_factor: 2
+  batch_size: 32             # Baseline batch size for RTX 5050 (avoid OOM)
+
+training_params:
+  epochs: 50
+  optimizer: "AdamW"
+  weight_decay: 0.0001
+  loss_type: "weighted_cross_entropy" # Mitigates subclass imbalance
+  
+  # Transfer Learning Strategy
+  head_only_epochs: 10       # Phase 1: Train classification head only
+  head_lr: 0.001
+  
+  fine_tune_epochs: 40       # Phase 2: Full fine-tuning
+  fine_tune_lr: 0.0001
+  
+  scheduler: "CosineAnnealingLR"
+  early_stopping_patience: 8
+
+augmentation_params:
+  horizontal_flip: 0.5
+  vertical_flip: 0.0         # Approved Modification: NO vertical flips
+  coarse_dropout_prob: 0.2   # Simulates lighting blockage and hair occlusions
+  brightness_contrast: 0.2   # Randomly shifts bright/contrast ranges
+  grid_distortion: 0.2
+
+logging_params:
+  project: "experiments/subtype"
+  name: "effnet_b0_qyro_subtype_v1"
+  log_frequency_steps: 10
+  save_best_only: true

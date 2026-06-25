@@ -1,28 +1,82 @@
-# Gitignore for QYRO Medical AI public research documentation repository
+# ==============================================================================
+# QYRO Medical AI - Production-Safe Research Repository Gitignore
+# ==============================================================================
 
-# Ignore all proprietary source code
-qyro_backend/
-qyro_frontend/
-clinical_inference.py
-check_environment.py
-train_yolo_baseline.py
-train_yolo_v2.py
-evaluation/
-
-# Ignore datasets and weights
+# Ignore all raw and cleaned dataset files
 datasets/
-yolo11s.pt
-yolo26n.pt
-*.pt
+data/
+annotation_batches/
+annotation_exports/
+*.zip
+*.tar.gz
+*.tar
+*.tgz
+*.rar
+*.7z
 
-# Ignore outputs, runs and cache
-runs/
+# Ignore model weights and execution checkpoints
+*.pt
+*.pth
+*.onnx
+*.engine
+*.trt
+*.ckpt
+*.bin
+*.h5
+*.pb
+yolov8n.pt
+yolov8s.pt
+yolo26n.pt
+weights/
 checkpoints/
+
+# UN-IGNORE the trained production model weight for teammate handover
+!models/production/qyro_acne_v1_best.pt
+
+# Ignore experiment outputs, logs, and TensorBoard directories
+runs/
+experiments/
+logs/
+*.log
+
+# Ignore local caches and internal databases
 cache/
+.cache/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.ipynb_checkpoints/
+sqlite/
 *.db
 *.sqlite
-.venv/
+
+# Ignore Python virtual environments
 venv/
-*.log
+.venv/
+env/
+ENV/
+
+# Ignore local configuration files and environment keys
+.env
+.env.local
+.env.*.local
+configs/local_*.yaml
+
+# Ignore exports and temporary reports
 exports/
-temp_research_repo/
+scratch/
+reports/archive/
+reports/temporary_*.md
+reports/temporary_*.json
+test.png
+scratch_image_anns.csv
+
+# Ignore IDE and OS configurations
+.vscode/
+.idea/
+.project
+.settings/
+.DS_Store
+Thumbs.db
+desktop.ini

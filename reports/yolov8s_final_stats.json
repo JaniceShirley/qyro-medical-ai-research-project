@@ -1,0 +1,25 @@
+{
+    "model_name": "yolov8s_qyro_acne_v1",
+    "run_id": "yolov8s_qyro_acne_v1_20260624_144501",
+    "backbone": "YOLOv8s.pt",
+    "total_epochs": 26,
+    "best_epoch": 16,
+    "training_duration_hours": 0.075,
+    "training_duration_seconds": 270.0,
+    "peak_vram_gb": 4.2,
+    "best_epoch_metrics": {
+        "precision": 0.46204,
+        "recall": 0.45082,
+        "mAP50": 0.43093,
+        "mAP50_95": 0.15813,
+        "train_box_loss": 2.07433,
+        "train_cls_loss": 1.76062,
+        "val_box_loss": 2.11452,
+        "val_cls_loss": 1.78572
+    },
+    "early_stopping": {
+        "triggered": true,
+        "patience": 10,
+        "stopped_epoch": 26
+    }
+}

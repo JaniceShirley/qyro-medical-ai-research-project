@@ -1,0 +1,160 @@
+{
+    "total_images_in_final": 4428,
+    "copy_method_counts": {
+        "link": 4428,
+        "copy": 0
+    },
+    "subtype_manifest_size": 2951,
+    "severity_manifest_size": 752,
+    "robustness_manifest_size": 205,
+    "detection_size": 520,
+    "excluded_subtype_clinical_reference_count": 6,
+    "dataset_breakdowns": {
+        "kurnaz": {
+            "dataset_name": "kurnaz",
+            "image_count": 520,
+            "split_distribution": {
+                "train": 364,
+                "valid": 78,
+                "test": 78
+            },
+            "clinical_quality_distribution": {
+                "sharp": 221,
+                "usable": 158,
+                "borderline": 141
+            },
+            "subtype_distribution": {
+                "unknown": 520
+            },
+            "severity_distribution": {
+                "unknown": 520
+            },
+            "missing_metadata": {
+                "unknown_subtype": 520,
+                "unknown_severity": 520,
+                "unknown_skin_tone": 520,
+                "unknown_body_region": 520
+            }
+        },
+        "tiswan": {
+            "dataset_name": "tiswan",
+            "image_count": 2632,
+            "split_distribution": {
+                "train": 1840,
+                "test": 397,
+                "valid": 395
+            },
+            "clinical_quality_distribution": {
+                "usable": 1832,
+                "borderline": 656,
+                "sharp": 135,
+                "poor": 9
+            },
+            "subtype_distribution": {
+                "open_comedo": 685,
+                "cystic": 639,
+                "papular": 610,
+                "pustular": 564,
+                "closed_comedo": 134
+            },
+            "severity_distribution": {
+                "unknown": 2632
+            },
+            "missing_metadata": {
+                "unknown_subtype": 0,
+                "unknown_severity": 2632,
+                "unknown_skin_tone": 2632,
+                "unknown_body_region": 2632
+            }
+        },
+        "acne04": {
+            "dataset_name": "acne04",
+            "image_count": 752,
+            "split_distribution": {
+                "train": 524,
+                "valid": 114,
+                "test": 114
+            },
+            "clinical_quality_distribution": {
+                "sharp": 496,
+                "usable": 123,
+                "borderline": 120,
+                "poor": 13
+            },
+            "subtype_distribution": {
+                "mixed": 752
+            },
+            "severity_distribution": {
+                "stage_2": 340,
+                "stage_1": 271,
+                "stage_3": 89,
+                "stage_4": 52
+            },
+            "missing_metadata": {
+                "unknown_subtype": 0,
+                "unknown_severity": 0,
+                "unknown_skin_tone": 752,
+                "unknown_body_region": 752
+            }
+        },
+        "scin": {
+            "dataset_name": "scin",
+            "image_count": 205,
+            "split_distribution": {
+                "robustness_holdout": 205
+            },
+            "clinical_quality_distribution": {
+                "sharp": 75,
+                "usable": 63,
+                "borderline": 42,
+                "poor": 25
+            },
+            "subtype_distribution": {
+                "unknown": 205
+            },
+            "severity_distribution": {
+                "unknown": 205
+            },
+            "missing_metadata": {
+                "unknown_subtype": 205,
+                "unknown_severity": 205,
+                "unknown_skin_tone": 113,
+                "unknown_body_region": 36
+            }
+        },
+        "dermnet": {
+            "dataset_name": "dermnet",
+            "image_count": 325,
+            "split_distribution": {
+                "train": 223,
+                "test": 58,
+                "valid": 44
+            },
+            "clinical_quality_distribution": {
+                "sharp": 307,
+                "usable": 15,
+                "borderline": 3
+            },
+            "subtype_distribution": {
+                "cystic": 104,
+                "open_comedo": 66,
+                "pustular": 63,
+                "closed_comedo": 34,
+                "papular": 24,
+                "infantile": 16,
+                "scar": 11,
+                "unknown": 6,
+                "mechanica": 1
+            },
+            "severity_distribution": {
+                "unknown": 325
+            },
+            "missing_metadata": {
+                "unknown_subtype": 6,
+                "unknown_severity": 325,
+                "unknown_skin_tone": 325,
+                "unknown_body_region": 325
+            }
+        }
+    }
+}

@@ -1,0 +1,32 @@
+{
+    "task": "detection",
+    "model_type": "yolov8n",
+    "epochs_completed": 50,
+    "effective_epochs_total": 75,
+    "best_epoch": 50,
+    "training_duration_seconds": 544.56,
+    "gpu_memory_used_gb": 3.29,
+    "final_metrics": {
+        "precision": 0.63880,
+        "recall": 0.62247,
+        "mAP50": 0.63537,
+        "mAP50_95": 0.28806,
+        "train_box_loss": 1.76453,
+        "train_cls_loss": 1.38652,
+        "train_dfl_loss": 1.28549,
+        "val_box_loss": 1.79697,
+        "val_cls_loss": 1.38345,
+        "val_dfl_loss": 1.29758
+    },
+    "targets": {
+        "precision_target": 0.70,
+        "recall_target": 0.65,
+        "mAP50_target": 0.68
+    },
+    "target_status": {
+        "precision_reached": false,
+        "recall_reached": false,
+        "mAP50_reached": false
+    },
+    "convergence_summary": "Steady learning and consistent convergence detected. Validation losses continue to descend alongside training losses (val_box_loss 1.797 vs train_box_loss 1.765; val_cls_loss 1.383 vs train_cls_loss 1.387), confirming zero overfitting. Performance improved across all key metrics compared to the 25-epoch baseline."
+}

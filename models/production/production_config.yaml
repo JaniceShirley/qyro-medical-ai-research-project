@@ -1,0 +1,8 @@
+# QYRO Acne v1 Production Configuration
+model: "qyro_acne_v1_best.pt"
+task: "detect"
+imgsz: 640
+conf: 0.25
+iou: 0.60
+classes: [0]
+device: 0

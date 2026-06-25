@@ -1,0 +1,1407 @@
+original_filename,class,status,reason,duplicate_cluster,blur_score,quality_label,final_split
+levle0_10.jpg,Level 0,REJECTED,Severe blur (variance 3.32 < 20),1,3.32,reject,N/A
+levle1_374.jpg,Level 1,REMOVED,Duplicate of levle0_280.jpg,1324,810.03,duplicate,N/A
+levle2_111.jpg,Level 2,REMOVED,Duplicate of levle0_280.jpg,1324,750.00,duplicate,N/A
+levle0_512.jpg,Level 0,REMOVED,Duplicate of levle0_280.jpg,1324,741.45,duplicate,N/A
+levle2_109.jpg,Level 2,REMOVED,Duplicate of levle0_280.jpg,1324,728.70,duplicate,N/A
+levle0_528.jpg,Level 0,REMOVED,Duplicate of levle0_280.jpg,1324,699.22,duplicate,N/A
+levle0_145.jpg,Level 0,REMOVED,Duplicate of levle0_280.jpg,1324,673.23,duplicate,N/A
+levle2_33.jpg,Level 2,REMOVED,Duplicate of levle0_280.jpg,1324,662.77,duplicate,N/A
+levle0_189.jpg,Level 0,REMOVED,Duplicate of levle0_280.jpg,1324,608.04,duplicate,N/A
+levle2_160.jpg,Level 2,REMOVED,Duplicate of levle0_280.jpg,1324,586.84,duplicate,N/A
+levle1_251.jpg,Level 1,REMOVED,Duplicate of levle0_280.jpg,1324,578.98,duplicate,N/A
+levle1_200.jpg,Level 1,REMOVED,Duplicate of levle0_280.jpg,1324,573.34,duplicate,N/A
+levle1_597.jpg,Level 1,REMOVED,Duplicate of levle0_280.jpg,1324,570.51,duplicate,N/A
+levle1_132.jpg,Level 1,REMOVED,Duplicate of levle0_280.jpg,1324,560.99,duplicate,N/A
+levle1_485.jpg,Level 1,REMOVED,Duplicate of levle0_280.jpg,1324,560.99,duplicate,N/A
+levle1_427.jpg,Level 1,REMOVED,Duplicate of levle0_280.jpg,1324,541.76,duplicate,N/A
+levle0_188.jpg,Level 0,REMOVED,Duplicate of levle0_280.jpg,1324,533.80,duplicate,N/A
+levle0_236.jpg,Level 0,REMOVED,Duplicate of levle0_280.jpg,1324,529.13,duplicate,N/A
+levle1_171.jpg,Level 1,REMOVED,Duplicate of levle0_280.jpg,1324,528.62,duplicate,N/A
+levle2_118.jpg,Level 2,REMOVED,Duplicate of levle0_280.jpg,1324,527.33,duplicate,N/A
+levle0_36.jpg,Level 0,REMOVED,Duplicate of levle0_280.jpg,1324,526.47,duplicate,N/A
+levle0_260.jpg,Level 0,REMOVED,Duplicate of levle0_280.jpg,1324,516.39,duplicate,N/A
+levle2_183.jpg,Level 2,REMOVED,Duplicate of levle0_280.jpg,1324,515.76,duplicate,N/A
+levle1_402.jpg,Level 1,REMOVED,Duplicate of levle0_280.jpg,1324,510.31,duplicate,N/A
+levle0_111.jpg,Level 0,REMOVED,Duplicate of levle0_280.jpg,1324,509.28,duplicate,N/A
+levle0_34.jpg,Level 0,REMOVED,Duplicate of levle0_280.jpg,1324,501.77,duplicate,N/A
+levle1_457.jpg,Level 1,REMOVED,Duplicate of levle0_280.jpg,1324,491.46,duplicate,N/A
+levle0_243.jpg,Level 0,REMOVED,Duplicate of levle0_280.jpg,1324,489.12,duplicate,N/A
+levle2_172.jpg,Level 2,REMOVED,Duplicate of levle0_280.jpg,1324,486.11,duplicate,N/A
+levle1_566.jpg,Level 1,REMOVED,Duplicate of levle0_280.jpg,1324,482.42,duplicate,N/A
+levle1_145.jpg,Level 1,REMOVED,Duplicate of levle0_280.jpg,1324,478.28,duplicate,N/A
+levle1_281.jpg,Level 1,REMOVED,Duplicate of levle0_280.jpg,1324,478.28,duplicate,N/A
+levle0_103.jpg,Level 0,REMOVED,Duplicate of levle0_280.jpg,1324,474.07,duplicate,N/A
+levle0_476.jpg,Level 0,REMOVED,Duplicate of levle0_280.jpg,1324,472.98,duplicate,N/A
+levle2_175.jpg,Level 2,REMOVED,Duplicate of levle0_280.jpg,1324,470.25,duplicate,N/A
+levle1_440.jpg,Level 1,REMOVED,Duplicate of levle0_280.jpg,1324,469.22,duplicate,N/A
+levle2_119.jpg,Level 2,REMOVED,Duplicate of levle0_280.jpg,1324,468.97,duplicate,N/A
+levle1_565.jpg,Level 1,REMOVED,Duplicate of levle0_280.jpg,1324,464.27,duplicate,N/A
+levle0_336.jpg,Level 0,REMOVED,Duplicate of levle0_280.jpg,1324,462.21,duplicate,N/A
+levle1_202.jpg,Level 1,REMOVED,Duplicate of levle0_280.jpg,1324,461.94,duplicate,N/A
+levle0_267.jpg,Level 0,REMOVED,Duplicate of levle0_280.jpg,1324,458.39,duplicate,N/A
+levle1_446.jpg,Level 1,REMOVED,Duplicate of levle0_280.jpg,1324,457.18,duplicate,N/A
+levle1_447.jpg,Level 1,REMOVED,Duplicate of levle0_280.jpg,1324,452.49,duplicate,N/A
+levle2_107.jpg,Level 2,REMOVED,Duplicate of levle0_280.jpg,1324,451.27,duplicate,N/A
+levle1_407.jpg,Level 1,REMOVED,Duplicate of levle0_280.jpg,1324,447.91,duplicate,N/A
+levle1_249.jpg,Level 1,REMOVED,Duplicate of levle0_280.jpg,1324,444.05,duplicate,N/A
+levle1_539.jpg,Level 1,REMOVED,Duplicate of levle0_280.jpg,1324,442.50,duplicate,N/A
+levle0_292.jpg,Level 0,REMOVED,Duplicate of levle0_280.jpg,1324,439.97,duplicate,N/A
+levle1_189.jpg,Level 1,REMOVED,Duplicate of levle0_280.jpg,1324,432.13,duplicate,N/A
+levle1_58.jpg,Level 1,REMOVED,Duplicate of levle0_280.jpg,1324,428.40,duplicate,N/A
+levle1_614.jpg,Level 1,REMOVED,Duplicate of levle0_280.jpg,1324,426.42,duplicate,N/A
+levle0_144.jpg,Level 0,REMOVED,Duplicate of levle0_280.jpg,1324,426.16,duplicate,N/A
+levle1_466.jpg,Level 1,REMOVED,Duplicate of levle0_280.jpg,1324,425.71,duplicate,N/A
+levle1_519.jpg,Level 1,REMOVED,Duplicate of levle0_280.jpg,1324,424.42,duplicate,N/A
+levle0_354.jpg,Level 0,REMOVED,Duplicate of levle0_280.jpg,1324,422.01,duplicate,N/A
+levle0_484.jpg,Level 0,REMOVED,Duplicate of levle0_280.jpg,1324,419.19,duplicate,N/A
+levle0_417.jpg,Level 0,REMOVED,Duplicate of levle0_280.jpg,1324,415.67,duplicate,N/A
+levle0_399.jpg,Level 0,REMOVED,Duplicate of levle0_280.jpg,1324,415.21,duplicate,N/A
+levle1_441.jpg,Level 1,REMOVED,Duplicate of levle0_280.jpg,1324,414.49,duplicate,N/A
+levle1_625.jpg,Level 1,REMOVED,Duplicate of levle0_280.jpg,1324,413.92,duplicate,N/A
+levle0_217.jpg,Level 0,REMOVED,Duplicate of levle0_280.jpg,1324,410.91,duplicate,N/A
+levle0_415.jpg,Level 0,REMOVED,Duplicate of levle0_280.jpg,1324,409.54,duplicate,N/A
+levle0_385.jpg,Level 0,REMOVED,Duplicate of levle0_280.jpg,1324,402.18,duplicate,N/A
+levle2_117.jpg,Level 2,REMOVED,Duplicate of levle0_280.jpg,1324,401.62,duplicate,N/A
+levle1_433.jpg,Level 1,REMOVED,Duplicate of levle0_280.jpg,1324,400.43,duplicate,N/A
+levle0_522.jpg,Level 0,REMOVED,Duplicate of levle0_280.jpg,1324,399.78,duplicate,N/A
+levle0_395.jpg,Level 0,REMOVED,Duplicate of levle0_280.jpg,1324,398.99,duplicate,N/A
+levle0_298.jpg,Level 0,REMOVED,Duplicate of levle0_280.jpg,1324,395.69,duplicate,N/A
+levle1_603.jpg,Level 1,REMOVED,Duplicate of levle0_280.jpg,1324,395.69,duplicate,N/A
+levle1_516.jpg,Level 1,REMOVED,Duplicate of levle0_280.jpg,1324,394.86,duplicate,N/A
+levle1_32.jpg,Level 1,REMOVED,Duplicate of levle0_280.jpg,1324,390.63,duplicate,N/A
+levle0_203.jpg,Level 0,REMOVED,Duplicate of levle0_280.jpg,1324,389.70,duplicate,N/A
+levle0_503.jpg,Level 0,REMOVED,Duplicate of levle0_280.jpg,1324,389.36,duplicate,N/A
+levle0_89.jpg,Level 0,REMOVED,Duplicate of levle0_280.jpg,1324,386.98,duplicate,N/A
+levle1_578.jpg,Level 1,REMOVED,Duplicate of levle0_280.jpg,1324,386.10,duplicate,N/A
+levle1_223.jpg,Level 1,REMOVED,Duplicate of levle0_280.jpg,1324,385.19,duplicate,N/A
+levle1_544.jpg,Level 1,REMOVED,Duplicate of levle0_280.jpg,1324,383.85,duplicate,N/A
+levle0_486.jpg,Level 0,REMOVED,Duplicate of levle0_280.jpg,1324,381.97,duplicate,N/A
+levle1_304.jpg,Level 1,REMOVED,Duplicate of levle0_280.jpg,1324,379.44,duplicate,N/A
+levle1_248.jpg,Level 1,REMOVED,Duplicate of levle0_280.jpg,1324,376.12,duplicate,N/A
+levle0_418.jpg,Level 0,REMOVED,Duplicate of levle0_280.jpg,1324,373.88,duplicate,N/A
+levle0_322.jpg,Level 0,REMOVED,Duplicate of levle0_280.jpg,1324,367.03,duplicate,N/A
+levle1_308.jpg,Level 1,REMOVED,Duplicate of levle0_280.jpg,1324,366.49,duplicate,N/A
+levle2_134.jpg,Level 2,REMOVED,Duplicate of levle0_280.jpg,1324,365.82,duplicate,N/A
+levle0_279.jpg,Level 0,REMOVED,Duplicate of levle0_280.jpg,1324,363.49,duplicate,N/A
+levle1_432.jpg,Level 1,REMOVED,Duplicate of levle0_280.jpg,1324,358.12,duplicate,N/A
+levle1_181.jpg,Level 1,REMOVED,Duplicate of levle0_280.jpg,1324,357.99,duplicate,N/A
+levle0_337.jpg,Level 0,REMOVED,Duplicate of levle0_280.jpg,1324,355.47,duplicate,N/A
+levle1_464.jpg,Level 1,REMOVED,Duplicate of levle0_280.jpg,1324,353.92,duplicate,N/A
+levle2_157.jpg,Level 2,REMOVED,Duplicate of levle0_280.jpg,1324,352.34,duplicate,N/A
+levle1_632.jpg,Level 1,REMOVED,Duplicate of levle0_280.jpg,1324,347.86,duplicate,N/A
+levle1_232.jpg,Level 1,REMOVED,Duplicate of levle0_280.jpg,1324,347.42,duplicate,N/A
+levle0_50.jpg,Level 0,REMOVED,Duplicate of levle0_280.jpg,1324,347.23,duplicate,N/A
+levle0_136.jpg,Level 0,REMOVED,Duplicate of levle0_280.jpg,1324,345.34,duplicate,N/A
+levle1_419.jpg,Level 1,REMOVED,Duplicate of levle0_280.jpg,1324,340.70,duplicate,N/A
+levle0_101.jpg,Level 0,REMOVED,Duplicate of levle0_280.jpg,1324,339.54,duplicate,N/A
+levle0_48.jpg,Level 0,REMOVED,Duplicate of levle0_280.jpg,1324,337.34,duplicate,N/A
+levle0_397.jpg,Level 0,REMOVED,Duplicate of levle0_280.jpg,1324,333.93,duplicate,N/A
+levle0_375.jpg,Level 0,REMOVED,Duplicate of levle0_280.jpg,1324,333.64,duplicate,N/A
+levle1_68.jpg,Level 1,REMOVED,Duplicate of levle0_280.jpg,1324,330.67,duplicate,N/A
+levle3_132.jpg,Level 3,REMOVED,Duplicate of levle0_280.jpg,1324,328.86,duplicate,N/A
+levle0_400.jpg,Level 0,REMOVED,Duplicate of levle0_280.jpg,1324,328.49,duplicate,N/A
+levle1_480.jpg,Level 1,REMOVED,Duplicate of levle0_280.jpg,1324,328.01,duplicate,N/A
+levle1_533.jpg,Level 1,REMOVED,Duplicate of levle0_280.jpg,1324,327.38,duplicate,N/A
+levle0_248.jpg,Level 0,REMOVED,Duplicate of levle0_280.jpg,1324,326.53,duplicate,N/A
+levle0_523.jpg,Level 0,REMOVED,Duplicate of levle0_280.jpg,1324,326.42,duplicate,N/A
+levle2_129.jpg,Level 2,REMOVED,Duplicate of levle0_280.jpg,1324,323.62,duplicate,N/A
+levle0_402.jpg,Level 0,REMOVED,Duplicate of levle0_280.jpg,1324,318.20,duplicate,N/A
+levle1_416.jpg,Level 1,REMOVED,Duplicate of levle0_280.jpg,1324,318.00,duplicate,N/A
+levle1_180.jpg,Level 1,REMOVED,Duplicate of levle0_280.jpg,1324,317.62,duplicate,N/A
+levle1_618.jpg,Level 1,REMOVED,Duplicate of levle0_280.jpg,1324,317.54,duplicate,N/A
+levle1_554.jpg,Level 1,REMOVED,Duplicate of levle0_280.jpg,1324,316.53,duplicate,N/A
+levle0_39.jpg,Level 0,REMOVED,Duplicate of levle0_280.jpg,1324,312.17,duplicate,N/A
+levle0_496.jpg,Level 0,REMOVED,Duplicate of levle0_280.jpg,1324,311.58,duplicate,N/A
+levle0_212.jpg,Level 0,REMOVED,Duplicate of levle0_280.jpg,1324,308.92,duplicate,N/A
+levle0_197.jpg,Level 0,REMOVED,Duplicate of levle0_280.jpg,1324,306.92,duplicate,N/A
+levle3_90.jpg,Level 3,REMOVED,Duplicate of levle0_280.jpg,1324,305.13,duplicate,N/A
+levle1_595.jpg,Level 1,REMOVED,Duplicate of levle0_280.jpg,1324,304.30,duplicate,N/A
+levle1_523.jpg,Level 1,REMOVED,Duplicate of levle0_280.jpg,1324,302.67,duplicate,N/A
+levle1_330.jpg,Level 1,REMOVED,Duplicate of levle0_280.jpg,1324,298.99,duplicate,N/A
+levle0_193.jpg,Level 0,REMOVED,Duplicate of levle0_280.jpg,1324,297.77,duplicate,N/A
+levle2_38.jpg,Level 2,REMOVED,Duplicate of levle0_280.jpg,1324,296.01,duplicate,N/A
+levle0_376.jpg,Level 0,REMOVED,Duplicate of levle0_280.jpg,1324,288.80,duplicate,N/A
+levle0_530.jpg,Level 0,REMOVED,Duplicate of levle0_280.jpg,1324,286.80,duplicate,N/A
+levle0_449.jpg,Level 0,REMOVED,Duplicate of levle0_280.jpg,1324,286.27,duplicate,N/A
+levle0_318.jpg,Level 0,REMOVED,Duplicate of levle0_280.jpg,1324,286.24,duplicate,N/A
+levle0_390.jpg,Level 0,REMOVED,Duplicate of levle0_280.jpg,1324,285.17,duplicate,N/A
+levle1_191.jpg,Level 1,REMOVED,Duplicate of levle0_280.jpg,1324,284.25,duplicate,N/A
+levle1_423.jpg,Level 1,REMOVED,Duplicate of levle0_280.jpg,1324,279.14,duplicate,N/A
+levle1_633.jpg,Level 1,REMOVED,Duplicate of levle0_280.jpg,1324,273.65,duplicate,N/A
+levle1_56.jpg,Level 1,REMOVED,Duplicate of levle0_280.jpg,1324,273.30,duplicate,N/A
+levle1_339.jpg,Level 1,REMOVED,Duplicate of levle0_280.jpg,1324,271.78,duplicate,N/A
+levle0_130.jpg,Level 0,REMOVED,Duplicate of levle0_280.jpg,1324,270.91,duplicate,N/A
+levle1_576.jpg,Level 1,REMOVED,Duplicate of levle0_280.jpg,1324,269.18,duplicate,N/A
+levle1_623.jpg,Level 1,REMOVED,Duplicate of levle0_280.jpg,1324,268.93,duplicate,N/A
+levle1_607.jpg,Level 1,REMOVED,Duplicate of levle0_280.jpg,1324,265.30,duplicate,N/A
+levle0_474.jpg,Level 0,REMOVED,Duplicate of levle0_280.jpg,1324,263.34,duplicate,N/A
+levle1_596.jpg,Level 1,REMOVED,Duplicate of levle0_280.jpg,1324,262.64,duplicate,N/A
+levle1_412.jpg,Level 1,REMOVED,Duplicate of levle0_280.jpg,1324,254.95,duplicate,N/A
+levle2_167.jpg,Level 2,REMOVED,Duplicate of levle0_280.jpg,1324,253.19,duplicate,N/A
+levle1_274.jpg,Level 1,REMOVED,Duplicate of levle0_280.jpg,1324,248.06,duplicate,N/A
+levle1_492.jpg,Level 1,REMOVED,Duplicate of levle0_280.jpg,1324,247.99,duplicate,N/A
+levle0_108.jpg,Level 0,REMOVED,Duplicate of levle0_280.jpg,1324,241.42,duplicate,N/A
+levle2_185.jpg,Level 2,REMOVED,Duplicate of levle0_280.jpg,1324,239.34,duplicate,N/A
+levle1_357.jpg,Level 1,REMOVED,Duplicate of levle0_280.jpg,1324,238.87,duplicate,N/A
+levle0_495.jpg,Level 0,REMOVED,Duplicate of levle0_280.jpg,1324,232.35,duplicate,N/A
+levle1_341.jpg,Level 1,REMOVED,Duplicate of levle0_280.jpg,1324,232.19,duplicate,N/A
+levle0_526.jpg,Level 0,REMOVED,Duplicate of levle0_280.jpg,1324,231.93,duplicate,N/A
+levle1_62.jpg,Level 1,REMOVED,Duplicate of levle0_280.jpg,1324,229.09,duplicate,N/A
+levle1_327.jpg,Level 1,REMOVED,Duplicate of levle0_280.jpg,1324,227.53,duplicate,N/A
+levle1_326.jpg,Level 1,REMOVED,Duplicate of levle0_280.jpg,1324,221.95,duplicate,N/A
+levle2_76.jpg,Level 2,REMOVED,Duplicate of levle0_280.jpg,1324,220.85,duplicate,N/A
+levle0_100.jpg,Level 0,REMOVED,Duplicate of levle0_280.jpg,1324,220.27,duplicate,N/A
+levle0_204.jpg,Level 0,REMOVED,Duplicate of levle0_280.jpg,1324,219.56,duplicate,N/A
+levle1_214.jpg,Level 1,REMOVED,Duplicate of levle0_280.jpg,1324,218.34,duplicate,N/A
+levle1_462.jpg,Level 1,REMOVED,Duplicate of levle0_280.jpg,1324,216.54,duplicate,N/A
+levle1_361.jpg,Level 1,REMOVED,Duplicate of levle0_280.jpg,1324,213.05,duplicate,N/A
+levle1_337.jpg,Level 1,REMOVED,Duplicate of levle0_280.jpg,1324,208.29,duplicate,N/A
+levle1_167.jpg,Level 1,REMOVED,Duplicate of levle0_280.jpg,1324,207.71,duplicate,N/A
+levle1_458.jpg,Level 1,REMOVED,Duplicate of levle0_280.jpg,1324,205.09,duplicate,N/A
+levle0_436.jpg,Level 0,REMOVED,Duplicate of levle0_280.jpg,1324,203.11,duplicate,N/A
+levle0_407.jpg,Level 0,REMOVED,Duplicate of levle0_280.jpg,1324,197.30,duplicate,N/A
+levle1_463.jpg,Level 1,REMOVED,Duplicate of levle0_280.jpg,1324,196.87,duplicate,N/A
+levle1_562.jpg,Level 1,REMOVED,Duplicate of levle0_280.jpg,1324,196.52,duplicate,N/A
+levle0_404.jpg,Level 0,REMOVED,Duplicate of levle0_280.jpg,1324,192.75,duplicate,N/A
+levle1_471.jpg,Level 1,REMOVED,Duplicate of levle0_280.jpg,1324,189.74,duplicate,N/A
+levle1_511.jpg,Level 1,REMOVED,Duplicate of levle0_280.jpg,1324,189.67,duplicate,N/A
+levle1_142.jpg,Level 1,REMOVED,Duplicate of levle0_280.jpg,1324,184.24,duplicate,N/A
+levle1_195.jpg,Level 1,REMOVED,Duplicate of levle0_280.jpg,1324,183.05,duplicate,N/A
+levle1_524.jpg,Level 1,REMOVED,Duplicate of levle0_280.jpg,1324,181.81,duplicate,N/A
+levle0_195.jpg,Level 0,REMOVED,Duplicate of levle0_280.jpg,1324,181.76,duplicate,N/A
+levle2_75.jpg,Level 2,REMOVED,Duplicate of levle0_280.jpg,1324,178.36,duplicate,N/A
+levle1_216.jpg,Level 1,REMOVED,Duplicate of levle0_280.jpg,1324,178.12,duplicate,N/A
+levle0_259.jpg,Level 0,REMOVED,Duplicate of levle0_280.jpg,1324,176.19,duplicate,N/A
+levle1_234.jpg,Level 1,REMOVED,Duplicate of levle0_280.jpg,1324,175.53,duplicate,N/A
+levle1_225.jpg,Level 1,REMOVED,Duplicate of levle0_280.jpg,1324,171.58,duplicate,N/A
+levle2_102.jpg,Level 2,REMOVED,Duplicate of levle0_280.jpg,1324,170.52,duplicate,N/A
+levle1_532.jpg,Level 1,REMOVED,Duplicate of levle0_280.jpg,1324,168.22,duplicate,N/A
+levle1_219.jpg,Level 1,REMOVED,Duplicate of levle0_280.jpg,1324,167.59,duplicate,N/A
+levle1_215.jpg,Level 1,REMOVED,Duplicate of levle0_280.jpg,1324,167.07,duplicate,N/A
+levle3_133.jpg,Level 3,REMOVED,Duplicate of levle0_280.jpg,1324,165.01,duplicate,N/A
+levle0_422.jpg,Level 0,REMOVED,Duplicate of levle0_280.jpg,1324,163.38,duplicate,N/A
+levle0_275.jpg,Level 0,REMOVED,Duplicate of levle0_280.jpg,1324,158.36,duplicate,N/A
+levle1_146.jpg,Level 1,REMOVED,Duplicate of levle0_280.jpg,1324,156.58,duplicate,N/A
+levle1_491.jpg,Level 1,REMOVED,Duplicate of levle0_280.jpg,1324,154.98,duplicate,N/A
+levle0_488.jpg,Level 0,REMOVED,Duplicate of levle0_280.jpg,1324,154.26,duplicate,N/A
+levle2_70.jpg,Level 2,REMOVED,Duplicate of levle0_280.jpg,1324,152.68,duplicate,N/A
+levle2_96.jpg,Level 2,REMOVED,Duplicate of levle0_280.jpg,1324,152.68,duplicate,N/A
+levle1_546.jpg,Level 1,REMOVED,Duplicate of levle0_280.jpg,1324,148.29,duplicate,N/A
+levle0_113.jpg,Level 0,REMOVED,Duplicate of levle0_280.jpg,1324,147.41,duplicate,N/A
+levle2_74.jpg,Level 2,REMOVED,Duplicate of levle0_280.jpg,1324,146.85,duplicate,N/A
+levle0_371.jpg,Level 0,REMOVED,Duplicate of levle0_280.jpg,1324,144.76,duplicate,N/A
+levle0_165.jpg,Level 0,REMOVED,Duplicate of levle0_280.jpg,1324,144.34,duplicate,N/A
+levle0_251.jpg,Level 0,REMOVED,Duplicate of levle0_280.jpg,1324,143.56,duplicate,N/A
+levle1_137.jpg,Level 1,REMOVED,Duplicate of levle0_280.jpg,1324,141.77,duplicate,N/A
+levle1_271.jpg,Level 1,REMOVED,Duplicate of levle0_280.jpg,1324,141.17,duplicate,N/A
+levle1_63.jpg,Level 1,REMOVED,Duplicate of levle0_280.jpg,1324,140.82,duplicate,N/A
+levle1_125.jpg,Level 1,REMOVED,Duplicate of levle0_280.jpg,1324,140.81,duplicate,N/A
+levle0_110.jpg,Level 0,REMOVED,Duplicate of levle0_280.jpg,1324,139.71,duplicate,N/A
+levle0_264.jpg,Level 0,REMOVED,Duplicate of levle0_280.jpg,1324,136.28,duplicate,N/A
+levle0_142.jpg,Level 0,REMOVED,Duplicate of levle0_280.jpg,1324,134.14,duplicate,N/A
+levle0_285.jpg,Level 0,REMOVED,Duplicate of levle0_280.jpg,1324,131.63,duplicate,N/A
+levle1_198.jpg,Level 1,REMOVED,Duplicate of levle0_280.jpg,1324,131.44,duplicate,N/A
+levle1_545.jpg,Level 1,REMOVED,Duplicate of levle0_280.jpg,1324,117.81,duplicate,N/A
+levle0_366.jpg,Level 0,REMOVED,Duplicate of levle0_280.jpg,1324,114.50,duplicate,N/A
+levle0_288.jpg,Level 0,REMOVED,Duplicate of levle0_280.jpg,1324,112.75,duplicate,N/A
+levle0_155.jpg,Level 0,REMOVED,Duplicate of levle0_280.jpg,1324,107.83,duplicate,N/A
+levle1_296.jpg,Level 1,REMOVED,Duplicate of levle0_280.jpg,1324,106.09,duplicate,N/A
+levle0_129.jpg,Level 0,REMOVED,Duplicate of levle0_280.jpg,1324,106.03,duplicate,N/A
+levle2_86.jpg,Level 2,REMOVED,Duplicate of levle0_280.jpg,1324,103.37,duplicate,N/A
+levle0_313.jpg,Level 0,REMOVED,Duplicate of levle0_280.jpg,1324,91.32,duplicate,N/A
+levle0_105.jpg,Level 0,REMOVED,Duplicate of levle0_280.jpg,1324,90.82,duplicate,N/A
+levle0_247.jpg,Level 0,REMOVED,Duplicate of levle0_280.jpg,1324,81.83,duplicate,N/A
+levle0_334.jpg,Level 0,REMOVED,Duplicate of levle0_280.jpg,1324,81.40,duplicate,N/A
+levle3_82.jpg,Level 3,REMOVED,Duplicate of levle0_280.jpg,1324,79.99,duplicate,N/A
+levle1_630.jpg,Level 1,REMOVED,Duplicate of levle0_280.jpg,1324,76.39,duplicate,N/A
+levle2_144.jpg,Level 2,REMOVED,Duplicate of levle0_280.jpg,1324,73.09,duplicate,N/A
+levle0_284.jpg,Level 0,REMOVED,Duplicate of levle0_280.jpg,1324,69.28,duplicate,N/A
+levle1_175.jpg,Level 1,REMOVED,Duplicate of levle0_280.jpg,1324,67.94,duplicate,N/A
+levle1_513.jpg,Level 1,REMOVED,Duplicate of levle0_280.jpg,1324,63.32,duplicate,N/A
+levle2_187.jpg,Level 2,REMOVED,Duplicate of levle0_280.jpg,1324,61.07,duplicate,N/A
+levle0_43.jpg,Level 0,REMOVED,Duplicate of levle0_280.jpg,1324,59.39,duplicate,N/A
+levle0_391.jpg,Level 0,REMOVED,Duplicate of levle0_280.jpg,1324,57.77,duplicate,N/A
+levle1_233.jpg,Level 1,REMOVED,Duplicate of levle0_280.jpg,1324,56.64,duplicate,N/A
+levle1_487.jpg,Level 1,REMOVED,Duplicate of levle0_280.jpg,1324,55.33,duplicate,N/A
+levle2_73.jpg,Level 2,REMOVED,Duplicate of levle0_280.jpg,1324,53.70,duplicate,N/A
+levle0_329.jpg,Level 0,REMOVED,Duplicate of levle0_280.jpg,1324,50.58,duplicate,N/A
+levle1_318.jpg,Level 1,REMOVED,Duplicate of levle0_280.jpg,1324,47.97,duplicate,N/A
+levle1_221.jpg,Level 1,REMOVED,Duplicate of levle0_280.jpg,1324,47.58,duplicate,N/A
+levle2_37.jpg,Level 2,REMOVED,Duplicate of levle0_280.jpg,1324,42.96,duplicate,N/A
+levle1_490.jpg,Level 1,REMOVED,Duplicate of levle0_280.jpg,1324,41.01,duplicate,N/A
+levle0_426.jpg,Level 0,REMOVED,Duplicate of levle0_280.jpg,1324,40.99,duplicate,N/A
+levle0_328.jpg,Level 0,REMOVED,Duplicate of levle0_280.jpg,1324,40.34,duplicate,N/A
+levle2_142.jpg,Level 2,REMOVED,Duplicate of levle0_280.jpg,1324,40.27,duplicate,N/A
+levle0_427.jpg,Level 0,REMOVED,Duplicate of levle0_280.jpg,1324,40.06,duplicate,N/A
+levle1_531.jpg,Level 1,REMOVED,Duplicate of levle0_280.jpg,1324,39.91,duplicate,N/A
+levle1_295.jpg,Level 1,REMOVED,Duplicate of levle0_280.jpg,1324,34.63,duplicate,N/A
+levle2_140.jpg,Level 2,REMOVED,Duplicate of levle0_280.jpg,1324,22.28,duplicate,N/A
+levle1_397.jpg,Level 1,REMOVED,Duplicate of levle0_280.jpg,1324,18.17,duplicate,N/A
+levle1_396.jpg,Level 1,REMOVED,Duplicate of levle0_280.jpg,1324,17.86,duplicate,N/A
+levle0_109.jpg,Level 0,REMOVED,Duplicate of levle0_137.jpg,137,169.86,duplicate,N/A
+levle0_116.jpg,Level 0,REMOVED,Duplicate of levle0_137.jpg,137,106.16,duplicate,N/A
+levle0_23.jpg,Level 0,REMOVED,Duplicate of levle0_137.jpg,137,106.16,duplicate,N/A
+levle0_11.jpg,Level 0,REJECTED,Severe blur (variance 4.45 < 20),12,4.45,reject,N/A
+levle0_349.jpg,Level 0,REMOVED,Duplicate of levle1_449.jpg,869,634.94,duplicate,N/A
+levle0_504.jpg,Level 0,REMOVED,Duplicate of levle1_449.jpg,869,571.34,duplicate,N/A
+levle0_114.jpg,Level 0,REMOVED,Duplicate of levle1_449.jpg,869,463.29,duplicate,N/A
+levle1_450.jpg,Level 1,REMOVED,Duplicate of levle1_449.jpg,869,432.91,duplicate,N/A
+levle1_379.jpg,Level 1,REMOVED,Duplicate of levle1_449.jpg,869,408.23,duplicate,N/A
+levle1_347.jpg,Level 1,REMOVED,Duplicate of levle1_449.jpg,869,397.08,duplicate,N/A
+levle0_268.jpg,Level 0,REMOVED,Duplicate of levle1_449.jpg,869,381.87,duplicate,N/A
+levle0_157.jpg,Level 0,REMOVED,Duplicate of levle1_449.jpg,869,367.65,duplicate,N/A
+levle0_143.jpg,Level 0,REMOVED,Duplicate of levle1_449.jpg,869,365.01,duplicate,N/A
+levle1_57.jpg,Level 1,REMOVED,Duplicate of levle1_449.jpg,869,303.01,duplicate,N/A
+levle0_16.jpg,Level 0,REMOVED,Duplicate of levle1_449.jpg,869,290.57,duplicate,N/A
+levle0_147.jpg,Level 0,REMOVED,Duplicate of levle1_449.jpg,869,288.98,duplicate,N/A
+levle0_196.jpg,Level 0,REMOVED,Duplicate of levle1_449.jpg,869,240.86,duplicate,N/A
+levle1_522.jpg,Level 1,REMOVED,Duplicate of levle1_449.jpg,869,144.38,duplicate,N/A
+levle0_293.jpg,Level 0,REMOVED,Duplicate of levle1_449.jpg,869,144.10,duplicate,N/A
+levle0_294.jpg,Level 0,REMOVED,Duplicate of levle1_449.jpg,869,113.51,duplicate,N/A
+levle1_242.jpg,Level 1,REMOVED,Duplicate of levle1_449.jpg,869,106.44,duplicate,N/A
+levle1_48.jpg,Level 1,REMOVED,Duplicate of levle1_449.jpg,869,103.69,duplicate,N/A
+levle0_27.jpg,Level 0,REMOVED,Duplicate of levle1_449.jpg,869,83.41,duplicate,N/A
+levle0_478.jpg,Level 0,REMOVED,Duplicate of levle1_449.jpg,869,73.80,duplicate,N/A
+levle1_241.jpg,Level 1,REMOVED,Duplicate of levle1_449.jpg,869,42.52,duplicate,N/A
+levle0_207.jpg,Level 0,REMOVED,Duplicate of levle0_117.jpg,114,440.28,duplicate,N/A
+levle1_354.jpg,Level 1,REMOVED,Duplicate of levle1_353.jpg,1229,707.34,duplicate,N/A
+levle2_34.jpg,Level 2,REMOVED,Duplicate of levle1_353.jpg,1229,695.78,duplicate,N/A
+levle1_406.jpg,Level 1,REMOVED,Duplicate of levle1_353.jpg,1229,630.99,duplicate,N/A
+levle1_277.jpg,Level 1,REMOVED,Duplicate of levle1_353.jpg,1229,623.02,duplicate,N/A
+levle1_212.jpg,Level 1,REMOVED,Duplicate of levle1_353.jpg,1229,591.21,duplicate,N/A
+levle1_541.jpg,Level 1,REMOVED,Duplicate of levle1_353.jpg,1229,590.04,duplicate,N/A
+levle0_351.jpg,Level 0,REMOVED,Duplicate of levle1_353.jpg,1229,566.51,duplicate,N/A
+levle0_492.jpg,Level 0,REMOVED,Duplicate of levle1_353.jpg,1229,563.33,duplicate,N/A
+levle0_229.jpg,Level 0,REMOVED,Duplicate of levle1_353.jpg,1229,556.52,duplicate,N/A
+levle1_201.jpg,Level 1,REMOVED,Duplicate of levle1_353.jpg,1229,551.23,duplicate,N/A
+levle1_506.jpg,Level 1,REMOVED,Duplicate of levle1_353.jpg,1229,546.22,duplicate,N/A
+levle0_37.jpg,Level 0,REMOVED,Duplicate of levle1_353.jpg,1229,540.44,duplicate,N/A
+levle1_371.jpg,Level 1,REMOVED,Duplicate of levle1_353.jpg,1229,538.21,duplicate,N/A
+levle0_372.jpg,Level 0,REMOVED,Duplicate of levle1_353.jpg,1229,533.50,duplicate,N/A
+levle1_270.jpg,Level 1,REMOVED,Duplicate of levle1_353.jpg,1229,528.54,duplicate,N/A
+levle0_41.jpg,Level 0,REMOVED,Duplicate of levle1_353.jpg,1229,521.75,duplicate,N/A
+levle1_173.jpg,Level 1,REMOVED,Duplicate of levle1_353.jpg,1229,518.19,duplicate,N/A
+levle0_269.jpg,Level 0,REMOVED,Duplicate of levle1_353.jpg,1229,501.95,duplicate,N/A
+levle1_501.jpg,Level 1,REMOVED,Duplicate of levle1_353.jpg,1229,501.71,duplicate,N/A
+levle2_180.jpg,Level 2,REMOVED,Duplicate of levle1_353.jpg,1229,501.70,duplicate,N/A
+levle1_230.jpg,Level 1,REMOVED,Duplicate of levle1_353.jpg,1229,501.14,duplicate,N/A
+levle2_121.jpg,Level 2,REMOVED,Duplicate of levle1_353.jpg,1229,500.41,duplicate,N/A
+levle0_473.jpg,Level 0,REMOVED,Duplicate of levle1_353.jpg,1229,495.71,duplicate,N/A
+levle1_598.jpg,Level 1,REMOVED,Duplicate of levle1_353.jpg,1229,488.78,duplicate,N/A
+levle2_178.jpg,Level 2,REMOVED,Duplicate of levle1_353.jpg,1229,486.67,duplicate,N/A
+levle1_443.jpg,Level 1,REMOVED,Duplicate of levle1_353.jpg,1229,484.18,duplicate,N/A
+levle0_383.jpg,Level 0,REMOVED,Duplicate of levle1_353.jpg,1229,477.56,duplicate,N/A
+levle1_429.jpg,Level 1,REMOVED,Duplicate of levle1_353.jpg,1229,477.53,duplicate,N/A
+levle1_203.jpg,Level 1,REMOVED,Duplicate of levle1_353.jpg,1229,471.32,duplicate,N/A
+levle1_52.jpg,Level 1,REMOVED,Duplicate of levle1_353.jpg,1229,467.68,duplicate,N/A
+levle1_442.jpg,Level 1,REMOVED,Duplicate of levle1_353.jpg,1229,446.57,duplicate,N/A
+levle2_171.jpg,Level 2,REMOVED,Duplicate of levle1_353.jpg,1229,438.99,duplicate,N/A
+levle1_377.jpg,Level 1,REMOVED,Duplicate of levle1_353.jpg,1229,435.65,duplicate,N/A
+levle1_472.jpg,Level 1,REMOVED,Duplicate of levle1_353.jpg,1229,434.32,duplicate,N/A
+levle1_408.jpg,Level 1,REMOVED,Duplicate of levle1_353.jpg,1229,429.04,duplicate,N/A
+levle1_553.jpg,Level 1,REMOVED,Duplicate of levle1_353.jpg,1229,427.74,duplicate,N/A
+levle0_373.jpg,Level 0,REMOVED,Duplicate of levle1_353.jpg,1229,427.66,duplicate,N/A
+levle1_278.jpg,Level 1,REMOVED,Duplicate of levle1_353.jpg,1229,416.07,duplicate,N/A
+levle1_413.jpg,Level 1,REMOVED,Duplicate of levle1_353.jpg,1229,412.03,duplicate,N/A
+levle0_190.jpg,Level 0,REMOVED,Duplicate of levle1_353.jpg,1229,411.20,duplicate,N/A
+levle0_379.jpg,Level 0,REMOVED,Duplicate of levle1_353.jpg,1229,406.09,duplicate,N/A
+levle1_382.jpg,Level 1,REMOVED,Duplicate of levle1_353.jpg,1229,402.84,duplicate,N/A
+levle1_33.jpg,Level 1,REMOVED,Duplicate of levle1_353.jpg,1229,400.69,duplicate,N/A
+levle2_132.jpg,Level 2,REMOVED,Duplicate of levle1_353.jpg,1229,400.12,duplicate,N/A
+levle1_59.jpg,Level 1,REMOVED,Duplicate of levle1_353.jpg,1229,399.34,duplicate,N/A
+levle0_91.jpg,Level 0,REMOVED,Duplicate of levle1_353.jpg,1229,398.99,duplicate,N/A
+levle1_455.jpg,Level 1,REMOVED,Duplicate of levle1_353.jpg,1229,397.18,duplicate,N/A
+levle0_387.jpg,Level 0,REMOVED,Duplicate of levle1_353.jpg,1229,396.84,duplicate,N/A
+levle1_336.jpg,Level 1,REMOVED,Duplicate of levle1_353.jpg,1229,395.15,duplicate,N/A
+levle0_194.jpg,Level 0,REMOVED,Duplicate of levle1_353.jpg,1229,392.09,duplicate,N/A
+levle1_518.jpg,Level 1,REMOVED,Duplicate of levle1_353.jpg,1229,388.43,duplicate,N/A
+levle1_606.jpg,Level 1,REMOVED,Duplicate of levle1_353.jpg,1229,386.07,duplicate,N/A
+levle1_605.jpg,Level 1,REMOVED,Duplicate of levle1_353.jpg,1229,380.64,duplicate,N/A
+levle1_197.jpg,Level 1,REMOVED,Duplicate of levle1_353.jpg,1229,374.99,duplicate,N/A
+levle0_257.jpg,Level 0,REMOVED,Duplicate of levle1_353.jpg,1229,368.22,duplicate,N/A
+levle0_218.jpg,Level 0,REMOVED,Duplicate of levle1_353.jpg,1229,362.22,duplicate,N/A
+levle0_158.jpg,Level 0,REMOVED,Duplicate of levle1_353.jpg,1229,345.97,duplicate,N/A
+levle1_601.jpg,Level 1,REMOVED,Duplicate of levle1_353.jpg,1229,344.77,duplicate,N/A
+levle1_436.jpg,Level 1,REMOVED,Duplicate of levle1_353.jpg,1229,343.31,duplicate,N/A
+levle1_621.jpg,Level 1,REMOVED,Duplicate of levle1_353.jpg,1229,342.77,duplicate,N/A
+levle1_520.jpg,Level 1,REMOVED,Duplicate of levle1_353.jpg,1229,336.32,duplicate,N/A
+levle1_250.jpg,Level 1,REMOVED,Duplicate of levle1_353.jpg,1229,335.69,duplicate,N/A
+levle0_531.jpg,Level 0,REMOVED,Duplicate of levle1_353.jpg,1229,334.02,duplicate,N/A
+levle2_131.jpg,Level 2,REMOVED,Duplicate of levle1_353.jpg,1229,333.89,duplicate,N/A
+levle1_428.jpg,Level 1,REMOVED,Duplicate of levle1_353.jpg,1229,333.46,duplicate,N/A
+levle1_224.jpg,Level 1,REMOVED,Duplicate of levle1_353.jpg,1229,333.16,duplicate,N/A
+levle1_629.jpg,Level 1,REMOVED,Duplicate of levle1_353.jpg,1229,330.11,duplicate,N/A
+levle3_130.jpg,Level 3,REMOVED,Duplicate of levle1_353.jpg,1229,320.87,duplicate,N/A
+levle1_325.jpg,Level 1,REMOVED,Duplicate of levle1_353.jpg,1229,318.27,duplicate,N/A
+levle1_476.jpg,Level 1,REMOVED,Duplicate of levle1_353.jpg,1229,318.03,duplicate,N/A
+levle0_358.jpg,Level 0,REMOVED,Duplicate of levle1_353.jpg,1229,311.37,duplicate,N/A
+levle1_375.jpg,Level 1,REMOVED,Duplicate of levle1_353.jpg,1229,311.16,duplicate,N/A
+levle0_250.jpg,Level 0,REMOVED,Duplicate of levle1_353.jpg,1229,304.02,duplicate,N/A
+levle0_239.jpg,Level 0,REMOVED,Duplicate of levle1_353.jpg,1229,302.49,duplicate,N/A
+levle0_398.jpg,Level 0,REMOVED,Duplicate of levle1_353.jpg,1229,295.73,duplicate,N/A
+levle1_525.jpg,Level 1,REMOVED,Duplicate of levle1_353.jpg,1229,291.68,duplicate,N/A
+levle0_277.jpg,Level 0,REMOVED,Duplicate of levle1_353.jpg,1229,291.14,duplicate,N/A
+levle0_55.jpg,Level 0,REMOVED,Duplicate of levle1_353.jpg,1229,287.85,duplicate,N/A
+levle1_410.jpg,Level 1,REMOVED,Duplicate of levle1_353.jpg,1229,287.76,duplicate,N/A
+levle0_54.jpg,Level 0,REMOVED,Duplicate of levle1_353.jpg,1229,286.08,duplicate,N/A
+levle2_168.jpg,Level 2,REMOVED,Duplicate of levle1_353.jpg,1229,283.36,duplicate,N/A
+levle1_276.jpg,Level 1,REMOVED,Duplicate of levle1_353.jpg,1229,282.81,duplicate,N/A
+levle0_120.jpg,Level 0,REMOVED,Duplicate of levle1_353.jpg,1229,281.73,duplicate,N/A
+levle1_486.jpg,Level 1,REMOVED,Duplicate of levle1_353.jpg,1229,281.73,duplicate,N/A
+levle1_437.jpg,Level 1,REMOVED,Duplicate of levle1_353.jpg,1229,280.65,duplicate,N/A
+levle2_40.jpg,Level 2,REMOVED,Duplicate of levle1_353.jpg,1229,271.30,duplicate,N/A
+levle0_273.jpg,Level 0,REMOVED,Duplicate of levle1_353.jpg,1229,270.54,duplicate,N/A
+levle1_335.jpg,Level 1,REMOVED,Duplicate of levle1_353.jpg,1229,268.27,duplicate,N/A
+levle1_615.jpg,Level 1,REMOVED,Duplicate of levle1_353.jpg,1229,263.64,duplicate,N/A
+levle0_317.jpg,Level 0,REMOVED,Duplicate of levle1_353.jpg,1229,259.05,duplicate,N/A
+levle1_34.jpg,Level 1,REMOVED,Duplicate of levle1_353.jpg,1229,253.92,duplicate,N/A
+levle2_184.jpg,Level 2,REMOVED,Duplicate of levle1_353.jpg,1229,253.42,duplicate,N/A
+levle1_188.jpg,Level 1,REMOVED,Duplicate of levle1_353.jpg,1229,252.31,duplicate,N/A
+levle0_205.jpg,Level 0,REMOVED,Duplicate of levle1_353.jpg,1229,247.35,duplicate,N/A
+levle1_509.jpg,Level 1,REMOVED,Duplicate of levle1_353.jpg,1229,239.61,duplicate,N/A
+levle0_448.jpg,Level 0,REMOVED,Duplicate of levle1_353.jpg,1229,237.87,duplicate,N/A
+levle0_527.jpg,Level 0,REMOVED,Duplicate of levle1_353.jpg,1229,234.27,duplicate,N/A
+levle0_401.jpg,Level 0,REMOVED,Duplicate of levle1_353.jpg,1229,233.48,duplicate,N/A
+levle0_21.jpg,Level 0,REMOVED,Duplicate of levle1_353.jpg,1229,231.96,duplicate,N/A
+levle0_377.jpg,Level 0,REMOVED,Duplicate of levle1_353.jpg,1229,231.88,duplicate,N/A
+levle1_619.jpg,Level 1,REMOVED,Duplicate of levle1_353.jpg,1229,231.36,duplicate,N/A
+levle1_624.jpg,Level 1,REMOVED,Duplicate of levle1_353.jpg,1229,231.28,duplicate,N/A
+levle1_165.jpg,Level 1,REMOVED,Duplicate of levle1_353.jpg,1229,229.13,duplicate,N/A
+levle1_320.jpg,Level 1,REMOVED,Duplicate of levle1_353.jpg,1229,228.58,duplicate,N/A
+levle1_420.jpg,Level 1,REMOVED,Duplicate of levle1_353.jpg,1229,226.70,duplicate,N/A
+levle1_267.jpg,Level 1,REMOVED,Duplicate of levle1_353.jpg,1229,225.99,duplicate,N/A
+levle1_67.jpg,Level 1,REMOVED,Duplicate of levle1_353.jpg,1229,225.59,duplicate,N/A
+levle2_124.jpg,Level 2,REMOVED,Duplicate of levle1_353.jpg,1229,224.54,duplicate,N/A
+levle1_323.jpg,Level 1,REMOVED,Duplicate of levle1_353.jpg,1229,223.06,duplicate,N/A
+levle0_429.jpg,Level 0,REMOVED,Duplicate of levle1_353.jpg,1229,222.71,duplicate,N/A
+levle0_219.jpg,Level 0,REMOVED,Duplicate of levle1_353.jpg,1229,222.20,duplicate,N/A
+levle0_384.jpg,Level 0,REMOVED,Duplicate of levle1_353.jpg,1229,219.55,duplicate,N/A
+levle1_194.jpg,Level 1,REMOVED,Duplicate of levle1_353.jpg,1229,200.72,duplicate,N/A
+levle0_118.jpg,Level 0,REMOVED,Duplicate of levle1_353.jpg,1229,200.69,duplicate,N/A
+levle0_265.jpg,Level 0,REMOVED,Duplicate of levle1_353.jpg,1229,200.69,duplicate,N/A
+levle1_461.jpg,Level 1,REMOVED,Duplicate of levle1_353.jpg,1229,199.54,duplicate,N/A
+levle0_198.jpg,Level 0,REMOVED,Duplicate of levle1_353.jpg,1229,197.59,duplicate,N/A
+levle1_494.jpg,Level 1,REMOVED,Duplicate of levle1_353.jpg,1229,195.39,duplicate,N/A
+levle0_249.jpg,Level 0,REMOVED,Duplicate of levle1_353.jpg,1229,192.79,duplicate,N/A
+levle1_498.jpg,Level 1,REMOVED,Duplicate of levle1_353.jpg,1229,190.25,duplicate,N/A
+levle1_372.jpg,Level 1,REMOVED,Duplicate of levle1_353.jpg,1229,188.65,duplicate,N/A
+levle1_324.jpg,Level 1,REMOVED,Duplicate of levle1_353.jpg,1229,185.20,duplicate,N/A
+levle1_515.jpg,Level 1,REMOVED,Duplicate of levle1_353.jpg,1229,178.59,duplicate,N/A
+levle0_121.jpg,Level 0,REMOVED,Duplicate of levle1_353.jpg,1229,173.71,duplicate,N/A
+levle1_504.jpg,Level 1,REMOVED,Duplicate of levle1_353.jpg,1229,173.71,duplicate,N/A
+levle0_233.jpg,Level 0,REMOVED,Duplicate of levle1_353.jpg,1229,168.32,duplicate,N/A
+levle0_403.jpg,Level 0,REMOVED,Duplicate of levle1_353.jpg,1229,168.21,duplicate,N/A
+levle0_416.jpg,Level 0,REMOVED,Duplicate of levle1_353.jpg,1229,165.79,duplicate,N/A
+levle1_561.jpg,Level 1,REMOVED,Duplicate of levle1_353.jpg,1229,165.25,duplicate,N/A
+levle0_432.jpg,Level 0,REMOVED,Duplicate of levle1_353.jpg,1229,150.12,duplicate,N/A
+levle1_158.jpg,Level 1,REMOVED,Duplicate of levle1_353.jpg,1229,150.02,duplicate,N/A
+levle1_564.jpg,Level 1,REMOVED,Duplicate of levle1_353.jpg,1229,142.79,duplicate,N/A
+levle1_403.jpg,Level 1,REMOVED,Duplicate of levle1_353.jpg,1229,141.52,duplicate,N/A
+levle0_312.jpg,Level 0,REMOVED,Duplicate of levle1_353.jpg,1229,140.59,duplicate,N/A
+levle2_72.jpg,Level 2,REMOVED,Duplicate of levle1_353.jpg,1229,138.86,duplicate,N/A
+levle2_97.jpg,Level 2,REMOVED,Duplicate of levle1_353.jpg,1229,138.86,duplicate,N/A
+levle0_266.jpg,Level 0,REMOVED,Duplicate of levle1_353.jpg,1229,138.10,duplicate,N/A
+levle2_84.jpg,Level 2,REMOVED,Duplicate of levle1_353.jpg,1229,134.08,duplicate,N/A
+levle1_526.jpg,Level 1,REMOVED,Duplicate of levle1_353.jpg,1229,134.00,duplicate,N/A
+levle1_489.jpg,Level 1,REMOVED,Duplicate of levle1_353.jpg,1229,131.61,duplicate,N/A
+levle1_55.jpg,Level 1,REMOVED,Duplicate of levle1_353.jpg,1229,128.23,duplicate,N/A
+levle1_366.jpg,Level 1,REMOVED,Duplicate of levle1_353.jpg,1229,123.59,duplicate,N/A
+levle2_173.jpg,Level 2,REMOVED,Duplicate of levle1_353.jpg,1229,123.36,duplicate,N/A
+levle0_447.jpg,Level 0,REMOVED,Duplicate of levle1_353.jpg,1229,115.65,duplicate,N/A
+levle1_210.jpg,Level 1,REMOVED,Duplicate of levle1_353.jpg,1229,97.29,duplicate,N/A
+levle2_77.jpg,Level 2,REMOVED,Duplicate of levle1_353.jpg,1229,95.08,duplicate,N/A
+levle0_38.jpg,Level 0,REMOVED,Duplicate of levle1_353.jpg,1229,92.91,duplicate,N/A
+levle2_186.jpg,Level 2,REMOVED,Duplicate of levle1_353.jpg,1229,86.70,duplicate,N/A
+levle0_442.jpg,Level 0,REMOVED,Duplicate of levle1_353.jpg,1229,79.39,duplicate,N/A
+levle0_308.jpg,Level 0,REMOVED,Duplicate of levle1_353.jpg,1229,74.84,duplicate,N/A
+levle0_444.jpg,Level 0,REMOVED,Duplicate of levle1_353.jpg,1229,73.20,duplicate,N/A
+levle2_36.jpg,Level 2,REMOVED,Duplicate of levle1_353.jpg,1229,72.96,duplicate,N/A
+levle0_425.jpg,Level 0,REMOVED,Duplicate of levle1_353.jpg,1229,66.26,duplicate,N/A
+levle1_628.jpg,Level 1,REMOVED,Duplicate of levle1_353.jpg,1229,64.25,duplicate,N/A
+levle0_309.jpg,Level 0,REMOVED,Duplicate of levle1_353.jpg,1229,61.79,duplicate,N/A
+levle1_229.jpg,Level 1,REMOVED,Duplicate of levle1_353.jpg,1229,57.75,duplicate,N/A
+levle1_488.jpg,Level 1,REMOVED,Duplicate of levle1_353.jpg,1229,53.65,duplicate,N/A
+levle1_493.jpg,Level 1,REMOVED,Duplicate of levle1_353.jpg,1229,42.89,duplicate,N/A
+levle0_441.jpg,Level 0,REMOVED,Duplicate of levle1_353.jpg,1229,42.60,duplicate,N/A
+levle0_92.jpg,Level 0,REMOVED,Duplicate of levle1_353.jpg,1229,32.75,duplicate,N/A
+levle0_159.jpg,Level 0,REMOVED,Duplicate of levle1_353.jpg,1229,17.45,duplicate,N/A
+levle1_297.jpg,Level 1,REMOVED,Duplicate of levle1_353.jpg,1229,16.93,duplicate,N/A
+levle0_123.jpg,Level 0,REMOVED,Duplicate of levle0_119.jpg,27,51.38,duplicate,N/A
+levle0_12.jpg,Level 0,REJECTED,Severe blur (variance 10.56 < 20),23,10.56,reject,N/A
+levle0_122.jpg,Level 0,REJECTED,Severe blur (variance 6.19 < 20),26,6.19,reject,N/A
+levle0_98.jpg,Level 0,REMOVED,Duplicate of levle0_128.jpg,490,268.90,duplicate,N/A
+levle0_99.jpg,Level 0,REMOVED,Duplicate of levle0_128.jpg,490,268.90,duplicate,N/A
+levle0_24.jpg,Level 0,REMOVED,Duplicate of levle0_131.jpg,147,217.85,duplicate,N/A
+levle0_133.jpg,Level 0,REMOVED,Duplicate of levle0_132.jpg,37,381.67,duplicate,N/A
+levle0_14.jpg,Level 0,REJECTED,Severe blur (variance 10.32 < 20),44,10.32,reject,N/A
+levle0_149.jpg,Level 0,REMOVED,Duplicate of levle0_482.jpg,395,215.01,duplicate,N/A
+levle0_174.jpg,Level 0,REMOVED,Duplicate of levle0_167.jpg,82,51.31,duplicate,N/A
+levle0_17.jpg,Level 0,REJECTED,Severe blur (variance 3.39 < 20),77,3.39,reject,N/A
+levle0_182.jpg,Level 0,REMOVED,Duplicate of levle2_83.jpg,1298,383.91,duplicate,N/A
+levle2_137.jpg,Level 2,REMOVED,Duplicate of levle2_83.jpg,1298,326.92,duplicate,N/A
+levle3_106.jpg,Level 3,REMOVED,Duplicate of levle2_83.jpg,1298,247.59,duplicate,N/A
+levle1_53.jpg,Level 1,REMOVED,Duplicate of levle2_83.jpg,1298,163.94,duplicate,N/A
+levle1_141.jpg,Level 1,REMOVED,Duplicate of levle2_83.jpg,1298,29.39,duplicate,N/A
+levle1_286.jpg,Level 1,REMOVED,Duplicate of levle0_185.jpg,689,558.44,duplicate,N/A
+levle0_19.jpg,Level 0,REJECTED,Severe blur (variance 6.69 < 20),98,6.69,reject,N/A
+levle0_2.jpg,Level 0,REMOVED,Duplicate of levle2_114.jpg,1128,182.69,duplicate,N/A
+levle0_20.jpg,Level 0,REJECTED,Severe blur (variance 3.85 < 20),108,3.85,reject,N/A
+levle0_95.jpg,Level 0,REMOVED,Duplicate of levle0_206.jpg,486,64.94,duplicate,N/A
+levle0_209.jpg,Level 0,REMOVED,Duplicate of levle0_468.jpg,382,493.96,duplicate,N/A
+levle0_363.jpg,Level 0,REMOVED,Duplicate of levle1_227.jpg,831,505.58,duplicate,N/A
+levle0_210.jpg,Level 0,REMOVED,Duplicate of levle1_227.jpg,831,486.99,duplicate,N/A
+levle0_341.jpg,Level 0,REMOVED,Duplicate of levle1_227.jpg,831,402.49,duplicate,N/A
+levle0_330.jpg,Level 0,REMOVED,Duplicate of levle1_227.jpg,831,332.42,duplicate,N/A
+levle0_290.jpg,Level 0,REMOVED,Duplicate of levle1_227.jpg,831,239.14,duplicate,N/A
+levle1_415.jpg,Level 1,REMOVED,Duplicate of levle1_227.jpg,831,191.34,duplicate,N/A
+levle1_355.jpg,Level 1,REMOVED,Duplicate of levle1_227.jpg,831,133.72,duplicate,N/A
+levle0_214.jpg,Level 0,REMOVED,Duplicate of levle1_243.jpg,646,115.81,duplicate,N/A
+levle0_22.jpg,Level 0,REMOVED,Duplicate of levle0_360.jpg,1179,246.90,duplicate,N/A
+levle2_162.jpg,Level 2,REMOVED,Duplicate of levle0_360.jpg,1179,241.09,duplicate,N/A
+levle1_279.jpg,Level 1,REMOVED,Duplicate of levle0_360.jpg,1179,234.47,duplicate,N/A
+levle0_396.jpg,Level 0,REMOVED,Duplicate of levle2_156.jpg,776,314.31,duplicate,N/A
+levle1_365.jpg,Level 1,REMOVED,Duplicate of levle2_156.jpg,776,304.62,duplicate,N/A
+levle0_228.jpg,Level 0,REMOVED,Duplicate of levle2_156.jpg,776,206.20,duplicate,N/A
+levle0_244.jpg,Level 0,REMOVED,Duplicate of levle1_272.jpg,919,379.94,duplicate,N/A
+levle1_497.jpg,Level 1,REMOVED,Duplicate of levle1_272.jpg,919,231.09,duplicate,N/A
+levle0_25.jpg,Level 0,REMOVED,Duplicate of levle0_26.jpg,168,335.79,duplicate,N/A
+levle0_252.jpg,Level 0,REMOVED,Duplicate of levle1_39.jpg,803,35.03,duplicate,N/A
+levle1_591.jpg,Level 1,REMOVED,Duplicate of levle0_261.jpg,1023,169.12,duplicate,N/A
+levle0_96.jpg,Level 0,REMOVED,Duplicate of levle0_263.jpg,487,238.73,duplicate,N/A
+levle1_348.jpg,Level 1,REMOVED,Duplicate of levle1_467.jpg,905,394.24,duplicate,N/A
+levle0_283.jpg,Level 0,REMOVED,Duplicate of levle1_467.jpg,905,300.73,duplicate,N/A
+levle1_469.jpg,Level 1,REMOVED,Duplicate of levle1_467.jpg,905,212.00,duplicate,N/A
+levle1_484.jpg,Level 1,REMOVED,Duplicate of levle1_467.jpg,905,187.23,duplicate,N/A
+levle0_307.jpg,Level 0,REMOVED,Duplicate of levle0_295.jpg,218,465.37,duplicate,N/A
+levle0_3.jpg,Level 0,REJECTED,Severe blur (variance 7.21 < 20),210,7.21,reject,N/A
+levle0_310.jpg,Level 0,REMOVED,Duplicate of levle0_311.jpg,223,44.19,duplicate,N/A
+levle1_346.jpg,Level 1,REMOVED,Duplicate of levle0_319.jpg,755,63.82,duplicate,N/A
+levle0_321.jpg,Level 0,REMOVED,Duplicate of levle1_401.jpg,816,297.98,duplicate,N/A
+levle1_127.jpg,Level 1,REMOVED,Duplicate of levle1_401.jpg,816,167.50,duplicate,N/A
+levle0_327.jpg,Level 0,REMOVED,Duplicate of levle1_331.jpg,739,442.13,duplicate,N/A
+levle0_364.jpg,Level 0,REMOVED,Duplicate of levle0_350.jpg,277,512.50,duplicate,N/A
+levle1_609.jpg,Level 1,REMOVED,Duplicate of levle0_359.jpg,1041,253.86,duplicate,N/A
+levle0_365.jpg,Level 0,REJECTED,Severe blur (variance 7.89 < 20),278,7.89,reject,N/A
+levle2_154.jpg,Level 2,REMOVED,Duplicate of levle0_381.jpg,1170,143.57,duplicate,N/A
+levle0_94.jpg,Level 0,REMOVED,Duplicate of levle0_42.jpg,485,500.12,duplicate,N/A
+levle1_370.jpg,Level 1,REMOVED,Duplicate of levle0_430.jpg,849,384.45,duplicate,N/A
+levle1_431.jpg,Level 1,REMOVED,Duplicate of levle0_430.jpg,849,212.22,duplicate,N/A
+levle1_151.jpg,Level 1,REMOVED,Duplicate of levle0_438.jpg,545,92.47,duplicate,N/A
+levle1_161.jpg,Level 1,REMOVED,Duplicate of levle0_480.jpg,1071,523.09,duplicate,N/A
+levle1_288.jpg,Level 1,REMOVED,Duplicate of levle0_480.jpg,1071,523.09,duplicate,N/A
+levle1_154.jpg,Level 1,REMOVED,Duplicate of levle0_480.jpg,1071,501.58,duplicate,N/A
+levle1_636.jpg,Level 1,REMOVED,Duplicate of levle0_480.jpg,1071,452.70,duplicate,N/A
+levle2_85.jpg,Level 2,REMOVED,Duplicate of levle0_491.jpg,1276,149.72,duplicate,N/A
+levle0_494.jpg,Level 0,REMOVED,Duplicate of levle1_69.jpg,1082,347.85,duplicate,N/A
+levle1_130.jpg,Level 1,REMOVED,Duplicate of levle1_69.jpg,1082,228.47,duplicate,N/A
+levle1_585.jpg,Level 1,REMOVED,Duplicate of levle0_53.jpg,1016,225.99,duplicate,N/A
+levle1_584.jpg,Level 1,REMOVED,Duplicate of levle0_53.jpg,1016,183.28,duplicate,N/A
+levle0_56.jpg,Level 0,REJECTED,Severe blur (variance 18.48 < 20),448,18.48,reject,N/A
+levle0_58.jpg,Level 0,REJECTED,Severe blur (variance 15.16 < 20),450,15.16,reject,N/A
+levle0_59.jpg,Level 0,REJECTED,Severe blur (variance 9.65 < 20),451,9.65,reject,N/A
+levle0_61.jpg,Level 0,REMOVED,Duplicate of levle0_60.jpg,453,17.39,duplicate,N/A
+levle0_63.jpg,Level 0,REJECTED,Severe blur (variance 14.34 < 20),455,14.34,reject,N/A
+levle0_69.jpg,Level 0,REJECTED,Severe blur (variance 10.50 < 20),460,10.50,reject,N/A
+levle0_7.jpg,Level 0,REJECTED,Severe blur (variance 1.88 < 20),461,1.88,reject,N/A
+levle0_8.jpg,Level 0,REJECTED,Severe blur (variance 2.99 < 20),471,2.99,reject,N/A
+levle0_9.jpg,Level 0,REJECTED,Severe blur (variance 7.97 < 20),481,7.97,reject,N/A
+levle1_0.jpg,Level 1,REJECTED,Severe blur (variance 9.34 < 20),491,9.34,reject,N/A
+levle1_103.jpg,Level 1,REJECTED,Severe blur (variance 9.91 < 20),495,9.91,reject,N/A
+levle1_105.jpg,Level 1,REJECTED,Severe blur (variance 6.73 < 20),497,6.73,reject,N/A
+levle1_11.jpg,Level 1,REJECTED,Severe blur (variance 1.52 < 20),502,1.52,reject,N/A
+levle1_111.jpg,Level 1,REJECTED,Severe blur (variance 19.83 < 20),504,19.83,reject,N/A
+levle1_12.jpg,Level 1,REJECTED,Severe blur (variance 5.36 < 20),513,5.36,reject,N/A
+levle1_206.jpg,Level 1,REMOVED,Duplicate of levle1_129.jpg,605,376.39,duplicate,N/A
+levle2_128.jpg,Level 2,REMOVED,Duplicate of levle1_131.jpg,1142,21.82,duplicate,N/A
+levle1_503.jpg,Level 1,REMOVED,Duplicate of levle1_133.jpg,926,112.69,duplicate,N/A
+levle1_209.jpg,Level 1,REMOVED,Duplicate of levle1_135.jpg,608,333.83,duplicate,N/A
+levle1_54.jpg,Level 1,REMOVED,Duplicate of levle1_136.jpg,966,385.91,duplicate,N/A
+levle1_138.jpg,Level 1,REMOVED,Duplicate of levle2_79.jpg,1270,69.31,duplicate,N/A
+levle1_460.jpg,Level 1,REMOVED,Duplicate of levle2_79.jpg,1270,69.31,duplicate,N/A
+levle1_358.jpg,Level 1,REMOVED,Duplicate of levle1_140.jpg,768,251.16,duplicate,N/A
+levle1_15.jpg,Level 1,REJECTED,Severe blur (variance 10.29 < 20),543,10.29,reject,N/A
+levle1_285.jpg,Level 1,REMOVED,Duplicate of levle1_157.jpg,688,440.09,duplicate,N/A
+levle2_150.jpg,Level 2,REMOVED,Duplicate of levle1_16.jpg,1166,337.65,duplicate,N/A
+levle1_289.jpg,Level 1,REMOVED,Duplicate of levle1_162.jpg,692,620.86,duplicate,N/A
+levle1_292.jpg,Level 1,REMOVED,Duplicate of levle1_166.jpg,696,731.76,duplicate,N/A
+levle1_17.jpg,Level 1,REJECTED,Severe blur (variance 6.33 < 20),565,6.33,reject,N/A
+levle1_176.jpg,Level 1,REMOVED,Duplicate of levle1_314.jpg,720,54.41,duplicate,N/A
+levle1_18.jpg,Level 1,REJECTED,Severe blur (variance 3.28 < 20),576,3.28,reject,N/A
+levle1_19.jpg,Level 1,REJECTED,Severe blur (variance 1.98 < 20),587,1.98,reject,N/A
+levle2_151.jpg,Level 2,REMOVED,Duplicate of levle1_20.jpg,1167,219.54,duplicate,N/A
+levle1_21.jpg,Level 1,REJECTED,Severe blur (variance 13.19 < 20),609,13.19,reject,N/A
+levle2_155.jpg,Level 2,REMOVED,Duplicate of levle1_218.jpg,1171,79.15,duplicate,N/A
+levle2_152.jpg,Level 2,REMOVED,Duplicate of levle1_22.jpg,1168,658.47,duplicate,N/A
+levle1_220.jpg,Level 1,REMOVED,Duplicate of levle1_594.jpg,1026,148.96,duplicate,N/A
+levle2_153.jpg,Level 2,REMOVED,Duplicate of levle1_23.jpg,1169,60.00,duplicate,N/A
+levle1_24.jpg,Level 1,REJECTED,Severe blur (variance 7.10 < 20),642,7.10,reject,N/A
+levle1_25.jpg,Level 1,REJECTED,Severe blur (variance 2.76 < 20),653,2.76,reject,N/A
+levle1_28.jpg,Level 1,REJECTED,Severe blur (variance 13.24 < 20),682,13.24,reject,N/A
+levle1_280.jpg,Level 1,REMOVED,Duplicate of levle1_283.jpg,686,426.14,duplicate,N/A
+levle1_66.jpg,Level 1,REMOVED,Duplicate of levle1_300.jpg,1079,163.15,duplicate,N/A
+levle2_148.jpg,Level 2,REMOVED,Duplicate of levle1_307.jpg,1163,313.70,duplicate,N/A
+levle2_147.jpg,Level 2,REMOVED,Duplicate of levle1_307.jpg,1163,111.56,duplicate,N/A
+levle1_577.jpg,Level 1,REMOVED,Duplicate of levle1_322.jpg,1007,154.16,duplicate,N/A
+levle1_334.jpg,Level 1,REMOVED,Duplicate of levle2_182.jpg,1200,247.70,duplicate,N/A
+levle1_386.jpg,Level 1,REMOVED,Duplicate of levle1_385.jpg,799,215.12,duplicate,N/A
+levle1_387.jpg,Level 1,REMOVED,Duplicate of levle1_388.jpg,801,305.62,duplicate,N/A
+levle1_559.jpg,Level 1,REMOVED,Duplicate of levle1_390.jpg,987,50.35,duplicate,N/A
+levle1_394.jpg,Level 1,REJECTED,Severe blur (variance 11.47 < 20),808,11.47,reject,N/A
+levle1_395.jpg,Level 1,REJECTED,Severe blur (variance 17.91 < 20),809,17.91,reject,N/A
+levle1_451.jpg,Level 1,REJECTED,Severe blur (variance 7.12 < 20),870,7.12,reject,N/A
+levle1_452.jpg,Level 1,REJECTED,Severe blur (variance 9.54 < 20),871,9.54,reject,N/A
+levle1_604.jpg,Level 1,REMOVED,Duplicate of levle1_563.jpg,1036,469.85,duplicate,N/A
+levle1_574.jpg,Level 1,REMOVED,Duplicate of levle1_572.jpg,1004,392.47,duplicate,N/A
+levle1_575.jpg,Level 1,REMOVED,Duplicate of levle1_573.jpg,1005,393.52,duplicate,N/A
+levle1_590.jpg,Level 1,REJECTED,Severe blur (variance 10.90 < 20),1022,10.90,reject,N/A
+levle1_611.jpg,Level 1,REMOVED,Duplicate of levle1_610.jpg,1044,247.02,duplicate,N/A
+levle1_638.jpg,Level 1,REJECTED,Severe blur (variance 3.19 < 20),1073,3.19,reject,N/A
+levle1_639.jpg,Level 1,REJECTED,Severe blur (variance 3.58 < 20),1074,3.58,reject,N/A
+levle1_640.jpg,Level 1,REJECTED,Severe blur (variance 5.04 < 20),1076,5.04,reject,N/A
+levle1_641.jpg,Level 1,REJECTED,Severe blur (variance 2.54 < 20),1077,2.54,reject,N/A
+levle1_7.jpg,Level 1,REJECTED,Severe blur (variance 8.26 < 20),1083,8.26,reject,N/A
+levle1_8.jpg,Level 1,REJECTED,Severe blur (variance 6.45 < 20),1093,6.45,reject,N/A
+levle1_81.jpg,Level 1,REJECTED,Severe blur (variance 17.81 < 20),1095,17.81,reject,N/A
+levle1_82.jpg,Level 1,REJECTED,Severe blur (variance 14.14 < 20),1096,14.14,reject,N/A
+levle1_9.jpg,Level 1,REJECTED,Severe blur (variance 10.26 < 20),1103,10.26,reject,N/A
+levle1_94.jpg,Level 1,REJECTED,Severe blur (variance 14.37 < 20),1108,14.37,reject,N/A
+levle1_97.jpg,Level 1,REJECTED,Severe blur (variance 9.53 < 20),1111,9.53,reject,N/A
+levle1_98.jpg,Level 1,REJECTED,Severe blur (variance 19.38 < 20),1112,19.38,reject,N/A
+levle2_11.jpg,Level 2,REJECTED,Severe blur (variance 10.03 < 15),1123,10.03,reject,N/A
+levle2_12.jpg,Level 2,REJECTED,Severe blur (variance 5.27 < 15),1133,5.27,reject,N/A
+levle2_123.jpg,Level 2,REJECTED,Severe blur (variance 4.16 < 15),1137,4.16,reject,N/A
+levle2_127.jpg,Level 2,REJECTED,Severe blur (variance 2.66 < 15),1141,2.66,reject,N/A
+levle2_13.jpg,Level 2,REJECTED,Severe blur (variance 4.46 < 15),1144,4.46,reject,N/A
+levle2_139.jpg,Level 2,REJECTED,Severe blur (variance 10.78 < 15),1153,10.78,reject,N/A
+levle2_14.jpg,Level 2,REJECTED,Severe blur (variance 7.19 < 15),1154,7.19,reject,N/A
+levle2_15.jpg,Level 2,REJECTED,Severe blur (variance 2.58 < 15),1165,2.58,reject,N/A
+levle2_16.jpg,Level 2,REJECTED,Severe blur (variance 6.73 < 15),1176,6.73,reject,N/A
+levle2_188.jpg,Level 2,REJECTED,Severe blur (variance 3.85 < 15),1206,3.85,reject,N/A
+levle2_19.jpg,Level 2,REJECTED,Severe blur (variance 2.47 < 15),1208,2.47,reject,N/A
+levle2_2.jpg,Level 2,REJECTED,Severe blur (variance 11.88 < 15),1210,11.88,reject,N/A
+levle2_21.jpg,Level 2,REJECTED,Severe blur (variance 11.96 < 15),1212,11.96,reject,N/A
+levle2_25.jpg,Level 2,REJECTED,Severe blur (variance 3.23 < 15),1214,3.23,reject,N/A
+levle2_29.jpg,Level 2,REJECTED,Severe blur (variance 5.96 < 15),1218,5.96,reject,N/A
+levle2_31.jpg,Level 2,REJECTED,Severe blur (variance 6.62 < 15),1220,6.62,reject,N/A
+levle2_32.jpg,Level 2,REJECTED,Severe blur (variance 6.64 < 15),1221,6.64,reject,N/A
+levle2_51.jpg,Level 2,REJECTED,Severe blur (variance 9.68 < 15),1240,9.68,reject,N/A
+levle2_52.jpg,Level 2,REJECTED,Severe blur (variance 9.63 < 15),1241,9.63,reject,N/A
+levle2_6.jpg,Level 2,REJECTED,Severe blur (variance 7.44 < 15),1249,7.44,reject,N/A
+levle2_63.jpg,Level 2,REJECTED,Severe blur (variance 8.68 < 15),1253,8.68,reject,N/A
+levle2_67.jpg,Level 2,REJECTED,Severe blur (variance 7.12 < 15),1257,7.12,reject,N/A
+levle2_7.jpg,Level 2,REJECTED,Severe blur (variance 3.72 < 15),1260,3.72,reject,N/A
+levle2_89.jpg,Level 2,REJECTED,Severe blur (variance 2.21 < 15),1280,2.21,reject,N/A
+levle2_9.jpg,Level 2,REJECTED,Severe blur (variance 7.02 < 15),1281,7.02,reject,N/A
+levle2_90.jpg,Level 2,REJECTED,Severe blur (variance 4.16 < 15),1282,4.16,reject,N/A
+levle2_92.jpg,Level 2,REJECTED,Severe blur (variance 3.97 < 15),1283,3.97,reject,N/A
+levle2_93.jpg,Level 2,REJECTED,Severe blur (variance 2.22 < 15),1284,2.22,reject,N/A
+levle3_0.jpg,Level 3,REJECTED,Severe blur (variance 3.91 < 15),1291,3.91,reject,N/A
+levle3_102.jpg,Level 3,REJECTED,Severe blur (variance 14.12 < 15),1295,14.12,reject,N/A
+levle3_103.jpg,Level 3,REJECTED,Severe blur (variance 7.27 < 15),1296,7.27,reject,N/A
+levle3_105.jpg,Level 3,REJECTED,Severe blur (variance 6.09 < 15),1297,6.09,reject,N/A
+levle3_107.jpg,Level 3,REJECTED,Severe blur (variance 9.93 < 15),1299,9.93,reject,N/A
+levle3_108.jpg,Level 3,REJECTED,Severe blur (variance 2.40 < 15),1300,2.40,reject,N/A
+levle3_140.jpg,Level 3,REMOVED,Duplicate of levle3_109.jpg,1327,4.05,duplicate,N/A
+levle3_109.jpg,Level 3,REJECTED,Severe blur (variance 4.05 < 15),1327,4.05,reject,N/A
+levle3_110.jpg,Level 3,REJECTED,Severe blur (variance 3.52 < 15),1302,3.52,reject,N/A
+levle3_119.jpg,Level 3,REJECTED,Severe blur (variance 3.16 < 15),1311,3.16,reject,N/A
+levle3_120.jpg,Level 3,REJECTED,Severe blur (variance 6.46 < 15),1312,6.46,reject,N/A
+levle3_121.jpg,Level 3,REJECTED,Severe blur (variance 4.36 < 15),1313,4.36,reject,N/A
+levle3_125.jpg,Level 3,REJECTED,Severe blur (variance 7.48 < 15),1316,7.48,reject,N/A
+levle3_126.jpg,Level 3,REJECTED,Severe blur (variance 8.93 < 15),1317,8.93,reject,N/A
+levle3_127.jpg,Level 3,REJECTED,Severe blur (variance 5.64 < 15),1318,5.64,reject,N/A
+levle3_128.jpg,Level 3,REJECTED,Severe blur (variance 2.75 < 15),1319,2.75,reject,N/A
+levle3_14.jpg,Level 3,REJECTED,Severe blur (variance 8.00 < 15),1326,8.00,reject,N/A
+levle3_141.jpg,Level 3,REJECTED,Severe blur (variance 2.57 < 15),1328,2.57,reject,N/A
+levle3_145.jpg,Level 3,REJECTED,Severe blur (variance 9.49 < 15),1332,9.49,reject,N/A
+levle3_2.jpg,Level 3,REJECTED,Severe blur (variance 13.42 < 15),1333,13.42,reject,N/A
+levle3_21.jpg,Level 3,REJECTED,Severe blur (variance 14.40 < 15),1334,14.40,reject,N/A
+levle3_23.jpg,Level 3,REJECTED,Severe blur (variance 4.82 < 15),1335,4.82,reject,N/A
+levle3_26.jpg,Level 3,REJECTED,Severe blur (variance 2.74 < 15),1338,2.74,reject,N/A
+levle3_27.jpg,Level 3,REJECTED,Severe blur (variance 5.92 < 15),1339,5.92,reject,N/A
+levle3_28.jpg,Level 3,REJECTED,Severe blur (variance 3.74 < 15),1340,3.74,reject,N/A
+levle3_29.jpg,Level 3,REJECTED,Severe blur (variance 3.69 < 15),1341,3.69,reject,N/A
+levle3_30.jpg,Level 3,REJECTED,Severe blur (variance 2.83 < 15),1343,2.83,reject,N/A
+levle3_31.jpg,Level 3,REJECTED,Severe blur (variance 8.44 < 15),1344,8.44,reject,N/A
+levle3_33.jpg,Level 3,REJECTED,Severe blur (variance 5.51 < 15),1345,5.51,reject,N/A
+levle3_34.jpg,Level 3,REJECTED,Severe blur (variance 8.58 < 15),1346,8.58,reject,N/A
+levle3_37.jpg,Level 3,REJECTED,Severe blur (variance 4.86 < 15),1348,4.86,reject,N/A
+levle3_4.jpg,Level 3,REJECTED,Severe blur (variance 6.76 < 15),1351,6.76,reject,N/A
+levle3_41.jpg,Level 3,REJECTED,Severe blur (variance 11.84 < 15),1353,11.84,reject,N/A
+levle3_42.jpg,Level 3,REJECTED,Severe blur (variance 10.86 < 15),1354,10.86,reject,N/A
+levle3_43.jpg,Level 3,REJECTED,Severe blur (variance 3.29 < 15),1355,3.29,reject,N/A
+levle3_44.jpg,Level 3,REJECTED,Severe blur (variance 4.72 < 15),1356,4.72,reject,N/A
+levle3_45.jpg,Level 3,REJECTED,Severe blur (variance 5.78 < 15),1357,5.78,reject,N/A
+levle3_46.jpg,Level 3,REJECTED,Severe blur (variance 6.14 < 15),1358,6.14,reject,N/A
+levle3_47.jpg,Level 3,REJECTED,Severe blur (variance 11.71 < 15),1359,11.71,reject,N/A
+levle3_49.jpg,Level 3,REJECTED,Severe blur (variance 5.91 < 15),1360,5.91,reject,N/A
+levle3_55.jpg,Level 3,REJECTED,Severe blur (variance 5.11 < 15),1367,5.11,reject,N/A
+levle3_56.jpg,Level 3,REJECTED,Severe blur (variance 5.19 < 15),1368,5.19,reject,N/A
+levle3_57.jpg,Level 3,REJECTED,Severe blur (variance 4.57 < 15),1369,4.57,reject,N/A
+levle3_58.jpg,Level 3,REJECTED,Severe blur (variance 3.93 < 15),1370,3.93,reject,N/A
+levle3_62.jpg,Level 3,REJECTED,Severe blur (variance 2.61 < 15),1371,2.61,reject,N/A
+levle3_63.jpg,Level 3,REJECTED,Severe blur (variance 4.67 < 15),1372,4.67,reject,N/A
+levle3_64.jpg,Level 3,REJECTED,Severe blur (variance 4.07 < 15),1373,4.07,reject,N/A
+levle3_65.jpg,Level 3,REJECTED,Severe blur (variance 3.04 < 15),1374,3.04,reject,N/A
+levle3_70.jpg,Level 3,REJECTED,Severe blur (variance 8.87 < 15),1378,8.87,reject,N/A
+levle3_71.jpg,Level 3,REJECTED,Severe blur (variance 3.85 < 15),1379,3.85,reject,N/A
+levle3_77.jpg,Level 3,REJECTED,Severe blur (variance 7.33 < 15),1385,7.33,reject,N/A
+levle3_78.jpg,Level 3,REJECTED,Severe blur (variance 5.57 < 15),1386,5.57,reject,N/A
+levle3_79.jpg,Level 3,REJECTED,Severe blur (variance 7.62 < 15),1387,7.62,reject,N/A
+levle3_81.jpg,Level 3,REJECTED,Severe blur (variance 8.81 < 15),1389,8.81,reject,N/A
+levle3_84.jpg,Level 3,REJECTED,Severe blur (variance 3.20 < 15),1392,3.20,reject,N/A
+levle3_85.jpg,Level 3,REJECTED,Severe blur (variance 2.03 < 15),1393,2.03,reject,N/A
+levle3_86.jpg,Level 3,REJECTED,Severe blur (variance 2.59 < 15),1394,2.59,reject,N/A
+levle0_169.jpg,Level 0,ACCEPTED,Unique representative. Quality: borderline,levle0_169.jpg,39.86,borderline,train
+levle0_107.jpg,Level 0,ACCEPTED,Unique representative. Quality: high_quality,levle0_107.jpg,273.24,high_quality,train
+levle0_320.jpg,Level 0,ACCEPTED,Unique representative. Quality: high_quality,levle0_320.jpg,413.38,high_quality,train
+levle0_83.jpg,Level 0,ACCEPTED,Unique representative. Quality: borderline,levle0_83.jpg,22.88,borderline,train
+levle0_439.jpg,Level 0,ACCEPTED,Unique representative. Quality: borderline,levle0_439.jpg,57.90,borderline,train
+levle0_57.jpg,Level 0,ACCEPTED,Unique representative. Quality: borderline,levle0_57.jpg,25.93,borderline,train
+levle0_234.jpg,Level 0,ACCEPTED,Unique representative. Quality: high_quality,levle0_234.jpg,179.76,high_quality,train
+levle0_117.jpg,Level 0,ACCEPTED,Unique representative. Quality: high_quality,levle0_117.jpg,440.28,high_quality,train
+levle0_137.jpg,Level 0,ACCEPTED,Unique representative. Quality: high_quality,levle0_137.jpg,277.09,high_quality,train
+levle0_178.jpg,Level 0,ACCEPTED,Unique representative. Quality: high_quality,levle0_178.jpg,180.46,high_quality,train
+levle0_518.jpg,Level 0,ACCEPTED,Unique representative. Quality: high_quality,levle0_518.jpg,427.11,high_quality,train
+levle0_505.jpg,Level 0,ACCEPTED,Unique representative. Quality: high_quality,levle0_505.jpg,481.14,high_quality,train
+levle0_509.jpg,Level 0,ACCEPTED,Unique representative. Quality: high_quality,levle0_509.jpg,292.80,high_quality,train
+levle0_88.jpg,Level 0,ACCEPTED,Unique representative. Quality: usable,levle0_88.jpg,111.09,usable,train
+levle0_246.jpg,Level 0,ACCEPTED,Unique representative. Quality: usable,levle0_246.jpg,69.45,usable,train
+levle0_357.jpg,Level 0,ACCEPTED,Unique representative. Quality: usable,levle0_357.jpg,72.38,usable,train
+levle0_465.jpg,Level 0,ACCEPTED,Unique representative. Quality: high_quality,levle0_465.jpg,364.12,high_quality,train
+levle0_340.jpg,Level 0,ACCEPTED,Unique representative. Quality: usable,levle0_340.jpg,105.17,usable,train
+levle0_77.jpg,Level 0,ACCEPTED,Unique representative. Quality: borderline,levle0_77.jpg,56.51,borderline,train
+levle0_326.jpg,Level 0,ACCEPTED,Unique representative. Quality: usable,levle0_326.jpg,91.55,usable,train
+levle0_28.jpg,Level 0,ACCEPTED,Unique representative. Quality: high_quality,levle0_28.jpg,366.19,high_quality,train
+levle0_345.jpg,Level 0,ACCEPTED,Unique representative. Quality: high_quality,levle0_345.jpg,666.34,high_quality,train
+levle0_332.jpg,Level 0,ACCEPTED,Unique representative. Quality: high_quality,levle0_332.jpg,361.03,high_quality,train
+levle0_216.jpg,Level 0,ACCEPTED,Unique representative. Quality: high_quality,levle0_216.jpg,216.23,high_quality,train
+levle0_272.jpg,Level 0,ACCEPTED,Unique representative. Quality: usable,levle0_272.jpg,139.78,usable,train
+levle0_514.jpg,Level 0,ACCEPTED,Unique representative. Quality: usable,levle0_514.jpg,136.84,usable,train
+levle0_466.jpg,Level 0,ACCEPTED,Unique representative. Quality: high_quality,levle0_466.jpg,406.92,high_quality,train
+levle0_67.jpg,Level 0,ACCEPTED,Unique representative. Quality: borderline,levle0_67.jpg,24.03,borderline,train
+levle0_82.jpg,Level 0,ACCEPTED,Unique representative. Quality: usable,levle0_82.jpg,100.21,usable,train
+levle0_461.jpg,Level 0,ACCEPTED,Unique representative. Quality: usable,levle0_461.jpg,149.50,usable,train
+levle0_176.jpg,Level 0,ACCEPTED,Unique representative. Quality: borderline,levle0_176.jpg,48.02,borderline,train
+levle0_68.jpg,Level 0,ACCEPTED,Unique representative. Quality: borderline,levle0_68.jpg,32.32,borderline,train
+levle0_511.jpg,Level 0,ACCEPTED,Unique representative. Quality: high_quality,levle0_511.jpg,719.70,high_quality,train
+levle0_215.jpg,Level 0,ACCEPTED,Unique representative. Quality: high_quality,levle0_215.jpg,197.34,high_quality,train
+levle0_452.jpg,Level 0,ACCEPTED,Unique representative. Quality: usable,levle0_452.jpg,82.35,usable,train
+levle0_513.jpg,Level 0,ACCEPTED,Unique representative. Quality: high_quality,levle0_513.jpg,475.23,high_quality,train
+levle0_295.jpg,Level 0,ACCEPTED,Unique representative. Quality: high_quality,levle0_295.jpg,472.19,high_quality,train
+levle0_160.jpg,Level 0,ACCEPTED,Unique representative. Quality: high_quality,levle0_160.jpg,355.53,high_quality,train
+levle0_470.jpg,Level 0,ACCEPTED,Unique representative. Quality: high_quality,levle0_470.jpg,230.06,high_quality,train
+levle0_49.jpg,Level 0,ACCEPTED,Unique representative. Quality: usable,levle0_49.jpg,131.50,usable,train
+levle0_467.jpg,Level 0,ACCEPTED,Unique representative. Quality: high_quality,levle0_467.jpg,528.19,high_quality,train
+levle0_87.jpg,Level 0,ACCEPTED,Unique representative. Quality: borderline,levle0_87.jpg,38.27,borderline,train
+levle0_154.jpg,Level 0,ACCEPTED,Unique representative. Quality: high_quality,levle0_154.jpg,327.94,high_quality,train
+levle0_451.jpg,Level 0,ACCEPTED,Unique representative. Quality: usable,levle0_451.jpg,139.88,usable,train
+levle0_46.jpg,Level 0,ACCEPTED,Unique representative. Quality: high_quality,levle0_46.jpg,402.50,high_quality,train
+levle0_305.jpg,Level 0,ACCEPTED,Unique representative. Quality: high_quality,levle0_305.jpg,546.42,high_quality,train
+levle0_226.jpg,Level 0,ACCEPTED,Unique representative. Quality: usable,levle0_226.jpg,61.30,usable,train
+levle0_450.jpg,Level 0,ACCEPTED,Unique representative. Quality: high_quality,levle0_450.jpg,366.75,high_quality,train
+levle0_104.jpg,Level 0,ACCEPTED,Unique representative. Quality: high_quality,levle0_104.jpg,289.82,high_quality,train
+levle0_52.jpg,Level 0,ACCEPTED,Unique representative. Quality: high_quality,levle0_52.jpg,241.24,high_quality,train
+levle0_172.jpg,Level 0,ACCEPTED,Unique representative. Quality: high_quality,levle0_172.jpg,555.79,high_quality,train
+levle0_289.jpg,Level 0,ACCEPTED,Unique representative. Quality: high_quality,levle0_289.jpg,335.15,high_quality,train
+levle0_507.jpg,Level 0,ACCEPTED,Unique representative. Quality: high_quality,levle0_507.jpg,259.63,high_quality,train
+levle0_316.jpg,Level 0,ACCEPTED,Unique representative. Quality: high_quality,levle0_316.jpg,176.01,high_quality,train
+levle0_291.jpg,Level 0,ACCEPTED,Unique representative. Quality: high_quality,levle0_291.jpg,423.71,high_quality,train
+levle0_206.jpg,Level 0,ACCEPTED,Unique representative. Quality: usable,levle0_206.jpg,64.94,usable,train
+levle0_62.jpg,Level 0,ACCEPTED,Unique representative. Quality: borderline,levle0_62.jpg,26.56,borderline,train
+levle0_319.jpg,Level 0,ACCEPTED,Unique representative. Quality: high_quality,levle0_319.jpg,338.92,high_quality,train
+levle0_529.jpg,Level 0,ACCEPTED,Unique representative. Quality: high_quality,levle0_529.jpg,552.40,high_quality,train
+levle0_483.jpg,Level 0,ACCEPTED,Unique representative. Quality: high_quality,levle0_483.jpg,222.91,high_quality,train
+levle0_106.jpg,Level 0,ACCEPTED,Unique representative. Quality: high_quality,levle0_106.jpg,394.77,high_quality,train
+levle0_508.jpg,Level 0,ACCEPTED,Unique representative. Quality: high_quality,levle0_508.jpg,408.63,high_quality,train
+levle0_368.jpg,Level 0,ACCEPTED,Unique representative. Quality: usable,levle0_368.jpg,102.71,usable,train
+levle0_79.jpg,Level 0,ACCEPTED,Unique representative. Quality: borderline,levle0_79.jpg,20.76,borderline,train
+levle0_97.jpg,Level 0,ACCEPTED,Unique representative. Quality: high_quality,levle0_97.jpg,290.33,high_quality,train
+levle0_355.jpg,Level 0,ACCEPTED,Unique representative. Quality: high_quality,levle0_355.jpg,338.23,high_quality,train
+levle0_382.jpg,Level 0,ACCEPTED,Unique representative. Quality: high_quality,levle0_382.jpg,314.65,high_quality,train
+levle0_179.jpg,Level 0,ACCEPTED,Unique representative. Quality: high_quality,levle0_179.jpg,211.75,high_quality,train
+levle0_256.jpg,Level 0,ACCEPTED,Unique representative. Quality: high_quality,levle0_256.jpg,432.75,high_quality,train
+levle0_287.jpg,Level 0,ACCEPTED,Unique representative. Quality: high_quality,levle0_287.jpg,163.18,high_quality,train
+levle0_485.jpg,Level 0,ACCEPTED,Unique representative. Quality: high_quality,levle0_485.jpg,290.25,high_quality,train
+levle0_15.jpg,Level 0,ACCEPTED,Unique representative. Quality: high_quality,levle0_15.jpg,286.60,high_quality,train
+levle0_475.jpg,Level 0,ACCEPTED,Unique representative. Quality: high_quality,levle0_475.jpg,371.34,high_quality,train
+levle0_281.jpg,Level 0,ACCEPTED,Unique representative. Quality: high_quality,levle0_281.jpg,585.34,high_quality,train
+levle0_64.jpg,Level 0,ACCEPTED,Unique representative. Quality: borderline,levle0_64.jpg,22.35,borderline,train
+levle0_139.jpg,Level 0,ACCEPTED,Unique representative. Quality: usable,levle0_139.jpg,103.41,usable,train
+levle0_222.jpg,Level 0,ACCEPTED,Unique representative. Quality: high_quality,levle0_222.jpg,515.98,high_quality,train
+levle0_202.jpg,Level 0,ACCEPTED,Unique representative. Quality: high_quality,levle0_202.jpg,300.99,high_quality,train
+levle0_235.jpg,Level 0,ACCEPTED,Unique representative. Quality: high_quality,levle0_235.jpg,348.13,high_quality,train
+levle0_339.jpg,Level 0,ACCEPTED,Unique representative. Quality: high_quality,levle0_339.jpg,269.41,high_quality,train
+levle0_386.jpg,Level 0,ACCEPTED,Unique representative. Quality: high_quality,levle0_386.jpg,238.69,high_quality,train
+levle0_72.jpg,Level 0,ACCEPTED,Unique representative. Quality: borderline,levle0_72.jpg,37.83,borderline,train
+levle0_454.jpg,Level 0,ACCEPTED,Unique representative. Quality: high_quality,levle0_454.jpg,198.48,high_quality,train
+levle0_245.jpg,Level 0,ACCEPTED,Unique representative. Quality: high_quality,levle0_245.jpg,248.05,high_quality,train
+levle0_119.jpg,Level 0,ACCEPTED,Unique representative. Quality: borderline,levle0_119.jpg,51.38,borderline,train
+levle0_225.jpg,Level 0,ACCEPTED,Unique representative. Quality: borderline,levle0_225.jpg,23.12,borderline,train
+levle0_506.jpg,Level 0,ACCEPTED,Unique representative. Quality: high_quality,levle0_506.jpg,502.91,high_quality,train
+levle0_112.jpg,Level 0,ACCEPTED,Unique representative. Quality: usable,levle0_112.jpg,62.86,usable,train
+levle0_152.jpg,Level 0,ACCEPTED,Unique representative. Quality: usable,levle0_152.jpg,131.36,usable,train
+levle0_362.jpg,Level 0,ACCEPTED,Unique representative. Quality: high_quality,levle0_362.jpg,696.89,high_quality,train
+levle0_173.jpg,Level 0,ACCEPTED,Unique representative. Quality: high_quality,levle0_173.jpg,179.83,high_quality,train
+levle0_32.jpg,Level 0,ACCEPTED,Unique representative. Quality: usable,levle0_32.jpg,119.76,usable,train
+levle0_33.jpg,Level 0,ACCEPTED,Unique representative. Quality: high_quality,levle0_33.jpg,259.84,high_quality,train
+levle0_423.jpg,Level 0,ACCEPTED,Unique representative. Quality: high_quality,levle0_423.jpg,206.21,high_quality,train
+levle0_421.jpg,Level 0,ACCEPTED,Unique representative. Quality: high_quality,levle0_421.jpg,337.15,high_quality,train
+levle0_231.jpg,Level 0,ACCEPTED,Unique representative. Quality: high_quality,levle0_231.jpg,412.85,high_quality,train
+levle0_420.jpg,Level 0,ACCEPTED,Unique representative. Quality: high_quality,levle0_420.jpg,504.97,high_quality,train
+levle0_361.jpg,Level 0,ACCEPTED,Unique representative. Quality: high_quality,levle0_361.jpg,255.83,high_quality,train
+levle0_419.jpg,Level 0,ACCEPTED,Unique representative. Quality: high_quality,levle0_419.jpg,312.14,high_quality,train
+levle0_315.jpg,Level 0,ACCEPTED,Unique representative. Quality: usable,levle0_315.jpg,134.92,usable,train
+levle0_524.jpg,Level 0,ACCEPTED,Unique representative. Quality: high_quality,levle0_524.jpg,305.06,high_quality,train
+levle0_78.jpg,Level 0,ACCEPTED,Unique representative. Quality: usable,levle0_78.jpg,146.37,usable,train
+levle0_135.jpg,Level 0,ACCEPTED,Unique representative. Quality: high_quality,levle0_135.jpg,176.98,high_quality,train
+levle0_462.jpg,Level 0,ACCEPTED,Unique representative. Quality: high_quality,levle0_462.jpg,176.37,high_quality,train
+levle0_232.jpg,Level 0,ACCEPTED,Unique representative. Quality: high_quality,levle0_232.jpg,472.96,high_quality,train
+levle0_300.jpg,Level 0,ACCEPTED,Unique representative. Quality: high_quality,levle0_300.jpg,352.12,high_quality,train
+levle0_240.jpg,Level 0,ACCEPTED,Unique representative. Quality: high_quality,levle0_240.jpg,604.39,high_quality,train
+levle0_164.jpg,Level 0,ACCEPTED,Unique representative. Quality: usable,levle0_164.jpg,91.11,usable,train
+levle0_389.jpg,Level 0,ACCEPTED,Unique representative. Quality: high_quality,levle0_389.jpg,401.05,high_quality,train
+levle0_75.jpg,Level 0,ACCEPTED,Unique representative. Quality: borderline,levle0_75.jpg,35.56,borderline,train
+levle0_303.jpg,Level 0,ACCEPTED,Unique representative. Quality: high_quality,levle0_303.jpg,313.66,high_quality,train
+levle0_140.jpg,Level 0,ACCEPTED,Unique representative. Quality: usable,levle0_140.jpg,139.89,usable,train
+levle0_335.jpg,Level 0,ACCEPTED,Unique representative. Quality: high_quality,levle0_335.jpg,428.62,high_quality,train
+levle0_45.jpg,Level 0,ACCEPTED,Unique representative. Quality: high_quality,levle0_45.jpg,498.97,high_quality,train
+levle0_156.jpg,Level 0,ACCEPTED,Unique representative. Quality: high_quality,levle0_156.jpg,297.77,high_quality,train
+levle0_438.jpg,Level 0,ACCEPTED,Unique representative. Quality: usable,levle0_438.jpg,120.74,usable,train
+levle0_302.jpg,Level 0,ACCEPTED,Unique representative. Quality: high_quality,levle0_302.jpg,232.66,high_quality,train
+levle0_477.jpg,Level 0,ACCEPTED,Unique representative. Quality: high_quality,levle0_477.jpg,646.93,high_quality,train
+levle0_1.jpg,Level 0,ACCEPTED,Unique representative. Quality: high_quality,levle0_1.jpg,283.02,high_quality,train
+levle0_409.jpg,Level 0,ACCEPTED,Unique representative. Quality: high_quality,levle0_409.jpg,243.99,high_quality,train
+levle0_460.jpg,Level 0,ACCEPTED,Unique representative. Quality: high_quality,levle0_460.jpg,190.96,high_quality,train
+levle0_515.jpg,Level 0,ACCEPTED,Unique representative. Quality: usable,levle0_515.jpg,125.90,usable,train
+levle0_163.jpg,Level 0,ACCEPTED,Unique representative. Quality: usable,levle0_163.jpg,71.08,usable,train
+levle0_410.jpg,Level 0,ACCEPTED,Unique representative. Quality: high_quality,levle0_410.jpg,212.55,high_quality,train
+levle0_443.jpg,Level 0,ACCEPTED,Unique representative. Quality: usable,levle0_443.jpg,69.87,usable,train
+levle0_241.jpg,Level 0,ACCEPTED,Unique representative. Quality: high_quality,levle0_241.jpg,550.21,high_quality,train
+levle0_338.jpg,Level 0,ACCEPTED,Unique representative. Quality: high_quality,levle0_338.jpg,281.09,high_quality,train
+levle0_414.jpg,Level 0,ACCEPTED,Unique representative. Quality: high_quality,levle0_414.jpg,161.93,high_quality,train
+levle0_151.jpg,Level 0,ACCEPTED,Unique representative. Quality: high_quality,levle0_151.jpg,369.48,high_quality,train
+levle0_102.jpg,Level 0,ACCEPTED,Unique representative. Quality: usable,levle0_102.jpg,129.34,usable,train
+levle0_213.jpg,Level 0,ACCEPTED,Unique representative. Quality: high_quality,levle0_213.jpg,450.07,high_quality,train
+levle0_76.jpg,Level 0,ACCEPTED,Unique representative. Quality: borderline,levle0_76.jpg,22.71,borderline,train
+levle0_440.jpg,Level 0,ACCEPTED,Unique representative. Quality: usable,levle0_440.jpg,139.13,usable,train
+levle0_278.jpg,Level 0,ACCEPTED,Unique representative. Quality: high_quality,levle0_278.jpg,410.70,high_quality,train
+levle0_53.jpg,Level 0,ACCEPTED,Unique representative. Quality: high_quality,levle0_53.jpg,285.00,high_quality,train
+levle0_519.jpg,Level 0,ACCEPTED,Unique representative. Quality: high_quality,levle0_519.jpg,427.88,high_quality,train
+levle0_520.jpg,Level 0,ACCEPTED,Unique representative. Quality: high_quality,levle0_520.jpg,307.81,high_quality,train
+levle0_516.jpg,Level 0,ACCEPTED,Unique representative. Quality: high_quality,levle0_516.jpg,173.06,high_quality,train
+levle0_150.jpg,Level 0,ACCEPTED,Unique representative. Quality: borderline,levle0_150.jpg,37.12,borderline,train
+levle0_90.jpg,Level 0,ACCEPTED,Unique representative. Quality: high_quality,levle0_90.jpg,200.42,high_quality,train
+levle0_510.jpg,Level 0,ACCEPTED,Unique representative. Quality: high_quality,levle0_510.jpg,659.44,high_quality,train
+levle0_324.jpg,Level 0,ACCEPTED,Unique representative. Quality: high_quality,levle0_324.jpg,225.40,high_quality,train
+levle0_331.jpg,Level 0,ACCEPTED,Unique representative. Quality: high_quality,levle0_331.jpg,409.34,high_quality,train
+levle0_374.jpg,Level 0,ACCEPTED,Unique representative. Quality: high_quality,levle0_374.jpg,379.74,high_quality,train
+levle0_412.jpg,Level 0,ACCEPTED,Unique representative. Quality: high_quality,levle0_412.jpg,458.87,high_quality,train
+levle0_471.jpg,Level 0,ACCEPTED,Unique representative. Quality: usable,levle0_471.jpg,60.19,usable,train
+levle0_40.jpg,Level 0,ACCEPTED,Unique representative. Quality: high_quality,levle0_40.jpg,550.22,high_quality,train
+levle0_299.jpg,Level 0,ACCEPTED,Unique representative. Quality: high_quality,levle0_299.jpg,372.99,high_quality,train
+levle0_378.jpg,Level 0,ACCEPTED,Unique representative. Quality: high_quality,levle0_378.jpg,422.63,high_quality,train
+levle0_491.jpg,Level 0,ACCEPTED,Unique representative. Quality: high_quality,levle0_491.jpg,832.61,high_quality,train
+levle0_353.jpg,Level 0,ACCEPTED,Unique representative. Quality: high_quality,levle0_353.jpg,249.69,high_quality,train
+levle0_211.jpg,Level 0,ACCEPTED,Unique representative. Quality: high_quality,levle0_211.jpg,573.81,high_quality,train
+levle0_161.jpg,Level 0,ACCEPTED,Unique representative. Quality: high_quality,levle0_161.jpg,628.91,high_quality,train
+levle0_501.jpg,Level 0,ACCEPTED,Unique representative. Quality: high_quality,levle0_501.jpg,421.18,high_quality,train
+levle0_162.jpg,Level 0,ACCEPTED,Unique representative. Quality: high_quality,levle0_162.jpg,363.97,high_quality,train
+levle0_493.jpg,Level 0,ACCEPTED,Unique representative. Quality: high_quality,levle0_493.jpg,205.32,high_quality,train
+levle0_74.jpg,Level 0,ACCEPTED,Unique representative. Quality: high_quality,levle0_74.jpg,264.51,high_quality,train
+levle0_325.jpg,Level 0,ACCEPTED,Unique representative. Quality: high_quality,levle0_325.jpg,376.99,high_quality,train
+levle0_393.jpg,Level 0,ACCEPTED,Unique representative. Quality: high_quality,levle0_393.jpg,260.25,high_quality,train
+levle0_73.jpg,Level 0,ACCEPTED,Unique representative. Quality: high_quality,levle0_73.jpg,155.13,high_quality,train
+levle0_356.jpg,Level 0,ACCEPTED,Unique representative. Quality: high_quality,levle0_356.jpg,370.41,high_quality,train
+levle0_183.jpg,Level 0,ACCEPTED,Unique representative. Quality: high_quality,levle0_183.jpg,154.90,high_quality,train
+levle0_80.jpg,Level 0,ACCEPTED,Unique representative. Quality: borderline,levle0_80.jpg,23.30,borderline,train
+levle0_497.jpg,Level 0,ACCEPTED,Unique representative. Quality: high_quality,levle0_497.jpg,205.28,high_quality,train
+levle0_286.jpg,Level 0,ACCEPTED,Unique representative. Quality: borderline,levle0_286.jpg,42.20,borderline,train
+levle0_238.jpg,Level 0,ACCEPTED,Unique representative. Quality: high_quality,levle0_238.jpg,482.85,high_quality,train
+levle0_115.jpg,Level 0,ACCEPTED,Unique representative. Quality: high_quality,levle0_115.jpg,175.40,high_quality,train
+levle0_463.jpg,Level 0,ACCEPTED,Unique representative. Quality: high_quality,levle0_463.jpg,567.95,high_quality,train
+levle0_127.jpg,Level 0,ACCEPTED,Unique representative. Quality: borderline,levle0_127.jpg,45.78,borderline,train
+levle0_242.jpg,Level 0,ACCEPTED,Unique representative. Quality: high_quality,levle0_242.jpg,296.66,high_quality,train
+levle0_66.jpg,Level 0,ACCEPTED,Unique representative. Quality: borderline,levle0_66.jpg,23.16,borderline,train
+levle0_350.jpg,Level 0,ACCEPTED,Unique representative. Quality: high_quality,levle0_350.jpg,533.28,high_quality,train
+levle0_4.jpg,Level 0,ACCEPTED,Unique representative. Quality: borderline,levle0_4.jpg,20.92,borderline,train
+levle0_221.jpg,Level 0,ACCEPTED,Unique representative. Quality: high_quality,levle0_221.jpg,563.56,high_quality,train
+levle0_458.jpg,Level 0,ACCEPTED,Unique representative. Quality: usable,levle0_458.jpg,144.21,usable,train
+levle0_311.jpg,Level 0,ACCEPTED,Unique representative. Quality: borderline,levle0_311.jpg,48.65,borderline,train
+levle0_453.jpg,Level 0,ACCEPTED,Unique representative. Quality: high_quality,levle0_453.jpg,226.94,high_quality,train
+levle0_468.jpg,Level 0,ACCEPTED,Unique representative. Quality: high_quality,levle0_468.jpg,580.22,high_quality,train
+levle0_342.jpg,Level 0,ACCEPTED,Unique representative. Quality: high_quality,levle0_342.jpg,233.72,high_quality,train
+levle0_170.jpg,Level 0,ACCEPTED,Unique representative. Quality: high_quality,levle0_170.jpg,227.60,high_quality,train
+levle0_455.jpg,Level 0,ACCEPTED,Unique representative. Quality: high_quality,levle0_455.jpg,595.92,high_quality,train
+levle0_381.jpg,Level 0,ACCEPTED,Unique representative. Quality: high_quality,levle0_381.jpg,384.40,high_quality,train
+levle0_134.jpg,Level 0,ACCEPTED,Unique representative. Quality: usable,levle0_134.jpg,110.44,usable,train
+levle0_405.jpg,Level 0,ACCEPTED,Unique representative. Quality: high_quality,levle0_405.jpg,241.19,high_quality,train
+levle0_42.jpg,Level 0,ACCEPTED,Unique representative. Quality: high_quality,levle0_42.jpg,500.12,high_quality,train
+levle0_70.jpg,Level 0,ACCEPTED,Unique representative. Quality: borderline,levle0_70.jpg,55.79,borderline,train
+levle0_220.jpg,Level 0,ACCEPTED,Unique representative. Quality: high_quality,levle0_220.jpg,522.11,high_quality,train
+levle0_413.jpg,Level 0,ACCEPTED,Unique representative. Quality: high_quality,levle0_413.jpg,152.83,high_quality,train
+levle0_181.jpg,Level 0,ACCEPTED,Unique representative. Quality: high_quality,levle0_181.jpg,236.62,high_quality,train
+levle0_258.jpg,Level 0,ACCEPTED,Unique representative. Quality: high_quality,levle0_258.jpg,162.81,high_quality,valid
+levle0_271.jpg,Level 0,ACCEPTED,Unique representative. Quality: borderline,levle0_271.jpg,37.95,borderline,valid
+levle0_168.jpg,Level 0,ACCEPTED,Unique representative. Quality: high_quality,levle0_168.jpg,193.69,high_quality,valid
+levle0_270.jpg,Level 0,ACCEPTED,Unique representative. Quality: high_quality,levle0_270.jpg,259.34,high_quality,valid
+levle0_394.jpg,Level 0,ACCEPTED,Unique representative. Quality: high_quality,levle0_394.jpg,164.23,high_quality,valid
+levle0_306.jpg,Level 0,ACCEPTED,Unique representative. Quality: high_quality,levle0_306.jpg,384.32,high_quality,valid
+levle0_517.jpg,Level 0,ACCEPTED,Unique representative. Quality: high_quality,levle0_517.jpg,349.55,high_quality,valid
+levle0_51.jpg,Level 0,ACCEPTED,Unique representative. Quality: high_quality,levle0_51.jpg,544.04,high_quality,valid
+levle0_148.jpg,Level 0,ACCEPTED,Unique representative. Quality: high_quality,levle0_148.jpg,250.59,high_quality,valid
+levle0_192.jpg,Level 0,ACCEPTED,Unique representative. Quality: high_quality,levle0_192.jpg,497.29,high_quality,valid
+levle0_487.jpg,Level 0,ACCEPTED,Unique representative. Quality: high_quality,levle0_487.jpg,246.21,high_quality,valid
+levle0_227.jpg,Level 0,ACCEPTED,Unique representative. Quality: high_quality,levle0_227.jpg,286.18,high_quality,valid
+levle0_459.jpg,Level 0,ACCEPTED,Unique representative. Quality: usable,levle0_459.jpg,130.18,usable,valid
+levle0_187.jpg,Level 0,ACCEPTED,Unique representative. Quality: high_quality,levle0_187.jpg,340.32,high_quality,valid
+levle0_411.jpg,Level 0,ACCEPTED,Unique representative. Quality: high_quality,levle0_411.jpg,447.51,high_quality,valid
+levle0_498.jpg,Level 0,ACCEPTED,Unique representative. Quality: high_quality,levle0_498.jpg,242.23,high_quality,valid
+levle0_132.jpg,Level 0,ACCEPTED,Unique representative. Quality: high_quality,levle0_132.jpg,381.67,high_quality,valid
+levle0_430.jpg,Level 0,ACCEPTED,Unique representative. Quality: high_quality,levle0_430.jpg,529.10,high_quality,valid
+levle0_177.jpg,Level 0,ACCEPTED,Unique representative. Quality: usable,levle0_177.jpg,91.26,usable,valid
+levle0_359.jpg,Level 0,ACCEPTED,Unique representative. Quality: high_quality,levle0_359.jpg,298.20,high_quality,valid
+levle0_263.jpg,Level 0,ACCEPTED,Unique representative. Quality: high_quality,levle0_263.jpg,238.73,high_quality,valid
+levle0_388.jpg,Level 0,ACCEPTED,Unique representative. Quality: high_quality,levle0_388.jpg,527.80,high_quality,valid
+levle0_392.jpg,Level 0,ACCEPTED,Unique representative. Quality: usable,levle0_392.jpg,63.20,usable,valid
+levle0_480.jpg,Level 0,ACCEPTED,Unique representative. Quality: high_quality,levle0_480.jpg,564.30,high_quality,valid
+levle0_230.jpg,Level 0,ACCEPTED,Unique representative. Quality: high_quality,levle0_230.jpg,354.99,high_quality,valid
+levle0_35.jpg,Level 0,ACCEPTED,Unique representative. Quality: high_quality,levle0_35.jpg,203.53,high_quality,valid
+levle0_138.jpg,Level 0,ACCEPTED,Unique representative. Quality: high_quality,levle0_138.jpg,238.87,high_quality,valid
+levle0_274.jpg,Level 0,ACCEPTED,Unique representative. Quality: high_quality,levle0_274.jpg,372.97,high_quality,valid
+levle0_153.jpg,Level 0,ACCEPTED,Unique representative. Quality: high_quality,levle0_153.jpg,475.73,high_quality,valid
+levle0_343.jpg,Level 0,ACCEPTED,Unique representative. Quality: high_quality,levle0_343.jpg,645.73,high_quality,valid
+levle0_31.jpg,Level 0,ACCEPTED,Unique representative. Quality: high_quality,levle0_31.jpg,538.13,high_quality,valid
+levle0_446.jpg,Level 0,ACCEPTED,Unique representative. Quality: high_quality,levle0_446.jpg,238.61,high_quality,valid
+levle0_124.jpg,Level 0,ACCEPTED,Unique representative. Quality: high_quality,levle0_124.jpg,208.84,high_quality,valid
+levle0_521.jpg,Level 0,ACCEPTED,Unique representative. Quality: high_quality,levle0_521.jpg,426.39,high_quality,valid
+levle0_360.jpg,Level 0,ACCEPTED,Unique representative. Quality: high_quality,levle0_360.jpg,284.11,high_quality,valid
+levle0_380.jpg,Level 0,ACCEPTED,Unique representative. Quality: high_quality,levle0_380.jpg,246.73,high_quality,valid
+levle0_255.jpg,Level 0,ACCEPTED,Unique representative. Quality: high_quality,levle0_255.jpg,368.54,high_quality,valid
+levle0_81.jpg,Level 0,ACCEPTED,Unique representative. Quality: usable,levle0_81.jpg,77.72,usable,valid
+levle0_261.jpg,Level 0,ACCEPTED,Unique representative. Quality: high_quality,levle0_261.jpg,328.04,high_quality,valid
+levle0_146.jpg,Level 0,ACCEPTED,Unique representative. Quality: high_quality,levle0_146.jpg,637.45,high_quality,valid
+levle0_276.jpg,Level 0,ACCEPTED,Unique representative. Quality: usable,levle0_276.jpg,121.55,usable,valid
+levle0_141.jpg,Level 0,ACCEPTED,Unique representative. Quality: high_quality,levle0_141.jpg,507.73,high_quality,test
+levle0_482.jpg,Level 0,ACCEPTED,Unique representative. Quality: high_quality,levle0_482.jpg,358.48,high_quality,test
+levle0_26.jpg,Level 0,ACCEPTED,Unique representative. Quality: high_quality,levle0_26.jpg,346.58,high_quality,test
+levle0_457.jpg,Level 0,ACCEPTED,Unique representative. Quality: high_quality,levle0_457.jpg,196.38,high_quality,test
+levle0_184.jpg,Level 0,ACCEPTED,Unique representative. Quality: high_quality,levle0_184.jpg,272.93,high_quality,test
+levle0_166.jpg,Level 0,ACCEPTED,Unique representative. Quality: usable,levle0_166.jpg,97.13,usable,test
+levle0_60.jpg,Level 0,ACCEPTED,Unique representative. Quality: borderline,levle0_60.jpg,23.27,borderline,test
+levle0_253.jpg,Level 0,ACCEPTED,Unique representative. Quality: usable,levle0_253.jpg,71.60,usable,test
+levle0_297.jpg,Level 0,ACCEPTED,Unique representative. Quality: high_quality,levle0_297.jpg,292.19,high_quality,test
+levle0_424.jpg,Level 0,ACCEPTED,Unique representative. Quality: usable,levle0_424.jpg,73.19,usable,test
+levle0_167.jpg,Level 0,ACCEPTED,Unique representative. Quality: usable,levle0_167.jpg,62.58,usable,test
+levle0_469.jpg,Level 0,ACCEPTED,Unique representative. Quality: high_quality,levle0_469.jpg,233.15,high_quality,test
+levle0_456.jpg,Level 0,ACCEPTED,Unique representative. Quality: high_quality,levle0_456.jpg,456.93,high_quality,test
+levle0_280.jpg,Level 0,ACCEPTED,Unique representative. Quality: high_quality,levle0_280.jpg,936.87,high_quality,test
+levle0_499.jpg,Level 0,ACCEPTED,Unique representative. Quality: high_quality,levle0_499.jpg,426.97,high_quality,test
+levle0_47.jpg,Level 0,ACCEPTED,Unique representative. Quality: high_quality,levle0_47.jpg,473.06,high_quality,test
+levle0_85.jpg,Level 0,ACCEPTED,Unique representative. Quality: borderline,levle0_85.jpg,59.32,borderline,test
+levle0_367.jpg,Level 0,ACCEPTED,Unique representative. Quality: usable,levle0_367.jpg,118.04,usable,test
+levle0_86.jpg,Level 0,ACCEPTED,Unique representative. Quality: borderline,levle0_86.jpg,45.26,borderline,test
+levle0_185.jpg,Level 0,ACCEPTED,Unique representative. Quality: high_quality,levle0_185.jpg,558.44,high_quality,test
+levle0_296.jpg,Level 0,ACCEPTED,Unique representative. Quality: usable,levle0_296.jpg,123.79,usable,test
+levle0_346.jpg,Level 0,ACCEPTED,Unique representative. Quality: high_quality,levle0_346.jpg,387.66,high_quality,test
+levle0_428.jpg,Level 0,ACCEPTED,Unique representative. Quality: high_quality,levle0_428.jpg,242.23,high_quality,test
+levle0_406.jpg,Level 0,ACCEPTED,Unique representative. Quality: high_quality,levle0_406.jpg,215.83,high_quality,test
+levle0_44.jpg,Level 0,ACCEPTED,Unique representative. Quality: usable,levle0_44.jpg,118.97,usable,test
+levle0_282.jpg,Level 0,ACCEPTED,Unique representative. Quality: high_quality,levle0_282.jpg,891.87,high_quality,test
+levle0_126.jpg,Level 0,ACCEPTED,Unique representative. Quality: usable,levle0_126.jpg,92.95,usable,test
+levle0_314.jpg,Level 0,ACCEPTED,Unique representative. Quality: usable,levle0_314.jpg,91.19,usable,test
+levle0_301.jpg,Level 0,ACCEPTED,Unique representative. Quality: high_quality,levle0_301.jpg,459.22,high_quality,test
+levle0_175.jpg,Level 0,ACCEPTED,Unique representative. Quality: borderline,levle0_175.jpg,50.63,borderline,test
+levle0_128.jpg,Level 0,ACCEPTED,Unique representative. Quality: high_quality,levle0_128.jpg,478.57,high_quality,test
+levle0_131.jpg,Level 0,ACCEPTED,Unique representative. Quality: high_quality,levle0_131.jpg,217.85,high_quality,test
+levle0_489.jpg,Level 0,ACCEPTED,Unique representative. Quality: high_quality,levle0_489.jpg,230.77,high_quality,test
+levle0_171.jpg,Level 0,ACCEPTED,Unique representative. Quality: usable,levle0_171.jpg,120.93,usable,test
+levle0_180.jpg,Level 0,ACCEPTED,Unique representative. Quality: borderline,levle0_180.jpg,44.90,borderline,test
+levle0_223.jpg,Level 0,ACCEPTED,Unique representative. Quality: high_quality,levle0_223.jpg,238.97,high_quality,test
+levle0_304.jpg,Level 0,ACCEPTED,Unique representative. Quality: high_quality,levle0_304.jpg,451.11,high_quality,test
+levle0_323.jpg,Level 0,ACCEPTED,Unique representative. Quality: high_quality,levle0_323.jpg,384.62,high_quality,test
+levle0_347.jpg,Level 0,ACCEPTED,Unique representative. Quality: high_quality,levle0_347.jpg,600.20,high_quality,test
+levle0_125.jpg,Level 0,ACCEPTED,Unique representative. Quality: high_quality,levle0_125.jpg,238.72,high_quality,test
+levle0_186.jpg,Level 0,ACCEPTED,Unique representative. Quality: high_quality,levle0_186.jpg,419.42,high_quality,test
+levle1_236.jpg,Level 1,ACCEPTED,Unique representative. Quality: high_quality,levle1_236.jpg,401.07,high_quality,train
+levle1_78.jpg,Level 1,ACCEPTED,Unique representative. Quality: usable,levle1_78.jpg,87.00,usable,train
+levle1_193.jpg,Level 1,ACCEPTED,Unique representative. Quality: high_quality,levle1_193.jpg,292.22,high_quality,train
+levle1_322.jpg,Level 1,ACCEPTED,Unique representative. Quality: high_quality,levle1_322.jpg,324.05,high_quality,train
+levle1_144.jpg,Level 1,ACCEPTED,Unique representative. Quality: high_quality,levle1_144.jpg,408.63,high_quality,train
+levle1_263.jpg,Level 1,ACCEPTED,Unique representative. Quality: usable,levle1_263.jpg,71.66,usable,train
+levle1_424.jpg,Level 1,ACCEPTED,Unique representative. Quality: high_quality,levle1_424.jpg,175.43,high_quality,train
+levle1_582.jpg,Level 1,ACCEPTED,Unique representative. Quality: high_quality,levle1_582.jpg,379.26,high_quality,train
+levle1_253.jpg,Level 1,ACCEPTED,Unique representative. Quality: high_quality,levle1_253.jpg,341.18,high_quality,train
+levle1_239.jpg,Level 1,ACCEPTED,Unique representative. Quality: borderline,levle1_239.jpg,38.65,borderline,train
+levle1_31.jpg,Level 1,ACCEPTED,Unique representative. Quality: usable,levle1_31.jpg,69.50,usable,train
+levle1_570.jpg,Level 1,ACCEPTED,Unique representative. Quality: high_quality,levle1_570.jpg,1387.92,high_quality,train
+levle1_244.jpg,Level 1,ACCEPTED,Unique representative. Quality: high_quality,levle1_244.jpg,403.19,high_quality,train
+levle1_426.jpg,Level 1,ACCEPTED,Unique representative. Quality: high_quality,levle1_426.jpg,509.47,high_quality,train
+levle1_342.jpg,Level 1,ACCEPTED,Unique representative. Quality: high_quality,levle1_342.jpg,452.16,high_quality,train
+levle1_567.jpg,Level 1,ACCEPTED,Unique representative. Quality: high_quality,levle1_567.jpg,337.36,high_quality,train
+levle1_514.jpg,Level 1,ACCEPTED,Unique representative. Quality: high_quality,levle1_514.jpg,179.96,high_quality,train
+levle1_362.jpg,Level 1,ACCEPTED,Unique representative. Quality: high_quality,levle1_362.jpg,271.36,high_quality,train
+levle1_468.jpg,Level 1,ACCEPTED,Unique representative. Quality: high_quality,levle1_468.jpg,327.53,high_quality,train
+levle1_71.jpg,Level 1,ACCEPTED,Unique representative. Quality: borderline,levle1_71.jpg,36.59,borderline,train
+levle1_47.jpg,Level 1,ACCEPTED,Unique representative. Quality: high_quality,levle1_47.jpg,260.17,high_quality,train
+levle1_290.jpg,Level 1,ACCEPTED,Unique representative. Quality: high_quality,levle1_290.jpg,726.09,high_quality,train
+levle1_587.jpg,Level 1,ACCEPTED,Unique representative. Quality: high_quality,levle1_587.jpg,468.25,high_quality,train
+levle1_448.jpg,Level 1,ACCEPTED,Unique representative. Quality: high_quality,levle1_448.jpg,242.02,high_quality,train
+levle1_240.jpg,Level 1,ACCEPTED,Unique representative. Quality: borderline,levle1_240.jpg,46.01,borderline,train
+levle1_421.jpg,Level 1,ACCEPTED,Unique representative. Quality: high_quality,levle1_421.jpg,877.89,high_quality,train
+levle1_528.jpg,Level 1,ACCEPTED,Unique representative. Quality: high_quality,levle1_528.jpg,190.52,high_quality,train
+levle1_246.jpg,Level 1,ACCEPTED,Unique representative. Quality: high_quality,levle1_246.jpg,660.98,high_quality,train
+levle1_192.jpg,Level 1,ACCEPTED,Unique representative. Quality: high_quality,levle1_192.jpg,356.57,high_quality,train
+levle1_205.jpg,Level 1,ACCEPTED,Unique representative. Quality: high_quality,levle1_205.jpg,327.27,high_quality,train
+levle1_92.jpg,Level 1,ACCEPTED,Unique representative. Quality: borderline,levle1_92.jpg,36.94,borderline,train
+levle1_284.jpg,Level 1,ACCEPTED,Unique representative. Quality: high_quality,levle1_284.jpg,617.24,high_quality,train
+levle1_507.jpg,Level 1,ACCEPTED,Unique representative. Quality: high_quality,levle1_507.jpg,501.26,high_quality,train
+levle1_74.jpg,Level 1,ACCEPTED,Unique representative. Quality: borderline,levle1_74.jpg,28.23,borderline,train
+levle1_583.jpg,Level 1,ACCEPTED,Unique representative. Quality: high_quality,levle1_583.jpg,491.68,high_quality,train
+levle1_540.jpg,Level 1,ACCEPTED,Unique representative. Quality: high_quality,levle1_540.jpg,566.56,high_quality,train
+levle1_261.jpg,Level 1,ACCEPTED,Unique representative. Quality: usable,levle1_261.jpg,95.15,usable,train
+levle1_269.jpg,Level 1,ACCEPTED,Unique representative. Quality: usable,levle1_269.jpg,140.54,usable,train
+levle1_445.jpg,Level 1,ACCEPTED,Unique representative. Quality: high_quality,levle1_445.jpg,210.59,high_quality,train
+levle1_392.jpg,Level 1,ACCEPTED,Unique representative. Quality: high_quality,levle1_392.jpg,161.82,high_quality,train
+levle1_106.jpg,Level 1,ACCEPTED,Unique representative. Quality: high_quality,levle1_106.jpg,167.15,high_quality,train
+levle1_356.jpg,Level 1,ACCEPTED,Unique representative. Quality: high_quality,levle1_356.jpg,357.21,high_quality,train
+levle1_521.jpg,Level 1,ACCEPTED,Unique representative. Quality: high_quality,levle1_521.jpg,422.92,high_quality,train
+levle1_384.jpg,Level 1,ACCEPTED,Unique representative. Quality: high_quality,levle1_384.jpg,526.72,high_quality,train
+levle1_207.jpg,Level 1,ACCEPTED,Unique representative. Quality: usable,levle1_207.jpg,92.08,usable,train
+levle1_409.jpg,Level 1,ACCEPTED,Unique representative. Quality: high_quality,levle1_409.jpg,379.11,high_quality,train
+levle1_172.jpg,Level 1,ACCEPTED,Unique representative. Quality: high_quality,levle1_172.jpg,327.26,high_quality,train
+levle1_311.jpg,Level 1,ACCEPTED,Unique representative. Quality: high_quality,levle1_311.jpg,341.46,high_quality,train
+levle1_626.jpg,Level 1,ACCEPTED,Unique representative. Quality: high_quality,levle1_626.jpg,366.88,high_quality,train
+levle1_41.jpg,Level 1,ACCEPTED,Unique representative. Quality: high_quality,levle1_41.jpg,406.06,high_quality,train
+levle1_147.jpg,Level 1,ACCEPTED,Unique representative. Quality: high_quality,levle1_147.jpg,314.28,high_quality,train
+levle1_383.jpg,Level 1,ACCEPTED,Unique representative. Quality: high_quality,levle1_383.jpg,329.03,high_quality,train
+levle1_102.jpg,Level 1,ACCEPTED,Unique representative. Quality: borderline,levle1_102.jpg,30.23,borderline,train
+levle1_187.jpg,Level 1,ACCEPTED,Unique representative. Quality: high_quality,levle1_187.jpg,204.38,high_quality,train
+levle1_268.jpg,Level 1,ACCEPTED,Unique representative. Quality: high_quality,levle1_268.jpg,165.17,high_quality,train
+levle1_49.jpg,Level 1,ACCEPTED,Unique representative. Quality: high_quality,levle1_49.jpg,417.52,high_quality,train
+levle1_300.jpg,Level 1,ACCEPTED,Unique representative. Quality: high_quality,levle1_300.jpg,209.11,high_quality,train
+levle1_612.jpg,Level 1,ACCEPTED,Unique representative. Quality: high_quality,levle1_612.jpg,324.93,high_quality,train
+levle1_338.jpg,Level 1,ACCEPTED,Unique representative. Quality: high_quality,levle1_338.jpg,382.76,high_quality,train
+levle1_160.jpg,Level 1,ACCEPTED,Unique representative. Quality: borderline,levle1_160.jpg,31.64,borderline,train
+levle1_363.jpg,Level 1,ACCEPTED,Unique representative. Quality: high_quality,levle1_363.jpg,316.63,high_quality,train
+levle1_613.jpg,Level 1,ACCEPTED,Unique representative. Quality: high_quality,levle1_613.jpg,388.66,high_quality,train
+levle1_264.jpg,Level 1,ACCEPTED,Unique representative. Quality: usable,levle1_264.jpg,103.17,usable,train
+levle1_39.jpg,Level 1,ACCEPTED,Unique representative. Quality: usable,levle1_39.jpg,138.30,usable,train
+levle1_243.jpg,Level 1,ACCEPTED,Unique representative. Quality: high_quality,levle1_243.jpg,374.68,high_quality,train
+levle1_110.jpg,Level 1,ACCEPTED,Unique representative. Quality: borderline,levle1_110.jpg,35.40,borderline,train
+levle1_617.jpg,Level 1,ACCEPTED,Unique representative. Quality: high_quality,levle1_617.jpg,209.93,high_quality,train
+levle1_89.jpg,Level 1,ACCEPTED,Unique representative. Quality: usable,levle1_89.jpg,74.83,usable,train
+levle1_477.jpg,Level 1,ACCEPTED,Unique representative. Quality: usable,levle1_477.jpg,100.98,usable,train
+levle1_83.jpg,Level 1,ACCEPTED,Unique representative. Quality: usable,levle1_83.jpg,92.50,usable,train
+levle1_579.jpg,Level 1,ACCEPTED,Unique representative. Quality: usable,levle1_579.jpg,93.71,usable,train
+levle1_351.jpg,Level 1,ACCEPTED,Unique representative. Quality: high_quality,levle1_351.jpg,725.56,high_quality,train
+levle1_282.jpg,Level 1,ACCEPTED,Unique representative. Quality: high_quality,levle1_282.jpg,567.83,high_quality,train
+levle1_305.jpg,Level 1,ACCEPTED,Unique representative. Quality: high_quality,levle1_305.jpg,251.30,high_quality,train
+levle1_393.jpg,Level 1,ACCEPTED,Unique representative. Quality: high_quality,levle1_393.jpg,290.85,high_quality,train
+levle1_114.jpg,Level 1,ACCEPTED,Unique representative. Quality: usable,levle1_114.jpg,77.33,usable,train
+levle1_378.jpg,Level 1,ACCEPTED,Unique representative. Quality: high_quality,levle1_378.jpg,430.05,high_quality,train
+levle1_298.jpg,Level 1,ACCEPTED,Unique representative. Quality: usable,levle1_298.jpg,101.40,usable,train
+levle1_307.jpg,Level 1,ACCEPTED,Unique representative. Quality: high_quality,levle1_307.jpg,318.24,high_quality,train
+levle1_316.jpg,Level 1,ACCEPTED,Unique representative. Quality: high_quality,levle1_316.jpg,544.29,high_quality,train
+levle1_350.jpg,Level 1,ACCEPTED,Unique representative. Quality: high_quality,levle1_350.jpg,759.20,high_quality,train
+levle1_168.jpg,Level 1,ACCEPTED,Unique representative. Quality: high_quality,levle1_168.jpg,486.84,high_quality,train
+levle1_265.jpg,Level 1,ACCEPTED,Unique representative. Quality: high_quality,levle1_265.jpg,164.13,high_quality,train
+levle1_208.jpg,Level 1,ACCEPTED,Unique representative. Quality: high_quality,levle1_208.jpg,346.70,high_quality,train
+levle1_196.jpg,Level 1,ACCEPTED,Unique representative. Quality: high_quality,levle1_196.jpg,284.60,high_quality,train
+levle1_190.jpg,Level 1,ACCEPTED,Unique representative. Quality: high_quality,levle1_190.jpg,329.41,high_quality,train
+levle1_75.jpg,Level 1,ACCEPTED,Unique representative. Quality: borderline,levle1_75.jpg,40.55,borderline,train
+levle1_385.jpg,Level 1,ACCEPTED,Unique representative. Quality: high_quality,levle1_385.jpg,232.74,high_quality,train
+levle1_133.jpg,Level 1,ACCEPTED,Unique representative. Quality: usable,levle1_133.jpg,112.69,usable,train
+levle1_79.jpg,Level 1,ACCEPTED,Unique representative. Quality: borderline,levle1_79.jpg,28.25,borderline,train
+levle1_291.jpg,Level 1,ACCEPTED,Unique representative. Quality: high_quality,levle1_291.jpg,315.92,high_quality,train
+levle1_381.jpg,Level 1,ACCEPTED,Unique representative. Quality: borderline,levle1_381.jpg,42.84,borderline,train
+levle1_254.jpg,Level 1,ACCEPTED,Unique representative. Quality: high_quality,levle1_254.jpg,462.75,high_quality,train
+levle1_580.jpg,Level 1,ACCEPTED,Unique representative. Quality: usable,levle1_580.jpg,68.84,usable,train
+levle1_50.jpg,Level 1,ACCEPTED,Unique representative. Quality: high_quality,levle1_50.jpg,359.77,high_quality,train
+levle1_557.jpg,Level 1,ACCEPTED,Unique representative. Quality: high_quality,levle1_557.jpg,457.01,high_quality,train
+levle1_115.jpg,Level 1,ACCEPTED,Unique representative. Quality: borderline,levle1_115.jpg,38.78,borderline,train
+levle1_599.jpg,Level 1,ACCEPTED,Unique representative. Quality: high_quality,levle1_599.jpg,389.85,high_quality,train
+levle1_217.jpg,Level 1,ACCEPTED,Unique representative. Quality: usable,levle1_217.jpg,101.75,usable,train
+levle1_299.jpg,Level 1,ACCEPTED,Unique representative. Quality: high_quality,levle1_299.jpg,154.05,high_quality,train
+levle1_404.jpg,Level 1,ACCEPTED,Unique representative. Quality: high_quality,levle1_404.jpg,217.66,high_quality,train
+levle1_391.jpg,Level 1,ACCEPTED,Unique representative. Quality: high_quality,levle1_391.jpg,209.58,high_quality,train
+levle1_117.jpg,Level 1,ACCEPTED,Unique representative. Quality: high_quality,levle1_117.jpg,169.48,high_quality,train
+levle1_108.jpg,Level 1,ACCEPTED,Unique representative. Quality: usable,levle1_108.jpg,65.10,usable,train
+levle1_517.jpg,Level 1,ACCEPTED,Unique representative. Quality: high_quality,levle1_517.jpg,411.24,high_quality,train
+levle1_77.jpg,Level 1,ACCEPTED,Unique representative. Quality: borderline,levle1_77.jpg,28.02,borderline,train
+levle1_637.jpg,Level 1,ACCEPTED,Unique representative. Quality: high_quality,levle1_637.jpg,469.16,high_quality,train
+levle1_35.jpg,Level 1,ACCEPTED,Unique representative. Quality: high_quality,levle1_35.jpg,156.51,high_quality,train
+levle1_459.jpg,Level 1,ACCEPTED,Unique representative. Quality: high_quality,levle1_459.jpg,508.70,high_quality,train
+levle1_483.jpg,Level 1,ACCEPTED,Unique representative. Quality: high_quality,levle1_483.jpg,252.10,high_quality,train
+levle1_569.jpg,Level 1,ACCEPTED,Unique representative. Quality: high_quality,levle1_569.jpg,284.54,high_quality,train
+levle1_38.jpg,Level 1,ACCEPTED,Unique representative. Quality: high_quality,levle1_38.jpg,213.40,high_quality,train
+levle1_474.jpg,Level 1,ACCEPTED,Unique representative. Quality: high_quality,levle1_474.jpg,414.06,high_quality,train
+levle1_84.jpg,Level 1,ACCEPTED,Unique representative. Quality: usable,levle1_84.jpg,114.14,usable,train
+levle1_228.jpg,Level 1,ACCEPTED,Unique representative. Quality: high_quality,levle1_228.jpg,547.55,high_quality,train
+levle1_107.jpg,Level 1,ACCEPTED,Unique representative. Quality: borderline,levle1_107.jpg,40.72,borderline,train
+levle1_46.jpg,Level 1,ACCEPTED,Unique representative. Quality: usable,levle1_46.jpg,121.82,usable,train
+levle1_315.jpg,Level 1,ACCEPTED,Unique representative. Quality: high_quality,levle1_315.jpg,461.02,high_quality,train
+levle1_388.jpg,Level 1,ACCEPTED,Unique representative. Quality: high_quality,levle1_388.jpg,373.59,high_quality,train
+levle1_65.jpg,Level 1,ACCEPTED,Unique representative. Quality: high_quality,levle1_65.jpg,184.49,high_quality,train
+levle1_143.jpg,Level 1,ACCEPTED,Unique representative. Quality: high_quality,levle1_143.jpg,897.25,high_quality,train
+levle1_479.jpg,Level 1,ACCEPTED,Unique representative. Quality: high_quality,levle1_479.jpg,300.34,high_quality,train
+levle1_482.jpg,Level 1,ACCEPTED,Unique representative. Quality: usable,levle1_482.jpg,121.81,usable,train
+levle1_91.jpg,Level 1,ACCEPTED,Unique representative. Quality: usable,levle1_91.jpg,137.87,usable,train
+levle1_331.jpg,Level 1,ACCEPTED,Unique representative. Quality: high_quality,levle1_331.jpg,494.72,high_quality,train
+levle1_162.jpg,Level 1,ACCEPTED,Unique representative. Quality: high_quality,levle1_162.jpg,620.86,high_quality,train
+levle1_150.jpg,Level 1,ACCEPTED,Unique representative. Quality: high_quality,levle1_150.jpg,341.29,high_quality,train
+levle1_156.jpg,Level 1,ACCEPTED,Unique representative. Quality: high_quality,levle1_156.jpg,975.98,high_quality,train
+levle1_453.jpg,Level 1,ACCEPTED,Unique representative. Quality: usable,levle1_453.jpg,98.02,usable,train
+levle1_302.jpg,Level 1,ACCEPTED,Unique representative. Quality: high_quality,levle1_302.jpg,423.60,high_quality,train
+levle1_454.jpg,Level 1,ACCEPTED,Unique representative. Quality: high_quality,levle1_454.jpg,245.95,high_quality,train
+levle1_177.jpg,Level 1,ACCEPTED,Unique representative. Quality: high_quality,levle1_177.jpg,378.21,high_quality,train
+levle1_153.jpg,Level 1,ACCEPTED,Unique representative. Quality: high_quality,levle1_153.jpg,277.15,high_quality,train
+levle1_238.jpg,Level 1,ACCEPTED,Unique representative. Quality: high_quality,levle1_238.jpg,447.36,high_quality,train
+levle1_536.jpg,Level 1,ACCEPTED,Unique representative. Quality: high_quality,levle1_536.jpg,296.07,high_quality,train
+levle1_319.jpg,Level 1,ACCEPTED,Unique representative. Quality: high_quality,levle1_319.jpg,489.66,high_quality,train
+levle1_417.jpg,Level 1,ACCEPTED,Unique representative. Quality: high_quality,levle1_417.jpg,392.75,high_quality,train
+levle1_616.jpg,Level 1,ACCEPTED,Unique representative. Quality: high_quality,levle1_616.jpg,172.99,high_quality,train
+levle1_22.jpg,Level 1,ACCEPTED,Unique representative. Quality: high_quality,levle1_22.jpg,658.47,high_quality,train
+levle1_635.jpg,Level 1,ACCEPTED,Unique representative. Quality: high_quality,levle1_635.jpg,661.52,high_quality,train
+levle1_359.jpg,Level 1,ACCEPTED,Unique representative. Quality: usable,levle1_359.jpg,119.52,usable,train
+levle1_352.jpg,Level 1,ACCEPTED,Unique representative. Quality: high_quality,levle1_352.jpg,545.91,high_quality,train
+levle1_44.jpg,Level 1,ACCEPTED,Unique representative. Quality: high_quality,levle1_44.jpg,305.03,high_quality,train
+levle1_588.jpg,Level 1,ACCEPTED,Unique representative. Quality: high_quality,levle1_588.jpg,181.77,high_quality,train
+levle1_178.jpg,Level 1,ACCEPTED,Unique representative. Quality: high_quality,levle1_178.jpg,704.03,high_quality,train
+levle1_510.jpg,Level 1,ACCEPTED,Unique representative. Quality: high_quality,levle1_510.jpg,225.05,high_quality,train
+levle1_93.jpg,Level 1,ACCEPTED,Unique representative. Quality: usable,levle1_93.jpg,80.56,usable,train
+levle1_332.jpg,Level 1,ACCEPTED,Unique representative. Quality: high_quality,levle1_332.jpg,640.50,high_quality,train
+levle1_303.jpg,Level 1,ACCEPTED,Unique representative. Quality: high_quality,levle1_303.jpg,538.48,high_quality,train
+levle1_333.jpg,Level 1,ACCEPTED,Unique representative. Quality: high_quality,levle1_333.jpg,337.65,high_quality,train
+levle1_294.jpg,Level 1,ACCEPTED,Unique representative. Quality: high_quality,levle1_294.jpg,339.58,high_quality,train
+levle1_70.jpg,Level 1,ACCEPTED,Unique representative. Quality: borderline,levle1_70.jpg,31.66,borderline,train
+levle1_499.jpg,Level 1,ACCEPTED,Unique representative. Quality: high_quality,levle1_499.jpg,273.21,high_quality,train
+levle1_109.jpg,Level 1,ACCEPTED,Unique representative. Quality: high_quality,levle1_109.jpg,161.05,high_quality,train
+levle1_185.jpg,Level 1,ACCEPTED,Unique representative. Quality: usable,levle1_185.jpg,138.07,usable,train
+levle1_80.jpg,Level 1,ACCEPTED,Unique representative. Quality: borderline,levle1_80.jpg,48.40,borderline,train
+levle1_245.jpg,Level 1,ACCEPTED,Unique representative. Quality: high_quality,levle1_245.jpg,389.48,high_quality,train
+levle1_155.jpg,Level 1,ACCEPTED,Unique representative. Quality: high_quality,levle1_155.jpg,389.44,high_quality,train
+levle1_369.jpg,Level 1,ACCEPTED,Unique representative. Quality: high_quality,levle1_369.jpg,233.75,high_quality,train
+levle1_164.jpg,Level 1,ACCEPTED,Unique representative. Quality: high_quality,levle1_164.jpg,322.88,high_quality,train
+levle1_166.jpg,Level 1,ACCEPTED,Unique representative. Quality: high_quality,levle1_166.jpg,731.76,high_quality,train
+levle1_399.jpg,Level 1,ACCEPTED,Unique representative. Quality: borderline,levle1_399.jpg,30.82,borderline,train
+levle1_594.jpg,Level 1,ACCEPTED,Unique representative. Quality: high_quality,levle1_594.jpg,160.09,high_quality,train
+levle1_266.jpg,Level 1,ACCEPTED,Unique representative. Quality: high_quality,levle1_266.jpg,156.56,high_quality,train
+levle1_610.jpg,Level 1,ACCEPTED,Unique representative. Quality: high_quality,levle1_610.jpg,247.02,high_quality,train
+levle1_163.jpg,Level 1,ACCEPTED,Unique representative. Quality: high_quality,levle1_163.jpg,150.74,high_quality,train
+levle1_589.jpg,Level 1,ACCEPTED,Unique representative. Quality: high_quality,levle1_589.jpg,168.30,high_quality,train
+levle1_414.jpg,Level 1,ACCEPTED,Unique representative. Quality: high_quality,levle1_414.jpg,155.66,high_quality,train
+levle1_64.jpg,Level 1,ACCEPTED,Unique representative. Quality: high_quality,levle1_64.jpg,255.68,high_quality,train
+levle1_88.jpg,Level 1,ACCEPTED,Unique representative. Quality: borderline,levle1_88.jpg,43.02,borderline,train
+levle1_139.jpg,Level 1,ACCEPTED,Unique representative. Quality: high_quality,levle1_139.jpg,360.27,high_quality,train
+levle1_182.jpg,Level 1,ACCEPTED,Unique representative. Quality: high_quality,levle1_182.jpg,277.23,high_quality,train
+levle1_435.jpg,Level 1,ACCEPTED,Unique representative. Quality: high_quality,levle1_435.jpg,290.49,high_quality,train
+levle1_360.jpg,Level 1,ACCEPTED,Unique representative. Quality: usable,levle1_360.jpg,139.64,usable,train
+levle1_542.jpg,Level 1,ACCEPTED,Unique representative. Quality: high_quality,levle1_542.jpg,257.23,high_quality,train
+levle1_45.jpg,Level 1,ACCEPTED,Unique representative. Quality: high_quality,levle1_45.jpg,306.53,high_quality,train
+levle1_373.jpg,Level 1,ACCEPTED,Unique representative. Quality: high_quality,levle1_373.jpg,215.18,high_quality,train
+levle1_467.jpg,Level 1,ACCEPTED,Unique representative. Quality: high_quality,levle1_467.jpg,516.12,high_quality,train
+levle1_252.jpg,Level 1,ACCEPTED,Unique representative. Quality: high_quality,levle1_252.jpg,669.45,high_quality,train
+levle1_149.jpg,Level 1,ACCEPTED,Unique representative. Quality: high_quality,levle1_149.jpg,213.62,high_quality,train
+levle1_470.jpg,Level 1,ACCEPTED,Unique representative. Quality: high_quality,levle1_470.jpg,304.57,high_quality,train
+levle1_169.jpg,Level 1,ACCEPTED,Unique representative. Quality: high_quality,levle1_169.jpg,295.60,high_quality,train
+levle1_502.jpg,Level 1,ACCEPTED,Unique representative. Quality: high_quality,levle1_502.jpg,338.65,high_quality,train
+levle1_340.jpg,Level 1,ACCEPTED,Unique representative. Quality: borderline,levle1_340.jpg,59.96,borderline,train
+levle1_571.jpg,Level 1,ACCEPTED,Unique representative. Quality: high_quality,levle1_571.jpg,365.60,high_quality,train
+levle1_425.jpg,Level 1,ACCEPTED,Unique representative. Quality: high_quality,levle1_425.jpg,386.47,high_quality,train
+levle1_222.jpg,Level 1,ACCEPTED,Unique representative. Quality: high_quality,levle1_222.jpg,334.52,high_quality,train
+levle1_119.jpg,Level 1,ACCEPTED,Unique representative. Quality: usable,levle1_119.jpg,61.10,usable,train
+levle1_36.jpg,Level 1,ACCEPTED,Unique representative. Quality: high_quality,levle1_36.jpg,268.85,high_quality,train
+levle1_174.jpg,Level 1,ACCEPTED,Unique representative. Quality: high_quality,levle1_174.jpg,618.15,high_quality,train
+levle1_364.jpg,Level 1,ACCEPTED,Unique representative. Quality: usable,levle1_364.jpg,104.60,usable,train
+levle1_496.jpg,Level 1,ACCEPTED,Unique representative. Quality: high_quality,levle1_496.jpg,259.74,high_quality,train
+levle1_226.jpg,Level 1,ACCEPTED,Unique representative. Quality: usable,levle1_226.jpg,112.69,usable,train
+levle1_40.jpg,Level 1,ACCEPTED,Unique representative. Quality: high_quality,levle1_40.jpg,468.04,high_quality,train
+levle1_23.jpg,Level 1,ACCEPTED,Unique representative. Quality: borderline,levle1_23.jpg,60.00,borderline,train
+levle1_199.jpg,Level 1,ACCEPTED,Unique representative. Quality: high_quality,levle1_199.jpg,225.84,high_quality,train
+levle1_100.jpg,Level 1,ACCEPTED,Unique representative. Quality: usable,levle1_100.jpg,143.28,usable,train
+levle1_126.jpg,Level 1,ACCEPTED,Unique representative. Quality: high_quality,levle1_126.jpg,241.62,high_quality,train
+levle1_259.jpg,Level 1,ACCEPTED,Unique representative. Quality: usable,levle1_259.jpg,100.74,usable,train
+levle1_550.jpg,Level 1,ACCEPTED,Unique representative. Quality: usable,levle1_550.jpg,130.45,usable,train
+levle1_430.jpg,Level 1,ACCEPTED,Unique representative. Quality: high_quality,levle1_430.jpg,366.64,high_quality,train
+levle1_317.jpg,Level 1,ACCEPTED,Unique representative. Quality: high_quality,levle1_317.jpg,296.85,high_quality,train
+levle1_231.jpg,Level 1,ACCEPTED,Unique representative. Quality: high_quality,levle1_231.jpg,459.76,high_quality,train
+levle1_69.jpg,Level 1,ACCEPTED,Unique representative. Quality: high_quality,levle1_69.jpg,380.02,high_quality,train
+levle1_306.jpg,Level 1,ACCEPTED,Unique representative. Quality: high_quality,levle1_306.jpg,885.06,high_quality,train
+levle1_135.jpg,Level 1,ACCEPTED,Unique representative. Quality: high_quality,levle1_135.jpg,333.83,high_quality,train
+levle1_368.jpg,Level 1,ACCEPTED,Unique representative. Quality: high_quality,levle1_368.jpg,295.70,high_quality,train
+levle1_112.jpg,Level 1,ACCEPTED,Unique representative. Quality: usable,levle1_112.jpg,129.22,usable,train
+levle1_121.jpg,Level 1,ACCEPTED,Unique representative. Quality: usable,levle1_121.jpg,71.04,usable,train
+levle1_227.jpg,Level 1,ACCEPTED,Unique representative. Quality: high_quality,levle1_227.jpg,554.91,high_quality,train
+levle1_310.jpg,Level 1,ACCEPTED,Unique representative. Quality: usable,levle1_310.jpg,141.58,usable,train
+levle1_549.jpg,Level 1,ACCEPTED,Unique representative. Quality: high_quality,levle1_549.jpg,159.78,high_quality,train
+levle1_376.jpg,Level 1,ACCEPTED,Unique representative. Quality: high_quality,levle1_376.jpg,773.84,high_quality,train
+levle1_87.jpg,Level 1,ACCEPTED,Unique representative. Quality: borderline,levle1_87.jpg,35.62,borderline,train
+levle1_262.jpg,Level 1,ACCEPTED,Unique representative. Quality: borderline,levle1_262.jpg,44.19,borderline,train
+levle1_537.jpg,Level 1,ACCEPTED,Unique representative. Quality: high_quality,levle1_537.jpg,716.03,high_quality,train
+levle1_581.jpg,Level 1,ACCEPTED,Unique representative. Quality: high_quality,levle1_581.jpg,191.96,high_quality,train
+levle1_552.jpg,Level 1,ACCEPTED,Unique representative. Quality: high_quality,levle1_552.jpg,590.28,high_quality,train
+levle1_349.jpg,Level 1,ACCEPTED,Unique representative. Quality: high_quality,levle1_349.jpg,448.83,high_quality,train
+levle1_128.jpg,Level 1,ACCEPTED,Unique representative. Quality: high_quality,levle1_128.jpg,192.59,high_quality,train
+levle1_400.jpg,Level 1,ACCEPTED,Unique representative. Quality: borderline,levle1_400.jpg,31.72,borderline,train
+levle1_96.jpg,Level 1,ACCEPTED,Unique representative. Quality: borderline,levle1_96.jpg,26.28,borderline,train
+levle1_449.jpg,Level 1,ACCEPTED,Unique representative. Quality: high_quality,levle1_449.jpg,761.72,high_quality,train
+levle1_101.jpg,Level 1,ACCEPTED,Unique representative. Quality: borderline,levle1_101.jpg,22.46,borderline,train
+levle1_184.jpg,Level 1,ACCEPTED,Unique representative. Quality: usable,levle1_184.jpg,124.59,usable,train
+levle1_43.jpg,Level 1,ACCEPTED,Unique representative. Quality: high_quality,levle1_43.jpg,396.66,high_quality,train
+levle1_257.jpg,Level 1,ACCEPTED,Unique representative. Quality: borderline,levle1_257.jpg,56.02,borderline,train
+levle1_481.jpg,Level 1,ACCEPTED,Unique representative. Quality: usable,levle1_481.jpg,87.68,usable,train
+levle1_116.jpg,Level 1,ACCEPTED,Unique representative. Quality: borderline,levle1_116.jpg,24.86,borderline,train
+levle1_104.jpg,Level 1,ACCEPTED,Unique representative. Quality: borderline,levle1_104.jpg,55.66,borderline,train
+levle1_72.jpg,Level 1,ACCEPTED,Unique representative. Quality: borderline,levle1_72.jpg,34.24,borderline,train
+levle1_314.jpg,Level 1,ACCEPTED,Unique representative. Quality: usable,levle1_314.jpg,127.04,usable,train
+levle1_538.jpg,Level 1,ACCEPTED,Unique representative. Quality: high_quality,levle1_538.jpg,583.82,high_quality,train
+levle1_293.jpg,Level 1,ACCEPTED,Unique representative. Quality: high_quality,levle1_293.jpg,178.19,high_quality,train
+levle1_512.jpg,Level 1,ACCEPTED,Unique representative. Quality: high_quality,levle1_512.jpg,239.40,high_quality,train
+levle1_444.jpg,Level 1,ACCEPTED,Unique representative. Quality: high_quality,levle1_444.jpg,380.39,high_quality,train
+levle1_345.jpg,Level 1,ACCEPTED,Unique representative. Quality: high_quality,levle1_345.jpg,166.77,high_quality,train
+levle1_367.jpg,Level 1,ACCEPTED,Unique representative. Quality: high_quality,levle1_367.jpg,343.85,high_quality,valid
+levle1_159.jpg,Level 1,ACCEPTED,Unique representative. Quality: high_quality,levle1_159.jpg,511.68,high_quality,valid
+levle1_218.jpg,Level 1,ACCEPTED,Unique representative. Quality: high_quality,levle1_218.jpg,235.30,high_quality,valid
+levle1_380.jpg,Level 1,ACCEPTED,Unique representative. Quality: high_quality,levle1_380.jpg,413.65,high_quality,valid
+levle1_527.jpg,Level 1,ACCEPTED,Unique representative. Quality: high_quality,levle1_527.jpg,353.31,high_quality,valid
+levle1_530.jpg,Level 1,ACCEPTED,Unique representative. Quality: usable,levle1_530.jpg,123.59,usable,valid
+levle1_186.jpg,Level 1,ACCEPTED,Unique representative. Quality: usable,levle1_186.jpg,129.92,usable,valid
+levle1_183.jpg,Level 1,ACCEPTED,Unique representative. Quality: high_quality,levle1_183.jpg,366.89,high_quality,valid
+levle1_136.jpg,Level 1,ACCEPTED,Unique representative. Quality: high_quality,levle1_136.jpg,385.91,high_quality,valid
+levle1_309.jpg,Level 1,ACCEPTED,Unique representative. Quality: high_quality,levle1_309.jpg,206.54,high_quality,valid
+levle1_390.jpg,Level 1,ACCEPTED,Unique representative. Quality: high_quality,levle1_390.jpg,688.78,high_quality,valid
+levle1_120.jpg,Level 1,ACCEPTED,Unique representative. Quality: usable,levle1_120.jpg,88.64,usable,valid
+levle1_465.jpg,Level 1,ACCEPTED,Unique representative. Quality: high_quality,levle1_465.jpg,306.09,high_quality,valid
+levle1_608.jpg,Level 1,ACCEPTED,Unique representative. Quality: high_quality,levle1_608.jpg,464.94,high_quality,valid
+levle1_543.jpg,Level 1,ACCEPTED,Unique representative. Quality: usable,levle1_543.jpg,129.91,usable,valid
+levle1_592.jpg,Level 1,ACCEPTED,Unique representative. Quality: high_quality,levle1_592.jpg,268.10,high_quality,valid
+levle1_548.jpg,Level 1,ACCEPTED,Unique representative. Quality: high_quality,levle1_548.jpg,154.59,high_quality,valid
+levle1_495.jpg,Level 1,ACCEPTED,Unique representative. Quality: high_quality,levle1_495.jpg,243.00,high_quality,valid
+levle1_16.jpg,Level 1,ACCEPTED,Unique representative. Quality: high_quality,levle1_16.jpg,337.65,high_quality,valid
+levle1_627.jpg,Level 1,ACCEPTED,Unique representative. Quality: usable,levle1_627.jpg,93.87,usable,valid
+levle1_555.jpg,Level 1,ACCEPTED,Unique representative. Quality: high_quality,levle1_555.jpg,179.14,high_quality,valid
+levle1_329.jpg,Level 1,ACCEPTED,Unique representative. Quality: high_quality,levle1_329.jpg,185.72,high_quality,valid
+levle1_456.jpg,Level 1,ACCEPTED,Unique representative. Quality: usable,levle1_456.jpg,94.71,usable,valid
+levle1_61.jpg,Level 1,ACCEPTED,Unique representative. Quality: borderline,levle1_61.jpg,22.62,borderline,valid
+levle1_312.jpg,Level 1,ACCEPTED,Unique representative. Quality: high_quality,levle1_312.jpg,325.38,high_quality,valid
+levle1_389.jpg,Level 1,ACCEPTED,Unique representative. Quality: high_quality,levle1_389.jpg,284.94,high_quality,valid
+levle1_287.jpg,Level 1,ACCEPTED,Unique representative. Quality: high_quality,levle1_287.jpg,406.66,high_quality,valid
+levle1_631.jpg,Level 1,ACCEPTED,Unique representative. Quality: borderline,levle1_631.jpg,39.50,borderline,valid
+levle1_37.jpg,Level 1,ACCEPTED,Unique representative. Quality: high_quality,levle1_37.jpg,245.85,high_quality,valid
+levle1_563.jpg,Level 1,ACCEPTED,Unique representative. Quality: high_quality,levle1_563.jpg,537.57,high_quality,valid
+levle1_568.jpg,Level 1,ACCEPTED,Unique representative. Quality: high_quality,levle1_568.jpg,428.80,high_quality,valid
+levle1_534.jpg,Level 1,ACCEPTED,Unique representative. Quality: borderline,levle1_534.jpg,44.71,borderline,valid
+levle1_85.jpg,Level 1,ACCEPTED,Unique representative. Quality: borderline,levle1_85.jpg,44.97,borderline,valid
+levle1_556.jpg,Level 1,ACCEPTED,Unique representative. Quality: high_quality,levle1_556.jpg,731.34,high_quality,valid
+levle1_157.jpg,Level 1,ACCEPTED,Unique representative. Quality: high_quality,levle1_157.jpg,440.09,high_quality,valid
+levle1_95.jpg,Level 1,ACCEPTED,Unique representative. Quality: borderline,levle1_95.jpg,31.04,borderline,valid
+levle1_272.jpg,Level 1,ACCEPTED,Unique representative. Quality: high_quality,levle1_272.jpg,402.36,high_quality,valid
+levle1_134.jpg,Level 1,ACCEPTED,Unique representative. Quality: usable,levle1_134.jpg,136.11,usable,valid
+levle1_573.jpg,Level 1,ACCEPTED,Unique representative. Quality: high_quality,levle1_573.jpg,393.52,high_quality,valid
+levle1_478.jpg,Level 1,ACCEPTED,Unique representative. Quality: high_quality,levle1_478.jpg,543.04,high_quality,valid
+levle1_328.jpg,Level 1,ACCEPTED,Unique representative. Quality: high_quality,levle1_328.jpg,212.48,high_quality,valid
+levle1_179.jpg,Level 1,ACCEPTED,Unique representative. Quality: high_quality,levle1_179.jpg,172.91,high_quality,valid
+levle1_411.jpg,Level 1,ACCEPTED,Unique representative. Quality: high_quality,levle1_411.jpg,302.50,high_quality,valid
+levle1_76.jpg,Level 1,ACCEPTED,Unique representative. Quality: borderline,levle1_76.jpg,43.76,borderline,valid
+levle1_283.jpg,Level 1,ACCEPTED,Unique representative. Quality: high_quality,levle1_283.jpg,538.64,high_quality,valid
+levle1_622.jpg,Level 1,ACCEPTED,Unique representative. Quality: high_quality,levle1_622.jpg,226.48,high_quality,valid
+levle1_247.jpg,Level 1,ACCEPTED,Unique representative. Quality: high_quality,levle1_247.jpg,514.93,high_quality,valid
+levle1_30.jpg,Level 1,ACCEPTED,Unique representative. Quality: borderline,levle1_30.jpg,55.90,borderline,valid
+levle1_344.jpg,Level 1,ACCEPTED,Unique representative. Quality: usable,levle1_344.jpg,86.65,usable,valid
+levle1_547.jpg,Level 1,ACCEPTED,Unique representative. Quality: usable,levle1_547.jpg,109.25,usable,valid
+levle1_434.jpg,Level 1,ACCEPTED,Unique representative. Quality: high_quality,levle1_434.jpg,430.24,high_quality,valid
+levle1_60.jpg,Level 1,ACCEPTED,Unique representative. Quality: borderline,levle1_60.jpg,20.41,borderline,valid
+levle1_113.jpg,Level 1,ACCEPTED,Unique representative. Quality: borderline,levle1_113.jpg,54.40,borderline,test
+levle1_29.jpg,Level 1,ACCEPTED,Unique representative. Quality: borderline,levle1_29.jpg,20.15,borderline,test
+levle1_586.jpg,Level 1,ACCEPTED,Unique representative. Quality: high_quality,levle1_586.jpg,337.64,high_quality,test
+levle1_170.jpg,Level 1,ACCEPTED,Unique representative. Quality: high_quality,levle1_170.jpg,342.19,high_quality,test
+levle1_42.jpg,Level 1,ACCEPTED,Unique representative. Quality: high_quality,levle1_42.jpg,361.83,high_quality,test
+levle1_273.jpg,Level 1,ACCEPTED,Unique representative. Quality: high_quality,levle1_273.jpg,284.96,high_quality,test
+levle1_129.jpg,Level 1,ACCEPTED,Unique representative. Quality: high_quality,levle1_129.jpg,376.39,high_quality,test
+levle1_131.jpg,Level 1,ACCEPTED,Unique representative. Quality: borderline,levle1_131.jpg,21.82,borderline,test
+levle1_235.jpg,Level 1,ACCEPTED,Unique representative. Quality: high_quality,levle1_235.jpg,346.64,high_quality,test
+levle1_140.jpg,Level 1,ACCEPTED,Unique representative. Quality: high_quality,levle1_140.jpg,251.16,high_quality,test
+levle1_535.jpg,Level 1,ACCEPTED,Unique representative. Quality: high_quality,levle1_535.jpg,604.46,high_quality,test
+levle1_620.jpg,Level 1,ACCEPTED,Unique representative. Quality: high_quality,levle1_620.jpg,292.39,high_quality,test
+levle1_204.jpg,Level 1,ACCEPTED,Unique representative. Quality: high_quality,levle1_204.jpg,496.49,high_quality,test
+levle1_551.jpg,Level 1,ACCEPTED,Unique representative. Quality: usable,levle1_551.jpg,111.79,usable,test
+levle1_529.jpg,Level 1,ACCEPTED,Unique representative. Quality: high_quality,levle1_529.jpg,170.76,high_quality,test
+levle1_500.jpg,Level 1,ACCEPTED,Unique representative. Quality: high_quality,levle1_500.jpg,539.56,high_quality,test
+levle1_600.jpg,Level 1,ACCEPTED,Unique representative. Quality: high_quality,levle1_600.jpg,218.94,high_quality,test
+levle1_99.jpg,Level 1,ACCEPTED,Unique representative. Quality: usable,levle1_99.jpg,127.20,usable,test
+levle1_634.jpg,Level 1,ACCEPTED,Unique representative. Quality: high_quality,levle1_634.jpg,192.27,high_quality,test
+levle1_343.jpg,Level 1,ACCEPTED,Unique representative. Quality: high_quality,levle1_343.jpg,426.10,high_quality,test
+levle1_124.jpg,Level 1,ACCEPTED,Unique representative. Quality: borderline,levle1_124.jpg,33.72,borderline,test
+levle1_560.jpg,Level 1,ACCEPTED,Unique representative. Quality: high_quality,levle1_560.jpg,198.63,high_quality,test
+levle1_593.jpg,Level 1,ACCEPTED,Unique representative. Quality: high_quality,levle1_593.jpg,298.38,high_quality,test
+levle1_122.jpg,Level 1,ACCEPTED,Unique representative. Quality: usable,levle1_122.jpg,74.83,usable,test
+levle1_260.jpg,Level 1,ACCEPTED,Unique representative. Quality: borderline,levle1_260.jpg,35.85,borderline,test
+levle1_321.jpg,Level 1,ACCEPTED,Unique representative. Quality: high_quality,levle1_321.jpg,1037.14,high_quality,test
+levle1_237.jpg,Level 1,ACCEPTED,Unique representative. Quality: high_quality,levle1_237.jpg,602.57,high_quality,test
+levle1_20.jpg,Level 1,ACCEPTED,Unique representative. Quality: high_quality,levle1_20.jpg,219.54,high_quality,test
+levle1_51.jpg,Level 1,ACCEPTED,Unique representative. Quality: high_quality,levle1_51.jpg,359.72,high_quality,test
+levle1_572.jpg,Level 1,ACCEPTED,Unique representative. Quality: high_quality,levle1_572.jpg,392.47,high_quality,test
+levle1_439.jpg,Level 1,ACCEPTED,Unique representative. Quality: high_quality,levle1_439.jpg,178.97,high_quality,test
+levle1_313.jpg,Level 1,ACCEPTED,Unique representative. Quality: high_quality,levle1_313.jpg,151.62,high_quality,test
+levle1_475.jpg,Level 1,ACCEPTED,Unique representative. Quality: high_quality,levle1_475.jpg,484.40,high_quality,test
+levle1_301.jpg,Level 1,ACCEPTED,Unique representative. Quality: high_quality,levle1_301.jpg,256.64,high_quality,test
+levle1_405.jpg,Level 1,ACCEPTED,Unique representative. Quality: high_quality,levle1_405.jpg,519.21,high_quality,test
+levle1_353.jpg,Level 1,ACCEPTED,Unique representative. Quality: high_quality,levle1_353.jpg,806.15,high_quality,test
+levle1_398.jpg,Level 1,ACCEPTED,Unique representative. Quality: borderline,levle1_398.jpg,23.96,borderline,test
+levle1_211.jpg,Level 1,ACCEPTED,Unique representative. Quality: high_quality,levle1_211.jpg,511.21,high_quality,test
+levle1_123.jpg,Level 1,ACCEPTED,Unique representative. Quality: borderline,levle1_123.jpg,56.08,borderline,test
+levle1_418.jpg,Level 1,ACCEPTED,Unique representative. Quality: high_quality,levle1_418.jpg,268.07,high_quality,test
+levle1_258.jpg,Level 1,ACCEPTED,Unique representative. Quality: usable,levle1_258.jpg,104.70,usable,test
+levle1_505.jpg,Level 1,ACCEPTED,Unique representative. Quality: high_quality,levle1_505.jpg,518.48,high_quality,test
+levle1_508.jpg,Level 1,ACCEPTED,Unique representative. Quality: high_quality,levle1_508.jpg,756.33,high_quality,test
+levle1_422.jpg,Level 1,ACCEPTED,Unique representative. Quality: high_quality,levle1_422.jpg,723.93,high_quality,test
+levle1_213.jpg,Level 1,ACCEPTED,Unique representative. Quality: high_quality,levle1_213.jpg,545.83,high_quality,test
+levle1_275.jpg,Level 1,ACCEPTED,Unique representative. Quality: usable,levle1_275.jpg,85.04,usable,test
+levle1_152.jpg,Level 1,ACCEPTED,Unique representative. Quality: high_quality,levle1_152.jpg,426.13,high_quality,test
+levle1_401.jpg,Level 1,ACCEPTED,Unique representative. Quality: high_quality,levle1_401.jpg,822.19,high_quality,test
+levle1_558.jpg,Level 1,ACCEPTED,Unique representative. Quality: high_quality,levle1_558.jpg,225.15,high_quality,test
+levle1_90.jpg,Level 1,ACCEPTED,Unique representative. Quality: usable,levle1_90.jpg,86.95,usable,test
+levle1_118.jpg,Level 1,ACCEPTED,Unique representative. Quality: usable,levle1_118.jpg,130.93,usable,test
+levle2_18.jpg,Level 2,ACCEPTED,Unique representative. Quality: borderline,levle2_18.jpg,29.89,borderline,train
+levle2_57.jpg,Level 2,ACCEPTED,Unique representative. Quality: usable,levle2_57.jpg,84.93,usable,train
+levle2_126.jpg,Level 2,ACCEPTED,Unique representative. Quality: high_quality,levle2_126.jpg,390.69,high_quality,train
+levle2_161.jpg,Level 2,ACCEPTED,Unique representative. Quality: high_quality,levle2_161.jpg,589.55,high_quality,train
+levle2_138.jpg,Level 2,ACCEPTED,Unique representative. Quality: usable,levle2_138.jpg,102.92,usable,train
+levle2_106.jpg,Level 2,ACCEPTED,Unique representative. Quality: high_quality,levle2_106.jpg,453.37,high_quality,train
+levle2_50.jpg,Level 2,ACCEPTED,Unique representative. Quality: borderline,levle2_50.jpg,53.83,borderline,train
+levle2_79.jpg,Level 2,ACCEPTED,Unique representative. Quality: high_quality,levle2_79.jpg,184.95,high_quality,train
+levle2_30.jpg,Level 2,ACCEPTED,Unique representative. Quality: borderline,levle2_30.jpg,49.00,borderline,train
+levle2_110.jpg,Level 2,ACCEPTED,Unique representative. Quality: high_quality,levle2_110.jpg,726.75,high_quality,train
+levle2_120.jpg,Level 2,ACCEPTED,Unique representative. Quality: usable,levle2_120.jpg,101.16,usable,train
+levle2_54.jpg,Level 2,ACCEPTED,Unique representative. Quality: usable,levle2_54.jpg,83.23,usable,train
+levle2_61.jpg,Level 2,ACCEPTED,Unique representative. Quality: borderline,levle2_61.jpg,24.81,borderline,train
+levle2_44.jpg,Level 2,ACCEPTED,Unique representative. Quality: high_quality,levle2_44.jpg,288.48,high_quality,train
+levle2_122.jpg,Level 2,ACCEPTED,Unique representative. Quality: high_quality,levle2_122.jpg,337.00,high_quality,train
+levle2_24.jpg,Level 2,ACCEPTED,Unique representative. Quality: borderline,levle2_24.jpg,16.01,borderline,train
+levle2_113.jpg,Level 2,ACCEPTED,Unique representative. Quality: high_quality,levle2_113.jpg,668.53,high_quality,train
+levle2_170.jpg,Level 2,ACCEPTED,Unique representative. Quality: high_quality,levle2_170.jpg,652.70,high_quality,train
+levle2_66.jpg,Level 2,ACCEPTED,Unique representative. Quality: borderline,levle2_66.jpg,39.83,borderline,train
+levle2_135.jpg,Level 2,ACCEPTED,Unique representative. Quality: high_quality,levle2_135.jpg,251.58,high_quality,train
+levle2_141.jpg,Level 2,ACCEPTED,Unique representative. Quality: borderline,levle2_141.jpg,19.27,borderline,train
+levle2_158.jpg,Level 2,ACCEPTED,Unique representative. Quality: high_quality,levle2_158.jpg,451.70,high_quality,train
+levle2_100.jpg,Level 2,ACCEPTED,Unique representative. Quality: high_quality,levle2_100.jpg,485.97,high_quality,train
+levle2_177.jpg,Level 2,ACCEPTED,Unique representative. Quality: high_quality,levle2_177.jpg,492.41,high_quality,train
+levle2_112.jpg,Level 2,ACCEPTED,Unique representative. Quality: high_quality,levle2_112.jpg,768.83,high_quality,train
+levle2_174.jpg,Level 2,ACCEPTED,Unique representative. Quality: high_quality,levle2_174.jpg,613.74,high_quality,train
+levle2_165.jpg,Level 2,ACCEPTED,Unique representative. Quality: high_quality,levle2_165.jpg,291.58,high_quality,train
+levle2_164.jpg,Level 2,ACCEPTED,Unique representative. Quality: high_quality,levle2_164.jpg,483.62,high_quality,train
+levle2_46.jpg,Level 2,ACCEPTED,Unique representative. Quality: usable,levle2_46.jpg,128.41,usable,train
+levle2_190.jpg,Level 2,ACCEPTED,Unique representative. Quality: usable,levle2_190.jpg,118.13,usable,train
+levle2_182.jpg,Level 2,ACCEPTED,Unique representative. Quality: high_quality,levle2_182.jpg,275.63,high_quality,train
+levle2_53.jpg,Level 2,ACCEPTED,Unique representative. Quality: usable,levle2_53.jpg,89.65,usable,train
+levle2_1.jpg,Level 2,ACCEPTED,Unique representative. Quality: borderline,levle2_1.jpg,15.11,borderline,train
+levle2_169.jpg,Level 2,ACCEPTED,Unique representative. Quality: high_quality,levle2_169.jpg,534.58,high_quality,train
+levle2_98.jpg,Level 2,ACCEPTED,Unique representative. Quality: high_quality,levle2_98.jpg,423.17,high_quality,train
+levle2_189.jpg,Level 2,ACCEPTED,Unique representative. Quality: usable,levle2_189.jpg,64.03,usable,train
+levle2_68.jpg,Level 2,ACCEPTED,Unique representative. Quality: borderline,levle2_68.jpg,58.61,borderline,train
+levle2_71.jpg,Level 2,ACCEPTED,Unique representative. Quality: high_quality,levle2_71.jpg,259.69,high_quality,train
+levle2_82.jpg,Level 2,ACCEPTED,Unique representative. Quality: high_quality,levle2_82.jpg,289.74,high_quality,train
+levle2_94.jpg,Level 2,ACCEPTED,Unique representative. Quality: high_quality,levle2_94.jpg,214.28,high_quality,train
+levle2_145.jpg,Level 2,ACCEPTED,Unique representative. Quality: high_quality,levle2_145.jpg,307.94,high_quality,train
+levle2_136.jpg,Level 2,ACCEPTED,Unique representative. Quality: high_quality,levle2_136.jpg,319.97,high_quality,train
+levle2_48.jpg,Level 2,ACCEPTED,Unique representative. Quality: borderline,levle2_48.jpg,54.09,borderline,train
+levle2_114.jpg,Level 2,ACCEPTED,Unique representative. Quality: high_quality,levle2_114.jpg,184.77,high_quality,train
+levle2_55.jpg,Level 2,ACCEPTED,Unique representative. Quality: high_quality,levle2_55.jpg,189.60,high_quality,train
+levle2_78.jpg,Level 2,ACCEPTED,Unique representative. Quality: high_quality,levle2_78.jpg,235.06,high_quality,train
+levle2_88.jpg,Level 2,ACCEPTED,Unique representative. Quality: usable,levle2_88.jpg,78.50,usable,train
+levle2_58.jpg,Level 2,ACCEPTED,Unique representative. Quality: usable,levle2_58.jpg,116.81,usable,train
+levle2_163.jpg,Level 2,ACCEPTED,Unique representative. Quality: high_quality,levle2_163.jpg,355.80,high_quality,train
+levle2_115.jpg,Level 2,ACCEPTED,Unique representative. Quality: high_quality,levle2_115.jpg,309.26,high_quality,train
+levle2_176.jpg,Level 2,ACCEPTED,Unique representative. Quality: high_quality,levle2_176.jpg,560.24,high_quality,train
+levle2_35.jpg,Level 2,ACCEPTED,Unique representative. Quality: usable,levle2_35.jpg,148.25,usable,train
+levle2_43.jpg,Level 2,ACCEPTED,Unique representative. Quality: high_quality,levle2_43.jpg,256.83,high_quality,train
+levle2_64.jpg,Level 2,ACCEPTED,Unique representative. Quality: usable,levle2_64.jpg,75.83,usable,train
+levle2_26.jpg,Level 2,ACCEPTED,Unique representative. Quality: borderline,levle2_26.jpg,39.00,borderline,train
+levle2_166.jpg,Level 2,ACCEPTED,Unique representative. Quality: high_quality,levle2_166.jpg,440.06,high_quality,train
+levle2_60.jpg,Level 2,ACCEPTED,Unique representative. Quality: borderline,levle2_60.jpg,55.33,borderline,train
+levle2_65.jpg,Level 2,ACCEPTED,Unique representative. Quality: borderline,levle2_65.jpg,35.93,borderline,train
+levle2_45.jpg,Level 2,ACCEPTED,Unique representative. Quality: borderline,levle2_45.jpg,26.85,borderline,train
+levle2_42.jpg,Level 2,ACCEPTED,Unique representative. Quality: high_quality,levle2_42.jpg,275.77,high_quality,train
+levle2_143.jpg,Level 2,ACCEPTED,Unique representative. Quality: borderline,levle2_143.jpg,43.25,borderline,train
+levle2_56.jpg,Level 2,ACCEPTED,Unique representative. Quality: high_quality,levle2_56.jpg,216.63,high_quality,train
+levle2_8.jpg,Level 2,ACCEPTED,Unique representative. Quality: borderline,levle2_8.jpg,40.49,borderline,valid
+levle2_20.jpg,Level 2,ACCEPTED,Unique representative. Quality: borderline,levle2_20.jpg,15.29,borderline,valid
+levle2_83.jpg,Level 2,ACCEPTED,Unique representative. Quality: high_quality,levle2_83.jpg,446.42,high_quality,valid
+levle2_49.jpg,Level 2,ACCEPTED,Unique representative. Quality: usable,levle2_49.jpg,94.99,usable,valid
+levle2_27.jpg,Level 2,ACCEPTED,Unique representative. Quality: high_quality,levle2_27.jpg,167.13,high_quality,valid
+levle2_156.jpg,Level 2,ACCEPTED,Unique representative. Quality: high_quality,levle2_156.jpg,375.38,high_quality,valid
+levle2_81.jpg,Level 2,ACCEPTED,Unique representative. Quality: high_quality,levle2_81.jpg,419.85,high_quality,valid
+levle2_62.jpg,Level 2,ACCEPTED,Unique representative. Quality: borderline,levle2_62.jpg,41.66,borderline,valid
+levle2_146.jpg,Level 2,ACCEPTED,Unique representative. Quality: high_quality,levle2_146.jpg,191.61,high_quality,valid
+levle2_101.jpg,Level 2,ACCEPTED,Unique representative. Quality: high_quality,levle2_101.jpg,207.11,high_quality,valid
+levle2_69.jpg,Level 2,ACCEPTED,Unique representative. Quality: borderline,levle2_69.jpg,35.29,borderline,valid
+levle2_47.jpg,Level 2,ACCEPTED,Unique representative. Quality: borderline,levle2_47.jpg,20.84,borderline,valid
+levle2_95.jpg,Level 2,ACCEPTED,Unique representative. Quality: borderline,levle2_95.jpg,48.32,borderline,valid
+levle2_99.jpg,Level 2,ACCEPTED,Unique representative. Quality: high_quality,levle2_99.jpg,845.23,high_quality,test
+levle2_39.jpg,Level 2,ACCEPTED,Unique representative. Quality: borderline,levle2_39.jpg,49.23,borderline,test
+levle2_41.jpg,Level 2,ACCEPTED,Unique representative. Quality: high_quality,levle2_41.jpg,186.64,high_quality,test
+levle2_105.jpg,Level 2,ACCEPTED,Unique representative. Quality: high_quality,levle2_105.jpg,364.72,high_quality,test
+levle2_149.jpg,Level 2,ACCEPTED,Unique representative. Quality: high_quality,levle2_149.jpg,241.04,high_quality,test
+levle2_87.jpg,Level 2,ACCEPTED,Unique representative. Quality: high_quality,levle2_87.jpg,607.63,high_quality,test
+levle2_28.jpg,Level 2,ACCEPTED,Unique representative. Quality: high_quality,levle2_28.jpg,195.22,high_quality,test
+levle2_159.jpg,Level 2,ACCEPTED,Unique representative. Quality: high_quality,levle2_159.jpg,356.41,high_quality,test
+levle2_130.jpg,Level 2,ACCEPTED,Unique representative. Quality: high_quality,levle2_130.jpg,490.78,high_quality,test
+levle2_125.jpg,Level 2,ACCEPTED,Unique representative. Quality: high_quality,levle2_125.jpg,230.13,high_quality,test
+levle2_108.jpg,Level 2,ACCEPTED,Unique representative. Quality: high_quality,levle2_108.jpg,459.69,high_quality,test
+levle2_59.jpg,Level 2,ACCEPTED,Unique representative. Quality: borderline,levle2_59.jpg,41.40,borderline,test
+levle2_179.jpg,Level 2,ACCEPTED,Unique representative. Quality: high_quality,levle2_179.jpg,205.62,high_quality,test
+levle2_181.jpg,Level 2,ACCEPTED,Unique representative. Quality: high_quality,levle2_181.jpg,222.53,high_quality,test
+levle3_112.jpg,Level 3,ACCEPTED,Unique representative. Quality: usable,levle3_112.jpg,78.31,usable,train
+levle3_50.jpg,Level 3,ACCEPTED,Unique representative. Quality: borderline,levle3_50.jpg,44.84,borderline,train
+levle3_92.jpg,Level 3,ACCEPTED,Unique representative. Quality: borderline,levle3_92.jpg,19.17,borderline,train
+levle3_3.jpg,Level 3,ACCEPTED,Unique representative. Quality: borderline,levle3_3.jpg,22.08,borderline,train
+levle3_80.jpg,Level 3,ACCEPTED,Unique representative. Quality: borderline,levle3_80.jpg,16.13,borderline,train
+levle3_54.jpg,Level 3,ACCEPTED,Unique representative. Quality: borderline,levle3_54.jpg,34.06,borderline,train
+levle3_96.jpg,Level 3,ACCEPTED,Unique representative. Quality: borderline,levle3_96.jpg,25.90,borderline,train
+levle3_51.jpg,Level 3,ACCEPTED,Unique representative. Quality: borderline,levle3_51.jpg,35.29,borderline,train
+levle3_1.jpg,Level 3,ACCEPTED,Unique representative. Quality: borderline,levle3_1.jpg,16.81,borderline,train
+levle3_94.jpg,Level 3,ACCEPTED,Unique representative. Quality: borderline,levle3_94.jpg,51.84,borderline,train
+levle3_131.jpg,Level 3,ACCEPTED,Unique representative. Quality: high_quality,levle3_131.jpg,417.49,high_quality,train
+levle3_93.jpg,Level 3,ACCEPTED,Unique representative. Quality: borderline,levle3_93.jpg,45.49,borderline,train
+levle3_143.jpg,Level 3,ACCEPTED,Unique representative. Quality: usable,levle3_143.jpg,143.81,usable,train
+levle3_113.jpg,Level 3,ACCEPTED,Unique representative. Quality: borderline,levle3_113.jpg,53.01,borderline,train
+levle3_88.jpg,Level 3,ACCEPTED,Unique representative. Quality: usable,levle3_88.jpg,88.63,usable,train
+levle3_91.jpg,Level 3,ACCEPTED,Unique representative. Quality: borderline,levle3_91.jpg,17.09,borderline,train
+levle3_122.jpg,Level 3,ACCEPTED,Unique representative. Quality: borderline,levle3_122.jpg,16.07,borderline,train
+levle3_67.jpg,Level 3,ACCEPTED,Unique representative. Quality: borderline,levle3_67.jpg,45.31,borderline,train
+levle3_5.jpg,Level 3,ACCEPTED,Unique representative. Quality: borderline,levle3_5.jpg,33.30,borderline,train
+levle3_40.jpg,Level 3,ACCEPTED,Unique representative. Quality: borderline,levle3_40.jpg,25.47,borderline,train
+levle3_66.jpg,Level 3,ACCEPTED,Unique representative. Quality: borderline,levle3_66.jpg,41.58,borderline,train
+levle3_95.jpg,Level 3,ACCEPTED,Unique representative. Quality: borderline,levle3_95.jpg,22.27,borderline,train
+levle3_111.jpg,Level 3,ACCEPTED,Unique representative. Quality: usable,levle3_111.jpg,63.76,usable,train
+levle3_74.jpg,Level 3,ACCEPTED,Unique representative. Quality: high_quality,levle3_74.jpg,254.94,high_quality,train
+levle3_25.jpg,Level 3,ACCEPTED,Unique representative. Quality: borderline,levle3_25.jpg,25.84,borderline,train
+levle3_83.jpg,Level 3,ACCEPTED,Unique representative. Quality: borderline,levle3_83.jpg,19.12,borderline,train
+levle3_144.jpg,Level 3,ACCEPTED,Unique representative. Quality: borderline,levle3_144.jpg,57.95,borderline,train
+levle3_101.jpg,Level 3,ACCEPTED,Unique representative. Quality: usable,levle3_101.jpg,134.82,usable,train
+levle3_68.jpg,Level 3,ACCEPTED,Unique representative. Quality: borderline,levle3_68.jpg,17.80,borderline,train
+levle3_36.jpg,Level 3,ACCEPTED,Unique representative. Quality: borderline,levle3_36.jpg,15.09,borderline,train
+levle3_124.jpg,Level 3,ACCEPTED,Unique representative. Quality: borderline,levle3_124.jpg,21.89,borderline,train
+levle3_39.jpg,Level 3,ACCEPTED,Unique representative. Quality: borderline,levle3_39.jpg,55.29,borderline,train
+levle3_72.jpg,Level 3,ACCEPTED,Unique representative. Quality: usable,levle3_72.jpg,101.02,usable,train
+levle3_97.jpg,Level 3,ACCEPTED,Unique representative. Quality: usable,levle3_97.jpg,101.15,usable,train
+levle3_114.jpg,Level 3,ACCEPTED,Unique representative. Quality: borderline,levle3_114.jpg,54.01,borderline,train
+levle3_24.jpg,Level 3,ACCEPTED,Unique representative. Quality: high_quality,levle3_24.jpg,183.34,high_quality,train
+levle3_75.jpg,Level 3,ACCEPTED,Unique representative. Quality: usable,levle3_75.jpg,139.05,usable,valid
+levle3_89.jpg,Level 3,ACCEPTED,Unique representative. Quality: high_quality,levle3_89.jpg,331.33,high_quality,valid
+levle3_118.jpg,Level 3,ACCEPTED,Unique representative. Quality: borderline,levle3_118.jpg,31.49,borderline,valid
+levle3_38.jpg,Level 3,ACCEPTED,Unique representative. Quality: borderline,levle3_38.jpg,50.79,borderline,valid
+levle3_142.jpg,Level 3,ACCEPTED,Unique representative. Quality: high_quality,levle3_142.jpg,157.39,high_quality,valid
+levle3_52.jpg,Level 3,ACCEPTED,Unique representative. Quality: borderline,levle3_52.jpg,18.01,borderline,valid
+levle3_129.jpg,Level 3,ACCEPTED,Unique representative. Quality: borderline,levle3_129.jpg,39.80,borderline,valid
+levle3_73.jpg,Level 3,ACCEPTED,Unique representative. Quality: high_quality,levle3_73.jpg,302.06,high_quality,valid
+levle3_115.jpg,Level 3,ACCEPTED,Unique representative. Quality: high_quality,levle3_115.jpg,309.72,high_quality,test
+levle3_87.jpg,Level 3,ACCEPTED,Unique representative. Quality: borderline,levle3_87.jpg,37.20,borderline,test
+levle3_53.jpg,Level 3,ACCEPTED,Unique representative. Quality: borderline,levle3_53.jpg,51.52,borderline,test
+levle3_116.jpg,Level 3,ACCEPTED,Unique representative. Quality: high_quality,levle3_116.jpg,285.04,high_quality,test
+levle3_136.jpg,Level 3,ACCEPTED,Unique representative. Quality: high_quality,levle3_136.jpg,175.46,high_quality,test
+levle3_117.jpg,Level 3,ACCEPTED,Unique representative. Quality: borderline,levle3_117.jpg,27.76,borderline,test
+levle3_76.jpg,Level 3,ACCEPTED,Unique representative. Quality: borderline,levle3_76.jpg,41.53,borderline,test
+levle3_100.jpg,Level 3,ACCEPTED,Unique representative. Quality: borderline,levle3_100.jpg,24.93,borderline,test

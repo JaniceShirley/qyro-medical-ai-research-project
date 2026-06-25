@@ -1,0 +1,8 @@
+[2026-06-05 12:32:36] Experiment Run Started: yolov8n_qyro_acne_v1_20260605_123236
+[2026-06-05 12:32:36] Git Hash: ab60fb0e5dd8d6292762c63dd9b4d7a80a7ad9aa | Dataset Hash: b98ee7d934ee9bd80beffea8c448e92165e3f48763ab4ac22ce6169b2f8c6559
+[2026-06-05 12:32:36] Training GPU: None (CPU Only) | VRAM: 0.0 GB
+[2026-06-05 12:32:36] Config Snapshot saved to experiments\detection\runs\yolov8n_qyro_acne_v1_20260605_123236\config_snapshot.yaml
+[2026-06-05 12:32:36] Routing training execution to device: cpu
+[2026-06-05 12:32:36] Initializing YOLO model: yolov8n.pt
+[2026-06-05 12:32:39] Attempting to launch YOLOv8n training with batch size: 16
+[2026-06-05 12:34:30] Experiment completed. Final Metrics saved to experiments\detection\runs\yolov8n_qyro_acne_v1_20260605_123236\metrics.json

@@ -17,6 +17,9 @@
 > 
 > Source code, trained models, and proprietary components are intentionally excluded.
 
+> [!IMPORTANT]
+> **HANDOVER DOCUMENTATION AVAILABLE**: For a detailed breakdown of all past work, algorithm specifications, failure audits, and the step-by-step roadmap to boost mAP@50 from **69.40% to 75.0%+**, please refer directly to **[PROJECT_HANDOVER.md](file:///c:/Users/KARTHIK V/OneDrive/Desktop/QYRO-Medical-AI/PROJECT_HANDOVER.md)**.
+
 ---
 
 ## 1. Project Overview

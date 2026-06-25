@@ -1,0 +1,60 @@
+[2026-06-24 13:45:13] Experiment Run Started: effnet_b0_qyro_subtype_v1_20260624_134513
+[2026-06-24 13:45:13] Git Hash: ab60fb0e5dd8d6292762c63dd9b4d7a80a7ad9aa | Dataset Hash: b98ee7d934ee9bd80beffea8c448e92165e3f48763ab4ac22ce6169b2f8c6559
+[2026-06-24 13:45:13] Training GPU: NVIDIA GeForce RTX 5050 Laptop GPU | VRAM: 7.96 GB
+[2026-06-24 13:45:13] Config Snapshot saved to experiments\subtype\runs\effnet_b0_qyro_subtype_v1_20260624_134513\config_snapshot.yaml
+[2026-06-24 13:45:13] Routing training execution to device: cuda:0
+[2026-06-24 13:45:13] Loaded manifest with 2951 entries.
+[2026-06-24 13:45:13] Computed class weights: [np.float64(0.4361904761904762), np.float64(1.9741379310344827), np.float64(0.5169300225733634), np.float64(0.5228310502283106), np.float64(0.441233140655106), np.float64(229.0), np.float64(32.714285714285715), np.float64(20.818181818181817), np.float64(229.0)]
+[2026-06-24 13:45:13] Attempting dataloader allocation with batch size: 32
+[2026-06-24 13:45:13] Downloading/Initializing timm model backbone: efficientnet_b0
+[2026-06-24 13:45:15] Phase 1: Training classification head only...
+[2026-06-24 13:45:42] Epoch 0 Metrics: train_loss: 2.9970, val_loss: 2.6474, val_accuracy: 0.2392, val_macro_f1: 0.1282
+[2026-06-24 13:45:59] Epoch 1 Metrics: train_loss: 2.2697, val_loss: 2.1944, val_accuracy: 0.2870, val_macro_f1: 0.1573
+[2026-06-24 13:46:15] Epoch 2 Metrics: train_loss: 1.8721, val_loss: 1.9628, val_accuracy: 0.3371, val_macro_f1: 0.2060
+[2026-06-24 13:46:32] Epoch 3 Metrics: train_loss: 1.5547, val_loss: 1.8365, val_accuracy: 0.3759, val_macro_f1: 0.2511
+[2026-06-24 13:46:48] Epoch 4 Metrics: train_loss: 1.3849, val_loss: 1.6043, val_accuracy: 0.4237, val_macro_f1: 0.2746
+[2026-06-24 13:47:05] Epoch 5 Metrics: train_loss: 1.2710, val_loss: 1.5668, val_accuracy: 0.4260, val_macro_f1: 0.3125
+[2026-06-24 13:47:21] Epoch 6 Metrics: train_loss: 1.1770, val_loss: 1.4584, val_accuracy: 0.4465, val_macro_f1: 0.3313
+[2026-06-24 13:47:38] Epoch 7 Metrics: train_loss: 1.1696, val_loss: 1.4145, val_accuracy: 0.4624, val_macro_f1: 0.3429
+[2026-06-24 13:47:54] Epoch 8 Metrics: train_loss: 1.0868, val_loss: 1.3718, val_accuracy: 0.4806, val_macro_f1: 0.3660
+[2026-06-24 13:48:10] Epoch 9 Metrics: train_loss: 1.0160, val_loss: 1.3069, val_accuracy: 0.4852, val_macro_f1: 0.3622
+[2026-06-24 13:48:10] Phase 2: Unfreezing backbone for full fine-tuning...
+[2026-06-24 13:48:39] Epoch 10 Metrics: train_loss: 0.9099, val_loss: 0.9236, val_accuracy: 0.6469, val_macro_f1: 0.5595
+[2026-06-24 13:49:00] Epoch 11 Metrics: train_loss: 0.4371, val_loss: 0.6886, val_accuracy: 0.7039, val_macro_f1: 0.5342
+[2026-06-24 13:49:20] Epoch 12 Metrics: train_loss: 0.2497, val_loss: 0.6122, val_accuracy: 0.7585, val_macro_f1: 0.6401
+[2026-06-24 13:49:40] Epoch 13 Metrics: train_loss: 0.1371, val_loss: 0.5370, val_accuracy: 0.8018, val_macro_f1: 0.6660
+[2026-06-24 13:50:01] Epoch 14 Metrics: train_loss: 0.1113, val_loss: 0.4826, val_accuracy: 0.8178, val_macro_f1: 0.6469
+[2026-06-24 13:50:22] Epoch 15 Metrics: train_loss: 0.0352, val_loss: 0.5491, val_accuracy: 0.8178, val_macro_f1: 0.6716
+[2026-06-24 13:50:42] Epoch 16 Metrics: train_loss: 0.0285, val_loss: 0.4820, val_accuracy: 0.8405, val_macro_f1: 0.6827
+[2026-06-24 13:51:02] Epoch 17 Metrics: train_loss: 0.0171, val_loss: 0.5040, val_accuracy: 0.8451, val_macro_f1: 0.6830
+[2026-06-24 13:51:23] Epoch 18 Metrics: train_loss: 0.0109, val_loss: 0.5360, val_accuracy: 0.8474, val_macro_f1: 0.6893
+[2026-06-24 13:51:49] Epoch 19 Metrics: train_loss: 0.0097, val_loss: 0.5162, val_accuracy: 0.8451, val_macro_f1: 0.6844
+[2026-06-24 13:52:09] Epoch 20 Metrics: train_loss: 0.0156, val_loss: 0.5167, val_accuracy: 0.8588, val_macro_f1: 0.6900
+[2026-06-24 13:52:30] Epoch 21 Metrics: train_loss: 0.0122, val_loss: 0.5082, val_accuracy: 0.8610, val_macro_f1: 0.6897
+[2026-06-24 13:52:50] Epoch 22 Metrics: train_loss: 0.0043, val_loss: 0.5098, val_accuracy: 0.8633, val_macro_f1: 0.6926
+[2026-06-24 13:53:10] Epoch 23 Metrics: train_loss: 0.0059, val_loss: 0.5044, val_accuracy: 0.8497, val_macro_f1: 0.6906
+[2026-06-24 13:53:31] Epoch 24 Metrics: train_loss: 0.0079, val_loss: 0.5103, val_accuracy: 0.8451, val_macro_f1: 0.6482
+[2026-06-24 13:53:53] Epoch 25 Metrics: train_loss: 0.0070, val_loss: 0.4490, val_accuracy: 0.8702, val_macro_f1: 0.6990
+[2026-06-24 13:54:14] Epoch 26 Metrics: train_loss: 0.0069, val_loss: 0.4147, val_accuracy: 0.8724, val_macro_f1: 0.7023
+[2026-06-24 13:54:37] Epoch 27 Metrics: train_loss: 0.0033, val_loss: 0.4460, val_accuracy: 0.8702, val_macro_f1: 0.6970
+[2026-06-24 13:54:59] Epoch 28 Metrics: train_loss: 0.0042, val_loss: 0.5430, val_accuracy: 0.8542, val_macro_f1: 0.6894
+[2026-06-24 13:55:25] Epoch 29 Metrics: train_loss: 0.0045, val_loss: 0.5373, val_accuracy: 0.8565, val_macro_f1: 0.6650
+[2026-06-24 13:55:49] Epoch 30 Metrics: train_loss: 0.0023, val_loss: 0.4688, val_accuracy: 0.8838, val_macro_f1: 0.7047
+[2026-06-24 13:56:12] Epoch 31 Metrics: train_loss: 0.0030, val_loss: 0.4713, val_accuracy: 0.8610, val_macro_f1: 0.6903
+[2026-06-24 13:56:36] Epoch 32 Metrics: train_loss: 0.0023, val_loss: 0.4792, val_accuracy: 0.8610, val_macro_f1: 0.6899
+[2026-06-24 13:57:07] Epoch 33 Metrics: train_loss: 0.0017, val_loss: 0.4616, val_accuracy: 0.8770, val_macro_f1: 0.6981
+[2026-06-24 13:57:29] Epoch 34 Metrics: train_loss: 0.0010, val_loss: 0.4923, val_accuracy: 0.8702, val_macro_f1: 0.6945
+[2026-06-24 13:57:50] Epoch 35 Metrics: train_loss: 0.0019, val_loss: 0.4357, val_accuracy: 0.8770, val_macro_f1: 0.7012
+[2026-06-24 13:58:12] Epoch 36 Metrics: train_loss: 0.0011, val_loss: 0.4374, val_accuracy: 0.8679, val_macro_f1: 0.6948
+[2026-06-24 13:58:35] Epoch 37 Metrics: train_loss: 0.0027, val_loss: 0.4324, val_accuracy: 0.8884, val_macro_f1: 0.7096
+[2026-06-24 13:58:55] Epoch 38 Metrics: train_loss: 0.0030, val_loss: 0.4733, val_accuracy: 0.8838, val_macro_f1: 0.7035
+[2026-06-24 13:59:56] Epoch 39 Metrics: train_loss: 0.0018, val_loss: 0.4485, val_accuracy: 0.8838, val_macro_f1: 0.7068
+[2026-06-24 14:00:31] Epoch 40 Metrics: train_loss: 0.0025, val_loss: 0.3940, val_accuracy: 0.8861, val_macro_f1: 0.7079
+[2026-06-24 14:00:55] Epoch 41 Metrics: train_loss: 0.0012, val_loss: 0.4561, val_accuracy: 0.8793, val_macro_f1: 0.7041
+[2026-06-24 14:01:16] Epoch 42 Metrics: train_loss: 0.0031, val_loss: 0.4459, val_accuracy: 0.8838, val_macro_f1: 0.7063
+[2026-06-24 14:01:39] Epoch 43 Metrics: train_loss: 0.0046, val_loss: 0.4830, val_accuracy: 0.8884, val_macro_f1: 0.7093
+[2026-06-24 14:02:00] Epoch 44 Metrics: train_loss: 0.0032, val_loss: 0.5156, val_accuracy: 0.8702, val_macro_f1: 0.6997
+[2026-06-24 14:02:25] Epoch 45 Metrics: train_loss: 0.0045, val_loss: 0.5021, val_accuracy: 0.8679, val_macro_f1: 0.6936
+[2026-06-24 14:02:25] Early stopping triggered.
+[2026-06-24 14:02:25] Subtype Classification training pipeline runs successfully completed!
+[2026-06-24 14:02:25] Experiment completed. Final Metrics saved to experiments\subtype\runs\effnet_b0_qyro_subtype_v1_20260624_134513\metrics.json

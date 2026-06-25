@@ -1,0 +1,67 @@
+image,split,issues,blur_score,brightness
+kurnaz_000375.jpg,valid,Severe Blur,22.08,217.21
+kurnaz_000396.jpg,valid,Severe Blur,21.74,198.28
+kurnaz_000404.jpg,valid,Severe Blur | Extreme Glare/Overexposed,25.48,227.86
+kurnaz_000430.jpg,valid,Severe Blur,24.81,139.22
+kurnaz_000432.jpg,valid,Severe Blur,22.9,117.0
+kurnaz_000435.jpg,valid,Extreme Glare/Overexposed,176.09,237.11
+kurnaz_000437.jpg,valid,Severe Blur,25.2,177.4
+kurnaz_000441.jpg,valid,Severe Blur,26.19,173.37
+kurnaz_000442.jpg,valid,Severe Blur,20.76,135.92
+kurnaz_000007.jpg,train,Extreme Glare/Overexposed,367.24,233.01
+kurnaz_000008.jpg,train,Moderate Blur | Extreme Glare/Overexposed,34.04,226.87
+kurnaz_000011.jpg,train,Severe Blur,24.58,169.78
+kurnaz_000012.jpg,train,Severe Blur,25.61,164.6
+kurnaz_000026.jpg,train,Severe Blur,29.02,185.16
+kurnaz_000119.jpg,train,Severe Blur,22.68,140.94
+kurnaz_000129.jpg,train,Severe Blur,27.24,110.19
+kurnaz_000141.jpg,train,Severe Blur,27.58,182.14
+kurnaz_000150.jpg,train,Severe Blur,24.57,141.94
+kurnaz_000152.jpg,train,Severe Blur,22.44,171.42
+kurnaz_000176.jpg,train,Extreme Glare/Overexposed,312.14,233.2
+kurnaz_000194.jpg,train,Severe Blur | Extreme Glare/Overexposed,22.67,235.41
+kurnaz_000205.jpg,train,Extreme Glare/Overexposed,238.5,231.52
+kurnaz_000209.jpg,train,Severe Blur,29.26,212.35
+kurnaz_000219.jpg,train,Severe Blur,24.77,201.67
+kurnaz_000220.jpg,train,Severe Blur,22.75,201.73
+kurnaz_000228.jpg,train,Severe Blur | Extreme Glare/Overexposed,24.64,228.55
+kurnaz_000235.jpg,train,Severe Blur,23.77,176.07
+kurnaz_000242.jpg,train,Severe Blur,20.54,184.26
+kurnaz_000253.jpg,train,Severe Blur,21.42,124.03
+kurnaz_000256.jpg,train,Severe Blur,23.81,134.75
+kurnaz_000260.jpg,train,Severe Blur,24.38,153.51
+kurnaz_000262.jpg,train,Severe Blur,22.43,177.83
+kurnaz_000266.jpg,train,Severe Blur,23.32,169.12
+kurnaz_000267.jpg,train,Severe Blur,28.16,189.32
+kurnaz_000274.jpg,train,Severe Blur,20.89,160.97
+kurnaz_000277.jpg,train,Severe Blur,20.59,137.63
+kurnaz_000292.jpg,train,Extreme Glare/Overexposed,118.62,229.67
+kurnaz_000293.jpg,train,Severe Blur,28.97,153.15
+kurnaz_000296.jpg,train,Extreme Glare/Overexposed,164.78,230.2
+kurnaz_000302.jpg,train,Severe Blur,24.4,153.35
+kurnaz_000310.jpg,train,Severe Blur,21.6,157.05
+kurnaz_000317.jpg,train,Severe Blur,28.05,177.59
+kurnaz_000319.jpg,train,Severe Blur,24.76,125.24
+kurnaz_000322.jpg,train,Severe Blur,24.66,145.38
+kurnaz_000323.jpg,train,Severe Blur,29.29,142.31
+kurnaz_000324.jpg,train,Severe Blur,27.9,155.44
+kurnaz_000326.jpg,train,Moderate Blur | Extreme Glare/Overexposed,88.9,231.4
+kurnaz_000336.jpg,train,Moderate Blur | Extreme Glare/Overexposed,43.8,229.76
+kurnaz_000337.jpg,train,Extreme Glare/Overexposed,304.46,225.23
+kurnaz_000340.jpg,train,Severe Blur,24.19,221.11
+kurnaz_000343.jpg,train,Severe Blur | Extreme Glare/Overexposed,28.88,229.47
+kurnaz_000349.jpg,train,Severe Blur,25.53,160.92
+kurnaz_000352.jpg,train,Severe Blur,24.67,163.23
+kurnaz_000354.jpg,train,Extreme Glare/Overexposed,354.8,232.37
+kurnaz_000357.jpg,train,Severe Blur,21.49,126.79
+kurnaz_000359.jpg,train,Severe Blur,26.8,171.38
+kurnaz_000364.jpg,train,Extreme Glare/Overexposed,511.3,238.17
+kurnaz_000444.jpg,test,Severe Blur,20.39,169.03
+kurnaz_000455.jpg,test,Severe Blur,24.13,183.02
+kurnaz_000471.jpg,test,Severe Blur,23.42,156.92
+kurnaz_000501.jpg,test,Extreme Glare/Overexposed,181.49,233.66
+kurnaz_000504.jpg,test,Severe Blur | Extreme Glare/Overexposed,23.82,230.5
+kurnaz_000512.jpg,test,Severe Blur,23.28,142.59
+kurnaz_000517.jpg,test,Severe Blur,20.13,201.01
+kurnaz_000519.jpg,test,Extreme Glare/Overexposed,158.24,225.5
+kurnaz_000520.jpg,test,Severe Blur | Extreme Glare/Overexposed,27.7,234.94

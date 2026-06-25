@@ -1,0 +1,25 @@
+{
+    "dataset_name": "scin",
+    "image_count": 205,
+    "split_distribution": {
+        "robustness_holdout": 205
+    },
+    "clinical_quality_distribution": {
+        "sharp": 75,
+        "usable": 63,
+        "borderline": 42,
+        "poor": 25
+    },
+    "subtype_distribution": {
+        "unknown": 205
+    },
+    "severity_distribution": {
+        "unknown": 205
+    },
+    "missing_metadata": {
+        "unknown_subtype": 205,
+        "unknown_severity": 205,
+        "unknown_skin_tone": 113,
+        "unknown_body_region": 36
+    }
+}

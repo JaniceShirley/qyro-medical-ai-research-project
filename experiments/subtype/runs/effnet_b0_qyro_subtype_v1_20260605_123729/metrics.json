@@ -1,0 +1,5 @@
+{
+    "status": "success",
+    "epochs_run": 1,
+    "best_val_macro_f1": 0.12629034859361304
+}

@@ -1,10 +1,8 @@
 cff-version: 1.2.0
-message: "If you use this repository in academic work, please cite it as below."
+message: "If you reference QYRO Medical AI in your clinical research, dataset validation, or medical imaging audits, please cite it as below."
 authors:
-  - family-names: Vanapalli
-    given-names: Karthik
-    affiliation: "SRM Institute of Science and Technology"
-title: "QYRO Medical AI Research"
+  - name: "QYRO Medical AI Research Group"
+title: "QYRO-Medical-AI: AI-Powered Clinical Acne Lesion Detection & Severity Assessment"
 version: 1.0.0
 date-released: 2026-07-02
 url: "https://github.com/Karthik2509-git/qyro-medical-ai-research"
@@ -13,4 +11,7 @@ keywords:
   - "Medical AI"
   - "Dermatology"
   - "Computer Vision"
-  - "YOLO-based Object Detection"
+  - "Acne Lesion Detection"
+  - "Clinical Validation"
+  - "Dermatological Image Audit"
+  - "Responsible AI"

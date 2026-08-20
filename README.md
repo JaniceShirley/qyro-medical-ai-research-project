@@ -1,288 +1,221 @@
-![QYRO Repository Banner](docs/qyro_repo_banner.png)
-
 # QYRO-Medical-AI
-
 ### AI-Powered Clinical Acne Lesion Detection & Severity Assessment
 
-[![Python Version](https://img.shields.io/badge/Python-3.10%20%7C%203.11-blue.svg)](https://www.python.org/)
-[![Ultralytics YOLO](https://img.shields.io/badge/YOLO-Ultralytics-orange.svg)](https://github.com/ultralytics/ultralytics)
-[![Medical AI](https://img.shields.io/badge/Domain-Medical%20AI-red.svg)]()
-[![Research Status](https://img.shields.io/badge/Status-Research%20in%20Progress-yellow.svg)]()
-[![License](https://img.shields.io/badge/License-MIT-green.svg)](file:///c:/Users/KARTHIK%20V/OneDrive/Desktop/Qyro-Acne/temp_research_repo/LICENSE_NOTICE.md)
+---
 
-> ⚠️ **Research in Progress**
-> 
-> This repository documents an active medical AI research project.
-> It is intended for academic collaboration, dataset documentation, and reproducible research.
-> 
-> Source code, trained models, and proprietary components are intentionally excluded.
+[![Python Version](https://img.shields.io/badge/Python-3.14-blue?logo=python&logoColor=white)](#)
+[![YOLOv8](https://img.shields.io/badge/Model-YOLOv8%20%2F%20EfficientNet-brightgreen?logo=pytorch&logoColor=white)](#)
+[![Medical AI](https://img.shields.io/badge/Domain-Medical%20AI%20%2F%20Dermatology-red)](#)
+[![Research Status](https://img.shields.io/badge/Research-Active%20R%26D-orange)](#)
+[![License](https://img.shields.io/badge/License-Proprietary%20%2F%20CC%20BY--SA%204.0-lightgrey)](#)
+
 
 > [!IMPORTANT]
 > **HANDOVER DOCUMENTATION AVAILABLE**: For a detailed breakdown of all past work, algorithm specifications, failure audits, and the step-by-step roadmap to boost mAP@50 from **69.40% to 75.0%+**, please refer directly to **[PROJECT_HANDOVER.md](file:///c:/Users/KARTHIK V/OneDrive/Desktop/QYRO-Medical-AI/PROJECT_HANDOVER.md)**.
 
 ---
 
-## 1. Project Overview
+## 🔬 1. Project Overview
 
-Acne vulgaris is one of the most common dermatological conditions globally, yet its clinical assessment remains subject to high inter-observer variability. Traditional severity staging systems, such as the Investigators Global Assessment (IGA), rely on qualitative, holistic assessments that can lead to inconsistent diagnoses and subjective treatment decisions.
+Acne Vulgaris is one of the most prevalent skin conditions globally, affecting over 85% of adolescents and young adults. However, clinical acne diagnosis and grading remain highly challenging due to:
+* **Subjective Evaluation:** Inter-observer variability among dermatologists when grading acne severity using global scales (e.g., Investigator's Global Assessment).
+* **Lesion-Level Heterogeneity:** The co-existence of different lesion subtypes (open/closed comedones, papules, pustules, cysts, and nodules) in varying densities and locations.
+* **Demographic Bias:** High diagnostic error rates in computer vision models when generalizing across diverse skin tones (Fitzpatrick Skin Types I–VI and Monk Skin Tones).
 
-**QYRO Medical AI** is an experimental research project exploring how computer vision and hybrid reasoning can standardize acne lesion detection and stage severity. By combining **YOLO-based object detection** with a clinical reasoning layer, QYRO aims to deliver precise, explainable, and reproducible assessments.
+**QYRO Medical AI** is an academic-companion research project dedicated to building a high-fidelity, explainable, and multi-stage computer vision pipeline to automate **lesion-level detection** and **global severity assessment** for acne. 
 
-### Key Focus Areas
-* **Lesion-Level Detection:** Moving beyond image-level classification to localize and identify individual lesion subtypes (*Blackheads*, *Whiteheads*, *Papules*, *Pustules*, and *Cysts*).
-* **Clinical Severity Staging:** Calibrating raw object detection bounding boxes with total surface area metrics to prevent macro close-up bias.
-* **Explainable AI (XAI):** Presenting staging recommendations based on clinical rules rather than black-box decision boundaries.
-* **Research-First Pipeline:** Standardizing data curation, provenance tracking, and annotation quality audits.
-
----
-
-## 2. Current Research Focus
-
-Our current research efforts are focused on the following areas:
-* **Acne lesion detection:** Enhancing multi-class detection accuracy for dense, overlapping lesions.
-* **Clinical dataset curation:** Auditing, cleaning, and labeling diverse dermatological image datasets.
-* **Annotation quality assurance:** Identifying and removing labeling errors, noise, and out-of-boundary bounding boxes.
-* **Explainable AI:** Structuring reasoning rules that map lesion distributions to severity stages transparently.
-* **Dataset provenance:** Preserving tracking histories from raw source downloads to model-ready training partitions.
-* **Severity assessment:** Normalizing counts by surface area to calibrate classification predictions.
-* **Multi-source dataset harmonization:** Standardizing different class indexes, annotations, and aspect ratios from diverse sources.
+By separating diagnostic prediction into automated bounding box detection (lesion localization) and fine-grained classification (lesion subtype grading), QYRO aims to deliver clinical decision-support systems that are highly interpretable, demographically audited, and traceable back to original dermatologist-vetted reference standards.
 
 ---
 
-## 3. Architecture
+## 🎯 2. Current Research Goals
 
-The QYRO Medical AI architecture separates raw image data ingestion, processing, and clinical staging into a structured research workflow:
+Our active R&D focus is centered on the following clinical and engineering objectives:
+1. **Lesion Detection & Counting:** Automating the localization and counting of acne lesions using robust bounding box detectors (YOLO backbones).
+2. **Clinical Severity Grading:** Calibrating ordinal multi-class classification networks (EfficientNet backbones) to align with standardized clinical stages.
+3. **Multi-Dataset Standardization:** Harmonizing disparate public and academic datasets under a single unified metadata schema.
+4. **Annotation Quality Assurance:** Auditing coordinate ranges and label categories to eliminate label noise and prevent cross-split train/test data leakage.
+5. **Algorithmic Equity (Bias Mitigation):** Evaluating and tuning model robustness across diverse skin tone cohorts (leveraging the Google SCIN and Fitzpatrick17k datasets).
+6. **Explainable AI (XAI):** Ensuring model transparency by tracing clinical predictions directly to visible, quantified bounding box counts and lesion density maps.
 
-```
-    Medical Images
+---
+
+## 📈 3. Current Development Status
+
+The development of the data engineering pipelines and model experiments is tracked against the following checklist:
+
+* [x] **Dataset Factory v1.0** — Standardized Python ingestion suite.
+* [x] **Clinical Mapping Engine** — Standardized cross-dataset label harmonization.
+* [x] **Annotation Audit Engine** — Validation of coordinates and label bounds.
+* [x] **Image Quality Engine** — Automated blur detection and brightness auditing.
+* [x] **YOLO Agreement Validation** — Image-label coordinate matching checks.
+* [x] **Candidate Dataset Generation** — Automated data preparation.
+* [x] **Dataset Versioning** — Checksum manifest-based version freezing.
+* [x] **Provenance Tracking** — Audit trails from raw zip downloads to processed links.
+* [ ] **Multi-Dataset Joint Training** — Jointly training detectors on aggregated datasets.
+* [ ] **Ensemble Models** — Fusing detection backbones with fine-grained classifiers.
+* [ ] **Clinical Validation Study** — Prospective validation with medical partners.
+* [ ] **External Benchmark Evaluations** — Auditing performance on blind clinical trials.
+* [ ] **Production API Integration** — ONNX compilation and containerized API deployment.
+
+---
+
+## 🔄 4. Dataset Pipeline
+
+The QYRO Dataset Factory enforces a rigid, step-by-step pipeline to transform raw, noisy clinical images into standardized, leakage-free training pools:
+
+```text
+  ┌───────────────┐
+  │  Raw Dataset  │  <-- Downloaded and staged under datasets/skin/acne/raw/
+  └───────┬───────┘
           │
           ▼
-   Dataset Factory
+  ┌───────────────┐
+  │  Import Gate  │  <-- Verified against registry/dataset_registry.csv
+  └───────┬───────┘
           │
           ▼
-   Clinical Mapping
+  ┌───────────────┐
+  │  Anno Audit   │  <-- Annotation Audit Engine flags coordinate/index errors
+  └───────┬───────┘
           │
           ▼
-  Quality Validation
+  ┌───────────────┐
+  │ Clinical Map  │  <-- Clinical Mapping Engine standardizes category keys
+  └───────┬───────┘
           │
           ▼
-    Merged Dataset
+  ┌───────────────┐
+  │ Quality Gate  │  <-- Image Quality Engine checks blur (Laplacian) & exposure
+  └───────┬───────┘
           │
           ▼
-    YOLO Training
+  ┌───────────────┐
+  │  YOLO Check   │  <-- YOLO Agreement Validation ensures image-label matching
+  └───────┬───────┘
           │
           ▼
- Clinical Evaluation
+  ┌───────────────┐
+  │ Deduplication │  <-- Perceptual dHash comparison removes identical/near-duplicates
+  └───────┬───────┘
           │
           ▼
-         QYRO
-```
-
----
-
-## 4. Dataset Factory Pipeline
-
-The QYRO Dataset Factory utilizes a strict, multi-stage processing pipeline to ensure data quality and integrity before model training:
-
-```
-  Raw Dataset
-       │
-       ▼
-     Import
-       │
-       ▼
-  Clinical Mapping
-       │
-       ▼
-  Annotation Audit
-       │
-       ▼
-  Quality Analysis
-       │
-       ▼
-  YOLO Agreement Validation
-       │
-       ▼
-    Deduplication
-       │
-       ▼
-  Candidate Dataset
-       │
-       ▼
-   Merged Dataset
-       │
-       ▼
-    Training
-```
-
-* **Raw Dataset Ingestion:** Importing multi-source clinical and open-source datasets in native formats.
-* **Annotation Audit:** Programmatic analysis of label counts, formatting errors, and boundary violations.
-* **Clinical Mapping:** Standardizing class labels across different naming conventions (e.g., remapping generic labels to specific acne subtypes).
-* **Quality Analysis:** Checking for corrupted images, color/exposure distribution anomalies, and resolution padding biases.
-* **YOLO Agreement Validation:** Cross-checking training labels against pre-trained weights to flag extreme outlier annotations.
-* **Deduplication:** Hashing files (using MD5) to identify and safely remove duplicate images, preventing data leakage between train/test splits.
-* **Candidate Selection:** Retaining negative (background) samples to reduce False Positives while pruning noisy and unrelated classes.
-* **Merged Dataset & Training:** Compiling clean, version-controlled records ready for YOLO training.
-
----
-
-## 5. Development Status
-
-### Core Engine Status
-- [x] Dataset Factory v1.0
-- [x] Clinical Mapping Engine
-- [x] Annotation Audit Engine
-- [x] Image Quality Engine
-- [x] YOLO Agreement Validation
-- [x] Candidate Dataset Generation
-- [x] Dataset Versioning
-- [x] Provenance Tracking
-- [ ] Multi-Dataset Training
-- [ ] Ensemble Models
-- [ ] Clinical Validation
-- [ ] External Benchmark
-- [ ] Production API
-
-### Dataset Integration Matrix
-We track dataset integration status using a strict progress matrix:
-
-| Dataset ID | Dataset Name | Status | Status Code |
-| :--- | :--- | :---: | :---: |
-| **DS001** | Roboflow Acne Detection Dataset | ✅ Completed | `ACTIVE_TRAIN` |
-| **DS002** | Kaggle Acne Type Dataset | ✅ Completed | `ACTIVE_EVAL` |
-| **DS003** | ACNE04 Dataset | ✅ Completed | `ACTIVE_EVAL` |
-| **DS004** | Stage-Labelled Clinical Dataset | ⏳ Pending | `PENDING_REVIEW` |
-| **DS005** | ISIC Dermatology Archive | ⏳ Pending | `PENDING_CLEAN` |
-| **QYRO-CL**| QYRO Clinical Dataset | 🚧 Work in Progress | `IN_CURIOSITY` |
-
----
-
-## 6. Project Statistics
-
-Below are the latest verified statistics from the Dataset Factory and model runs:
-
-* **Datasets processed:** 3
-* **Images ingested:** 14,020+
-* **Accepted candidate images:** 426
-* **Dataset Factory Version:** 1.0
-* **Calibration Version:** T45
-* **Merged candidate pool:** 426 images
-* **Public datasets completed:**
-  * ✔ DS001 (Roboflow Acne Detection Dataset)
-  * ✔ DS002 (Kaggle Acne Type Dataset)
-  * ✔ DS003 (ACNE04 Dataset)
-
----
-
-## 7. Upcoming Milestones
-
-- [x] Dataset Factory v1.0
-- [x] Dataset Processing
-- [ ] Integrate Acne04-v2
-- [ ] Acquire AcneSCU
-- [ ] Acquire AcnePKUIH
-- [ ] Merge QYRO Dataset v2
-- [ ] Production Training
-- [ ] Clinical Validation
-- [ ] REST API
-- [ ] Explainable AI
-- [ ] Mobile Deployment
-
----
-
-## 8. Visual Assets & Training Diagnostics
-
-To ensure transparency and reproducibility in model diagnostics, the pipeline logs performance curves, annotation validation batches, and classification confusion matrices:
-
-### YOLO Validation Bounding Box Overlays
-Validation batch predictions displaying individual bounding boxes mapping to the 5 clinical lesion subclasses (*Blackhead*, *Whitehead*, *Papular*, *Purulent*, *Cystic*):
-![YOLO Validation Overlays](docs/val_batch0_pred.jpg)
-
-### Normalised Confusion Matrix
-Per-class classification accuracy showing strong agreement on localized subclasses:
-![Confusion Matrix](docs/confusion_matrix.png)
-
-### Training Results Progress Curves
-Progress of bounding box precision, recall, and mean Average Precision (mAP50 / mAP50-95) metrics across epochs:
-![YOLO v2 Training Results](docs/yolo_v2_results.png)
-
----
-
-## 9. Medical AI Principles
-
-Our development roadmap is guided by a set of core principles that prioritize patient safety and scientific rigor:
-
-* **Human-in-the-Loop:** Designed to assist, not replace, dermatologists. Every automated triage recommendation points back to verifiable clinical staging criteria.
-* **Dataset Provenance:** Ensuring full traceability of training images, from raw format to cleaned partitions, preventing opaque data bias.
-* **Clinical Traceability:** Documenting exactly how AI-generated box densities map to severity categories (e.g., clear, comedonal, mild, moderate, severe).
-* **Reproducibility:** Utilizing fixed seed counts, deterministic pipelines, and explicit augmentation constraints.
-* **Responsible AI:** Restricting patient identifiers, filtering private metadata, and assessing skin tone and demographic representation to prevent diagnostic bias.
-
----
-
-## 10. Repository Structure
-
-Only the public research documentation, pipeline schemas, and report graphics are tracked in this repository:
-
-```
-qyro-medical-ai-research/
-├── docs/                             # Dataset audits and cleaning reports
-│   ├── dataset_audit_plan.md         # Framework for checking data integrity
-│   ├── dataset_audit_report.md        # Comprehensive raw dataset review
-│   ├── dataset_cleaning_report.md     # Post-pruning and remapping metrics
-│   ├── dataset_registry.md           # Master registry of integrated datasets
-│   ├── qyro_repo_banner.png          # Repository branding banner
-│   ├── yolo_v2_results.png           # Model training metrics curves
-│   ├── confusion_matrix.png          # Normalised classification matrix
-│   └── val_batch0_pred.jpg           # Annotation overlays on validation images
-├── CITATION.cff                      # Academic citation metadata
-├── CONTRIBUTING.md                   # Collaboration and coding standards
-├── LICENSE_NOTICE.md                 # Public documentation license notice
-├── ROADMAP.md                        # Milestones toward clinical validation
-├── SECURITY.md                       # Disclosure and patient safety protocols
-└── README.md                         # This file
+  ┌───────────────┐
+  │ Candidate Gen │  <-- Isolates high-quality, verified image subsets
+  └───────┬───────┘
+          │
+          ▼
+  ┌───────────────┐
+  │ Merged Pool   │  <-- Constructs task-specific pools under datasets/skin/acne/final/
+  └───────┬───────┘
+          │
+          ▼
+  ┌───────────────┐
+  │ Model Train   │  <-- Execution of reproducible PyTorch/Ultralytics runs
+  └───────────────┘
 ```
 
 ---
 
-## 11. Publications
+## 📊 5. Supported Public Datasets
 
-* **No peer-reviewed publications yet.** 
-* The research is currently under active development. Future publications and paper companions will be listed here.
-* Key foundational research and datasets that influenced this workflow include:
-  * *AcneAI* (MICCAI 2024)
-  * *ACNE04* (ICCV 2019)
+The QYRO pipeline ingests and maps the following public dermatological and acne datasets:
 
----
+| Dataset | Status | Raw Images | Cleaned Images | License / Intended Use | Primary Task Role |
+| :--- | :---: | :---: | :---: | :--- | :--- |
+| **DS001 (Kurnaz YOLOv8)** | Completed | 927 | 520 | Apache 2.0 | Lesion Bounding Box Detection |
+| **DS002 (Tiswan Acne)** | Completed | 4,617 | 2,632 | Apache 2.0 | Fine-Grained Subtype Classification |
+| **DS003 (DermNet NZ)** | Completed | 1,152 | 325 | Non-commercial Educational | Clinical Reference Atlas Anchor |
+| **DS004 (ACNE04 v2)** | *Pending* | ~1,204 | - | Academic Research Only | Joint Bbox & Severity Grading |
+| **DS005 (Google SCIN)** | *Pending* | 205 | - | SCIN Data Use License | Diverse Skin Tone Robustness |
 
-## 12. Future Collaboration
-
-We welcome collaboration from the scientific and clinical communities:
-* 🩺 **Dermatologists:** To provide validation feedback on our clinical reasoning staging logic.
-* 🎓 **Academic Researchers & Universities:** To co-author studies on explainable diagnostic pipelines.
-* 📂 **Dataset Owners & Providers:** To expand the demographic representation of our training pools.
-* 💻 **Medical AI Contributors:** To peer-review dataset validation pipelines and schemas.
-
-If you are interested in collaborating, please open an issue or refer to [CONTRIBUTING.md](file:///c:/Users/KARTHIK%20V/OneDrive/Desktop/Qyro-Acne/temp_research_repo/CONTRIBUTING.md).
+*Note: Pending datasets are undergoing compliance reviews and metadata integration.*
 
 ---
 
-## 13. Dataset Acknowledgements
+## ⚙️ 6. Dataset Factory
 
-This research benefits significantly from publicly available dermatology datasets released by the respective authors. We sincerely thank the original creators for their dedication to advancing medical AI research and open clinical benchmarks.
-
----
-
-## 14. Citation
-
-If you use this repository or its documented research approach in academic work, please cite the repository using the GitHub **"Cite this repository"** feature or copy the metadata from [CITATION.cff](file:///c:/Users/KARTHIK%20V/OneDrive/Desktop/Qyro-Acne/temp_research_repo/CITATION.cff).
+The **Dataset Factory** is the core data-engineering engine of this workspace. It exists to guarantee absolute clinical data integrity before any training begins:
+* **Quality Assurance:** Rejects blurry, out-of-focus, or severely overexposed images using Laplacian variance thresholds (`variance < 20`) and HSV brightness analysis.
+* **Deduplication:** Runs perceptual diff-hashing (dHash) with a Hamming distance threshold of `≤ 6` to eliminate near-identical copies, ensuring **0.0% cross-split leakage**.
+* **Annotation Validation:** Clips coordinates to standardized `[0.0, 1.0]` boundaries and maps class IDs to harmonized medical labels.
+* **Provenance Tracking:** Logs SHA256 checksums of all processed files to [sha256_checksums.csv](file:///c:/Users/KARTHIK V/OneDrive/Desktop/QYRO-Medical-AI/datasets/skin/acne/final/metadata/sha256_checksums.csv), creating a complete audit trail.
 
 ---
 
-## 15. Disclaimer
+## 🛡️ 7. Medical AI Principles
 
-> ⚠️ **Disclaimer**
-> 
-> This repository documents an active research project. It is **NOT** intended for clinical diagnosis, prognosis, or treatment. 
-> 
-> The tools and information described here are designed for research collaboration only. All clinical decisions must remain with licensed healthcare professionals.
+We adhere to rigorous Medical AI design principles to ensure that our models are safe, fair, and traceably validated:
+* **Human-in-the-loop:** Model predictions are structured to support, not replace, clinical decisions by dermatologists.
+* **Dataset Provenance:** Full documentation of dataset origins, versioning, and licenses to ensure medical auditability.
+* **Clinical Traceability:** Mapping predictions to quantifiable lesion counts and localized regions rather than "black-box" classifications.
+* **Reproducibility:** Versioning training configurations, data splits, and seeds alongside model code.
+* **Responsible AI:** Routine equity audits across dark skin tones to prevent diagnostic disparities.
+
+---
+
+## 🗺️ 8. Research Roadmap
+
+The development of this research workspace is divided into logical, progressive phases:
+1. **Phase 1 (Acne v1):** Standardizing data engineering on acne datasets (Kurnaz, Tiswan, ACNE04). **[Completed]**
+2. **Phase 2 (Pigmentation):** Extending pipelines to pigmentary disorders (Melasma) with Fitzpatrick type balancing. **[Planned]**
+3. **Phase 3 (Inflammatory):** Integrating eczema and psoriasis datasets with segmentation boundaries. **[Planned]**
+4. **Phase 4 (Hair & Scalp):** Ingesting alopecia and male pattern baldness datasets under micro-imaging. **[Planned]**
+5. **Phase 5 (Clinic Telemetry):** Integrating clinic-partner telemetry and executing prospective evaluations. **[Planned]**
+
+---
+
+## 📁 9. Repository Structure
+
+```text
+QYRO-Medical-AI/
+├── configs/            # YAML templates for training and data preprocessing
+├── datasets/           # Directory structure for raw, cleaned, and merged pools (Git-ignored)
+├── docs/               # Research blueprints, guidelines, and feasibility studies
+├── experiments/        # Training logs, checkpoints, and active run folders (Git-ignored)
+├── registry/           # Central registries (dataset_registry.csv, master_acne_registry.csv)
+├── reports/            # Forensic audits, threshold sweeps, and metrics reports
+├── notebooks/          # Exploratory Data Analysis (EDA) and visualization scripts
+└── scripts/            # Dataset Factory engines, training execution, and utilities
+```
+
+---
+
+## 📊 10. Current Metrics & Benchmarks
+
+The master registries and validation reports detail the following project metrics:
+
+### Data Engineering Summary:
+* **Total Audited Raw Images:** 8,307
+* **Total Accepted Candidates:** 4,434 (Master Registry)
+* **Final Consolidated Merged Pool:** 4,428 images
+  * *Lesion Detection Pool:* 520 images (Kurnaz)
+  * *Subtype Classification Pool:* 2,951 images (Tiswan & DermNet)
+  * *Severity Grading Pool:* 752 images (ACNE04)
+  * *Robustness Holdout Pool:* 205 images (SCIN)
+* **Deduplication Leakage Pairs:** 0 (100% split segregation)
+
+### YOLOv8s Lesion Detector Performance:
+* **Best Validation mAP50:** **0.6940** (Exceeding the 0.680 baseline target)
+* **Best Validation Precision:** **0.6860**
+* **Best Validation Recall:** **0.6400** (Deployment-adjusted conf=0.25 yields **Recall=0.6498**)
+* **Inference Speed:** **3.7ms** per image (RTX 5050 Laptop GPU, fused batch evaluation)
+
+---
+
+## 📚 11. Publications & References
+
+This project draws architectural and benchmarking inspiration from the following publications:
+1. **AcneAI (MICCAI 2024):** *"Deep Learning Ensembles for Multi-Stage Lesion Detection and Severity Grading in Clinical Settings."*
+2. **ACNE04 (ICCV 2019):** Wu, X. et al. *"Joint Acne Image Grading and Lesion Counting via Label Distribution Learning."* [Paper Link](https://arxiv.org/abs/1903.04104).
+3. **Google SCIN (2024):** *"A Diverse Crowdsourced Dataset of Skin Conditions Representing Fitzpatrick Types I-VI."* [Google Research](https://github.com/google-research-datasets/scin).
+
+---
+
+## ⚠️ 12. Clinical Disclaimer
+
+> [!CAUTION]
+> **RESEARCH USE ONLY. NOT A DIAGNOSTIC DEVICE.**
+> The models, weights, and configurations documented in this repository are developed for **academic research, scientific benchmarking, and decision-support modeling**. 
+> They are **not** cleared by the FDA or other regulatory bodies for clinical diagnosis. 
+> All final diagnostic assessments, clinical choices, and treatment decisions must remain with a licensed healthcare professional.

@@ -1,23 +1,35 @@
 # Changelog
 
-All notable changes to the QYRO Medical AI research documentation and dataset curation pipelines will be documented in this file.
+All notable changes to the **QYRO Medical AI** dataset pipelines, configuration schemas, and validation experiments are documented in this file.
 
 ---
 
 ## [1.0.0] - 2026-07-02
+
 ### Added
-* 📂 **Dataset Factory v1.0:** Released the first stable version of the automated curation, audit, and cleaning pipeline.
-* 🛡️ **Deduplication Audit:** Added global MD5 hashing to prevent data leakage (identified and resolved 145 duplicate files).
-* ⚙️ **Class Remapping & Pruning:** Implemented programmatic remapping to the 5 clinical classes and pruned 8,012 noisy/irrelevant labels (e.g., milia, keloids, flat warts).
-* 🔍 **Negative Sample Retention:** Retained 28 background images to teach the detector what *not* to detect in clinical settings.
-* 📈 **Comparative Audits:** Documented baseline (v1) and calibration (v2) performance metrics in [README.md](file:///c:/Users/KARTHIK%20V/OneDrive/Desktop/Qyro-Acne/temp_research_repo/README.md).
-* 📝 **Public Documentation Release:** Added CITATION.cff, CONTRIBUTING.md, ROADMAP.md, SECURITY.md, and LICENSE_NOTICE.md.
-* 🔒 **IP Protection:** Updated public `.gitignore` rules to completely isolate proprietary source code, model weights, and clinical reasoning engine details.
+* **Dataset Factory v1.0:** Established the central Python processing suite for raw data ingestion:
+  * **Clinical Mapping Engine:** Standardizes heterogeneous raw directory structures into harmonized clinical labels.
+  * **Annotation Audit Engine:** Forensically audits bounding box coordinates and class indexes.
+  * **Image Quality Engine:** Measures image blur (Laplacian variance) and exposure levels (brightness checks).
+  * **Deduplication Engine:** Leverages MD5 matching and perceptual dHash clustering to filter out online augmentations and near-duplicates.
+* **Dataset Integration:**
+  * **DS001 (Kurnaz YOLOv8):** Cleaned, deduplicated, and split (364 train, 78 val, 78 test images). Added SHA256 checksum tracking.
+  * **DS002 (Tiswan classification):** Cleaned and split (2,632 images).
+  * **DS003 (DermNet NZ reference):** Sanitized 325 clinical reference atlas images.
+  * **DS005 (Google SCIN subset):** Extracted and verified 205 images with Monk Skin Tone labels for robustness evaluation.
+* **Model Calibration & Training Logs:**
+  * **YOLOv8s Convergence Baseline:** Logged details of the Phase 7D.3 recovery experiment achieving validation **mAP50 = 0.694** and **Precision = 0.686**.
+  * **Severity Ordinal Loss:** Integrated `ordinal_cross_entropy` loss configuration in `severity_config.yaml` for EfficientNet-B0.
+
+### Fixed
+* **Cross-Split Leakage:** Corrected 56 instances of near-duplicate image contamination across train/validation splits in the raw Kurnaz dataset. The reconstructed v1 dataset features **0.0% cross-split leakage**.
+* **Annotation Coordinate Clipping:** Repaired out-of-bound coordinates in the raw YOLO bounding box labels.
 
 ---
 
-## [0.9.0] - 2026-05-28
+## [0.5.0] - 2026-06-05
+
 ### Added
-* 📥 **Ingestion Pipeline:** Initial import and structure mapping of raw Kaggle and Roboflow datasets.
-* 🩺 **Audit Framework:** Drafted the dataset registry and audit protocols to evaluate raw annotation formats and image resolutions.
-* 📐 **Resolution Profile:** Audited aspect ratios, verifying that 100% of candidate images have been padded/resized to standard 640x640 resolutions.
+* **Prototype Workspace:** Initial directory layouts for Phase 1 (Acne).
+* **Registry System:** Created `registry/dataset_registry.csv` and `registry/master_acne_registry.csv` schemas.
+* **Baseline training scripts:** Prototyped `train_detection.py`, `train_subtype.py`, and `train_severity.py`.

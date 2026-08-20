@@ -1,0 +1,46 @@
+# QYRO YOLOv8s Detection Configuration - QYRO Acne Detector v2 (Phase M1)
+model_params:
+  model_type: "yolov8s.pt"
+  data_yaml: "C:/Users/KARTHIK V/OneDrive/Desktop/TEMP-QYRO/workspace/datasets/curated/dataset_v2_export/dataset.yaml"
+  epochs: 150                 # Scaled up to 150 epochs for multi-dataset representation
+  patience: 30                # Early stopping patience (epochs)
+  batch: 16                   # Optimized physical batch size for RTX 5050 8GB
+  imgsz: 640
+  save: true
+  cache: "disk"               # Caching preprocessed images to SSD disk to save system RAM (16GB limit)
+  device: 0
+  workers: 0                  # Enforce 0 for Windows multiprocessing stability (prevents subprocess spawn crash)
+  seed: 42
+  deterministic: true
+
+optimizer_params:
+  optimizer: "AdamW"
+  lr0: 0.002                  # Calibrated lower learning rate for stable convergence over multiple datasets
+  lrf: 0.01                  # Final learning rate fraction (lr0 * lrf)
+  cos_lr: true               # Cosine learning rate scheduler
+  momentum: 0.937
+  weight_decay: 0.0005
+  warmup_epochs: 3.0          # Warmup epochs to prevent gradient explosion
+  warmup_momentum: 0.8
+  warmup_bias_lr: 0.1
+
+augmentation_params:
+  hsv_h: 0.015                # Image HSV-Hue augmentation
+  hsv_s: 0.5                  # Moderated saturation distortion to preserve clinical skin features
+  hsv_v: 0.3                  # Moderated brightness distortion to preserve clinical lesion features
+  degrees: 0.0
+  translate: 0.1
+  scale: 0.5
+  shear: 0.0
+  perspective: 0.0
+  flipud: 0.0                 # NO vertical flips (clinically unrealistic)
+  fliplr: 0.5                 # Horizontal flips allowed (natural bilateral face symmetry)
+  mosaic: 1.0                 # Mosaic augmentation enabled (automatically closed in last 10 epochs)
+  mixup: 0.0                  # Mixup disabled to prevent box overlap confusion for small acne features
+  copy_paste: 0.0             # Copy-paste disabled (requires instance segmentation masks)
+
+logging_params:
+  project: "experiments/detection"
+  name: "QYRO_Acne_v2"
+  save_period: -1             # Only save best.pt and last.pt checkpoints
+  plots: true

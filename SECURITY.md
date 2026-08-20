@@ -1,31 +1,37 @@
-# Security Policy
+# Security Policy: QYRO Medical AI
 
-This document outlines the security, data privacy, and patient safety policies for the QYRO Medical AI research repository.
-
----
-
-## 1. Patient Data & PHI Policy
-
-As a research-focused project, **no Patient Health Information (PHI), patient records, or personally identifiable clinical images are permitted or stored in this repository.**
-
-* **No PHI Allowed:** All images, metadata, and testing cases used during research are sourced from public, anonymized academic dataset repositories.
-* **No Diagnostic Claims:** No diagnostic assertions, prescriptions, or clinical triage operations are conducted using this repository.
-* **Prohibited Submissions:** Do not open issues, submit pull requests, or upload attachments containing personal medical images, names, or contact information. Any such submissions will be immediately and permanently deleted.
+This document details the security practices, model safety principles, and patient privacy commitments for the **QYRO-Medical-AI** research project.
 
 ---
 
-## 2. Responsible Disclosure
+## 🔒 1. Patient Data & Privacy Commitment (No PHI)
 
-If you discover a security vulnerability (such as exposed credentials, local path disclosures, or metadata leakage in documentation):
-
-1. **Do NOT open a public issue.**
-2. Report the vulnerability privately by contacting the maintainer at **karthikvanapalli08@gmail.com**.
-3. We will review and address the vulnerability as a high priority.
+**Absolute Protection of Personal Health Information (PHI):**
+* **No PHI Allowed:** This repository contains **zero** patient identifiers, private health records, or Protected Health Information (PHI). We strictly comply with HIPAA (Health Insurance Portability and Accountability Act) and GDPR (General Data Protection Regulation) data privacy frameworks.
+* **Open Public Datasets Only:** All clinical datasets linked or audited in this workspace are derived from publicly available, anonymized academic repositories that have been formally cleared for research use by their original institutional review boards (IRBs).
+* **Local Sandboxing:** No patient-uploaded images or diagnostic telemetry from production endpoints are stored or uploaded to this research repository.
 
 ---
 
-## 3. Model & Output Safety
+## 🛡️ 2. Responsible Vulnerability Disclosure
 
-Because QYRO is designed to explore AI in clinical workflows, model safety is a key research area. We implement the following guidelines:
-* **Clinically Calibrated Safeguards:** We test decision staging logic to ensure it doesn't fail silently (for instance, flagging close-up nose comedones even if generic counts are low).
-* **Bias Assessment:** We audit our datasets for class imbalance (such as whitehead under-representation) to understand model limitations and document them transparently in our public reports.
+If you discover a security vulnerability, configuration error, or inadvertent exposure of clinical data, please report it immediately through our private disclosure channel.
+
+### Reporting Process:
+* **Contact Email:** Please email our medical security team at `security@qyro.ai` (monitored 24/7).
+* **Information to Include:**
+  * A description of the issue or configuration exposure.
+  * Steps to reproduce the issue.
+  * Potential impact on research data or models.
+* **Response SLA:** We will acknowledge receipt of your report within **24 hours** and provide a resolution plan within **72 hours**.
+* **Safe Harbor:** We support responsible, coordinated disclosure. We ask that you do not publish details of the vulnerability publicly until it has been patched and resolved.
+
+---
+
+## 🤖 3. Model Safety & Clinical Guardrails
+
+As a medical AI research project, model safety is integral to our pipeline:
+* **Adversarial Robustness:** We regularly evaluate model sensitivity to image perturbations (e.g., camera focus blur, lighting shifts, compression noise) to ensure stable inference in real-world clinic settings.
+* **Skin Tone Bias Auditing:** Every production-candidate model undergoes rigorous equity evaluations using skin tone metadata (e.g., Fitzpatrick Skin Type I–VI and Monk Skin Tone scales) to ensure equitable diagnostic accuracy.
+* **Deterministic Configuration:** Training runs use locked seeds and strict deterministic parameters to guarantee reproducible model behaviors.
+* **No Diagnostic Execution:** The models and weights developed in this project serve as clinical-decision support tools. They are **not** standalone diagnostics. All final medical decisions must be reviewed and made by a licensed healthcare professional.

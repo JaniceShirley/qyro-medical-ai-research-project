@@ -34,6 +34,9 @@ def main():
     parser.add_argument("--smoke-test", action="store_true", help="Execute a 1-epoch sanity smoke test")
     parser.add_argument("--deterministic", type=bool, default=True, help="Toggle strict determinism vs performance benchmark")
     parser.add_argument("--resume", action="store_true", help="Automatically resume training from the latest checkpoint")
+    parser.add_argument("--model", type=str, default=None, help="Override model weight file path")
+    parser.add_argument("--epochs", type=int, default=None, help="Override number of training epochs")
+    parser.add_argument("--name", type=str, default=None, help="Override logging/run project name")
     args = parser.parse_args()
 
     # Load configuration
@@ -43,10 +46,22 @@ def main():
     aug_params = config["augmentation_params"]
     log_params = config["logging_params"]
     
-    # Override for 1-epoch smoke test
-    epochs = 1 if args.smoke_test else model_params["epochs"]
-    if args.smoke_test:
+    # Apply command line overrides
+    if args.model:
+        model_params["model_type"] = args.model
+    if args.name:
+        log_params["name"] = args.name
+        
+    epochs = model_params["epochs"]
+    if args.epochs is not None:
+        epochs = args.epochs
+    elif args.smoke_test:
+        epochs = 1
         print("SMOKE TEST MODE ENABLED: Enforcing 1 total training epoch limit.")
+        
+    if args.epochs is not None:
+        print(f"Command Line Override: Enforcing {args.epochs} total training epochs.")
+
         
     # Setup reproducibility seeding
     seed = model_params.get("seed", 42)

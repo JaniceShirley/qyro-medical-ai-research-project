@@ -31,7 +31,8 @@ def decay_batch_size(current_batch_size, task_type):
     - Detection: 16 -> 12 -> 8 -> 4 -> None (unrecoverable)
     - Classification / Severity: 32 -> 24 -> 16 -> 8 -> None (unrecoverable)
     """
-    if task_type == "detection":
+    root_task = task_type.split("/")[0]
+    if root_task in ["detection", "segmentation"]:
         decay_map = {16: 12, 12: 8, 8: 4, 4: None}
     elif task_type in ["classification", "severity"]:
         decay_map = {32: 24, 24: 16, 16: 8, 8: None}

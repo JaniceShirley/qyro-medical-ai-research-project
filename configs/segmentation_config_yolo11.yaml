@@ -1,0 +1,46 @@
+# QYRO YOLO11 Segmentation Configuration (Baseline)
+task: "segmentation"
+
+model:
+  variant: "yolo11s"
+  weights: "yolo11s-seg.pt"
+  epochs: 150
+  patience: 30
+  batch: 16
+  imgsz: 640                   # Safe baseline for 8GB VRAM
+  seed: 42
+  save: true
+  cache: "disk"
+  workers: 0
+  close_mosaic: 10             # Disables mosaic for final 10 epochs
+
+optimizer:
+  optimizer: "AdamW"
+  lr0: 0.002
+  lrf: 0.01
+  cos_lr: true
+  momentum: 0.937
+  weight_decay: 0.0005
+  warmup_epochs: 3.0
+  warmup_momentum: 0.8
+  warmup_bias_lr: 0.1
+
+augmentation:
+  hsv_h: 0.015
+  hsv_s: 0.7
+  hsv_v: 0.4
+  degrees: 0.0
+  translate: 0.1
+  scale: 0.5
+  shear: 0.0
+  perspective: 0.0
+  flipud: 0.0
+  fliplr: 0.5
+  mosaic: 1.0
+  mixup: 0.0
+  copy_paste: 0.0
+
+experiment:
+  project: "experiments"
+  name: "yolo11s_seg_acnescu"
+  data_yaml: "datasets/skin/acne/AcneSCU_YOLO/dataset.yaml"

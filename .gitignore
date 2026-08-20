@@ -2,7 +2,7 @@
 # QYRO Medical AI - Production-Safe Research Repository Gitignore
 # ==============================================================================
 
-# Ignore all raw and cleaned dataset files
+# Ignore all datasets, images, and annotations
 datasets/
 data/
 annotation_batches/
@@ -20,17 +20,11 @@ annotation_exports/
 *.onnx
 *.engine
 *.trt
-*.ckpt
-*.bin
-*.h5
-*.pb
 yolov8n.pt
 yolov8s.pt
 yolo26n.pt
 weights/
 checkpoints/
-
-# UN-IGNORE the trained production model weight for teammate handover
 !models/production/qyro_acne_v1_best.pt
 
 # Ignore experiment outputs, logs, and TensorBoard directories
@@ -70,7 +64,6 @@ reports/archive/
 reports/temporary_*.md
 reports/temporary_*.json
 test.png
-scratch_image_anns.csv
 
 # Ignore IDE and OS configurations
 .vscode/

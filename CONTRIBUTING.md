@@ -1,70 +1,59 @@
-# Contributing to QYRO Medical AI Research
+# Contributing to QYRO Medical AI
 
-Thank you for your interest in contributing to the QYRO Medical AI project! As an active medical AI research effort, we prioritize scientific rigor, documentation integrity, patient privacy, and clinical safety.
+Thank you for your interest in contributing to the **QYRO Medical AI** research project. We welcome collaboration from university researchers, dermatologists, medical imaging experts, and dataset authors. 
 
-This document outlines our standards and workflow for contributions.
-
----
-
-## 1. Research Contribution Scope
-
-We welcome contributions across several key research areas:
-* **Dataset Audits:** Identifying labels, exposure biases, or duplicates in public dermatological datasets.
-* **Clinical Calibration Suggestions:** Refining severity score rules and mixed-pattern warning criteria.
-* **Methodology Reviews:** Improving evaluation metrics and standardizing classes.
-* **Documentation:** Enhancing explanations, diagrams, or references.
-
-*Note: Since the core model training and source code are proprietary, software development contributions are currently focused on validation tooling, documentation, and research design.*
+As a clinical AI project, we enforce strict guidelines to ensure research reproducibility, model safety, and code quality.
 
 ---
 
-## 2. Commit Message Conventions
-
-We follow clear semantic commit prefixes to keep the repository history readable and structured:
-
-* `docs:` Documentation improvements (e.g., `docs: update dataset audit metrics`)
-* `chore:` Repository maintenance, git configuration (e.g., `chore: update public gitignore`)
-* `style:` Layout, formatting, or spelling updates.
-* `refactor:` Restructuring documentation or reports without changing content.
-
-**Example Commit Message:**
-```bash
-docs: add audit findings for Kaggle dataset duplicates
-```
+## 🔬 1. Research & Clinical Contributions
+We welcome contributions in the following research domains:
+* **Annotation Refinements:** Providing feedback on bounding box margins or identifying label noise in clinical datasets.
+* **Clinical Validation Study Logs:** Sharing external validation protocols or benchmarking results on new patient demographics.
+* **Algorithmic Fairness Papers:** Research regarding bias mitigation, particularly across Fitzpatrick and Monk skin tone groups.
 
 ---
 
-## 3. Branch Naming Conventions
-
-When working on a research proposal, document update, or audit report, please name your branch according to the following conventions:
-
-* `research/` — Research reports, clinical mapping, or academic notes (e.g., `research/acne04-audit`)
-* `docs/` — General repository documentation updates (e.g., `docs/contributing-guidelines`)
-* `feature/` — Non-proprietary validation tools or scripts (e.g., `feature/duplicate-hash-script`)
-* `fix/` — Fixing typos or layout rendering bugs (e.g., `fix/readme-table-alignment`)
+## 📊 2. Dataset Ingestion Requirements
+To maintain compliance and traceability, any proposed dataset contribution must meet the following criteria before integration:
+1. **Provenance:** You must provide clear licensing documentation verifying that the dataset is cleared for academic research or commercial usage.
+2. **Deduplication:** Images must pass our automated perceptual hashing (dHash) duplicate check to prevent train-test split contamination.
+3. **No Image Uploads:** Never commit raw or cleaned medical images (`.jpg`, `.png`, `.npy`) directly to this repository. Only contribute downloader scripts, preprocessing templates, and metadata manifests (`.csv`, `.json`).
 
 ---
 
-## 4. Coding Standards
-
-If you are developing non-proprietary diagnostic tools, preprocessing scripts, or validation utilities:
-* **Python Code:** Adhere strictly to **PEP 8** style guidelines.
-* **Comments and Docstrings:** Maintain comprehensive docstrings explaining the clinical/mathematical rationale behind functions.
-* **No Hardcoded Paths:** Always use relative or absolute path anchoring based on the script location to prevent local machine path leakage.
-
----
-
-## 5. Dataset Requirements
-
-When proposing the integration of new public dermatology datasets:
-1. **License Compliance:** The dataset must permit research or non-commercial use. Proprietary or patient-identifiable datasets without proper consent agreements are strictly prohibited.
-2. **Annotation Standards:** Bounding boxes must correspond to our 5 clinical lesion subtypes (*Blackhead*, *Whitehead*, *Papular*, *Purulent*, *Cystic*).
-3. **Audit First:** Any dataset must undergo a documented programmatic and visual audit (as detailed in [dataset_audit_plan.md](file:///c:/Users/KARTHIK%20V/OneDrive/Desktop/Qyro-Acne/docs/dataset_audit_plan.md)) before candidate selection.
+## 💻 3. Coding Standards (PEP 8)
+* **Python Compliance:** Code must follow standard PEP 8 formatting guidelines.
+* **Static Typing:** Type hints are highly encouraged for all function signatures and core pipeline APIs.
+* **Deterministic Seeding:** Any training or sampling scripts must explicitly expose random seed configurations to ensure reproducible runs.
+* **Comments & Docstrings:** All new functions must include clear docstrings explaining clinical parameters, inputs, and outputs.
 
 ---
 
-## 6. Responsible Disclosure & Issue Reporting
+## 🌿 4. Git Conventions & Workflows
 
-When reporting issues or proposing changes:
-* **Do NOT upload patient images or PHI:** Never include any Protected Health Information (PHI) or personal patient photos in issues or PRs. Only use anonymized, public research dataset images.
-* **Describe the Context:** Provide the dataset ID (e.g., DS001), the tool version, and the clinical reason for the issue.
+### 4.1 Branch Naming Conventions
+Follow structured branch prefixing:
+* `research/your-topic` — Core machine learning research and architecture exploration.
+* `dataset/new-source` — Dataset downloader scripts and configuration yaml integrations.
+* `docs/update-name` — Documentation improvements, research reports, and guides.
+* `fix/issue-name` — Bug fixes in pipelines, configurations, or verification utilities.
+
+### 4.2 Commit Message Format (Conventional Commits)
+We enforce Conventional Commits for clear tracking:
+* `feat:` — Introducing a new data pipeline utility, downloader, or config template.
+* `fix:` — Correcting a bug in a preprocessing script or registry validator.
+* `docs:` — Modifications to reports, readmes, or roadmap files.
+* `dataset:` — Registering a new dataset source or updating metadata manifests.
+* `chore:` — Dependencies updates, environment configurations, and file cleaning.
+
+Example: `dataset: register Kurnaz YOLOv8 dataset and add sha256 checksums`
+
+---
+
+## 🐛 5. Issue Reporting Guidelines
+When filing an issue, please use the following checklist:
+1. **Context:** Specify the environment, hardware profile, and dataset version.
+2. **Steps to Reproduce:** Provide the exact command line arguments used.
+3. **Expected vs. Actual:** Document the configuration discrepancy or pipeline failure.
+4. **No PHI:** Ensure that no patient data, screenshots showing private clinic indicators, or unanonymized images are attached.

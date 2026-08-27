@@ -1,0 +1,46 @@
+# QYRO YOLOv8s Detection Configuration — Experiment 2: Resolution Scaling (800px)
+model_params:
+  model_type: "models/production/qyro_acne_v1_best.pt" # Initialize from baseline weights
+  data_yaml: "datasets/acne_v1_expansion/data.yaml"
+  epochs: 100               # 100 epochs for full convergence
+  patience: 30              # Early stopping patience
+  batch: 16                 # First attempt configured batch size 16
+  imgsz: 800                # Scaled input resolution: 640 -> 800
+  save: true
+  cache: "disk"             # Disk caching
+  device: 0
+  workers: 0                # Workaround for loader workers
+  seed: 42
+  deterministic: true
+
+optimizer_params:
+  optimizer: "AdamW"
+  lr0: 0.002                # Calibrated baseline learning rate
+  lrf: 0.01                 # Cosine learning rate decay fraction
+  cos_lr: true              # Cosine scheduler enabled
+  momentum: 0.937
+  weight_decay: 0.0005
+  warmup_epochs: 3.0
+  warmup_momentum: 0.8
+  warmup_bias_lr: 0.1
+
+augmentation_params:
+  hsv_h: 0.015              # Baseline augmentations unchanged
+  hsv_s: 0.7
+  hsv_v: 0.4
+  degrees: 0.0
+  translate: 0.1
+  scale: 0.5
+  shear: 0.0
+  perspective: 0.0
+  flipud: 0.0
+  fliplr: 0.5
+  mosaic: 1.0
+  mixup: 0.0
+  copy_paste: 0.0
+
+logging_params:
+  project: "experiments/detection"
+  name: "yolov8s_exp2_resolution_800px"
+  save_period: -1
+  plots: true

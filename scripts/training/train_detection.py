@@ -97,8 +97,13 @@ def main():
         logger.log(f"CRITICAL ERROR: Failed to parse or verify dataset yaml: {e}")
         sys.exit(1)
 
-    # GPU / CPU device routing
-    device = "cuda:0" if torch.cuda.is_available() else "cpu"
+    # GPU / CPU / MPS device routing
+    if torch.cuda.is_available():
+        device = "cuda:0"
+    elif torch.backends.mps.is_available():
+        device = "mps"
+    else:
+        device = "cpu"
     logger.log(f"Routing training execution to device: {device}")
     if torch.cuda.is_available():
         logger.log(f"Current VRAM details: {get_vram_usage()}")
@@ -206,8 +211,8 @@ def main():
                         logger.log(f"Copied YOLO weight '{f}' to checkpoint directory: {dest}")
             
         except RuntimeError as e:
-            if "CUDA out of memory" in str(e):
-                logger.log("Warning: CUDA Out-of-Memory detected during training launch!")
+            if "out of memory" in str(e).lower():
+                logger.log("Warning: Out-of-Memory detected during training launch!")
                 oom_clean()
                 # Decay batch size
                 new_batch = decay_batch_size(batch_size, "detection")

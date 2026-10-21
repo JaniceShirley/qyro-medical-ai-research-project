@@ -73,3 +73,6 @@ test.png
 .DS_Store
 Thumbs.db
 desktop.ini
+
+# QYRO demo app: temporary local sample photos (never commit patient images)
+qyro_app/static/_tmp_samples/

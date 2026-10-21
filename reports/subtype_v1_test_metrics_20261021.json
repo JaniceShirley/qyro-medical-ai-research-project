@@ -1,0 +1,192 @@
+{
+  "task": "subtype",
+  "split": "test",
+  "checkpoint": "models/production/qyro_subtype_v1_best.pt",
+  "num_test_images": 453,
+  "class_names": [
+    "open_comedo",
+    "closed_comedo",
+    "papular",
+    "pustular",
+    "cystic",
+    "mixed",
+    "scar",
+    "infantile",
+    "mechanica"
+  ],
+  "metrics": {
+    "accuracy": 0.8741721854304636,
+    "macro_precision": 0.5966472919012601,
+    "macro_recall": 0.560700670344858,
+    "macro_f1": 0.574568287608039,
+    "confusion_matrix": [
+      [
+        105,
+        1,
+        0,
+        3,
+        3,
+        0,
+        2,
+        0,
+        0
+      ],
+      [
+        2,
+        23,
+        0,
+        0,
+        2,
+        0,
+        0,
+        0,
+        0
+      ],
+      [
+        1,
+        0,
+        87,
+        3,
+        6,
+        0,
+        0,
+        0,
+        0
+      ],
+      [
+        1,
+        2,
+        8,
+        75,
+        9,
+        0,
+        0,
+        0,
+        0
+      ],
+      [
+        1,
+        0,
+        3,
+        5,
+        104,
+        0,
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        1,
+        0,
+        1,
+        1,
+        0,
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        2,
+        0
+      ],
+      [
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    ],
+    "macro_f1_present_classes": 0.6463875000000001,
+    "present_classes": [
+      "open_comedo",
+      "closed_comedo",
+      "papular",
+      "pustular",
+      "cystic",
+      "scar",
+      "infantile",
+      "mechanica"
+    ]
+  },
+  "per_class": {
+    "open_comedo": {
+      "support": 114,
+      "precision": 0.9459,
+      "recall": 0.9211,
+      "f1": 0.9333
+    },
+    "closed_comedo": {
+      "support": 27,
+      "precision": 0.8519,
+      "recall": 0.8519,
+      "f1": 0.8519
+    },
+    "papular": {
+      "support": 97,
+      "precision": 0.8878,
+      "recall": 0.8969,
+      "f1": 0.8923
+    },
+    "pustular": {
+      "support": 95,
+      "precision": 0.8523,
+      "recall": 0.7895,
+      "f1": 0.8197
+    },
+    "cystic": {
+      "support": 113,
+      "precision": 0.832,
+      "recall": 0.9204,
+      "f1": 0.8739
+    },
+    "mixed": {
+      "support": 0,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0
+    },
+    "scar": {
+      "support": 3,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0
+    },
+    "infantile": {
+      "support": 3,
+      "precision": 1.0,
+      "recall": 0.6667,
+      "f1": 0.8
+    },
+    "mechanica": {
+      "support": 1,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0
+    }
+  },
+  "source_run": "effnet_b0_qyro_subtype_v1_20261021_142804"
+}

@@ -1,0 +1,118 @@
+{
+  "corpus_version": "qyro-guidance-draft-2026-10-21",
+  "review_status": "DRAFT: paraphrased summaries of public guidance. Must be checked against the sources and approved by a dermatologist before clinical use.",
+  "passages": [
+    {
+      "id": "G01",
+      "title": "Gentle daily skin care",
+      "source": "NHS: Acne",
+      "url": "https://www.nhs.uk/conditions/acne/",
+      "tags": ["general_care"],
+      "text": "Wash acne-prone skin gently, no more than twice a day, with a mild cleanser and lukewarm water, and avoid harsh scrubbing. Prefer non-comedogenic (oil-free) skincare and make-up products."
+    },
+    {
+      "id": "G02",
+      "title": "Avoid squeezing or picking",
+      "source": "NHS: Acne",
+      "url": "https://www.nhs.uk/conditions/acne/",
+      "tags": ["general_care", "scarring"],
+      "text": "Avoid squeezing or picking spots. It can make inflammation worse and increases the risk of scarring."
+    },
+    {
+      "id": "G03",
+      "title": "Treatments take time",
+      "source": "NICE guideline NG198: Acne vulgaris management",
+      "url": "https://www.nice.org.uk/guidance/ng198",
+      "tags": ["current_treatment", "mild_moderate", "moderate_severe"],
+      "text": "Acne treatments usually take several weeks to show improvement. NICE recommends reviewing a first treatment course at about 12 weeks before deciding whether to change it."
+    },
+    {
+      "id": "G04",
+      "title": "First-line options for mild to moderate acne",
+      "source": "NICE guideline NG198: Acne vulgaris management",
+      "url": "https://www.nice.org.uk/guidance/ng198",
+      "tags": ["mild_moderate", "comedonal", "inflammatory"],
+      "text": "For mild to moderate acne, first-line options are usually topical treatments, for example combinations that include a topical retinoid such as adapalene or benzoyl peroxide. The choice should be made with a clinician or pharmacist."
+    },
+    {
+      "id": "G05",
+      "title": "Options for moderate to severe acne",
+      "source": "NICE guideline NG198: Acne vulgaris management",
+      "url": "https://www.nice.org.uk/guidance/ng198",
+      "tags": ["moderate_severe"],
+      "text": "For moderate to severe acne, a clinician may consider treatment combinations that include oral medicines. These need a prescription and medical follow-up."
+    },
+    {
+      "id": "G06",
+      "title": "When specialist dermatology care is advised",
+      "source": "NICE guideline NG198: Acne vulgaris management",
+      "url": "https://www.nice.org.uk/guidance/ng198",
+      "tags": ["referral", "nodulocystic", "scarring", "moderate_severe"],
+      "text": "Referral to a dermatologist-led team is advised for nodulo-cystic acne, acne conglobata or diagnostic uncertainty, and should be considered for acne with scarring or persistent pigmentation, acne that has not responded to previous treatment courses, or acne causing persistent psychological distress."
+    },
+    {
+      "id": "G07",
+      "title": "Same-day care for sudden severe acne with feeling unwell",
+      "source": "NICE guideline NG198: Acne vulgaris management",
+      "url": "https://www.nice.org.uk/guidance/ng198",
+      "tags": ["urgent"],
+      "text": "Sudden, severe acne together with fever or feeling generally unwell can be a sign of acne fulminans. NICE advises same-day discussion with the on-call hospital dermatology team."
+    },
+    {
+      "id": "G08",
+      "title": "Scarring",
+      "source": "American Academy of Dermatology: Acne",
+      "url": "https://www.aad.org/public/diseases/acne",
+      "tags": ["scarring"],
+      "text": "Treating inflamed acne early can help lower the risk of new scars. Existing acne scars should be assessed by a dermatologist, who can discuss suitable options."
+    },
+    {
+      "id": "G09",
+      "title": "Blackheads and whiteheads",
+      "source": "American Academy of Dermatology: Acne",
+      "url": "https://www.aad.org/public/diseases/acne",
+      "tags": ["comedonal"],
+      "text": "Blackheads (open comedones) and whiteheads (closed comedones) are non-inflamed acne lesions caused by clogged pores. Topical retinoids are commonly used for them."
+    },
+    {
+      "id": "G10",
+      "title": "Papules and pustules",
+      "source": "American Academy of Dermatology: Acne",
+      "url": "https://www.aad.org/public/diseases/acne",
+      "tags": ["inflammatory"],
+      "text": "Papules and pustules are inflamed acne spots. Benzoyl peroxide and topical retinoids are commonly used, and a clinician may add other treatments if these are not enough."
+    },
+    {
+      "id": "G11",
+      "title": "Nodules and cysts",
+      "source": "American Academy of Dermatology: Acne",
+      "url": "https://www.aad.org/public/diseases/acne",
+      "tags": ["nodulocystic", "referral"],
+      "text": "Nodules and cysts are deep, often painful acne lesions that can leave scars. They usually need assessment and treatment by a doctor or dermatologist rather than over-the-counter products alone."
+    },
+    {
+      "id": "G12",
+      "title": "Acne and wellbeing",
+      "source": "NHS: Acne",
+      "url": "https://www.nhs.uk/conditions/acne/",
+      "tags": ["wellbeing"],
+      "text": "Acne can affect mood and self-confidence. If it is causing distress, that is a valid reason to seek help from a doctor."
+    },
+    {
+      "id": "G13",
+      "title": "Acne in young children",
+      "source": "American Academy of Dermatology: Acne",
+      "url": "https://www.aad.org/public/diseases/acne",
+      "tags": ["children"],
+      "text": "Acne-like spots in young children are uncommon and should be assessed by a doctor."
+    },
+    {
+      "id": "G14",
+      "title": "Pregnancy and acne medicines",
+      "source": "NHS: Acne",
+      "url": "https://www.nhs.uk/conditions/acne/",
+      "tags": ["medicine_safety"],
+      "text": "Some acne medicines, including topical and oral retinoids, are not suitable during pregnancy. Tell the clinician if you are pregnant or planning a pregnancy."
+    }
+  ]
+}

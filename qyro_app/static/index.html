@@ -1,0 +1,120 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>QYRO Acne Assessment</title>
+  <link rel="stylesheet" href="/static/app.css">
+</head>
+<body>
+  <header class="topbar">
+    <div class="brand">
+      <span class="logo" aria-hidden="true">Q</span>
+      <div>
+        <h1>QYRO</h1>
+        <p>Acne assessment · decision-support prototype</p>
+      </div>
+    </div>
+    <div id="mode-badge" class="badge" hidden></div>
+  </header>
+
+  <div class="notice" role="note">
+    AI-assisted prototype for dermatologist review. It does not diagnose and is not a substitute for clinical examination.
+  </div>
+
+  <main class="layout">
+    <section class="panel" aria-labelledby="input-title">
+      <h2 id="input-title">1. Photo</h2>
+      <label id="dropzone" class="dropzone" for="photo">
+        <input id="photo" type="file" accept="image/jpeg,image/png,image/webp" hidden>
+        <span class="dz-icon" aria-hidden="true">⬆</span>
+        <span class="dz-main">Drop a face photo here or <u>browse</u></span>
+        <span class="dz-hint">JPG, PNG or WebP · up to 10 MB · even lighting, no filters</span>
+      </label>
+      <p id="file-name" class="muted small" hidden></p>
+
+      <h2>2. About the skin</h2>
+      <form id="questionnaire" class="form">
+        <div class="row">
+          <label>Age
+            <input type="number" name="age_years" min="0" max="120" placeholder="Unknown">
+          </label>
+          <label>How long?
+            <select name="duration">
+              <option value="unknown">Not sure</option>
+              <option value="under_1_month">Under 1 month</option>
+              <option value="1_to_6_months">1–6 months</option>
+              <option value="over_6_months">Over 6 months</option>
+            </select>
+          </label>
+        </div>
+        <fieldset>
+          <legend>Any of these? <span class="muted">(leave unanswered if unsure)</span></legend>
+          <div class="tri" data-field="painful_lumps"><span>Painful deep lumps</span></div>
+          <div class="tri" data-field="scarring"><span>Scarring</span></div>
+          <div class="tri" data-field="rapid_spread"><span>Spreading quickly</span></div>
+          <div class="tri" data-field="fever_or_unwell"><span>Fever or feeling unwell</span></div>
+        </fieldset>
+        <label>Current treatment <span class="muted">(optional)</span>
+          <input type="text" name="current_treatment" maxlength="300" placeholder="e.g. benzoyl peroxide wash">
+        </label>
+        <button id="analyze" type="submit" class="primary" disabled>Analyze photo</button>
+        <p id="form-error" class="error" role="alert" hidden></p>
+      </form>
+    </section>
+
+    <section class="panel results" aria-labelledby="results-title" aria-live="polite">
+      <h2 id="results-title">Results</h2>
+      <div id="empty" class="empty">
+        <p>Upload a photo and press <b>Analyze photo</b>. Results will appear here.</p>
+      </div>
+
+      <div id="loading" class="empty" hidden>
+        <div class="spinner" aria-hidden="true"></div>
+        <p>Checking photo quality and running the models…</p>
+      </div>
+
+      <div id="output" hidden>
+        <div id="recommendation" class="recommendation"></div>
+
+        <div class="image-wrap">
+          <canvas id="canvas" aria-label="Photo with detected lesions outlined"></canvas>
+          <label class="toggle small"><input id="show-boxes" type="checkbox" checked> Show detected lesions</label>
+        </div>
+
+        <h3>Photo quality</h3>
+        <ul id="quality" class="chips"></ul>
+
+        <div id="findings" class="cards"></div>
+
+        <section id="explanation-section" class="explain" hidden>
+          <div class="explain-head">
+            <h3>Explanation &amp; next steps</h3>
+            <span id="explain-badge" class="tag"></span>
+          </div>
+          <p id="explain-text"></p>
+          <ol id="explain-steps" class="steps"></ol>
+          <p id="explain-uncertainty" class="uncertainty"></p>
+          <details class="sources">
+            <summary>Sources used (<span id="source-count">0</span>)</summary>
+            <ul id="sources"></ul>
+          </details>
+        </section>
+
+        <h3>Flags</h3>
+        <ul id="flags" class="flags"></ul>
+
+        <details class="meta">
+          <summary>Model versions, timing and raw output</summary>
+          <dl id="meta"></dl>
+          <pre id="raw"></pre>
+        </details>
+
+        <p id="disclaimer" class="disclaimer"></p>
+      </div>
+    </section>
+  </main>
+
+  <script src="/static/app.js"></script>
+</body>
+</html>

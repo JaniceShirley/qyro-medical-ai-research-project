@@ -51,7 +51,7 @@ class AcneSeverityDataset(Dataset):
     def __init__(self, df, transform=None):
         self.df = df
         self.transform = transform
-        self.workspace_root = r"c:\Users\KARTHIK V\OneDrive\Desktop\QYRO-Medical-AI"
+        self.workspace_root = os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
         
     def __len__(self):
         return len(self.df)
@@ -153,7 +153,13 @@ def main():
     logger.log_run_start(config)
     tb_logger = TensorBoardLogger(logger.tb_dir)
     
-    device = torch.device("cuda:0" if torch.cuda.is_available() else "cpu")
+    if torch.cuda.is_available():
+        device = torch.device("cuda:0")
+    elif torch.backends.mps.is_available():
+        device = torch.device("mps")
+    else:
+        device = torch.device("cpu")
+    use_amp = device.type == "cuda"  # AMP FP16 is CUDA-only
     logger.log(f"Routing training execution to device: {device}")
     
     # Load manifest
@@ -192,7 +198,7 @@ def main():
                 lr=train_params["head_lr"], weight_decay=train_params["weight_decay"]
             )
             
-            scaler = torch.cuda.amp.GradScaler() # AMP FP16 scaler
+            scaler = torch.cuda.amp.GradScaler(enabled=use_amp) # AMP FP16 scaler
             early_stopping = EarlyStopping(patience=train_params["early_stopping_patience"], mode="min")
             
             checkpoint_dir = logger.checkpoint_dir
@@ -228,7 +234,7 @@ def main():
                     
                     optimizer.zero_grad()
                     
-                    with torch.cuda.amp.autocast():
+                    with torch.cuda.amp.autocast(enabled=use_amp):
                         outputs = model(images)
                         loss = ordinal_loss(outputs, targets)
                         
@@ -260,7 +266,7 @@ def main():
                 with torch.no_grad():
                     for images, targets in val_loader:
                         images, targets = images.to(device), targets.to(device)
-                        with torch.cuda.amp.autocast():
+                        with torch.cuda.amp.autocast(enabled=use_amp):
                             outputs = model(images)
                             loss = ordinal_loss(outputs, targets)
                             

@@ -40,7 +40,9 @@ Everything runs from the repository root.
    ```bash
    qyro_app/run.sh
    ```
-   Open http://localhost:8000.
+   On Windows, double-click `qyro_app\run.bat` instead. Then open http://localhost:8000.
+
+**Presenting the demo?** See [DEMO_GUIDE.md](DEMO_GUIDE.md): setup checklist, demo script, quotable numbers, what not to claim, and questions to ask the doctor.
 
 Other commands:
 

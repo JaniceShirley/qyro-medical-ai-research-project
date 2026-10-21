@@ -43,7 +43,7 @@ BANNED_PATTERNS = {
     "diagnosis_claim": (r"\b(you (have|are suffering from|suffer from) [a-z -]{0,25}"
                         r"(acne|cysts?|cystic|nodul\w*|lesions?|infection|condition|disease|fulminans|rosacea)"
                         r"|diagnosed with|your diagnosis is|this is definitely)\b"),
-    "overclaim": r"\b(cures?|cured|guarantee[sd]?|definitely|100% (sure|certain))\b",
+    "overclaim": r"\b(cures?|cured|guarantee[sd]?|definitely)\b|(?<!not )\b100\s?% (sure|certain|accurate|correct)\b",
     "injection_echo": r"\b(ignore (all|previous|the above)|system prompt|as an ai language model)\b",
 }
 URGENT_WORDS = r"\b(same[- ]day|urgent(ly)?|prompt(ly)?|immediately|right away|today|emergency)\b"
@@ -100,6 +100,8 @@ def validate(raw_text: str, payload: dict, recommendation: Recommendation, evide
 
     text = " ".join([draft.explanation, draft.uncertainty_note] + [s.text for s in draft.next_steps])
     lowered = text.lower()
+    # Hedges like "the AI is not 100% accurate" are fine; drop them before the number checks.
+    numbers_text = re.sub(r"\bnot (?:\w+ ){0,2}100\s?%", "not", text, flags=re.IGNORECASE)
 
     valid_ids = {e.id for e in evidence}
     for step in draft.next_steps:
@@ -115,12 +117,12 @@ def validate(raw_text: str, payload: dict, recommendation: Recommendation, evide
     finding_percents = set(re.findall(r'"\w*(?:confidence_percent)": (\d+)', json.dumps(payload)))
     for flag in payload.get("flags", []):  # e.g. "the detector finds about 61% of marked lesions"
         finding_percents.update(re.findall(r"(\d+(?:\.\d+)?)%", flag["message"]))
-    for claimed in re.findall(r"(\d+(?:\.\d+)?)\s?%", text):
+    for claimed in re.findall(r"(\d+(?:\.\d+)?)\s?%", numbers_text):
         if claimed not in finding_percents:
             issues.append(f"percentage {claimed}% not in findings")
 
     allowed = allowed_numbers(payload, evidence, questionnaire)
-    invented = sorted({n for n in re.findall(r"\d+(?:\.\d+)?", text) if n not in allowed})
+    invented = sorted({n for n in re.findall(r"\d+(?:\.\d+)?", numbers_text) if n not in allowed})
     if invented:
         issues.append(f"numbers not in findings or guidance: {invented}")
 

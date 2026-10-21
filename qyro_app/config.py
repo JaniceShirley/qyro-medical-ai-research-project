@@ -30,6 +30,13 @@ BRIGHT_REJECT_ABOVE = 235.0
 BRIGHT_CAUTION_ABOVE = 210.0
 MIN_SIDE_REJECT_BELOW = 224
 MIN_SIDE_CAUTION_BELOW = 480
+# Out-of-scope check: share of pixels in a YCrCb skin-colour range. Measured on 2026-10-21:
+# 0.5% of 3,703 real dataset photos fall below 0.05, no Fitzpatrick group (FST1-6, SCIN holdout) does,
+# while sky/grass/documents/screens score 0.00 and random noise 0.09.
+SKIN_REJECT_BELOW = 0.05
+SKIN_CAUTION_BELOW = 0.20
+SKIN_YCRCB_LOW = (0, 133, 77)
+SKIN_YCRCB_HIGH = (255, 173, 127)
 
 # Uncertainty thresholds used by the rules layer
 LOW_DETECTION_CONFIDENCE = 0.40  # mean box confidence below this is flagged

@@ -18,6 +18,14 @@ LOW_DATA_SUBTYPES = {"mixed", "scar", "infantile", "mechanica"}
 # Measured on the frozen Kurnaz test split (78 images) on 2026-10-21
 DETECTOR_TEST_RECALL = 0.61
 
+# The severity model under-grades stage 3 on the test split (10 of 14 predicted stage 2), so a
+# meaningful probability of stage 3/4 escalates even when the top prediction is stage 1/2.
+HIGHER_SEVERITY_PROBABILITY = 0.25
+
+# Flags that mean "an AI result may be wrong": these never allow a routine recommendation.
+UNCERTAINTY_FLAGS = {"image_quality_caution", "low_detection_confidence", "low_subtype_confidence",
+                     "low_data_subtype", "low_severity_confidence", "possible_higher_severity"}
+
 
 def _flag(code, level, message):
     return SafetyFlag(code=code, level=level, message=message)
@@ -52,7 +60,11 @@ def evaluate(quality: ImageQuality, findings: VisionFindings | None, questionnai
         flags.append(_flag("young_patient", FlagLevel.caution, "Patient is under 12, outside the population the models were trained on."))
 
     if quality.status == QualityStatus.reject:
-        reasons = ", ".join(c.name for c in quality.checks if c.status == QualityStatus.reject)
+        rejected = [c for c in quality.checks if c.status == QualityStatus.reject]
+        if any(c.name == "skin_visible" for c in rejected):
+            flags.append(_flag("out_of_scope_image", FlagLevel.caution,
+                               "This does not look like a photo of skin, so it was not analyzed. Please upload a photo of the affected skin."))
+        reasons = ", ".join(c.name for c in rejected)
         flags.append(_flag("image_rejected", FlagLevel.caution, f"Photo not usable ({reasons}). Please retake it."))
         recommendation = Recommendation.urgent_care if urgent else Recommendation.retake_photo
         summary = "The photo did not pass the quality check, so no AI analysis was run."
@@ -101,6 +113,18 @@ def evaluate(quality: ImageQuality, findings: VisionFindings | None, questionnai
         if sev.top_label in ("stage_3", "stage_4"):
             priority = True
             flags.append(_flag("high_severity", FlagLevel.caution, f"Predicted {sev.top_label.replace('_', ' ')}; dermatologist review advised."))
+        else:
+            higher = sum(p.probability for p in sev.probabilities if p.label in ("stage_3", "stage_4"))
+            if higher >= HIGHER_SEVERITY_PROBABILITY:
+                flags.append(_flag("possible_higher_severity", FlagLevel.caution,
+                                   f"The severity model gives a {higher:.0%} chance of stage 3 or 4 and tends to under-grade, "
+                                   "so this may be more severe than shown."))
+
+    uncertain = sorted({f.code for f in flags} & UNCERTAINTY_FLAGS)
+    if uncertain and not (urgent or priority):
+        priority = True
+        flags.append(_flag("uncertain_result", FlagLevel.caution,
+                           "Some AI results are uncertain, so a dermatologist should review this before any treatment decision."))
 
     if urgent:
         recommendation = Recommendation.urgent_care
@@ -109,13 +133,17 @@ def evaluate(quality: ImageQuality, findings: VisionFindings | None, questionnai
     else:
         recommendation = Recommendation.routine_review
 
+    codes = {f.code for f in flags}
     parts = []
     if det.model.available:
-        parts.append(f"{det.lesion_count} lesion{'s' if det.lesion_count != 1 else ''} detected")
+        note = " (uncertain)" if "low_detection_confidence" in codes else ""
+        parts.append(f"{det.lesion_count} lesion{'s' if det.lesion_count != 1 else ''} detected{note}")
     if sub.model.available:
-        parts.append(f"most likely type: {sub.top_label.replace('_', ' ')} ({sub.top_probability:.0%})")
+        note = " (uncertain)" if codes & {"low_subtype_confidence", "low_data_subtype"} else ""
+        parts.append(f"most likely type: {sub.top_label.replace('_', ' ')} ({sub.top_probability:.0%}){note}")
     if sev.model.available:
-        parts.append(f"estimated severity: {sev.top_label.replace('_', ' ')} ({sev.top_probability:.0%})")
+        note = " (uncertain)" if codes & {"low_severity_confidence", "possible_higher_severity"} else ""
+        parts.append(f"estimated severity: {sev.top_label.replace('_', ' ')} ({sev.top_probability:.0%}){note}")
     summary = ("; ".join(parts) + ".") if parts else "No model results available."
     summary = summary[0].upper() + summary[1:]
     return flags, recommendation, summary

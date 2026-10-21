@@ -17,8 +17,9 @@ def client(monkeypatch):
     return TestClient(main.app)
 
 
-def jpeg(size=640, blur=False):
-    img = np.random.default_rng(1).integers(0, 256, (size, size, 3), dtype=np.uint8)
+def jpeg(size=640, blur=False, base=(120, 150, 200)):
+    noise = np.random.default_rng(1).integers(-30, 31, (size, size, 3))
+    img = np.clip(np.array(base) + noise, 0, 255).astype(np.uint8)
     if blur:
         img = cv2.GaussianBlur(img, (51, 51), 20)
     return cv2.imencode(".jpg", img)[1].tobytes()
@@ -58,6 +59,13 @@ def test_blurry_photo_skips_models(client):
     body = post(client, jpeg(blur=True)).json()
     assert body["recommendation"] == "retake_photo"
     assert body["vision_findings"] is None
+
+
+def test_non_skin_photo_is_not_analyzed(client):
+    body = post(client, jpeg(base=(230, 160, 60))).json()  # blue, sky-like image
+    assert body["recommendation"] == "retake_photo"
+    assert body["vision_findings"] is None and body["explanation"] is None
+    assert "out_of_scope_image" in {f["code"] for f in body["safety_flags"]}
 
 
 def test_rejects_non_image_upload(client):

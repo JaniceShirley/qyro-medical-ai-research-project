@@ -9,11 +9,14 @@ from qyro_app.schemas import (
 from qyro_app.vision import ordinal_to_stage_probabilities
 
 
-def textured_image(size=640, brightness=128):
+SKIN_BGR = (120, 150, 200)  # inside the YCrCb skin range used by the quality gate
+
+
+def textured_image(size=640, base=SKIN_BGR, gray_texture=False):
+    """Sharp texture on a base colour; skin-coloured by default so it passes every quality check."""
     rng = np.random.default_rng(0)
-    img = rng.integers(0, 256, (size, size, 3), dtype=np.uint8)
-    img = cv2.addWeighted(img, 0.5, np.full_like(img, brightness), 0.5, 0)
-    return img
+    noise = rng.integers(-30, 31, (size, size, 1 if gray_texture else 3))
+    return np.clip(np.array(base) + noise, 0, 255).astype(np.uint8)
 
 
 def test_sharp_well_lit_image_passes():
@@ -36,6 +39,17 @@ def test_tiny_image_is_rejected():
     assert quality.assess_quality(textured_image(size=150)).status == QualityStatus.reject
 
 
+@pytest.mark.parametrize("base, gray", [((230, 160, 60), False), ((40, 160, 40), False), ((200, 200, 200), True)],
+                         ids=["sky", "grass", "document"])
+def test_non_skin_photo_is_out_of_scope(base, gray):
+    result = quality.assess_quality(textured_image(base=base, gray_texture=gray))
+    assert result.status == QualityStatus.reject
+    assert {c.name for c in result.checks if c.status == QualityStatus.reject} == {"skin_visible"}
+    flags, rec, _ = rules.evaluate(result, None, Questionnaire())
+    assert rec == Recommendation.retake_photo
+    assert "out_of_scope_image" in codes(flags)
+
+
 def test_ordinal_probabilities_sum_to_one_and_follow_thresholds():
     probs = ordinal_to_stage_probabilities(np.array([0.9, 0.2, 0.05]))
     assert probs.sum() == pytest.approx(1.0)
@@ -46,16 +60,17 @@ def model(available=True):
     return ModelInfo(name="m", version="v", available=available)
 
 
-def findings(subtype="papular", subtype_p=0.9, severity="stage_1", severity_p=0.9, count=5, mean_conf=0.7, available=True):
-    def cls(label, p):
+def findings(subtype="papular", subtype_p=0.9, severity="stage_1", severity_p=0.9, count=5, mean_conf=0.7, available=True,
+             severity_others=None):
+    def cls(label, p, others=None):
         if not available:
             return Classification(model=model(False))
-        return Classification(model=model(), top_label=label, top_probability=p,
-                              probabilities=[ClassProbability(label=label, probability=p)])
+        probs = [ClassProbability(label=label, probability=p)] + [ClassProbability(label=l, probability=q) for l, q in (others or {}).items()]
+        return Classification(model=model(), top_label=label, top_probability=p, probabilities=probs)
     return VisionFindings(
         detection=Detection(model=model(), boxes=[], lesion_count=count, mean_confidence=mean_conf),
         subtype=cls(subtype, subtype_p),
-        severity=cls(severity, severity_p),
+        severity=cls(severity, severity_p, severity_others),
     )
 
 
@@ -108,6 +123,35 @@ def test_cystic_or_high_severity_raise_priority():
 def test_low_confidence_and_low_data_predictions_are_flagged():
     flags, _, _ = rules.evaluate(passing_quality(), findings(subtype="scar", subtype_p=0.4, severity_p=0.3, mean_conf=0.3), Questionnaire())
     assert {"low_subtype_confidence", "low_data_subtype", "low_severity_confidence", "low_detection_confidence"} <= codes(flags)
+
+
+@pytest.mark.parametrize("kwargs", [{"subtype_p": 0.4}, {"severity_p": 0.3}, {"mean_conf": 0.3}, {"subtype": "scar"}])
+def test_low_confidence_lowers_routine_to_priority_review(kwargs):
+    flags, rec, summary = rules.evaluate(passing_quality(), findings(**kwargs), Questionnaire())
+    assert rec == Recommendation.priority_review
+    assert "uncertain_result" in codes(flags)
+    assert "(uncertain)" in summary
+
+
+def test_possible_under_graded_severity_escalates():
+    f = findings(severity="stage_2", severity_p=0.6, severity_others={"stage_3": 0.3, "stage_1": 0.1})
+    flags, rec, summary = rules.evaluate(passing_quality(), f, Questionnaire())
+    assert rec == Recommendation.priority_review
+    assert {"possible_higher_severity", "uncertain_result"} <= codes(flags)
+
+
+def test_confident_results_stay_routine_without_uncertainty_flag():
+    f = findings(severity="stage_2", severity_p=0.85, severity_others={"stage_3": 0.1, "stage_1": 0.05})
+    flags, rec, summary = rules.evaluate(passing_quality(), f, Questionnaire())
+    assert rec == Recommendation.routine_review
+    assert "uncertain_result" not in codes(flags) and "(uncertain)" not in summary
+
+
+def test_borderline_photo_quality_counts_as_uncertain():
+    borderline = quality.assess_quality(textured_image(size=400))  # 400 px: caution, not reject
+    assert borderline.status == QualityStatus.caution
+    flags, rec, _ = rules.evaluate(borderline, findings(), Questionnaire())
+    assert rec == Recommendation.priority_review and "uncertain_result" in codes(flags)
 
 
 def test_missing_models_report_unavailable_and_never_invent_values():

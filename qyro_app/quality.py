@@ -26,8 +26,17 @@ def assess_quality(image_bgr: np.ndarray) -> ImageQuality:
     blur = float(cv2.Laplacian(gray, cv2.CV_64F).var())
     brightness = float(gray.mean())
     min_side = float(min(width, height))
+    ycrcb = cv2.cvtColor(image_bgr, cv2.COLOR_BGR2YCrCb)
+    skin = float(cv2.inRange(ycrcb, config.SKIN_YCRCB_LOW, config.SKIN_YCRCB_HIGH).mean() / 255)
 
     checks = [
+        QualityCheck(
+            name="skin_visible",
+            status=_grade(skin, config.SKIN_REJECT_BELOW, config.SKIN_CAUTION_BELOW),
+            value=round(skin, 3),
+            message=(f"Only {skin:.0%} of the photo looks like skin. Please upload a photo of the affected skin."
+                     if skin < config.SKIN_CAUTION_BELOW else f"{skin:.0%} of the photo looks like skin."),
+        ),
         QualityCheck(
             name="resolution",
             status=_grade(min_side, config.MIN_SIDE_REJECT_BELOW, config.MIN_SIDE_CAUTION_BELOW),
